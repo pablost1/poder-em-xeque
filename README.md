@@ -31,8 +31,12 @@ cd poder-em-xeque
 npm install
 ```
 
-O código **não traz o banco de dados** (ele tem ≈ 1 GB e fica fora do git). Baixe `congresso.db.zip` na página de *Releases*,
-descompacte em `data/congresso.db` (veja [`data/README.md`](data/README.md)) e rode:
+O código **não traz o banco de dados** (ele tem ≈ 1 GB e fica fora do git). Na página de *Releases* há dois:
+
+- **`congresso.completo.db.zip`: banco COMPLETO** (200 MB compactado, 992 MB descompactado). Use este para atualizar dados, refazer derivações ou mexer nas importações.
+- **`congresso.db.zip`: banco enxuto** (161 MB). Só para rodar o site: as mesmas páginas e números, sem as ementas de requerimentos e com resumos de discurso cortados.
+
+Descompacte o que escolher em `data/congresso.db` (veja [`data/README.md`](data/README.md)) e rode:
 
 ```bash
 npm run dev            # http://localhost:3000

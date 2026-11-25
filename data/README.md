@@ -13,7 +13,12 @@ Esta pasta guarda os dados do site e **quase tudo dela fica fora do git** (veja 
 
 ## Como ter o banco
 
-**Opção 1: baixar pronto.** Baixe `congresso.db.zip` na página de *Releases* do repositório, descompacte aqui e pronto.
+**Opção 1: baixar pronto.** Na página de *Releases* do repositório há dois arquivos; descompacte o escolhido aqui como `congresso.db`:
+
+| Arquivo | O que é |
+|---|---|
+| `congresso.completo.db.zip` | **Banco completo** (992 MB descompactado). Para atualizar dados, reimportar e desenvolver. |
+| `congresso.db.zip` | Banco enxuto (778 MB). Só para rodar o site; ementas de requerimentos e partes longas de discursos foram cortadas. |
 
 **Opção 2: construir do zero.** Leva horas e baixa vários GB. A ordem está no `README.md` (seção "Construir os dados do zero").
 As marcações das votações não são recalculadas: elas vêm de `tagging/` com `npm run tags:import`.
