@@ -1,0 +1,128 @@
+{
+  "aberta": {
+    "ano": 2026,
+    "casaSessao": "SF",
+    "codigoMateria": 172696,
+    "codigoSessao": 550470,
+    "codigoSessaoLegislativa": 874,
+    "codigoSessaoVotacao": 7049,
+    "dataApresentacao": "2026-02-13",
+    "dataSessao": "2026-02-25",
+    "descricaoVotacao": "Votação nominal do Projeto de Lei Complementar nº 14, de 2026, nos termos do parecer.",
+    "ementa": "Dispõe sobre a redução de alíquotas da Contribuição para o PIS/Pasep e da Cofins",
+    "idProcesso": 8993967,
+    "identificacao": "PLP 14/2026",
+    "numero": "14",
+    "numeroSessao": 5,
+    "resultadoVotacao": "A",
+    "sequencialSessao": 1,
+    "sequencialVotacao": 4362,
+    "sigla": "PLP",
+    "siglaTipoSessao": "DOR",
+    "totalVotosAbstencao": null,
+    "totalVotosNao": null,
+    "totalVotosSim": null,
+    "votacaoSecreta": "N",
+    "votos": [
+      {
+        "codigoParlamentar": 5672,
+        "descricaoVotoParlamentar": null,
+        "nomeParlamentar": "Alan Rick",
+        "sexoParlamentar": "M",
+        "siglaPartidoParlamentar": "REPUBLICANOS",
+        "siglaUFParlamentar": "AC",
+        "siglaVotoParlamentar": "Sim"
+      },
+      {
+        "codigoParlamentar": 5976,
+        "descricaoVotoParlamentar": null,
+        "nomeParlamentar": "Eduardo Girão",
+        "sexoParlamentar": "M",
+        "siglaPartidoParlamentar": "NOVO",
+        "siglaUFParlamentar": "CE",
+        "siglaVotoParlamentar": "Não"
+      },
+      {
+        "codigoParlamentar": 5973,
+        "descricaoVotoParlamentar": "Presente – Não registrou voto",
+        "nomeParlamentar": "Cid Gomes",
+        "sexoParlamentar": "M",
+        "siglaPartidoParlamentar": "PSB",
+        "siglaUFParlamentar": "CE",
+        "siglaVotoParlamentar": "P-NRV"
+      },
+      {
+        "codigoParlamentar": 5936,
+        "descricaoVotoParlamentar": "Atividade parlamentar",
+        "nomeParlamentar": "Carlos Portinho",
+        "sexoParlamentar": "M",
+        "siglaPartidoParlamentar": "PL",
+        "siglaUFParlamentar": "RJ",
+        "siglaVotoParlamentar": "AP"
+      },
+      {
+        "codigoParlamentar": 3830,
+        "descricaoVotoParlamentar": null,
+        "nomeParlamentar": "Davi Alcolumbre",
+        "sexoParlamentar": "M",
+        "siglaPartidoParlamentar": "UNIÃO",
+        "siglaUFParlamentar": "AP",
+        "siglaVotoParlamentar": "Presidente (art. 51 RISF)"
+      }
+    ]
+  },
+  "secreta": {
+    "ano": 2025,
+    "casaSessao": "SF",
+    "codigoMateria": 169690,
+    "codigoSessao": 550736,
+    "codigoSessaoLegislativa": 874,
+    "codigoSessaoVotacao": 7053,
+    "dataApresentacao": "2025-07-22",
+    "dataSessao": "2026-04-08",
+    "descricaoVotacao": "Votação nominal da Mensagem nº 46, de 2025 - Manuel Adalberto Carlos Montenegro Lopes da Cruz (Jamaica).",
+    "ementa": "Submete à apreciação do Senado Federal, de conformidade com ",
+    "idProcesso": 8871339,
+    "identificacao": "MSF 46/2025",
+    "numero": "46",
+    "numeroSessao": 30,
+    "resultadoVotacao": "A",
+    "sequencialSessao": 2,
+    "sequencialVotacao": 4367,
+    "sigla": "MSF",
+    "siglaTipoSessao": "DOR",
+    "totalVotosAbstencao": 1,
+    "totalVotosNao": 2,
+    "totalVotosSim": 43,
+    "votacaoSecreta": "S",
+    "votos": [
+      {
+        "codigoParlamentar": 5672,
+        "descricaoVotoParlamentar": "Presente – Não registrou voto",
+        "nomeParlamentar": "Alan Rick",
+        "sexoParlamentar": "M",
+        "siglaPartidoParlamentar": "REPUBLICANOS",
+        "siglaUFParlamentar": "AC",
+        "siglaVotoParlamentar": "P-NRV"
+      },
+      {
+        "codigoParlamentar": 5982,
+        "descricaoVotoParlamentar": "Presente – Não registrou voto",
+        "nomeParlamentar": "Alessandro Vieira",
+        "sexoParlamentar": "M",
+        "siglaPartidoParlamentar": "MDB",
+        "siglaUFParlamentar": "SE",
+        "siglaVotoParlamentar": "P-NRV"
+      },
+      {
+        "codigoParlamentar": 6358,
+        "descricaoVotoParlamentar": "Presente – Não registrou voto",
+        "nomeParlamentar": "Ana Paula Lobato",
+        "sexoParlamentar": "F",
+        "siglaPartidoParlamentar": "PSB",
+        "siglaUFParlamentar": "MA",
+        "siglaVotoParlamentar": "P-NRV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+node_modules
+.next
+data
+dist
+installer/Output
+installer/build
+.git
+.github
+*.log
+tests

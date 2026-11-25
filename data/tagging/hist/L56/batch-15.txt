@@ -1,0 +1,73 @@
+## C:2249891 | PLP 101/2020 | ementa: Estabelece o Programa de Acompanhamento e Transparência Fiscal, o Plano de Promoção do Equilíbrio Fiscal, altera a Lei Complementar nº 101, de 4 de maio de 2000, a Lei Complementar nº 156, de 28 de dezembro de 2016, a Lei Complementar nº 159, de 19 de maio de 2017, a Lei nº 9.496, de 11 de setembro de 1997, a Lei nº 12.348, de 15 de dezembro de 2010, a Lei nº 12.649, de 17 de m
+   voto principal do projeto: C:2264837-9 (2020-12-08): "" — Sim 394, Não 31
+C:2264837-9 | 2020-12-08 |  | Sim 394 Não 31 | resultado: approved
+C:2249891-100 | 2020-12-15 | Votação do DTQ 10: NOVO: Destaque para votação em separado do artigo 26 do Substitutivo apresentado ao PLP 101/20, com vistas à sua supressão. (art. 161, I) | Sim 423 Não 13 | resultado: ?
+C:2249891-32 | 2020-12-15 |  | Sim 68 Não 328 | resultado: rejected
+C:2249891-47 | 2020-12-15 |  | Sim 26 Não 285 | resultado: rejected
+C:2249891-52 | 2020-12-15 | Votação em turno único. | Sim 381 Não 57 | resultado: approved
+C:2249891-58 | 2020-12-15 | Votação do DTQ 12: Bloco PSL (PSL): destaque para votação em separado do § 3º do art. 6º do texto original do Projeto de Lei Complementar nº 101/2020, com o objetivo de incorporá-lo, onde couber, ao art. 6º da subemenda substitutiva global apresentada ao PLP 101/2020 (art. 161, IV). | Sim 49 Não 336 | resultado: rejected
+C:2249891-60 | 2020-12-15 | Votação do DTQ 5: PSOL: Emenda de Plenário nº 28 (art. 161, II). | Sim 97 Não 312 | resultado: rejected
+C:2249891-64 | 2020-12-15 | Votação do DTQ 7: PT: destaque da Emenda de Plenário n. 29, apresentada ao PLP 101/2020 (art. 161, II). | Sim 106 Não 333 | resultado: rejected
+C:2249891-73 | 2020-12-15 | Continuação da votação em turno único. | Sim 14 Não 434 | resultado: rejected
+C:2249891-78 | 2020-12-15 | Votação do DTQ 8: Bloco PL (PSD): destaque para votação da Emenda de Plenário nº 30 apresentada ao Projeto de Lei Complementar n º 101/2020. (art. 161, II) | Sim 326 Não 102 | resultado: approved
+C:2249891-85 | 2020-12-15 | Votação do DTQ 6: PT: Destaque, com vistas à supressão, do inciso do inciso V do § 1º do Art. 2º da LC 159/2017, alterado pelo Art. 13 do Substitutivo oferecido ao PLP 101/2020. (art. 161, I) | Sim 324 Não 91 | resultado: ?
+C:2249891-95 | 2020-12-15 | Votação do DTQ 9: PCdoB: Destaque para a VOTAÇÃO EM SEPARADO do inciso VIII do Art. 8º da LC 159, na redação dada pelo Art. 13 do substitutivo apresentado pelo relator.ao PLP 101/2020. (COM VISTAS A SUA SUPRESSÃO) | Sim 338 Não 104 | resultado: ?
+C:2249891-98 | 2020-12-15 | Votação do DTQ 3: PT: Destaque, com vistas à supressão, do § 7º do Art. 20 da LC 101/2000, alterado pelo Art. 16 do Substitutivo oferecido ao PLP 101/2020. (art. 161, I) | Sim 321 Não 114 | resultado: ?
+
+## C:2249925 | PL 1998/2020 | ementa: Autoriza e define a prática da telemedicina em todo o território nacional. NOVA EMENTA: Altera a Lei nº 8.080, de 19 de setembro de 1990, para autorizar e disciplinar a prática da telessaúde em todo o território nacional, e a Lei nº 13.146, de 6 de julho de 2015; e revoga a Lei nº 13.989, de 15 de abril de 2020.
+   voto principal do projeto: C:2249925-110 (2022-04-27): "" — Sim 100, Não 296
+C:2249925-110 | 2022-04-27 |  | Sim 100 Não 296 | resultado: rejected
+C:2249925-113 | 2022-04-27 | Votação em turno único. | Sim 300 Não 83 | resultado: approved
+C:2249925-120 | 2022-04-27 | Votação do DTQ 6: PT: destaque do Artigo 1º da Emenda de Plenário nº 7 apresentada ao PL 1998/2020. (art. 161, II). | Sim 99 Não 272 | resultado: rejected
+C:2249925-153 | 2022-12-13 | Votação do Substitutivo do Senado Federal ao Projeto de Lei nº 1.998-A, de 2020, com parecer pela rejeição, com exceção do art. 6º, ressalvado o destaque. | Sim 95 Não 296 | resultado: rejected
+C:2249925-158 | 2022-12-13 | Votação do DTQ 7: PT: Destaque, com vistas à aprovação, do artigo 4º do Substitutivo do Senado Federal ao PL 1.998/2020. (art. 161, I). | Sim 122 Não 267 | resultado: rejected
+
+## C:2249946 | PEC 10/2020 | ementa: Institui Regime Extraordinário Fiscal, Financeiro e de Contratações para enfrentamento de calamidade pública nacional decorrente de pandemia.
+C:2249946-31 | 2020-05-04 | Votação, em turno único, do Parecer de admissibilidade da Proposta de Emenda à Constituição nº 10, de 2020. | Sim 93 Não 292 | resultado: rejected
+C:2249946-35 | 2020-05-04 | Votação, em primeiro turno, dos artigos 1º, 2º, 3º, 5º, 6º, 7º, 8º e seus incisos I e II, 9º, 10, 11 e 12, com parecer pela aprovação, ressalvados os destaques. | Sim 481 Não 4 | resultado: approved
+C:2249946-37 | 2020-05-04 | Votação, em primeiro turno, do artigo 4º e das alíneas ‘a’ a ‘f’, constantes do inciso II, do art. 8º, com parecer pela rejeição, ressalvados os destaques. | Sim 143 Não 326 | resultado: rejected
+C:2249946-40 | 2020-05-04 | Votação do DTQ 10: PSB: destaque para a votação em separado do parágrafo único do art.3º da PEC 10/20, com vistas a sua supressão. (161,I). | Sim 349 Não 125 | resultado: ?
+C:2249946-43 | 2020-05-04 | Votação do DTQ 8: PT: destaque do Artigo 4º da PEC 10/2020 (fase 2), para inclusão no texto do Substitutivo, onde couber. (161, IV). | Sim 146 Não 329 | resultado: rejected
+C:2249946-53 | 2020-05-04 | Votação do DTQ 1: PSOL: Destaque para votação em separado do art. 8º da PEC nº 10 de 2020, para fins de supressão. | Sim 395 Não 82 | resultado: ?
+C:2249946-56 | 2020-05-04 | Votação do DTQ 5: PT: destaque, com vistas à rejeição, da expressão "secundários", constante do inciso I do Artigo 8º da PEC 10/2020 (fase 2). (161, I) | Sim 403 Não 60 | resultado: ?
+C:2249946-60 | 2020-05-04 | Votação do DTQ 14: NOVO: destaque para a votação em separado do inciso II do Artigo 8º do Substitutivo do Senado da PEC 10/2020, com vistas à sua inclusão no texto. | Sim 107 Não 358 | resultado: ?
+C:2249946-63 | 2020-05-04 | Votação do DTQ 4: CIDADANIA: destaque para votação em separado da expressão "desde que, no momento da compra, tenham classificação em categoria de risco de crédito no mercado local equivalente a BB- ou superior, conferida por pelo menos uma das três maiores agências internacionais de classificação de risco,", constante do Inciso II do Art. 8º da Proposta de Emenda Constitucional nº 10, de 2020. | Sim 411 Não 58 | resultado: ?
+C:2249946-66 | 2020-05-04 | Votação do DTQ 7: PT: destaque, com vistas à rejeição, da expressão "acima do mínimo obrigatório estabelecido em lei ou no estatuto social vigente na data de entrada em vigor desta Emenda Constitucional", constante do inciso I do Artigo 9º da PEC 10/2020 (fase 2). (161, I) | Sim 344 Não 122 | resultado: ?
+C:2249946-69 | 2020-05-04 | Votação do DTQ 2: PSL: destaque para votação em separado do art. 11 da PEC 10/2020, para suprimi-lo. (161, I) | Sim 321 Não 145 | resultado: ?
+C:2249946-71 | 2020-05-04 | Votação da Emenda de Redação nº 1. | Sim 408 Não 2 | resultado: approved
+C:2249946-85 | 2020-05-06 | Votação, em segundo turno, da Proposta de Emenda à Constituição nº 10, de 2020. | Sim 477 Não 1 | resultado: approved
+C:2249946-92 | 2020-05-06 | Votação do DTQ 1: PSOL - destaque para votação em separado do art. 7º da PEC nº 10 de 2020, para fins de supressão (art. 161, I) | Sim 400 Não 88 | resultado: ?
+C:2249946-96 | 2020-05-06 | Votação do DTQ 5: NOVO: destaque para votação em separado do inciso II do art. 7º do texto do 2º turno da PEC 10/20, com vistas à sua supressão. | Sim 390 Não 86 | resultado: ?
+C:2249946-99 | 2020-05-06 | Votação do DTQ 2: PT: destaque da expressão "acima do mínimo obrigatório estabelecido em lei ou no estatuto social vigente na data de entrada em vigor desta Emenda Constitucional", contida no inciso I do artigo 8º, constante da Redação para o segundo turno da PEC 10/2020. (161,I) | Sim 346 Não 135 | resultado: ?
+
+## C:2250300 | PL 2068/2020 | ementa: Altera o art.171 do Decreto-Lei n° 2.848, de 7 de dezembro de 1940 – Código Penal, para estabelecer novas hipóteses de estelionato majorado.
+   voto principal do projeto: C:2250300-35 (2020-08-05): "" — Sim 74, Não 332
+C:2250300-35 | 2020-08-05 |  | Sim 74 Não 332 | resultado: rejected
+C:2250300-52 | 2020-08-05 |  | Sim 54 Não 347 | resultado: rejected
+
+## C:2250977 | MPV 959/2020 | ementa: Estabelece a operacionalização do pagamento do Benefício Emergencial de Preservação do Emprego e da Renda e do benefício emergencial mensal de que trata a Medida Provisória nº 936, de 1º de abril de 2020, e prorroga a vacatio legis da Lei nº 13.709, de 14 de agosto de 2018, que estabelece a Lei Geral de Proteção de Dados Pessoais - LGPD. NOVA EMENTA: Estabelece a operacionaliza
+   voto principal do projeto: C:2250977-41 (2020-08-25): "" — Sim 85, Não 318
+C:2250977-41 | 2020-08-25 |  | Sim 85 Não 318 | resultado: rejected
+C:2250977-44 | 2020-08-25 |  | Sim 85 Não 326 | resultado: rejected
+C:2250977-56 | 2020-08-25 | Votação do DTQ 4: PT: Destaque, com vistas à rejeição, da expressão "exceto conta-salário", contida no "caput" do art. 2º do PLV apresentado à MPV 959/2020. (art. 161, I). | Sim 306 Não 109 | resultado: ?
+
+## C:2251191 | MPV 960/2020 | ementa: Prorroga os prazos de suspensão de pagamentos de tributos previstos nos atos concessórios do regime especial de drawback, que tenham sido prorrogados por um ano pela autoridade fiscal e tenham termo em 2020. NOVA EMENTA: Prorroga os prazos de suspensão de pagamentos de tributos previstos nos atos concessórios do regime especial de drawback que tenham sido prorrogados por 1 (um)
+C:2251191-45 | 2020-08-26 | Votação do DTQ 1: PSOL: Emenda de Comissão nº 11. (art. 161, II) | Sim 107 Não 282 | resultado: rejected
+
+## C:2251392 | PLP 39/2020 | ementa: Estabelece o Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19), altera a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências.
+   voto principal do projeto: C:2251392-38 (2020-05-05): "Votação em turno único." — Sim 31, Não 394
+C:2251392-38 | 2020-05-05 | Votação em turno único. | Sim 31 Não 394 | resultado: rejected
+C:2251392-41 | 2020-05-05 | Votação do DTQ 9: PT: destaque de preferência para votação da Emenda de Plenário n. 4, em detrimento do texto original do PLP 39/2020 (ou de texto que o substitua). (161, IV) | Sim 113 Não 321 | resultado: rejected
+C:2251392-44 | 2020-05-05 | Votação do DTQ 18: PSOL: destaque de preferência para votação da Emenda de Plenário n. 31, em detrimento do texto original do PLP 39/2020 (ou de texto que o substitua). (161, IV) | Sim 121 Não 321 | resultado: rejected
+C:2251392-46 | 2020-05-05 | Votação das emendas de Plenário, com parecer pela rejeição, ressalvados os destaques. | Sim 140 Não 309 | resultado: rejected
+C:2251392-52 | 2020-05-05 | Votação da Emenda de Plenário nº 115, com parecer pela aprovação, ressalvados os destaques. | Sim 322 Não 10 | resultado: approved
+C:2251392-53 | 2020-05-05 | Votação da Emenda de Plenário nº 115, com parecer pela aprovação, ressalvados os destaques. | Sim 437 Não 34 | resultado: approved
+C:2251392-68 | 2020-05-05 | Votação do DTQ 13: NOVO: destaque para votação em separado do da expressão "taxa de" constante do inciso I, do §1º, do art. 5º do PLP 39/20, com vistas à sua supressão. (161, I) | Sim 235 Não 254 | resultado: ?
+C:2251392-71 | 2020-05-05 | Votação do DTQ 4: PSB: votação em separado do art. 7º do PLP 39/20, para sua supressão (art. 161, I) | Sim 333 Não 143 | resultado: ?
+C:2251392-74 | 2020-05-05 | Votação do DTQ 2: PT: destaque para votação em separado do art. 8º constante do PLP 39/2020 (art. 161, I). | Sim 272 Não 206 | resultado: ?
+C:2251392-79 | 2020-05-05 | Votação do DTQ 21: PODE: destaque para votação em separado da emenda nº 113 apresentada ao PLP 39/2020. (161, II) | Sim 167 Não 295 | resultado: rejected
+C:2251392-82 | 2020-05-05 | Votação do DTQ 11: PT: destaque da Emenda de Plenário n. 11, apresentada ao PLP 39/2020. (161, II) onde couber no 8º | Sim 287 Não 179 | resultado: approved
+C:2251392-85 | 2020-05-05 | Votação do DTQ 14: Bloco PP: DESTAQUE PARA VOTAÇÃO EM SEPARADO da expressão "desde que diretamente envolvidos no combate à pandemia do COVID-19", constante do §6º do artigo 8º ao PLP 39 de 2020, com vistas à sua supressão. (161, I) | Sim 25 Não 298 | resultado: ?
+C:2251392-90 | 2020-05-05 | Votação do DTQ 19: CIDADANIA: destaque para votação da expressão "III -servidores da Defesa Agropecuária", constante da Emenda nº 44, de 2020, apresentada ao Projeto de Lei Complementar n° 39, de 2020, que ?Estabelece o Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19), altera a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências. | Sim 207 Não 253 | resultado: rejected
+C:2251392-91 | 2020-05-05 | Votação do DTQ 15: PDT: destaque para votação em separado da Emenda nº 69 apresentada ao Projeto de Lei Complementar nº 39/2020. | Sim 435 Não 16 | resultado: approved
+C:2251493-6 | 2020-05-05 |  | Sim 344 Não 13 | resultado: approved

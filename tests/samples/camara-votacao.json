@@ -1,0 +1,165 @@
+{
+  "item": {
+    "id": "2655570-57",
+    "data": "2026-11-23",
+    "siglaOrgao": "PLEN"
+  },
+  "detail": {
+    "dados": {
+      "id": "2655570-57",
+      "data": "2026-11-23",
+      "descricao": "Mantido o texto. Sim: 310; Não: 132; Total: 442.",
+      "aprovacao": null,
+      "descUltimaAberturaVotacao": "Votação do DTQ 8 (PL): Destaque para Votação em Separado do art. 2º do Projeto de Lei Complementar nº 299, de 2026, com vistas à sua supressão (161, I).",
+      "proposicoesAfetadas": [
+        {
+          "id": 2655570,
+          "siglaTipo": "PLP",
+          "numero": 299,
+          "ano": 2026,
+          "ementa": "Altera a Lei Complementar nº?200, de 30 de agosto de 2023, a Lei Complementar nº"
+        }
+      ]
+    }
+  },
+  "votos": {
+    "dados": [
+      {
+        "tipoVoto": "Sim",
+        "dataRegistroVoto": "2026-11-24T00:11:52",
+        "deputado_": {
+          "id": 69871,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/69871",
+          "nome": "Bacelar",
+          "siglaPartido": "PV",
+          "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+          "siglaUf": "BA",
+          "idLegislatura": 57,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
+          "email": "dep.bacelar@camara.leg.br"
+        }
+      },
+      {
+        "tipoVoto": "Sim",
+        "dataRegistroVoto": "2026-11-24T00:11:49",
+        "deputado_": {
+          "id": 220605,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220605",
+          "nome": "Bandeira de Mello",
+          "siglaPartido": "PV",
+          "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+          "siglaUf": "RJ",
+          "idLegislatura": 57,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220605.jpg",
+          "email": "dep.bandeirademello@camara.leg.br"
+        }
+      },
+      {
+        "tipoVoto": "Não",
+        "dataRegistroVoto": "2026-11-24T00:11:57",
+        "deputado_": {
+          "id": 178992,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178992",
+          "nome": "Vitor Lippi",
+          "siglaPartido": "PSD",
+          "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+          "siglaUf": "SP",
+          "idLegislatura": 57,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178992.jpg",
+          "email": "dep.vitorlippi@camara.leg.br"
+        }
+      },
+      {
+        "tipoVoto": "Não",
+        "dataRegistroVoto": "2026-11-24T00:11:27",
+        "deputado_": {
+          "id": 220547,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220547",
+          "nome": "Marcos Pollon",
+          "siglaPartido": "PL",
+          "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+          "siglaUf": "MS",
+          "idLegislatura": 57,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220547.jpg",
+          "email": "dep.marcospollon@camara.leg.br"
+        }
+      },
+      {
+        "tipoVoto": "Obstrução",
+        "dataRegistroVoto": "2026-11-24T00:07:20",
+        "deputado_": {
+          "id": 204535,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204535",
+          "nome": "Sâmia Bomfim",
+          "siglaPartido": "PSOL",
+          "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+          "siglaUf": "SP",
+          "idLegislatura": 57,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
+          "email": "dep.samiabomfim@camara.leg.br"
+        }
+      },
+      {
+        "tipoVoto": "Obstrução",
+        "dataRegistroVoto": "2026-11-24T00:06:46",
+        "deputado_": {
+          "id": 152605,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152605",
+          "nome": "Glauber Braga",
+          "siglaPartido": "PSOL",
+          "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+          "siglaUf": "RJ",
+          "idLegislatura": 57,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/152605.jpg",
+          "email": "dep.glauberbraga@camara.leg.br"
+        }
+      }
+    ]
+  },
+  "orientacoes": {
+    "dados": [
+      {
+        "orientacaoVoto": "Sim",
+        "codTipoLideranca": "B",
+        "siglaPartidoBloco": "Bl UniPpPsd...",
+        "codPartidoBloco": null,
+        "uriPartidoBloco": null
+      },
+      {
+        "orientacaoVoto": "",
+        "codTipoLideranca": "P",
+        "siglaPartidoBloco": "PSB",
+        "codPartidoBloco": 36832,
+        "uriPartidoBloco": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832"
+      },
+      {
+        "orientacaoVoto": "Não",
+        "codTipoLideranca": "B",
+        "siglaPartidoBloco": "Minoria",
+        "codPartidoBloco": null,
+        "uriPartidoBloco": null
+      },
+      {
+        "orientacaoVoto": "Sim",
+        "codTipoLideranca": "B",
+        "siglaPartidoBloco": "Governo",
+        "codPartidoBloco": null,
+        "uriPartidoBloco": null
+      },
+      {
+        "orientacaoVoto": "",
+        "codTipoLideranca": "P",
+        "siglaPartidoBloco": "MISSÃO",
+        "codPartidoBloco": 38011,
+        "uriPartidoBloco": "https://dadosabertos.camara.leg.br/api/v2/partidos/38011"
+      },
+      {
+        "orientacaoVoto": "Obstrução",
+        "codTipoLideranca": "B",
+        "siglaPartidoBloco": "Fdr PSOL-REDE",
+        "codPartidoBloco": null,
+        "uriPartidoBloco": null
+      }
+    ]
+  }
+}

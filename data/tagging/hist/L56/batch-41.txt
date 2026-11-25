@@ -1,0 +1,122 @@
+## S:135609 | PEC 13/2019 | ementa: Altera o art. 156 da Constituição Federal, para estabelecer critérios ambientais para a cobrança do Imposto sobre Propriedade Predial e Territorial Urbana e desonerar a parcela do imóvel com vegetação nativa.
+S:6666 | 2022-12-13 | Votação nominal da Proposta de Emenda à Constituição nº 13, de 2019, nos termos do Parecer (1º Turno). | Sim 70 Não 0 | resultado: approved
+S:6667 | 2022-12-13 | Votação nominal da Proposta de Emenda à Constituição nº 13, de 2019, nos termos do Parecer (2º Turno). | Sim 65 Não 0 | resultado: approved
+
+## S:135983 | PEC 34/2019 | ementa: Altera os arts. 165 e 166 da Constituição Federal, parar tornar obrigatória a execução da programação orçamentária que especifica.
+S:5953 | 2019-04-03 | Proposta de Emenda à Constituição nº 34, de 2019 (2º Turno) | Sim 59 Não 5 | resultado: ?
+S:5954 | 2019-04-03 | Emenda nº 10 - CCJ (Substitutivo) à PEC nº 34, de 2019, nos termos do Parecer (1º Turno) | Sim 58 Não 6 | resultado: approved
+
+## S:136114 | PL 1946/2019 | ementa: Altera a Lei nº 10.826, de 22 de dezembro de 2003, para estabelecer restrições à posse e ao porte de arma de fogo quando houver a prática de violência contra a mulher.
+S:6389 | 2021-08-18 | Votação nominal da Emenda nº 1 (Substitutivo) do PL 1946/2019. | Sim 77 Não 0 | resultado: approved
+
+## S:136173 | PL 1321/2019 | ementa: Altera a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos), a fim de assegurar autonomia aos partidos políticos para definir o prazo de duração dos mandatos dos membros dos seus órgãos partidários permanentes ou provisórios; e dá outras providências.
+S:5957 | 2019-04-16 | Emenda nº 13-Plen ao Projeto de Lei nº 1321, de 2019 | Sim 36 Não 16 | resultado: approved
+
+## S:136635 | PDL 233/2019 | ementa: Susta o Decreto nº 9.785, de 07 de Maio de 2019, que regulamenta a Lei nº 10.826, de 22 de dezembro de 2003, para dispor sobre a aquisição, o cadastro, o registro, a posse, o porte e a comercialização de armas de fogo e de munição e sobre o Sistema Nacional de Armas e o Sistema Nacional de Gerenciamento Militar de Armas.
+   voto principal do projeto: S:5971 (2019-06-18): "Projeto de Decreto Legislativo nº 233, de 2019" — Sim 47, Não 28
+S:5971 | 2019-06-18 | Projeto de Decreto Legislativo nº 233, de 2019 | Sim 47 Não 28 | resultado: approved
+
+## S:136639 | PEC 69/2019 | ementa: Acrescenta o inciso X ao art. 170 da Constituição Federal para incluir a economia solidária entre os princípios da Ordem Econômica.
+   voto principal do projeto: S:6500 (2021-12-16): "Votação nominal da PEC 69, de 2019, em primeiro turno." — Sim 56, Não 9
+S:6500 | 2021-12-16 | Votação nominal da PEC 69, de 2019, em primeiro turno. | Sim 56 Não 9 | resultado: approved
+S:6560 | 2022-05-03 | Votação nominal da Proposta de Emenda à Constituição nº 69, de 2019 (2º Turno). | Sim 64 Não 7 | resultado: approved
+
+## S:136775 | PEC 75/2019 | ementa: Altera o inciso XLII do art. 5º da Constituição Federal, para tornar imprescritível o crime de feminicídio.
+   voto principal do projeto: S:6053 (2019-11-06): "Estabelece que a prática do feminicídio constitui crime inafiançável e imprescritível, sujeito à pena de reclusão." — Sim 60, Não 0
+S:6053 | 2019-11-06 | Estabelece que a prática do feminicídio constitui crime inafiançável e imprescritível, sujeito à pena de reclusão. | Sim 60 Não 0 | resultado: approved
+S:6056 | 2019-11-06 | Estabelece que a prática do feminicídio constitui crime inafiançável e imprescritível, sujeito à pena de reclusão. | Sim 58 Não 0 | resultado: approved
+
+## S:136913 | PEC 82/2019 | ementa: Modifica os arts. 93, 97 e 102 da Constituição Federal, para disciplinar os pedidos de vista nos tribunais e dispor sobre a declaração de inconstitucionalidade e a concessão de cautelares por tribunais.
+   voto principal do projeto: S:6005 (2019-09-03): "PEC nº 82, de 2019, nos termos do Parecer nº 100, de 2019, da CCJ (1º Turno)" — Sim 38, Não 15
+S:6005 | 2019-09-03 | PEC nº 82, de 2019, nos termos do Parecer nº 100, de 2019, da CCJ (1º Turno) | Sim 38 Não 15 | resultado: rejected
+
+## S:137122 | PLP 147/2019 | ementa: Altera dispositivo da Lei Complementar nº 123 de 14 de dezembro de 2006 que “Institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte”.
+   voto principal do projeto: S:6073 (2019-12-11): "Altera dispositivo da Lei Complementar nº 123, de 2006, que "Institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte" (amplia a representação" — Sim 51, Não 0
+S:6073 | 2019-12-11 | Altera dispositivo da Lei Complementar nº 123, de 2006, que "Institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte" (amplia a representação das Microempresas no Comitê Gestor do Simples Nacional). | Sim 51 Não 0 | resultado: approved
+
+## S:137178 | PEC 91/2019 | ementa: Altera o procedimento de apreciação das medidas provisórias pelo Congresso Nacional.
+S:5969 | 2019-06-12 | Proposta de Emenda à Constituição nº 91, de 2019, nos termos do Parecer de Plenário (1º Turno) | Sim 57 Não 0 | resultado: approved
+S:5970 | 2019-06-12 | Proposta de Emenda à Constituição nº 91, de 2019 (2º Turno) | Sim 60 Não 0 | resultado: approved
+
+## S:137305 | PEC 95/2019 | ementa: Prorroga o prazo de vigência do regime especial de pagamento de precatórios previsto no art. 101 do Ato das Disposições Constitucionais Transitórias e dá outras providências.
+   voto principal do projeto: S:6036 (2019-10-09): "Prorroga o prazo de vigência do regime especial de pagamento de precatórios previsto no art.101 do Ato das Disposições Constitucionais Transitórias e dá outras " — Sim 55, Não 0
+S:6036 | 2019-10-09 | Prorroga o prazo de vigência do regime especial de pagamento de precatórios previsto no art.101 do Ato das Disposições Constitucionais Transitórias e dá outras providências. | Sim 55 Não 0 | resultado: approved
+S:6039 | 2019-10-09 | Prorroga o prazo de vigência do regime especial de pagamento de precatórios previsto no art.101 do Ato das Disposições Constitucionais Transitórias e dá outras providências. | Sim 56 Não 0 | resultado: approved
+
+## S:137438 | PEC 98/2019 | ementa: Altera os arts. 165 e 166 da Constituição Federal, para estabelecer o regime de execução obrigatória das programações que especifica; dá nova redação ao art. 20 da Constituição Federal e aos arts. 107 e 115 do Ato das Disposições Constitucionais Transitórias; e revoga o § 1º do art. 167 da Constituição Federal.
+S:6006 | 2019-09-03 | Proposta de Emenda à Constituição nº 98, de 2019 (2º Turno) | Sim 69 Não 0 | resultado: approved
+S:6007 | 2019-09-03 | PEC 98/2019 e Emendas e Subemendas, ressalvada a Emenda 9 - PLEN, nos termos dos Pareceres(1º Turno) | Sim 74 Não 0 | resultado: approved
+
+## S:137859 | PL 4194/2019 | ementa: Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para dispor sobre Violência Doméstica e Familiar.
+   voto principal do projeto: S:6418 (2021-10-13): "Votação nominal do Projeto de Lei nº 4.194, de 2019, nos termos do Parecer." — Sim 71, Não 0
+S:6418 | 2021-10-13 | Votação nominal do Projeto de Lei nº 4.194, de 2019, nos termos do Parecer. | Sim 71 Não 0 | resultado: approved
+
+## S:137864 | PL 4209/2019 | ementa: Altera a Lei nº 6.360, de 23 de setembro de 1976, que dispõe sobre a Vigilância Sanitária a que ficam sujeitos os Medicamentos, as Drogas, os Insumos Farmacêuticos e Correlatos, Cosméticos, Saneantes e Outros Produtos, e dá outras Providências, para determinar que, para fins de registro, os medicamentos que contenham insumo farmacêutico ativo (IFA) nacional sejam enquadrados na
+   voto principal do projeto: S:6312 (2021-05-06): "Votação nominal do Projeto de Lei nº 4.209, de 2019, nos termos do Parecer. (Determina que, para fins de registro, os medicamentos que contenham insumo farmacêu" — Sim 72, Não 0
+S:6312 | 2021-05-06 | Votação nominal do Projeto de Lei nº 4.209, de 2019, nos termos do Parecer. (Determina que, para fins de registro, os medicamentos que contenham insumo farmacêutico ativo (IFA) nacional sejam enquadrados na categoria prioritária.) | Sim 72 Não 0 | resultado: approved
+
+## S:137999 | PEC 6/2019 | ementa: Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências.
+   voto principal do projeto: S:6024 (2019-10-01): "Modifica o sistema de previdência social, estabelece regras de transição, disposições transitórias, e dá outras providências. (PEC da Previdência)." — Sim 56, Não 19
+S:6024 | 2019-10-01 | Modifica o sistema de previdência social, estabelece regras de transição, disposições transitórias, e dá outras providências. (PEC da Previdência). | Sim 56 Não 19 | resultado: approved
+S:6025 | 2019-10-01 | Supressão da expressão "no âmbito da União" do § 1º - B do art. 149 da Constituição Federal, com a redação do art. 1º da Proposta. | Sim 0 Não 75 | resultado: rejected
+S:6026 | 2019-10-01 | Aposentadoria especial para o trabalhador em atividades exercidas com efetiva exposição a agentes nocivos químicos, físicos e biológicos. | Sim 71 Não 3 | resultado: approved
+S:6028 | 2019-10-01 | Abono salarial para empregados de baixa renda. | Sim 42 Não 30 | resultado: approved
+S:6032 | 2019-10-02 | Idade mínima para mulheres. | Sim 54 Não 18 | resultado: approved
+S:6033 | 2019-10-02 | Pensão por morte. | Sim 57 Não 16 | resultado: approved
+S:6034 | 2019-10-02 | Idade mínima para fins de aposentadoria especial decorrente do exercício de atividade com efetiva exposição a agentes nocivos à saúde. | Sim 52 Não 20 | resultado: approved
+S:6045 | 2019-10-22 | Revogação dos regimes de transição atuais. | Sim 57 Não 20 | resultado: approved
+S:6046 | 2019-10-22 | Modifica o sistema de previdência social, estabelece regras de transição, disposições transitórias, e dá outras providências. (PEC da Previdência). | Sim 60 Não 19 | resultado: approved
+S:6047 | 2019-10-22 | Conversão de tempo especial em comum ao assegurado do RGPS que comprovar tempo de serviço por insalubridade. | Sim 57 Não 19 | resultado: approved
+S:6048 | 2019-10-23 | Aposentadoria especial para o trabalhador em atividades exercidas com efetiva exposição a agentes nocivos químicos, físicos e biológicos. | Sim 0 Não 78 | resultado: rejected
+
+## S:138177 | MPV 893/2019 | ementa: Transforma o Conselho de Controle de Atividades Financeiras na Unidade de Inteligência Financeira.
+   voto principal do projeto: S:6074 (2019-12-17): "Dispõe sobre o Conselho de Controle de Atividades Financeiras (Coaf), de que trata o art. 14 da Lei nº 9.613, de 1998." — Sim 51, Não 15
+S:6074 | 2019-12-17 | Dispõe sobre o Conselho de Controle de Atividades Financeiras (Coaf), de que trata o art. 14 da Lei nº 9.613, de 1998. | Sim 51 Não 15 | resultado: approved
+
+## S:138473 | PL 4808/2019 | ementa: Altera a Lei nº 9.504, de 30 de setembro de 1997, para dispor sobre a liberação de recursos públicos para os hospitais filantrópicos e Santas Casas no período eleitoral.
+   voto principal do projeto: S:6424 (2021-10-26): "Votação nominal do PL 4.808, de 2019, em turno único." — Sim 73, Não 0
+S:6424 | 2021-10-26 | Votação nominal do PL 4.808, de 2019, em turno único. | Sim 73 Não 0 | resultado: approved
+
+## S:138479 | PL 4815/2019 | ementa: Altera a Lei nº 13.675, de 11 de junho de 2018, que “disciplina a organização e o funcionamento dos órgãos responsáveis pela segurança pública, nos termos do § 7º do art. 144 da Constituição Federal; cria a Política Nacional de Segurança Pública e Defesa Social (PNSPDS); institui o Sistema Único de Segurança Pública (Susp); altera a Lei Complementar nº 79, de 7 de janeiro de 19
+   voto principal do projeto: S:6299 (2021-04-06): "Votação nominal" — Sim 75, Não 0
+S:6299 | 2021-04-06 | Votação nominal | Sim 75 Não 0 | resultado: approved
+
+## S:138555 | PEC 133/2019 | ementa: Permite que os Estados, o Distrito Federal e os Municípios adotem em seus regimes próprios de previdência social as mesmas regras aplicáveis ao regime próprio da União; modifica renúncias previdenciárias; prevê benefício da Seguridade Social à criança vivendo em situação de pobreza; e dá outras providências.
+   voto principal do projeto: S:6054 (2019-11-06): "Permite que os Estados, o DF e os Municípios adotem em seus regimes próprios de previdência social as mesmas regras aplicáveis ao regime próprio da União; modif" — Sim 56, Não 11
+S:6054 | 2019-11-06 | Permite que os Estados, o DF e os Municípios adotem em seus regimes próprios de previdência social as mesmas regras aplicáveis ao regime próprio da União; modifica renúncias previdenciárias; prevê benefício da Seguridade Social à criança em situação de pobreza; dá outras providências. | Sim 56 Não 11 | resultado: approved
+S:6059 | 2019-11-19 | Modifica o texto do art. 12 da PEC 133/2019 (assegura que o benefício, no caso de aposentadoria por incapacidade permanente, será de 100% da média aritmética das contribuições). | Sim 29 Não 41 | resultado: rejected
+S:6060 | 2019-11-19 | Acrescenta à PEC 133/2019 a revogação das alíneas "a", "b" e "c" do art. 19 e art. 21, da Emenda Constitucional resultante da PEC 6/2019, já aprovada (idade mínima para fins de aposentadoria especial decorrente do exercício de atividade com efetiva exposição a agentes nocivos à saúde) | Sim 18 Não 48 | resultado: rejected
+S:6061 | 2019-11-19 | Cálculo da aposentadoria como média dos 80% maiores salários de contribuição. | Sim 54 Não 0 | resultado: approved
+S:6062 | 2019-11-19 | Permite que os Estados, o DF e os Municípios adotem em seus regimes próprios de previdência social as mesmas regras aplicáveis ao regime próprio da União; modifica renúncias previdenciárias; prevê benefício da Seguridade Social à criança em situação de pobreza; dá outras providências. | Sim 53 Não 7 | resultado: approved
+
+## S:139005 | PLP 223/2019 | ementa: Altera o art. 33 da Lei Complementar nº 87, de 13 de setembro de 1996, que dispõe sobre o imposto dos Estados e do Distrito Federal sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, para prorrogar os prazos previstos em relação à apropriação dos créditos do ICMS.
+   voto principal do projeto: S:6042 (2019-10-16): "Altera o art. 33 da Lei Complementar nº 87, de 1996 (Lei Kandir), para prorrogar os prazos previstos em relação à apropriação dos créditos do ICMS." — Sim 57, Não 1
+S:6042 | 2019-10-16 | Altera o art. 33 da Lei Complementar nº 87, de 1996 (Lei Kandir), para prorrogar os prazos previstos em relação à apropriação dos créditos do ICMS. | Sim 57 Não 1 | resultado: approved
+
+## S:139277 | PL 5478/2019 | ementa: Estabelece critérios de distribuição dos valores arrecadados com os leilões dos volumes excedentes ao limite a que se refere o § 2º do art. 1º da Lei nº 12.276, de 30 de junho de 2010, e dá outras providências.
+   voto principal do projeto: S:6040 (2019-10-15): "Estabelece critérios de distribuição dos valores arrecadados com os leilões dos volumes excedentes ao limite a que se refere o § 2º do art. 1º da Lei nº 12.276," — Sim 68, Não 0
+S:6040 | 2019-10-15 | Estabelece critérios de distribuição dos valores arrecadados com os leilões dos volumes excedentes ao limite a que se refere o § 2º do art. 1º da Lei nº 12.276, de 2010, e dá outras providências. | Sim 68 Não 0 | resultado: approved
+
+## S:139285 | PLP 235/2019 | ementa: Institui o Sistema Nacional de Educação, nos termos do art. 23, parágrafo único, e do art. 211 da Constituição Federal.
+S:6509 | 2022-03-09 | Votação nominal da Emenda nº 28 (Substitutivo) ao Projeto de Lei Complementar nº 235, de 2019, nos termos do Parecer. | Sim 74 Não 0 | resultado: approved
+
+## S:139427 | MPV 899/2019 | ementa: Dispõe sobre a transação nas hipóteses que especifica.
+   voto principal do projeto: S:6076 (2020-03-24): "Votação do PLV n. 2, de 2020" — Sim 77, Não 0
+S:6076 | 2020-03-24 | Votação do PLV n. 2, de 2020 | Sim 77 Não 0 | resultado: approved
+
+## S:139702 | PEC 186/2019 | ementa: Altera o texto permanente da Constituição e o Ato das Disposições Constitucionais Transitórias, dispondo sobre medidas permanentes e emergenciais de controle do crescimento das despesas obrigatórias e de reequilíbrio fiscal no âmbito dos Orçamentos Fiscal e da Seguridade Social da União, e dá outras providências.
+   voto principal do projeto: S:6290 (2021-03-04): "(Até o limite de quarenta e quatro bilhões de reais.)" — Sim 55, Não 17
+S:6281 | 2021-03-03 | Rejeitado o RQS 717/2021, de destaque do art. 3º do Substitutivo. | Sim 25 Não 49 | resultado: rejected
+S:6282 | 2021-03-03 | Votação nominal da Emenda nº 194 (Substitutivo) | Sim 62 Não 16 | resultado: approved
+S:6283 | 2021-03-03 | Votação nominal da Emenda nº 175, destacada. | Sim 27 Não 36 | resultado: rejected
+S:6284 | 2021-03-03 | Votação nominal da Emenda nº 179, destacada. | Sim 24 Não 39 | resultado: rejected
+S:6285 | 2021-03-03 | Votação nominal da Emenda nº 100, destacada. | Sim 45 Não 24 | resultado: rejected
+S:6286 | 2021-03-03 | Votação nominal da Emenda nº 161, destacada. | Sim 24 Não 43 | resultado: rejected
+S:6287 | 2021-03-03 | Votação nominal da Emenda nº 105, destacada. | Sim 27 Não 36 | resultado: rejected
+S:6288 | 2021-03-03 | Votação nominal da Emenda nº 131, destacada. | Sim 28 Não 34 | resultado: rejected
+S:6289 | 2021-03-04 | Votação da Proposta, em segundo turno, nos termos da Emenda nº 194 (Substitutivo). (Dispõe sobre medidas permanentes e emergenciais de controle do crescimento das despesas obrigatórias e de reequilíbrio fiscal no âmbito dos Orçamentos Fiscal e da Seguridade Social da União, e dá outras providências.) | Sim 62 Não 14 | resultado: approved
+S:6290 | 2021-03-04 | (Até o limite de quarenta e quatro bilhões de reais.) | Sim 55 Não 17 | resultado: rejected
+
+## S:139736 | MPV 903/2019 | ementa: Autoriza a prorrogação de contratos por tempo determinado do Ministério da Agricultura, Pecuária e Abastecimento.
+   voto principal do projeto: S:6086 (2020-04-14): "Votação da Medida Provisória nº 903, de 2019." — Sim 75, Não 0
+S:6086 | 2020-04-14 | Votação da Medida Provisória nº 903, de 2019. | Sim 75 Não 0 | resultado: approved

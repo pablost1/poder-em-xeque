@@ -1,0 +1,89 @@
+## C:2297579 | MPV 1067/2021 | ementa: Altera a Lei nº 9.656, de 3 de junho de 1998, para dispor sobre o processo de atualização das coberturas no âmbito da saúde suplementar.
+   voto principal do projeto: C:2297579-44 (2021-12-14): "Votação preliminar em turno único." — Sim 386, Não 2
+C:2297579-44 | 2021-12-14 | Votação preliminar em turno único. | Sim 386 Não 2 | resultado: approved
+C:2297579-49 | 2021-12-14 | Votação da Emenda de Plenário nº 2 ao Projeto de Lei de Conversão, com parecer pela rejeição. | Sim 86 Não 270 | resultado: rejected
+C:2297579-53 | 2021-12-14 | Votação do DTQ 1: PT: Emenda de Comissão n. 58 (art. 161, II) | Sim 86 Não 266 | resultado: rejected
+C:2297579-56 | 2021-12-14 | Votação do DTQ 2: PT: Emenda de Plenário 1 (art. 161, II) | Sim 142 Não 264 | resultado: rejected
+C:2297579-86 | 2022-02-10 | Votação do DTQ 1: PSOL: Emenda do Senado Federal nº 1 para fins de sua rejeição. (art. 161, II) | Sim 281 Não 100 | resultado: approved
+C:2297579-87 | 2022-02-10 | Votação do DTQ 4: PT: destaque, com vistas à aprovação, da Emenda do Senado Federal n. 3 apresentada à MPV 1.067/2021. (art. 161, II) | Sim 129 Não 265 | resultado: rejected
+
+## C:2298445 | MPV 1070/2021 | ementa: Institui o Programa Nacional de Apoio à Aquisição de Habitação para Profissionais da Segurança Pública - Programa Habite Seguro. NOVA EMENTA:Institui o Programa Nacional de Apoio à Aquisição de Habitação para Profissionais da Segurança Pública (Programa Habite Seguro); e altera as Leis nºs 8.677, de 13 de julho de 1993, 10.188, de 12 de fevereiro de 2001, 11.124, de 16 de junho
+   voto principal do projeto: C:2298445-40 (2022-02-09): "" — Sim 18, Não 400
+C:2298445-40 | 2022-02-09 |  | Sim 18 Não 400 | resultado: rejected
+C:2298445-65 | 2022-02-10 | Votação do DTQ 8: PSD: Destaque para votação em separado da expresão observado o disposto na Lei nº 13.022, de 8 de agosto de 2014, que integra o inciso IV, do art. 2º, do Projeto de Lei de Conversão à Medida Provisória nº 1.070, de 2021, com vistas a sua supresão (art. 161, I). | Sim 209 Não 129 | resultado: ?
+C:2298445-68 | 2022-02-10 | Votação do DTQ 7: PSOL: Emenda de Plenário nº 3. | Sim 128 Não 247 | resultado: rejected
+C:2298445-71 | 2022-02-10 | Votação do DTQ 2: CIDADANIA: Emenda de Comissão nº 40. | Sim 147 Não 259 | resultado: rejected
+C:2298445-74 | 2022-02-10 | Votação do DTQ 6: PT: Emenda de Plenário nº 4 (art. 161, II). | Sim 118 Não 293 | resultado: rejected
+C:2298445-77 | 2022-02-10 | Votação do DTQ 1: PDT: Emenda de Comissão nº 48 (art. 161, II). | Sim 143 Não 253 | resultado: rejected
+C:2298445-81 | 2022-02-10 | Votação do DTQ 3: PDT: Emenda de Plenário nº 1 (art. 161, II). | Sim 119 Não 275 | resultado: rejected
+
+## C:2300880 | PEC 13/2021 | ementa: Altera o Ato das Disposições Constitucionais Transitórias para determinar que os Estados, o Distrito Federal e os Municípios, bem como seus agentes públicos, não poderão ser responsabilizados pelo descumprimento, nos exercícios financeiros de 2020 e 2021, do disposto no caput do art. 212 da Constituição Federal, e da´ outras providências. NOVA EMENTA: Altera o Ato das Disposiçõ
+   voto principal do projeto: C:2300880-76 (2022-04-11): "" — Sim 13, Não 394
+C:2300880-76 | 2022-04-11 |  | Sim 13 Não 394 | resultado: rejected
+C:2300880-79 | 2022-04-11 | Votação em primeiro turno. | Sim 455 Não 15 | resultado: approved
+C:2300880-88 | 2022-04-11 | Votação em primeiro turno. | Sim 14 Não 384 | resultado: rejected
+C:2300880-91 | 2022-04-11 | Votação em segundo turno. | Sim 451 Não 14 | resultado: approved
+C:2300880-94 | 2022-04-11 | Votação do DTQ 1: PSOL (2º turno): Destaque para votação em separado da expressão “e 2021” do caput do artigo 115 do ADCT e, por decorrência, do parágrafo único do mesmo artigo, ambos do artigo 1º da Proposta de Emenda à Constituição nº 13 de 2021, com vistas à sua rejeição. (art. 161, I). | Sim 446 Não 11 | resultado: ?
+C:2319485-7 | 2022-04-11 |  | Sim 16 Não 346 | resultado: rejected
+
+## C:2301088 | PEC 32/2021 | ementa: Altera a Constituição Federal para elevar para setenta anos a idade máxima para a escolha e nomeação de membros do Supremo Tribunal Federal, do Superior Tribunal de Justiça, dos Tribunais Regionais Federais, do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho e do Tribunal de Contas da União. NOVA EMENTA: Altera a Constituição Federal para elevar para setenta 
+   voto principal do projeto: C:2301088-67 (2022-02-15): "Votação em primeiro turno." — Sim 439, Não 15
+C:2301088-67 | 2022-02-15 | Votação em primeiro turno. | Sim 439 Não 15 | resultado: approved
+C:2301088-74 | 2022-02-15 | Votação em segundo turno. | Sim 416 Não 14 | resultado: approved
+
+## C:2301321 | MPV 1072/2021 | ementa: Dispõe sobre a alteração da forma de cálculo da Taxa de Fiscalização dos mercados de títulos e valores mobiliários e altera a Lei nº 7.940, de 20 de dezembro de 1989, que institui a Taxa de Fiscalização dos mercados de títulos e valores mobiliários, e a Lei nº 6.385, de 7 de dezembro de 1976, que dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores Mobiliá
+   voto principal do projeto: C:2301321-31 (2022-02-22): "" — Sim 12, Não 265
+C:2301321-31 | 2022-02-22 |  | Sim 12 Não 265 | resultado: rejected
+C:2301321-40 | 2022-02-22 | Votação, quanto ao mérito, em turno único. | Sim 356 Não 0 | resultado: approved
+
+## C:2301371 | PL 3418/2021 | ementa: Dispõe sobre a atualização da Lei nº 14.113, de 25 de dezembro de 2020. NOVA EMENTA: Altera a Lei nº 14.113, de 25 de dezembro de 2020, que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb).
+   voto principal do projeto: C:2301371-65 (2021-12-08): "Votação em turno único." — Sim 421, Não 1
+C:2301371-65 | 2021-12-08 | Votação em turno único. | Sim 421 Não 1 | resultado: approved
+C:2301371-72 | 2021-12-08 | Votação do DTQ 1: DEM: EMENDA DE PLENÁRIO Nº 4 (art. 161, II) | Sim 75 Não 283 | resultado: rejected
+C:2301371-74 | 2021-12-08 | Votação do DTQ 4: PT: destaque da expressão “profissionais no exercício de funções de suporte pedagógico direto à docência” constante do inciso II do art. 26 da Lei 14.113/2020 alterado pelo art. 10 do substitutivo apresentado ao PL 3.418/2021. (art. 161, I) | Sim 286 Não 112 | resultado: ?
+C:2301371-78 | 2021-12-08 | Votação do DTQ 6: NOVO: Emenda de plenário nº 2 (art. 161, II) | Sim 45 Não 360 | resultado: rejected
+
+## C:2301425 | REQ 1943/2021 | ementa: Requer a convocação do Ministro de Estado da Economia, Sr. Paulo Guedes, para prestar esclarecimentos sobre empresas registradas em seu nome, sediadas no exterior.
+   voto principal do projeto: C:2301425-16 (2021-10-06): "" — Sim 117, Não 283
+C:2301425-16 | 2021-10-06 |  | Sim 117 Não 283 | resultado: rejected
+C:2301425-20 | 2021-10-06 |  | Sim 310 Não 142 | resultado: approved
+
+## C:2303392 | PL 3662/2021 | ementa: Transforma cargos vagos das carreiras de auxiliar Judiciário e de Técnico Judiciário em cargos vagos da carreira de Analista Judiciário no Quadro Permanente da Justiça do Distrito Federal e dos Territórios. NOVA EMENTA: Transforma cargos vagos das carreiras de Auxiliar Judiciário e de Técnico Judiciário em cargos vagos da carreira de Analista Judiciário no Quadro Permanente da 
+   voto principal do projeto: C:2311733-9 (2022-03-16): "" — Sim 322, Não 95
+C:2311733-9 | 2022-03-16 |  | Sim 322 Não 95 | resultado: approved
+
+## C:2303528 | PL 3677/2021 | ementa: Cria a transparência e as regras de composição de preços de derivados de petróleo praticados pela Petrobras, alterando a Lei nº 9.478, de 6 de agosto de 1997. NOVA EMENTA: Altera as Leis nºs 9.478, de 6 de agosto de 1997, e 9.847, de 26 de outubro de 1999, para conferir mais transparência à composição de preços dos combustíveis ao consumidor.
+   voto principal do projeto: C:2303528-73 (2022-06-07): "Votação em turno único." — Sim 363, Não 1
+C:2303528-73 | 2022-06-07 | Votação em turno único. | Sim 363 Não 1 | resultado: approved
+
+## C:2304326 | PL 3754/2021 | ementa: Estabelece a Lei das Ferrovias. NOVA EMENTA: Estabelece a Lei das Ferrovias; altera o Decreto-Lei nº 3.365, de 21 de junho de 1941, e as Leis nºs 6.015, de 31 de dezembro de 1973, 9.074, de 7 de julho de 1995, 9.636, de 15 de maio de 1998, 10.233, de 5 de junho de 2001, 10.257, de 10 de julho de 2001, 10.636, de 30 de dezembro de 2002, 12.815, de 5 de junho de 2013, 12.379, de 
+   voto principal do projeto: C:2308028-9 (2021-11-24): "" — Sim 290, Não 101
+C:2308028-9 | 2021-11-24 |  | Sim 290 Não 101 | resultado: approved
+C:2304326-37 | 2021-12-13 |  | Sim 16 Não 241 | resultado: rejected
+C:2304326-42 | 2021-12-13 |  | Sim 6 Não 251 | resultado: rejected
+C:2304326-64 | 2021-12-14 | Votação do DTQ 5: PSOL: Destaque para votação em separado da expressão “autorização ou” do inciso II do art. 7°, e por decorrência, do inciso I do art. 8°, do Capítulo V do Projeto de Lei n. 3.754/2021, e demais dispositivos decorrentes, para fins de supressão. (art. 161, I) | Sim 243 Não 88 | resultado: ?
+
+## C:2304353 | PLP 178/2021 | ementa: Institui o Estatuto Nacional de Simplificação de Obrigações Tributárias Acessórias e dá outras providências.
+   voto principal do projeto: C:2314544-27 (2022-12-07): "" — Sim 341, Não 37
+C:2314544-27 | 2022-12-07 |  | Sim 341 Não 37 | resultado: approved
+C:2304353-65 | 2022-12-14 | Votação em turno único. | Sim 373 Não 10 | resultado: approved
+
+## C:2305189 | PL 3846/2021 | ementa: Altera a Lei nº 11.903, de 14 de janeiro de 2009, para dispor sobre a bula digital de medicamentos.
+   voto principal do projeto: C:2305189-27 (2021-12-08): "" — Sim 248, Não 158
+C:2305189-27 | 2021-12-08 |  | Sim 248 Não 158 | resultado: approved
+
+## C:2306112 | PEC 39/2021 | ementa: Acrescenta os §§ 1º e 2º ao art. 105 da Constituição Federal e renumera o parágrafo único para instituir, no recurso especial, o requisito da relevância das questões de direito federal infraconstitucional. NOVA EMENTA: Altera o art. 105 da Constituição Federal para instituir no recurso especial o requisito da relevância das questões de direito federal infraconstitucional.
+   voto principal do projeto: C:2306112-59 (2022-07-13): "Votação em primeiro turno." — Sim 400, Não 13
+C:2306112-59 | 2022-07-13 | Votação em primeiro turno. | Sim 400 Não 13 | resultado: approved
+C:2306112-62 | 2022-07-13 | Votação do DTQ 1: NOVO: destaque para a votação em separado do §2º do art. 105 da Constituição Federal, alterado pelo art. 1º da PEC 39/2021, com vistas à sua supressão. (art. 161, I) | Sim 379 Não 18 | resultado: ?
+C:2306112-69 | 2022-07-13 | Votação em segundo turno. | Sim 366 Não 10 | resultado: approved
+
+## C:2307548 | PL 4059/2021 | ementa: Altera a Lei 12.232, de 29 de abril de 2010 para estender a sua aplicação às contratações dos serviços de comunicação digital e serviços de comunicação corporativa - relação com a imprensa e relações públicas. NOVA EMENTA: Altera a Lei nº 12.232, de 29 de abril de 2010, para dispor sobre as contratações de serviços de comunicação institucional, e a Lei nº 9.504, de 30 de setemb
+   voto principal do projeto: C:2314199-8 (2022-02-15): "" — Sim 263, Não 162
+C:2314199-8 | 2022-02-15 |  | Sim 263 Não 162 | resultado: approved
+C:2307548-42 | 2022-03-16 |  | Sim 112 Não 311 | resultado: rejected
+C:2307548-61 | 2022-03-16 | Votação em turno único. | Sim 309 Não 121 | resultado: approved
+C:2307548-67 | 2022-03-16 | Votação do DTQ 3: PT: Emenda de Plenário n. 4 (art. 161, II) | Sim 119 Não 271 | resultado: rejected
+C:2307548-68 | 2022-03-16 | Votação do DTQ 2: PT: Destaque para votação em separado do art. 3º do Substitutivo oferecido ao PL nº 4.059 de 2021, com vistas à sua rejeição. (art. 161, I) | Sim 273 Não 137 | resultado: ?
+C:2307548-71 | 2022-03-16 | Votação do DTQ 5: PCdoB: Destaque para votação em separado da expressão "a seis vezes" do inciso VII do art. 73 da Lei 9.507/97, constante da art. 3º do Substitutivo oferecido ao PL nº 4.059 de 2021, com vistas à sua rejeição. (art. 161, I) | Sim 298 Não 138 | resultado: ?
+C:2307548-75 | 2022-03-16 | Votação do DTQ 1: PSOL: Destaque para votação em separado do art. 4º do Substitutivo oferecido ao PL nº 4.059 de 2021, com vistas à sua rejeição. (art. 161, I) | Sim 284 Não 126 | resultado: ?

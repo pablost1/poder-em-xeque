@@ -1,0 +1,82 @@
+## C:531331 | PEC 125/2011 | ementa: Acrescenta dispositivos à Constituição Federal vedando a realização de eleições em data próxima a feriado nacional. NOVA EMENTA: Acrescenta dispositivo ao Ato das Disposições Constitucionais Transitórias e altera a Constituição Federal, para fins de reforma político-eleitoral.
+   voto principal do projeto: C:2293978-5 (2021-08-11): "" — Sim 287, Não 51
+C:2293978-5 | 2021-08-11 |  | Sim 287 Não 51 | resultado: approved
+C:531331-243 | 2021-08-11 |  | Sim 285 Não 149 | resultado: approved
+C:531331-249 | 2021-08-11 | Votação do DTQ 1: PDT: destaque de preferência para que seja apreciado o texto original da PEC 125/ 11, em detrimento do substitutivo apresentado pelo relator. (art. 161, IV). | Sim 63 Não 269 | resultado: rejected
+C:531331-250 | 2021-08-11 | Votação em primeiro turno. | Sim 339 Não 123 | resultado: approved
+C:531331-257 | 2021-08-11 | Votação do DTQ 15: PSL: destaque do art. 1º do substitutivo adotado pela Comissão Especial da PEC 125/2011, para sua supressão. (art. 161, I). | Sim 352 Não 97 | resultado: ?
+C:531331-263 | 2021-08-11 | Votação do DTQ 3: PSOL: destaque para votação em separado do art. 2º do Substitutivo oferecido à PEC nº 125 de 2011, para fins de supressão. (art. 161, I). | Sim 35 Não 423 | resultado: ?
+C:531331-270 | 2021-08-11 | Votação do DTQ 14: Bloco PROS: votação em separado do §1º do art. 17 da Constituição Federal, alterado pelo art. 3º do Substitutivo à Proposta de Emenda à Constituição nº 125/2011. (art. 161, I). | Sim 333 Não 149 | resultado: ?
+C:531331-284 | 2021-08-12 | Votação do DTQ 7: PT: destaque, com vistas à rejeição, do artigo 6º do Substitutivo oferecido à PEC 125/2011. (art. 161, I) | Sim 36 Não 388 | resultado: ?
+C:531331-291 | 2021-08-12 | Votação do DTQ 2: PDT: Destaque para votação em separado da expressão “e o inciso I do art. 17” constante no art. 10 do Substitutivo oferecido pelo relator, para fins de supressão. (art. 161, I) | Sim 28 Não 388 | resultado: ?
+C:531331-294 | 2021-08-12 | Votação da Emenda de Redação nº 1. | Sim 365 Não 3 | resultado: approved
+C:2293985-5 | 2021-08-17 |  | Sim 355 Não 83 | resultado: approved
+C:531331-317 | 2021-08-17 |  | Sim 355 Não 83 | resultado: approved
+C:531331-321 | 2021-08-17 | Votação em segundo turno. | Sim 347 Não 135 | resultado: approved
+C:531331-324 | 2021-08-17 | Votação do DTQ 1: PSL: destaque para votação em separado do art. 1º do Substitutivo adotado pela Comissão Especial da PEC 125/2011, para sua supressão. (art. 161, I) | Sim 344 Não 110 | resultado: ?
+C:531331-327 | 2021-08-17 | Votação do DTQ 5: REPUBLICANOS: Destaque para a votação em separado do art. 2º do texto da Proposta de Emenda à Constituição 125/2011, aprovado em primeiro turno, e em consequência, do inciso II do parágrafo 3º do art.17, constante do art. 3º do mesmo texto, para fins de supressão. (art. 161, I) | Sim 46 Não 400 | resultado: ?
+C:531331-335 | 2021-08-17 | Votação do DTQ 10: CIDADANIA: destaque para a votação em separado do “§ 1º do Art. 17 da Constituição Federal,” alterado pelo Art. 3º da Redação para o Segundo turno da PEC 125/2011 (art. 161, I). | Sim 340 Não 139 | resultado: ?
+C:531331-337 | 2021-08-17 | Votação do DTQ 8: PT: destaque, com vistas à rejeição, da expressão "independentemente do sistema eleitoral", constante do § 6º do art. 17 da CF/1988, na redação dada pelo art. 3º da Redação para o 2º Turno da PEC 125/2011. (art. 161, I) | Sim 90 Não 329 | resultado: ?
+C:531331-340 | 2021-08-17 | Votação do DTQ 2: REPUBLICANOS: destaque para a votação em separado da expressão ", desde que gratuitos", constante do inciso III do art. 9º do Substitutivo à Proposta de Emenda à Constituição 125/2011, aprovado em primeiro turno, para fins de supressão. (art. 161, I) | Sim 122 Não 280 | resultado: ?
+
+## C:534328 | PL 1338/2022 | ementa: Acrescenta parágrafo ao art. 23 da Lei nº 9.394, de 1996, de diretrizes e bases da educação nacional, para dispor sobre a possibilidade de oferta domiciliar da educação básica. NOVA EMENTA: Altera as Leis nºs 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e 8.069, de 13 de julho de 1990, (Estatuto da Criança e do Adolescente), para dispor sob
+   voto principal do projeto: C:534328-155 (2022-05-18): "" — Sim 47, Não 275
+C:534328-155 | 2022-05-18 |  | Sim 47 Não 275 | resultado: rejected
+C:534328-167 | 2022-05-18 | Votação em turno único. | Sim 264 Não 144 | resultado: approved
+C:534328-174 | 2022-05-19 | Continuação da votação em turno único. | Sim 29 Não 228 | resultado: rejected
+C:534328-177 | 2022-05-19 | Votação do DTQ 8: PCdoB: Emenda de Plenário nº 11 (art. 161, II). | Sim 42 Não 231 | resultado: rejected
+C:534328-180 | 2022-05-19 | Votação do DTQ 5: PT: Destaque, com vistas à rejeição, da expressão “ou em educação profissional tecnológica”, constante da alínea “a” do inciso I do § 3º do artigo 23 da Lei nº 9.394, de 20 de dezembro de 1996, na redação proposta pelo artigo 1º do Substitutivo oferecido ao PL 3.179/2012 (art. 161, I). | Sim 227 Não 105 | resultado: ?
+C:534328-184 | 2022-05-19 | Votação do DTQ 2: PL: Emenda de Plenário 4 (art. 161, II). | Sim 54 Não 271 | resultado: rejected
+C:534328-187 | 2022-05-19 | Votação do DTQ 4: PT: Emenda de Plenário n. 6 (art. 161, II). | Sim 111 Não 252 | resultado: rejected
+C:534328-190 | 2022-05-19 | Votação do DTQ 11: PSDB: Emenda de Plenário nº 14 (art. 161, II). | Sim 123 Não 220 | resultado: rejected
+C:534328-194 | 2022-05-19 | Votação do DTQ 10: NOVO: Emenda de Plenário Nº 3 (art. 161, II). | Sim 47 Não 283 | resultado: rejected
+C:534328-197 | 2022-05-19 | Votação do DTQ 1: PT: Destaque, com vistas à rejeição, do artigo 89-A, da Lei nº 9.394, de 20 de dezembro de 1996, na redação proposta pelo artigo 1º do Substitutivo oferecido ao PL 3.179/2012. (art. 161, I). | Sim 206 Não 89 | resultado: ?
+C:534328-200 | 2022-05-19 | Votação do DTQ 9: PSB: Emenda de Plenário nº 12 (art. 161, II). | Sim 96 Não 197 | resultado: rejected
+C:534328-203 | 2022-05-19 | Votação do DTQ 3: PSOL: Emenda de Plenário nº 5 (art. 161, II). | Sim 99 Não 229 | resultado: rejected
+
+## C:578903 | PL 316/2021 | ementa: Altera a Lei nº 8.137, de 27 de dezembro de 1990, que define os crimes contra a ordem tributária, para reduzir a pena prevista nos crimes descritos no art. 7º, e suprimir a modalidade culposa. NOVA EMENTA: Altera a Lei nº 8.137, de 27 de dezembro de 1990, para reduzir a pena imputada aos crimes contra as relações de consumo, e a Lei nº 8.078, de 11 de setembro de 1990 (Código d
+   voto principal do projeto: C:2233718-10 (2020-12-15): "" — Sim 316, Não 105
+C:2233718-10 | 2020-12-15 |  | Sim 316 Não 105 | resultado: approved
+
+## C:593065 | PL 4476/2020 | ementa: Dispõe sobre medidas para fomentar a Indústria de Gás Natural e altera a Lei nº 11.909, de 4 de março de 2009. NOVA EMENTA: Dispõe sobre as atividades relativas ao transporte de gás natural, de que trata o art. 177 da Constituição Federal, e sobre as atividades de escoamento, tratamento, processamento, estocagem subterrânea, acondicionamento, liquefação, regaseificação e comerc
+   voto principal do projeto: C:2230248-6 (2020-07-29): "" — Sim 323, Não 113
+C:2230248-6 | 2020-07-29 |  | Sim 323 Não 113 | resultado: approved
+C:593065-141 | 2020-09-01 |  | Sim 85 Não 224 | resultado: rejected
+C:593065-172 | 2020-09-01 |  | Sim 91 Não 275 | resultado: rejected
+C:593065-178 | 2020-09-01 | Votação, quanto ao mérito, em turno único. | Sim 351 Não 101 | resultado: approved
+C:593065-189 | 2020-09-01 | Votação do DTQ 1: PT: Emenda de Plenário n. 2. (art. 161, II) | Sim 115 Não 355 | resultado: rejected
+C:593065-252 | 2021-03-16 |  | Sim 136 Não 344 | resultado: rejected
+C:593065-263 | 2021-03-16 |  | Sim 131 Não 341 | resultado: rejected
+C:593065-267 | 2021-03-16 |  | Sim 128 Não 326 | resultado: rejected
+C:593065-272 | 2021-03-16 |  | Sim 301 Não 114 | resultado: approved
+C:593065-277 | 2021-03-16 |  | Sim 92 Não 256 | resultado: rejected
+C:593065-285 | 2021-03-16 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 135 Não 320 | resultado: rejected
+C:593065-291 | 2021-03-16 | Votação do DTQ 6: PSOL: Emenda n. 1 do Senado Federal (art. 161, II) | Sim 115 Não 335 | resultado: rejected
+C:593065-305 | 2021-03-16 | Votação do DTQ 5: PCdoB: Emenda n. 9 do Senado Federal (art. 161, II) | Sim 105 Não 326 | resultado: rejected
+
+## C:596844 | PL 6579/2013 | ementa: Altera os arts. 123 e 124 da Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para restringir o benefício da saída temporária de presos.
+   voto principal do projeto: C:596844-116 (2022-08-03): "Votação em turno único." — Sim 311, Não 98
+C:596844-116 | 2022-08-03 | Votação em turno único. | Sim 311 Não 98 | resultado: approved
+
+## C:609753 | PEC 390/2014 | ementa: Altera o art. 169 da Constituição Federal e o artigo 38 do Ato das Disposições Constitucionais Transitórias para possibilitar a ampliação de limite de despesas com pessoal ativo nas áreas da saúde e da educação. NOVA EMENTA: Altera o art. 198 da Constituição Federal, para que a União preste assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios e 
+   voto principal do projeto: C:609753-101 (2022-12-15): "Votação em primeiro turno." — Sim 423, Não 13
+C:609753-101 | 2022-12-15 | Votação em primeiro turno. | Sim 423 Não 13 | resultado: approved
+C:609753-109 | 2022-12-15 | Votação em segundo turno. | Sim 413 Não 13 | resultado: approved
+C:609753-117 | 2022-12-15 | Votação do DTQ 2: NOVO: Destaque para Votação em Separado do(a) inciso VI, do §6° do art. 107 dos Ato das Disposições Constitucionais Transitórias, posto no art. 2° do Substitutivo, com fins de sua supressão, apresentado à PEC 390/2014 (art. 161, I). | Sim 387 Não 17 | resultado: ?
+
+## C:614512 | PL 4157/2019 | ementa: Anula débitos tributários oriundos de multas que especifica. NOVA EMENTA: Anistia infrações e anula multas por atraso na entrega da Guia de Recolhimento do Fundo de Garantia do Tempo de Serviço e Informações à Previdência Social (GFIP).
+   voto principal do projeto: C:2259474-8 (2021-05-11): "" — Sim 361, Não 14
+C:2259474-8 | 2021-05-11 |  | Sim 361 Não 14 | resultado: approved
+
+## C:618055 | PL 7658/2014 | ementa: Torna obrigatória a preservação do sigilo sobre a condição de portador do vírus da imunodeficiência humana (HIV) nos casos especificados e altera a Lei nº 6.259, de 30 de outubro de 1975, para ampliar o rol de profissionais obrigados à preservação do sigilo das informações constantes da notificação de doenças e agravos à saúde. NOVA EMENTA: Torna obrigatória a preservação do si
+   voto principal do projeto: C:618055-78 (2020-12-21): "" — Sim 4, Não 271
+C:618055-78 | 2020-12-21 |  | Sim 4 Não 271 | resultado: rejected
+C:618055-89 | 2020-12-21 |  | Sim 4 Não 258 | resultado: rejected
+
+## C:622070 | PL 7922/2014 | ementa: Dispõe sobre a estruturação do Plano de Carreiras e Cargos dos Servidores da Defensoria Pública da União, fixa o valor de suas remunerações e dá outras providências
+   voto principal do projeto: C:622070-128 (2022-05-05): "Votação em turno único." — Sim 294, Não 10
+C:622070-128 | 2022-05-05 | Votação em turno único. | Sim 294 Não 10 | resultado: approved
+
+## C:945554 | PL 130/2015 | ementa: Dispõe sobre o aumento dos limites para dedução, do imposto de renda de pessoas físicas e jurídicas, dos valores destinados a projetos desportivos e paradesportivos, e prorroga o prazo para dedução. NOVA EMENTA: Altera a Lei nº 11.438, de 29 de dezembro de 2006, para aumentar os limites para dedução dos valores destinados a projetos desportivos e paradesportivos do imposto de r
+C:945554-180 | 2022-04-07 | Votação do DTQ 3: PT: emenda de plenário nº 8 (art. 161, II) | Sim 135 Não 293 | resultado: rejected
+C:945554-186 | 2022-04-07 | Votação do DTQ 5: PSOL: Emenda de Plenário n. 10 (art. 161, II). | Sim 119 Não 323 | resultado: rejected

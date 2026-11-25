@@ -1,0 +1,67 @@
+## C:2199763 | MPV 881/2019 | ementa: Institui a Declaração de Direitos de Liberdade Econômica, estabelece garantias de livre mercado, análise de impacto regulatório, e dá outras providências. NOVA EMENTA: Institui a Declaração de Direitos de Liberdade Econômica; estabelece garantias de livre mercado; altera as Leis nºs 10.406, de 10 de janeiro de 2002 (Código Civil), 6.404, de 15 de dezembro de 1976, 11.598, de 3 
+   voto principal do projeto: C:2199763-38 (2019-08-13): "" — Sim 29, Não 340
+C:2199763-38 | 2019-08-13 |  | Sim 29 Não 340 | resultado: rejected
+C:2199763-44 | 2019-08-13 |  | Sim 28 Não 333 | resultado: rejected
+C:2199763-49 | 2019-08-13 |  | Sim 285 Não 41 | resultado: approved
+C:2199763-53 | 2019-08-13 | Votação preliminar em turno único. | Sim 355 Não 86 | resultado: approved
+C:2199763-58 | 2019-08-13 | Votação, quanto ao mérito, em turno único. | Sim 345 Não 76 | resultado: approved
+C:2199763-66 | 2019-08-14 | Continuação da votação em turno único. | Sim 49 Não 210 | resultado: rejected
+C:2199763-71 | 2019-08-14 | Votação do DTQ 9: PT: §4º, ARTIGO 50 DA LEI 10.406/2002, COM REDAÇÃO DADA AO ARTIGO 7º DA EMENDA AGLUTINATIVA APRESENTADA À MP 881/2019 - ART 161, I. | Sim 282 Não 102 | resultado: ?
+C:2199763-74 | 2019-08-14 | Votação do DTQ 27: PSOL: ART. 67 CONSTANTE DO ART. 28 DO PLV 17/19 OFERECIDO À MPV 881/19, COM VISTAS À SUA SUPRESSÃO - (ART. 161, I). | Sim 233 Não 99 | resultado: ?
+C:2199763-77 | 2019-08-14 | Votação do DTQ 20: PCDOB: ART. 68 CONTIDO NO ARTIGO 28 DO PLV APRESENTADO À MP 881/19 , COM VISTAS A SUA SUPRESSÃO- ART 161, I. | Sim 244 Não 120 | resultado: ?
+C:2199763-79 | 2019-08-14 | Votação da EMA 4: : Emenda Aglutinativa nº 4 | Sim 134 Não 291 | resultado: rejected
+C:2199763-83 | 2019-08-14 | Votação do DTQ 10: PT: ARTIGO 70 DO DECRETO DE LEI 5.452/1943, COM REDAÇÃO ALTERADA PELO ARTIGO 15 DA EMENDA AGLUTINATIVA APRESENTADA À MP 881/2019 - ART 161, I. | Sim 274 Não 153 | resultado: ?
+C:2199763-88 | 2019-08-14 | Votação do DTQ 8: PT: § 3º, ARTIGO 74 DO DECRETO DE LEI 5.452/1943, COM REDAÇÃO ALTERADA PELO ARTIGO 15 DA EMENDA AGLUTINATIVA APRESENTADA À MP 881/2019 - ART 161, I. | Sim 304 Não 128 | resultado: ?
+C:2199763-91 | 2019-08-14 | Votação do DTQ 5: PSC: ARTIGO 18 DO PROJETO DE LEI DE CONVERSÃO À MP 881/19, QUE INCLUI ARTIGO 82-A À LEI 11.101/2005, COM FIM DE REESTABELECÊ-LO NA EMENDA AGLUTINATIVA - ART 161, I. | Sim 4 Não 439 | resultado: rejected
+
+## C:2201529 | PL 2787/2019 | ementa: Altera a Lei nº 9.605, de 12 de fevereiro de 1998 (Lei de Crimes Ambientais), para tipificar o crime de ecocídio e a conduta delitiva do responsável por desastre relativo a rompimento de barragem, e dá outras providências. NOVA EMENTA: Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para tipificar o crime de ecocídio e a conduta delitiva do responsável por desastre relativo 
+   voto principal do projeto: C:2201529-33 (2019-06-25): "" — Sim 29, Não 244
+C:2201529-33 | 2019-06-25 |  | Sim 29 Não 244 | resultado: rejected
+
+## C:2201532 | PL 2788/2019 | ementa: Institui a Política Nacional de Direitos das Populações Atingidas por Barragens, e dá outras providências. NOVA EMENTA: Institui a Política Nacional de Direitos das Populações Atingidas por Barragens (PNAB); discrimina os direitos das Populações Atingidas por Barragens (PAB); prevê o Programa de Direitos das Populações Atingidas por Barragens (PDPAB); estabelece regras de respo
+   voto principal do projeto: C:2201532-39 (2019-06-25): "" — Sim 21, Não 273
+C:2201532-39 | 2019-06-25 |  | Sim 21 Não 273 | resultado: rejected
+
+## C:2203106 | REQ 1464/2019 | ementa: Requer a convocação do Ministro de Estado da Educação, Senhor Abraham Weintraub, para comparecer ao Plenário da Câmara dos Deputados a fim de prestar esclarecimentos acerca dos cortes orçamentários na educação brasileira, especialmente, os realizados nas Universidades Federais e nos Institutos Federais de Educação.
+   voto principal do projeto: C:2203106-13 (2019-05-14): "" — Sim 307, Não 82
+C:2203106-13 | 2019-05-14 |  | Sim 307 Não 82 | resultado: approved
+
+## C:2203957 | PLP 134/2019 | ementa: Estabelece as condições legais requeridas pelo preceito contido no § 7º do artigo 195 da Constituição Federal, para entidades beneficentes de assistência social com a finalidade de prestação de serviços nas áreas de assistência social, saúde e/ou educação gozarem de imunidade tributária em relação às contribuições para a seguridade social; e dá outras providências. NOVA EMENTA:
+   voto principal do projeto: C:2285702-7 (2021-09-21): "" — Sim 413, Não 6
+C:2285702-7 | 2021-09-21 |  | Sim 413 Não 6 | resultado: approved
+C:2203957-115 | 2021-10-28 | Votação em turno único. | Sim 320 Não 5 | resultado: approved
+C:2203957-123 | 2021-10-28 | Votação do DTQ 1: PSOL: Destaque para votação em separado do inciso I do parágrafo 1° do artigo 32 do Substitutivo oferecido ao Projeto de Lei Complementar nº 134/2019, e, por decorrência, do § 2º do artigo 32, do inciso IV do art. 33 e da alínea “b” do inciso III do art. 35, para fins de supressão. (art. 161, I). | Sim 251 Não 75 | resultado: ?
+C:2203957-126 | 2021-10-28 | Votação do DTQ 3: PSB: Emenda de Plenário nº 6 (art. 161, II). | Sim 112 Não 221 | resultado: rejected
+C:2203957-157 | 2021-11-24 | Votação das Emendas do Senado Federal nºs 1, 2, 3, 5 e do § 5º do art. 32 contido na Emenda nº 4 ao Projeto de Lei Complementar nº 134, de 2019, com parecer pela aprovação, ressalvados os destaques. | Sim 396 Não 16 | resultado: approved
+C:2203957-159 | 2021-11-24 | Votação da Emenda do Senado Federal nº 4, com exceção do § 5º do art. 32, e da Emenda nº 6 ao Projeto de Lei Complementar nº 134, de 2019, com parecer pela rejeição, ressalvados os destaques. | Sim 2 Não 388 | resultado: rejected
+C:2203957-163 | 2021-11-24 | Votação do DTQ 3: PSL: Emenda nº 1 do Senado Federal com vistas a sua rejeição. (art. 161, II). | Sim 181 Não 258 | resultado: rejected
+C:2203957-166 | 2021-11-24 | Votação do DTQ 2: PP: Emenda nº 2 do Senado Federal com vistas a sua rejeição. (art. 161, II). | Sim 58 Não 269 | resultado: rejected
+C:2203957-170 | 2021-11-24 | Votação do DTQ 4: PSL: Emenda nº 3 do Senado Federal com vistas a sua rejeição. (art. 161, II). | Sim 178 Não 234 | resultado: rejected
+C:2203957-177 | 2021-11-24 | Votação do DTQ 1: PSOL: Emenda do Senado n. 5 com vistas a sua rejeição. (art. 161, II). | Sim 408 Não 21 | resultado: approved
+
+## C:2204056 | PL 2999/2019 | ementa: Dispõe sobre a antecipação do pagamento dos honorários periciais nas ações em que o Instituto Nacional do Seguro Social figure como parte e que tramitem no âmbito de responsabilidade da Justiça Federal. NOVA EMENTA: Dispõe sobre honorários periciais em ações em que o Instituto Nacional do Seguro Social (INSS) figure como parte e altera a Consolidação das Leis do Trabalho (CLT),
+   voto principal do projeto: C:2204056-138 (2019-08-27): "" — Sim 6, Não 250
+C:2204056-138 | 2019-08-27 |  | Sim 6 Não 250 | resultado: rejected
+C:2204056-146 | 2019-08-27 |  | Sim 3 Não 343 | resultado: rejected
+C:2204056-153 | 2019-08-27 | Votação, em turno único, do Substitutivo do Senado Federal ao Projeto de Lei nº 2.999-C, de 2019. | Sim 1 Não 339 | resultado: rejected
+C:2204056-174 | 2019-09-03 | Continuação da votação, em turno único, do Substitutivo do Senado Federal ao Projeto de Lei nº 2.999-C, de 2019. | Sim 0 Não 296 | resultado: rejected
+C:2204056-183 | 2019-09-03 | Continuação da votação, em turno único, do Substitutivo do Senado Federal ao Projeto de Lei nº 2.999-C, de 2019. | Sim 0 Não 312 | resultado: rejected
+C:2204056-190 | 2019-09-03 | Votação dos artigos nºs 1, 3, 4, 5 e 7 do Substitutivo do Senado Federal, com parecer pela aprovação, ressalvados os destaques. | Sim 291 Não 87 | resultado: approved
+
+## C:2205645 | PLP 146/2019 | ementa: Dispõe sobre startups e apresenta medidas de estímulo à criação dessas empresas e estabelece incentivos aos investimentos por meio do aprimoramento do ambiente de negócios no País. NOVA EMENTA: Institui o marco legal das startups e do empreendedorismo inovador; e altera as Leis nºs 8.212, de 24 de julho de 1991, 7.713, de 22 de dezembro de 1988, 6.404, de 15 de dezembro de 1976
+   voto principal do projeto: C:2205645-60 (2020-12-14): "" — Sim 59, Não 319
+C:2205645-102 | 2020-12-14 | Votação do DTQ 3: PDT: Destaque para Votação em Separado do art. 11 e, consequentemente, de seus respectivos parágrafos, todos do Substitutivo ao PLP 146/2019. (art. 161, I) | Sim 336 Não 105 | resultado: ?
+C:2205645-105 | 2020-12-14 | Votação do DTQ 4: PDT: Destaque para Votação em Separado do §4º do art. 13 do Substitutivo ao PLP 146/2019, com vistas à sua supressão. (art. 161, I) | Sim 309 Não 135 | resultado: ?
+C:2205645-110 | 2020-12-14 | Votação do DTQ 11: PT: Destaque, com vistas à supressão, do Capítulo VII constante da Subemenda Substitutiva Global apresentada ao PLP 146/2019. (art. 161, I) | Sim 328 Não 117 | resultado: ?
+C:2205645-113 | 2020-12-14 | Votação do DTQ 10: PT: Emenda de Plenário n. 20. (art. 161, II) | Sim 115 Não 251 | resultado: rejected
+C:2205645-121 | 2020-12-14 | Votação do DTQ 12: PSDB: Emenda de Plenário n. 8. (art. 161, II) | Sim 65 Não 365 | resultado: rejected
+C:2205645-60 | 2020-12-14 |  | Sim 59 Não 319 | resultado: rejected
+C:2205645-74 | 2020-12-14 |  | Sim 59 Não 330 | resultado: rejected
+C:2205645-77 | 2020-12-14 | Votação em turno único. | Sim 361 Não 66 | resultado: approved
+C:2205645-82 | 2020-12-14 | Votação do DTQ 7: PT: Emenda de Plenário n. 35. (art. 161, II) | Sim 88 Não 299 | resultado: rejected
+C:2205645-92 | 2020-12-14 | Votação do DTQ 2: PCdoB: Emenda de Plenário 25. (art. 161, II) | Sim 105 Não 303 | resultado: rejected
+C:2205645-99 | 2020-12-14 | Votação do DTQ 13: PSDB: Emenda de Plenário n. 7. (art. 161, II) | Sim 36 Não 367 | resultado: rejected
+C:2205645-174 | 2021-05-11 | Votação das Emendas do Senado Federal ao Projeto de Lei Complementar nº 146-A, de 2019, com parecer pela aprovação, ressalvados os Destaques. | Sim 388 Não 1 | resultado: approved
+C:2205645-176 | 2021-05-11 | Votação das Emendas do Senado Federal ao Projeto de Lei Complementar nº 146-A, de 2019, com parecer pela rejeição, ressalvados os Destaques. | Sim 0 Não 342 | resultado: rejected
+C:2205645-179 | 2021-05-11 | Votação do DTQ 2: PT: Destaque, com vistas à aprovação, da Emenda do Senado n. 2, apresentada ao PLP 146/2019. (art. 161, II) | Sim 93 Não 275 | resultado: rejected
+C:2205645-183 | 2021-05-11 | Votação do DTQ 1: PT: Destaque, com vistas à aprovação, da Emenda do Senado n. 10, apresentada ao PLP 146/2019. (art. 161, II) | Sim 352 Não 23 | resultado: approved

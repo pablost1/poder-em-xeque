@@ -1,0 +1,142 @@
+## C:514832 | REQ 2714/2011 | ementa: Solicita a convocação do Ministro de Estado Chefe da Controladoria-Geral da União (CGU), Sr. Jorge Hage Sobrinho, para discorrer sobre os trabalhos de fiscalização em curso na CGU, referentes às inúmeras denúncias de ilicitudes e irregularidades verificadas em diversos órgãos da administração federal direta e indireta.
+   voto principal do projeto: C:514832-10 (2011-08-23): "" — Sim 111, Não 286
+C:514832-10 | 2011-08-23 |  | Sim 111 Não 286 | resultado: rejected
+
+## C:517673 | PL 2154/2011 | ementa: Revoga o inciso IV e § 1º do art. 8º da Lei nº 8.906, de 4 de julho de 1994, que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB).
+   voto principal do projeto: C:554412-9 (2012-12-04): "" — Sim 145, Não 233
+C:554412-9 | 2012-12-04 |  | Sim 145 Não 233 | resultado: rejected
+
+## C:518563 | PL 2205/2011 | ementa: Cria cargos de Especialista em Infraestrutura Sênior, cargos das carreiras de Analista de Infraestrutura, de Especialista em Meio Ambiente e de Analista de Comércio Exterior, cargos nos quadros de pessoal da Superintendência da Zona Franca de Manaus, da Agência Nacional de Vigilância Sanitária e do Departamento de Polícia Rodoviária Federal, cargos em comissão, funções gratific
+   voto principal do projeto: C:561593-4 (2012-11-28): "" — Sim 291, Não 1
+C:561593-4 | 2012-11-28 |  | Sim 291 Não 1 | resultado: approved
+
+## C:520245 | PL 2330/2011 | ementa: Dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil. NOVA EMENTA: Dispõe sobre as medidas relativas à Copa das Confederações Fifa 2013 e à Copa do Mundo Fifa 2014, que serão realizadas no Brasil; e altera as Leis nºs 6.815, de 19 de agosto de 1980, e 10.671, de 15 de maio de 2003.
+C:520245-145 | 2012-03-28 | Votação da Emenda nº 1, objeto do Destaque assinado pelas bancadas do PSDB, PSC, Bloco PV/PPS, Bloco PR/PTdoB/PRP/PHS/PTC/PSL/PRTB, PSOL e DEM. | Sim 178 Não 237 | resultado: rejected
+C:520245-150 | 2012-03-28 | Votação da Emenda nº 46, objeto do Destaque para votação em separado da bancada do PSC. | Sim 161 Não 229 | resultado: rejected
+
+## C:522343 | PEC 90/2011 | ementa: Dá nova redação ao art. 6º da Constituição Federal, para introduzir o transporte como direito social.
+   voto principal do projeto: C:522343-74 (2013-12-04): "Votação em primeiro turno." — Sim 47, Não 281
+C:522343-74 | 2013-12-04 | Votação em primeiro turno. | Sim 47 Não 281 | resultado: rejected
+C:522343-79 | 2013-12-04 | Votação em segundo turno. | Sim 313 Não 1 | resultado: approved
+
+## C:524645 | PL 2565/2011 | ementa: Modifica as Leis nº 9.478, de 6 de agosto de 1997, e nº 12.351, de 22 de dezembro de 2010, para determinar novas regras de distribuição entre os entes da Federação dos royalties e da participação especial devidos em função da exploração de petróleo, gás natural e outros hidrocarbonetos fluidos, e para aprimorar o marco regulatório sobre a exploração desses recursos no regime de
+   voto principal do projeto: C:537339-16 (2012-11-06): "" — Sim 277, Não 47
+C:524645-65 | 2012-11-06 | Votação do destaque de preferência da bancada do DEM, para votação do PL nº 2.565/2011 (Senado Federal) sobre o Substitutivo apresentado pelo Relator designado em Plenário, pela Comissão Especial. | Sim 220 Não 211 | resultado: approved
+C:524645-81 | 2012-11-06 | Votação do art. 3º do Projeto, objeto do Destaque para votação em separado da bancada do PMDB. | Sim 309 Não 51 | resultado: approved
+C:537339-16 | 2012-11-06 |  | Sim 277 Não 47 | resultado: approved
+
+## C:525239 | PEC 103/2011 | ementa: Acresce o art. 92-A ao Ato das Disposições Constitucionais Transitórias.
+C:525239-39 | 2014-06-04 | Votação, em segundo turno, da Proposta de Emenda à Constituição nº 103 de 2011. | Sim 366 Não 2 | resultado: approved
+
+## C:527704 | PEC 111/2011 | ementa: Altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, e dá outras providências.
+   voto principal do projeto: C:527704-62 (2013-03-06): "Votação em primeiro turno." — Sim 388, Não 3
+C:527704-62 | 2013-03-06 | Votação em primeiro turno. | Sim 388 Não 3 | resultado: approved
+C:527704-65 | 2013-03-06 | Votação do art. 3º do Substitutivo adotado pela Comissão Especial, objeto do Destaque para votação em separado da bancada do PMDB. | Sim 188 Não 208 | resultado: rejected
+C:527704-79 | 2014-04-23 | Votação em segundo turno. | Sim 357 Não 1 | resultado: approved
+
+## C:527723 | MPV 549/2011 | ementa: Reduz a zero as alíquotas da Contribuição para o PIS/PASEP, da Contribuição para o Financiamento da Seguridade Social - COFINS, da Contribuição para o PIS/PASEP - Importação e da COFINS - Importação incidentes sobre a importação e a receita de venda no mercado interno dos produtos que menciona. NOVA EMENTA: Reduz a zero as alíquotas da Contribuição para o PIS/Pasep, da Contribu
+C:527723-74 | 2012-04-10 | Votação da expressão "e medicamentos" constante do § 1.º do art. 5º da Lei nº 5.991/73, alterado pelo art. 8º do Projeto de Lei de Conversão apresentado, objeto do Destaque para votação em separado da bancada do DEM. | Sim 81 Não 246 | resultado: rejected
+
+## C:527728 | MPV 550/2011 | ementa: Altera a Lei nº 10.735, de 11 de setembro de 2003, que dispõe sobre o direcionamento de depósitos à vista captados pelas instituições financeiras para operações de crédito destinadas à população de baixa renda e a microempreendedores, e dá outras providências.
+C:527728-70 | 2012-03-14 | Votação da Emenda nº 19, objeto do Destaque para votação em separado da bancada do PSD. | Sim 177 Não 192 | resultado: rejected
+
+## C:528091 | PDC 514/2011 | ementa: Dispõe sobre a convocação de plebiscito para consultar o eleitorado sobre a instituição da simultaneidade das eleições municipais, distritais, estaduais e federais.
+   voto principal do projeto: C:544573-6 (2012-05-16): "" — Sim 287, Não 120
+C:544573-6 | 2012-05-16 |  | Sim 287 Não 120 | resultado: approved
+
+## C:528165 | MPV 551/2011 | ementa: Altera dispositivos das Leis nº 7.920, de 12 de dezembro de 1989, nº 9.825, de 23 de agosto de 1999, nº 8.399, de 7 de janeiro de 1992, nº 6.009, de 26 de dezembro de 1973, nº 5.862, de 12 de dezembro de 1972, nº 12.462, de 5 de agosto de 2011; e dá outras providências. NOVA EMENTA: Altera dispositivos das Leis nºs 7.920, de 12 de dezembro de 1989, 8.399, de 7 de janeiro de 199
+C:528165-59 | 2012-04-11 | Votação da expressão "provenientes de infraestrutura explorada no regime público", constante no §3º do art. 1º da Lei nº 7.920/89, alterado pelo art. 1º do Projeto de Lei de Conversão apresentado, objeto do destaque de bancada do PT. | Sim 169 Não 231 | resultado: rejected
+C:528165-65 | 2012-04-11 | Votação da Emenda nº 09, objeto do Destaque para votação em separado da bancada do PSDB. | Sim 74 Não 302 | resultado: rejected
+
+## C:529884 | PLP 114/2011 | ementa: Altera dispositivos da Lei Complementar nº 101, de 4 de maio de 2000, que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências.
+   voto principal do projeto: C:529884-61 (2012-11-21): "Votação em turno único." — Sim 289, Não 0
+C:529884-61 | 2012-11-21 | Votação em turno único. | Sim 289 Não 0 | resultado: approved
+
+## C:531878 | PRC 103/2011 | ementa: Estabelece a estrutura funcional temporária da Liderança do Partido Social Democrático e dá outras providências.
+   voto principal do projeto: C:531883-4 (2011-12-14): "" — Sim 320, Não 46
+C:531883-4 | 2011-12-14 |  | Sim 320 Não 46 | resultado: approved
+
+## C:533505 | MPV 554/2011 | ementa: Altera a Lei nº 11.110, de 25 de abril de 2005, para autorizar a União a conceder subvenção econômica, sob a forma de equalização de parte dos custos a que estão sujeitas as instituições financeiras para contratação e acompanhamento de operações de microcrédito produtivo orientado e autoriza a concessão de subvenção econômica, sob a modalidade de equalização de taxa de juros, n
+C:533505-79 | 2012-05-09 | Votação da Emenda nº 15, objeto do Destaque para votação em separado da bancada do PSDB. | Sim 183 Não 188 | resultado: rejected
+
+## C:533535 | MPV 558/2012 | ementa: Dispõe sobre alterações nos limites dos Parques Nacionais da Amazônia, dos Campos Amazônicos e Mapinguari, das Florestas Nacionais de Itaituba I, Itaituba II e do Crepori e da Área de Proteção Ambiental do Tapajós, e dá outras providências NOVA EMENTA: Dispõe sobre alterações nos limites dos Parques Nacionais da Amazônia, dos Campos Amazônicos e Mapinguari, das Florestas Nacion
+   voto principal do projeto: C:533535-56 (2012-05-15): "Votação preliminar em turno único." — Sim 229, Não 47
+C:533535-56 | 2012-05-15 | Votação preliminar em turno único. | Sim 229 Não 47 | resultado: approved
+
+## C:535959 | MPV 559/2012 | ementa: Autoriza a Centrais Elétricas Brasileiras S.A. - ELETROBRAS a adquirir participação na Celg Distribuição S.A. - CELG D e dá outras providências. NOVA EMENTA: Autoriza a Centrais Elétricas Brasi-leiras S.A. - ELETROBRAS a adquirir o controle acionário da CELG DISTRIBUIÇÃO S.A. - CELG D; institui o Programa de Estímulo à Reestruturação e ao Fortalecimento das Instituições de Ensi
+C:535959-83 | 2012-06-12 | Votação do art. 28 do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PSDB. | Sim 221 Não 150 | resultado: approved
+
+## C:537424 | OBJ 7/2012 | ementa: Eleição para membro do Conselho Nacional do Ministério Público.
+   voto principal do projeto: C:537424-3 (2012-03-14): "Votação secreta, em turno único, para o Conselho Nacional do Ministério Público (Sessão Extraordinária - 19:15)." — Sim 0, Não 0
+C:537424-3 | 2012-03-14 | Votação secreta, em turno único, para o Conselho Nacional do Ministério Público (Sessão Extraordinária - 19:15). | Sim 0 Não 0 | resultado: approved
+
+## C:54307 | PEC 544/2002 | ementa: Cria os Tribunais Regionais Federais da 6ª, 7ª, 8ª e 9ª Regiões.
+C:54307-120 | 2013-03-13 | Votação, em primeiro turno, do Substitutivo adotado pela Comissão Especial à Proposta de Emenda à Constituição nº 544, de 2002. | Sim 347 Não 60 | resultado: approved
+
+## C:543448 | MPV 567/2012 | ementa: Altera o art. 12 da Lei nº 8.177, de 1º de março de 1991, que estabelece regras para a desindexação da economia, e dá outras providências. NOVA EMENTA: Altera o art. 12 da Lei nº 8.177, de 1º de março de 1991, que estabelece regras para a desindexação da econo-mia e dá outras providências, o art. 25 da Lei nº 9.514, de 20 de novembro de 1997, que dispõe sobre o Sistema de Finan
+C:543448-90 | 2012-07-04 | Votação da Emenda nº 17, objeto do Destaque para votação em separado da bancada do PSDB. | Sim 70 Não 195 | resultado: rejected
+
+## C:544136 | PL 3839/2012 | ementa: Altera a redação da Lei nº 9.504, de 30 de setembro de 1997.
+   voto principal do projeto: C:544176-6 (2012-05-22): "" — Sim 294, Não 14
+C:544176-6 | 2012-05-22 |  | Sim 294 Não 14 | resultado: approved
+
+## C:544274 | PEC 170/2012 | ementa: Dá nova redação ao inciso I do § 1º do art. 40 da Constituição Federal.
+   voto principal do projeto: C:544274-210 (2014-12-10): "Votação em primeiro turno." — Sim 369, Não 0
+C:544274-210 | 2014-12-10 | Votação em primeiro turno. | Sim 369 Não 0 | resultado: approved
+
+## C:544463 | MPV 570/2012 | ementa: Altera a Lei nº 10.836, de 9 de janeiro de 2004; dispõe sobre o apoio financeiro da União aos Municípios e ao Distrito Federal para ampliação da oferta da educação infantil; e dá outras providências. NOVA EMENTA: Altera as Leis nºs 10.836, de 9 de janeiro de 2004, 12.462, de 4 de agosto de 2011, e 11.977, de 7 de julho de 2009; dispõe sobre o apoio financeiro da União aos Munic
+C:544463-71 | 2012-09-04 | Votação do art. 14 do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PSDB. | Sim 231 Não 97 | resultado: approved
+
+## C:545925 | MPV 571/2012 | ementa: Altera a Lei nº 12.651, de 25 de maio de 2012, que dispõe sobre a proteção da vegetação nativa; altera as Leis nºs 6.938, de 31 de agosto de 1981, 9.393, de 19 de dezembro de 1996, e 11.428, de 22 de dezembro de 2006; revoga as Leis nºs 4.771, de 15 de setembro de 1965, e 7.754, de 14 de abril de 1989, e a Medida Provisória nº 2.166-67, de 24 de agosto de 2001. NOVA EMENTA: Alt
+C:545925-61 | 2012-09-18 | Votação da Emenda nº 533, objeto do Destaque para votação em separado da bancada do DEM. | Sim 61 Não 209 | resultado: rejected
+
+## C:551712 | PEC 197/2012 | ementa: Altera o § 2º do art. 155 da Constituição Federal, para modificar a sistemática de cobrança do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação incidente sobre as operações e prestações realizadas de forma não presencial e que destinem bens e serviços a consumidor final loc
+   voto principal do projeto: C:551712-117 (2014-11-11): "Votação em primeiro turno." — Sim 337, Não 3
+C:551712-117 | 2014-11-11 | Votação em primeiro turno. | Sim 337 Não 3 | resultado: approved
+C:551712-119 | 2014-11-11 | Votação da Emenda Aglutinativa nº 1, resultante da fusão do art. 2º da Proposta de Emenda à Constituição nº 197/2012 com o art. 3º do Substitutivo adotado pela Comissão Especial. | Sim 325 Não 1 | resultado: approved
+
+## C:552295 | PL 4246/2012 | ementa: Dispõe sobre o exercicio da profissão de motorista. NOVA EMENTA: Dispõe sobre o exercício da profissão de motorista; altera a Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e as Leis nºs 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, e 11.442, de 5 de janeiro de 2007 (empresas e transportadores autônomos de
+C:552295-75 | 2014-04-29 | Votação do art. 235-C, constante do art. 6º do Substitutivo, objeto do Destaque para votação em separado da bancada do PCdoB. | Sim 267 Não 72 | resultado: approved
+
+## C:552689 | MPV 575/2012 | ementa: Altera a Lei nº 11.079, de 30 de dezembro de 2004, que institui normas gerais para licitação e contratação de parceria público-privada no âmbito da administração pública. NOVA EMENTA: Altera as Leis nºs 11.079, de 30 de dezembro de 2004, que institui normas gerais para licitação e contratação de parceria público-privada no âmbito da administração pública, para dispor sobre o ap
+C:552689-39 | 2012-11-20 | Votação do art. 7º do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PSDB. | Sim 195 Não 79 | resultado: approved
+
+## C:553112 | PLP 200/2012 | ementa: Acrescenta § 2º ao art. 1º da Lei Complementar nº 110, de 29 de junho de 2001, para estabelecer prazo para a extinção de contribuição social.
+   voto principal do projeto: C:576895-6 (2013-05-21): "" — Sim 321, Não 6
+C:576895-6 | 2013-05-21 |  | Sim 321 Não 6 | resultado: approved
+C:553112-63 | 2013-07-03 | Votação do Destaque de preferência da bancada do PSD, para votação do PLP nº 200/2012 sobre o Substitutivo adotado pela Comissão de Trabalho, Administração e Serviço Público ao PLP nº 378/06, apensado. | Sim 315 Não 95 | resultado: approved
+
+## C:553168 | PEC 207/2012 | ementa: Altera o art. 134 da Constituição Federal.
+   voto principal do projeto: C:553168-105 (2013-07-03): "Votação em primeiro turno." — Sim 408, Não 3
+C:553168-105 | 2013-07-03 | Votação em primeiro turno. | Sim 408 Não 3 | resultado: approved
+
+## C:554191 | PL 4365/2012 | ementa: Cria cargos do Plano Geral de Cargos do Poder Executivo, de que trata a Lei nº 11.357, de 19 de outubro de 2006; da Carreira de Analista de Infraestrutura, de que trata a Lei nº 11.539, de 8 de novembro de 2007; do Plano de Carreiras para a área de Ciência e Tecnologia, de que trata a Lei nº 8.691, de 28 de julho de 1993; da Carreira da Previdência, da Saúde e do Trabalho, dos 
+   voto principal do projeto: C:561594-3 (2012-11-28): "" — Sim 276, Não 3
+C:561594-3 | 2012-11-28 |  | Sim 276 Não 3 | resultado: approved
+
+## C:554194 | PL 4367/2012 | ementa: Dispõe sobre a criação de cargos de Defensor Público Federal.
+   voto principal do projeto: C:555993-7 (2012-11-28): "" — Sim 269, Não 1
+C:555993-7 | 2012-11-28 |  | Sim 269 Não 1 | resultado: approved
+
+## C:555727 | MPV 579/2012 | ementa: Dispõe sobre as concessões de geração, transmissão e distribuição de energia elétrica, sobre a redução dos encargos setoriais, sobre a modicidade tarifária, e dá outras providências.
+C:555727-52 | 2012-12-12 | Votação da Emenda nº 72, objeto do Destaque para votação em separado da bancada do PDT. | Sim 257 Não 67 | resultado: approved
+C:555727-77 | 2012-12-18 | Votação da Emenda nº 382, objeto do Destaque para votação em separado da bancada do Bloco PV, PPS. | Sim 70 Não 191 | resultado: rejected
+C:555727-80 | 2012-12-18 | Votação da Emenda nº 135, objeto do destaque para votação em separado da bancada do DEM. | Sim 91 Não 172 | resultado: rejected
+
+## C:556261 | PL 4470/2012 | ementa: Altera as Leis nºs 9.096, de 19 de setembro de 1995, e 9.504, de 30 de setembro de 1997, nos termos que especifica.
+   voto principal do projeto: C:556590-9 (2013-04-10): "" — Sim 247, Não 20
+C:556590-9 | 2013-04-10 |  | Sim 247 Não 20 | resultado: rejected
+C:571564-6 | 2013-04-16 |  | Sim 259 Não 58 | resultado: approved
+C:556261-124 | 2013-04-23 | Votação da Emenda nº 1, objeto do Destaque para votação em separado da bancada do PPS. | Sim 74 Não 188 | resultado: rejected
+
+## C:559036 | PLP 221/2012 | ementa: Altera os Anexos da Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o abatimento de parcela dedutível do valor devido mensalmente pelo pagamento do Simples Nacional, conforme a faixa de renda da pessoa jurídica. NOVA EMENTA: Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, e as Leis nºs 5.889, de 8 de junho de 1973, 11.101, de 9 de fevereiro de 200
+   voto principal do projeto: C:559036-93 (2014-05-07): "Votação em turno único. DCD 08/05/14 PÁG 186 COL 01." — Sim 417, Não 0
+C:559036-93 | 2014-05-07 | Votação em turno único. DCD 08/05/14 PÁG 186 COL 01. | Sim 417 Não 0 | resultado: approved
+C:559036-102 | 2014-05-13 | Votação da Emenda nº 1, objeto do Destaque para votação da bancada do Bloco PP,PROS. | Sim 201 Não 131 | resultado: rejected
+C:559036-105 | 2014-05-13 | Votação da Emenda nº 20, objeto do Destaque para votação em separado da bancada do Bloco PP,PROS. | Sim 212 Não 131 | resultado: rejected
+C:559036-112 | 2014-06-03 | Votação da Emenda nº 7, objeto do Destaque da bancada do PSD. | Sim 381 Não 2 | resultado: approved
+C:559036-115 | 2014-06-03 | Votação dos artigos 1º e 2º do PLP 221/2012, para inclusão na Subemenda Substitutiva Global, objeto do Destaque para votação em separado da bancada do PSDB. | Sim 136 Não 219 | resultado: rejected
+C:559036-118 | 2014-06-03 | Votação da Emenda Aglutinativa nº 2, resultante da fusão das Emendas nºs 5, 6, 10 e 24. | Sim 341 Não 9 | resultado: approved
+C:559036-128 | 2014-06-03 | Votação da Emenda nº 17, objeto do Destaque para votação em separado da bancada do PMDB. | Sim 313 Não 1 | resultado: approved
+C:559036-131 | 2014-06-03 | Votação do art. 87-A da Lei Complementar nº 123, de 14 de dezembro de 2006, alterado pelo artigo 1º da Subemenda Substitutiva Global, objeto do Destaque para votação em separado da bancada do PRB. | Sim 288 Não 5 | resultado: approved
+C:559036-134 | 2014-06-03 | Votação do art. 10 da Subemenda Substitutiva Global, objeto do Destaque para votação em separado da bancada do PV. | Sim 137 Não 165 | resultado: rejected

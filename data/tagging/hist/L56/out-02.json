@@ -1,0 +1,436 @@
+{
+ "votes": [
+  {
+   "sv": "C:1738814-86",
+   "e": 0.3,
+   "p": 0,
+   "proc": false,
+   "c": 0.4,
+   "why": "Prorroga permissões lotéricas privadas por 50 anos."
+  },
+  {
+   "sv": "C:1738814-89",
+   "e": -0.3,
+   "p": 0,
+   "proc": false,
+   "c": 0.4,
+   "why": "Sim suprime o prazo de 50 anos, reduzindo prorrogação de permissões privadas."
+  },
+  {
+   "sv": "C:1738814-91",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:1738814-99",
+   "e": 0.3,
+   "p": 0,
+   "proc": false,
+   "c": 0.4,
+   "why": "Segundo turno da prorrogação das permissões lotéricas."
+  },
+  {
+   "sv": "C:18156-127",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:18156-148",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:18156-152",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:18156-154",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:18156-156",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2214811-8",
+   "e": -0.5,
+   "p": 0,
+   "proc": false,
+   "c": 0.6,
+   "why": "Garante psicólogos e assistentes sociais nas redes públicas de educação."
+  },
+  {
+   "sv": "C:2258907-9",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Isenta órgãos públicos e entidades filantrópicas de direitos autorais."
+  },
+  {
+   "sv": "C:2054465-88",
+   "e": -0.2,
+   "p": 0,
+   "proc": false,
+   "c": 0.4,
+   "why": "Explicita incidência de ISS sobre rastreamento de veículos."
+  },
+  {
+   "sv": "C:2209722-11",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Revalida de diplomas médicos; tema regulatório profissional."
+  },
+  {
+   "sv": "C:2075448-116",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2078693-87",
+   "e": -0.3,
+   "p": 0,
+   "proc": false,
+   "c": 0.5,
+   "why": "Libera transferências a entes inadimplentes para combate à violência contra a mulher."
+  },
+  {
+   "sv": "C:2080470-78",
+   "e": 0.2,
+   "p": 0,
+   "proc": false,
+   "c": 0.5,
+   "why": "Imunidade de IPTU para templos mesmo quando locatários."
+  },
+  {
+   "sv": "C:2080470-86",
+   "e": 0.2,
+   "p": 0,
+   "proc": false,
+   "c": 0.5,
+   "why": "Segundo turno da imunidade de IPTU para templos."
+  },
+  {
+   "sv": "C:2229812-6",
+   "e": 0.5,
+   "p": 0,
+   "proc": false,
+   "c": 0.5,
+   "why": "Clube-empresa e regime tributário especial para futebol; incentivo ao setor privado."
+  },
+  {
+   "sv": "C:2082511-75",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2083376-47",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Acordo de cooperação educacional internacional; sem efeito econômico."
+  },
+  {
+   "sv": "C:2083376-58",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Acordo de cooperação educacional internacional; sem efeito econômico."
+  },
+  {
+   "sv": "C:2219905-7",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2171314-10",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.4,
+   "why": "Criminaliza divulgação de notícia falsa; tema penal."
+  },
+  {
+   "sv": "C:2242238-17",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Regulamenta pesquisa com seres humanos; tema técnico de saúde."
+  },
+  {
+   "sv": "C:2136580-62",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2215146-4",
+   "e": 0,
+   "p": 0.2,
+   "proc": false,
+   "c": 0.3,
+   "why": "Lei de abuso de autoridade; efeito sobre autoridades ambíguo."
+  },
+  {
+   "sv": "C:2163986-7",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Política de recondicionamento de eletroeletrônicos e inclusão digital."
+  },
+  {
+   "sv": "C:2164719-7",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Governo digital e eficiência pública; efeito técnico."
+  },
+  {
+   "sv": "C:2144995-104",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Mês de conscientização sobre câncer; sem efeito."
+  },
+  {
+   "sv": "C:2144995-99",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Mês de conscientização sobre câncer; sem efeito."
+  },
+  {
+   "sv": "C:2147241-38",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Laço como patrimônio cultural; tema cultural."
+  },
+  {
+   "sv": "C:2147241-44",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Tema cultural (laço/vaquejada)."
+  },
+  {
+   "sv": "C:2147241-47",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Tema cultural (laço/vaquejada)."
+  },
+  {
+   "sv": "C:2147241-54",
+   "e": 0,
+   "p": 0,
+   "proc": true,
+   "c": 0.5,
+   "why": "Admissibilidade de destaques em globo; moção processual."
+  },
+  {
+   "sv": "C:2158536-10",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Tema cultural (laço/vaquejada)."
+  },
+  {
+   "sv": "C:2147241-66",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2147241-69",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2147241-72",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2149785-72",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Muda composição do CNAS; tema institucional."
+  },
+  {
+   "sv": "C:2158716-112",
+   "e": 0,
+   "p": 0,
+   "proc": true,
+   "c": 0.5,
+   "why": "Preferência de votação entre propostas; moção processual."
+  },
+  {
+   "sv": "C:2158716-139",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.4,
+   "why": "Cria polícias penais; tema de segurança."
+  },
+  {
+   "sv": "C:2158716-143",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2160860-165",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2160860-168",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2160860-173",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2160860-176",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2160860-178",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2160860-181",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2160860-184",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2160860-187",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2160860-190",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2160860-198",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2160860-202",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2160860-213",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  }
+ ]
+}

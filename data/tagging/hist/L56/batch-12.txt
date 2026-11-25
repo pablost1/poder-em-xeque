@@ -1,0 +1,52 @@
+## C:2237876 | PLP 11/2020 | ementa: Prevê a apuração do ICMS-substituição relativo ao diesel, etanol hidratado e à gasolina a partir de valores fixos por unidade de medida, definidos na lei estadual. NOVA EMENTA: Define os combustíveis sobre os quais incidirá uma única vez o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e 
+   voto principal do projeto: C:2237876-99 (2021-10-13): "Votação em turno único." — Sim 392, Não 71
+C:2237876-103 | 2021-10-13 | Votação das Emendas de Plenário ao Substitutivo, com parecer pela rejeição, ressalvados os destaques. | Sim 135 Não 259 | resultado: rejected
+C:2237876-107 | 2021-10-13 | Votação do DTQ 5: PT: Emenda de Plenário n. 7 (art. 161, II) | Sim 114 Não 287 | resultado: rejected
+C:2237876-113 | 2021-10-13 | Votação do DTQ 3: PT: Emenda de Plenário n. 5 (art. 161, II) | Sim 143 Não 288 | resultado: rejected
+C:2237876-116 | 2021-10-13 | Votação do DTQ 4: PSOL: Emenda de Plenário n. 4 (art. 161, II) | Sim 112 Não 306 | resultado: rejected
+C:2237876-119 | 2021-10-13 | Votação do DTQ 7: PCdoB: Emenda de Plenário nº 8 (art. 161, II) | Sim 130 Não 295 | resultado: rejected
+C:2237876-120 | 2021-10-13 | Votação do DTQ 8: PT: Emenda de Plenário nº 9 (art. 161, II) | Sim 113 Não 315 | resultado: rejected
+C:2237876-99 | 2021-10-13 | Votação em turno único. | Sim 392 Não 71 | resultado: approved
+C:2237876-159 | 2022-03-10 |  | Sim 13 Não 316 | resultado: rejected
+C:2237876-166 | 2022-03-10 |  | Sim 6 Não 290 | resultado: rejected
+C:2237876-171 | 2022-03-10 |  | Sim 8 Não 267 | resultado: rejected
+C:2237876-176 | 2022-03-10 | Votação do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 11, de 2020, com exceção dos §§ 6º e 7º do art. 6º, com parecer pela aprovação, ressalvados os destaques. | Sim 414 Não 3 | resultado: approved
+C:2237876-177 | 2022-03-10 | Votação dos §§ 6º e 7º do art. 6º do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 11, de 2020, com parecer pela rejeição, ressalvados os destaques. | Sim 128 Não 290 | resultado: rejected
+C:2237876-180 | 2022-03-10 | Votação do DTQ 1: REPUBLICANOS: destaque para votação em separado do inciso IV do art. 2º do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 11/2020. (art. 161, I) | Sim 250 Não 186 | resultado: ?
+C:2237876-183 | 2022-03-10 | Votação do DTQ 4: PT: Destaque, com vistas à aprovação, do § 6º do Artigo 6º do Substitutivo do Senado Federal oferecido ao PLP 11/2020. (art. 161, I) | Sim 128 Não 282 | resultado: ?
+C:2237876-188 | 2022-03-10 | Votação do DTQ 2: PT: Destaque, com vistas à rejeição, do Artigo 8º do Substitutivo do Senado Federal oferecido ao PLP 11/2020. (art. 161, I) | Sim 289 Não 121 | resultado: ?
+
+## C:2238112 | MPV 923/2020 | ementa: Altera a Lei nº 5.768, de 20 de dezembro de 1971, que dispõe sobre a distribuição gratuita de prêmios, mediante sorteio, vale-brinde ou concurso, a título de propaganda, e estabelece normas de proteção à poupança popular.
+   voto principal do projeto: C:2238112-32 (2020-06-03): "" — Sim 139, Não 298
+C:2238112-32 | 2020-06-03 |  | Sim 139 Não 298 | resultado: rejected
+C:2238112-46 | 2020-06-03 |  | Sim 123 Não 352 | resultado: rejected
+C:2238112-59 | 2020-06-04 | Continuação da votação em turno único. | Sim 133 Não 291 | resultado: rejected
+C:2238112-62 | 2020-06-04 | Votação do DTQ 3: PT: destaque para que o parágrafo “§ X Obedecerão aos resultados da extração da Loteria Federal, os sorteios previstos neste artigo.”, contido na Emenda de Plenário n. 5, seja inserido no Art. 1º-A da Lei n. 5.768/1971, na redação dada pelo Art. 2° do PLV à MPV 923. (161, II) | Sim 131 Não 302 | resultado: rejected
+C:2238112-68 | 2020-06-04 | Votação do DTQ 12: PSB: Destaque para Votação em Separado do art. 1-B do PLV apresentado à MPV 923/20, para fins de supressão. | Sim 290 Não 123 | resultado: ?
+C:2238112-71 | 2020-06-04 | Votação do DTQ 5: PT: destaque da Emenda de Plenário n. 7, apresentada à MPV 923. (161, II) | Sim 136 Não 308 | resultado: rejected
+C:2238112-81 | 2020-06-04 | Votação do DTQ 2: PCdoB: Destaque da emenda de comissão n. 29 de comissão apresentada à MP 923/20 (161, II). | Sim 183 Não 262 | resultado: rejected
+C:2238112-82 | 2020-06-04 | Votação do DTQ 11: PSB: Destaque de Emenda de Plenário nº 12, apresentada à MPV 923/20. | Sim 148 Não 277 | resultado: rejected
+
+## C:2238652 | PLP 27/2020 | ementa: Altera a Lei Complementar nº 130, de 17 de abril de 2009, que dispõe sobre o Sistema Nacional de Crédito Cooperativo. NOVA EMENTA: Altera a Lei Complementar nº 130, de 17 de abril de 2009, que dispõe sobre o Sistema Nacional de Crédito Cooperativo; e dá outras providências.
+   voto principal do projeto: C:2299647-11 (2021-09-28): "" — Sim 398, Não 15
+C:2299647-11 | 2021-09-28 |  | Sim 398 Não 15 | resultado: approved
+C:2238652-59 | 2021-12-15 | Votação em turno único. | Sim 432 Não 1 | resultado: approved
+
+## C:2239098 | PL 643/2020 | ementa: Estabelece uma qualificadora para o crime de furto cometido em ocasião de incêndio, naufrágio, inundação ou qualquer calamidade pública ou desastre, incluindo acidentes automobilísticos. NOVA EMENTA: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para criar forma qualificada dos crimes de furto e de peculato e estabelece novas causas de aumento de pena 
+   voto principal do projeto: C:2239098-68 (2022-08-03): "Votação, quanto ao mérito, em turno único." — Sim 408, Não 9
+C:2239098-68 | 2022-08-03 | Votação, quanto ao mérito, em turno único. | Sim 408 Não 9 | resultado: approved
+
+## C:2241642 | MPV 925/2020 | ementa: Dispõe sobre medidas emergenciais para a aviação civil brasileira em razão da pandemia da covid-19. NOVA EMENTA: Dispõe sobre medidas emergenciais para a aviação civil brasileira em razão da pandemia da Covid-19; e altera as Leis nºs 7.565, de 19 de dezembro de 1986, 6.009, de 26 de dezembro de 1973, 12.462, de 4 de agosto de 2011, 13.319, de 25 de julho de 2016, 13.499, de 26 
+C:2241642-59 | 2020-07-08 | Votação do DTQ 8: PT - Destaque do art. 4º do PLV apresentado à MPV 925/2020, com vistas à rejeição (161, I). | Sim 317 Não 135 | resultado: ?
+C:2241642-76 | 2020-07-08 | Votação do DTQ 11: Bloco PP: Destaque para votação da Emenda de Plenário nº 9 apresentada à Medida Provisória nº 925, de 2020. (161, II) | Sim 380 Não 82 | resultado: approved
+C:2241642-91 | 2020-07-08 | Votação do DTQ 6: PSOL: Destaque para votação da Emenda de Plenário nº 14, oferecida à MPV nº 925 de 2020. (161, II) | Sim 132 Não 333 | resultado: rejected
+
+## C:2241660 | MPV 926/2020 | ementa: Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para dispor sobre procedimentos para aquisição de bens, serviços e insumos destinados ao enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus. NOVA EMENTA: Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para dispor sobre procedimentos para a aquisição de bens e a contratação de
+   voto principal do projeto: C:2241660-35 (2020-07-14): "" — Sim 6, Não 279
+C:2241660-35 | 2020-07-14 |  | Sim 6 Não 279 | resultado: rejected
+C:2241660-61 | 2020-07-14 | Votação do DTQ 7: PSDB: Destaque para votação em separado da alínea b do inciso VI do artigo 3º da Lei 13.979, de 2020, constante do artigo 1º do PLV apresentado à Medida Provisória 926, de 2020 (161, I) | Sim 340 Não 92 | resultado: ?
+C:2241660-73 | 2020-07-14 | Votação do DTQ 4: PT: Destaque da Emenda de Plenário n. 3 (161, II). | Sim 120 Não 307 | resultado: rejected
+C:2241660-77 | 2020-07-14 | Votação do DTQ 2: PSB: Destaque de emenda de comissão nº 27 (161, II). | Sim 128 Não 326 | resultado: rejected
+C:2241660-85 | 2020-07-14 | Votação do DTQ 3: PT: Destaque, com vistas à rejeição, do artigo 4º-A da Lei n. 13.979/2020, na redação dada pelo artigo 1º do PLV apresentado à MPV 926/2020 (161, I). | Sim 342 Não 90 | resultado: ?
+C:2241660-90 | 2020-07-14 | Votação do DTQ 5: PT: Destaque, com vistas à rejeição, do §2º do art. 4º-E da Lei n. 13.979/2020, na redação dada pelo artigo 1º do PLV apresentado à MPV 926/2020 (161, I). | Sim 244 Não 163 | resultado: ?
+C:2241660-99 | 2020-07-14 | Votação do DTQ 6: PSOL: Destaque para votação em separado do art. 6º-A da Lei nº 13.979, de 6 de fevereiro de 2020, constante do art. 1º da MP 926/2020, com finalidade de supressão (161, I). | Sim 262 Não 137 | resultado: ?

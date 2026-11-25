@@ -1,0 +1,29 @@
+# Exemplo para Fly.io. Troque o nome do app e a região.
+#   fly launch --no-deploy --copy-config      # cria o app a partir deste arquivo
+#   fly volumes create dados --size 2 --region gru
+#   (envie o banco para o volume: veja DEPLOY.md)
+#   fly deploy
+app = "poder-em-xeque"
+primary_region = "gru"
+
+[build]
+
+[env]
+  CONGRESSO_DB = "/data/congresso.db"
+  PORT = "3000"
+
+[mounts]
+  source = "dados"
+  destination = "/data"
+
+[http_service]
+  internal_port = 3000
+  force_https = true
+  auto_stop_machines = "stop"
+  auto_start_machines = true
+  min_machines_running = 0
+
+[[vm]]
+  memory = "1gb"
+  cpu_kind = "shared"
+  cpus = 1

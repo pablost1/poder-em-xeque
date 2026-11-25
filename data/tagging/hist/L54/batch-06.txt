@@ -1,0 +1,126 @@
+## S:100754 | PLV 16/2011 | ementa: Constitui fonte de recursos adicional ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES; altera as Leis nºs 12.096, de 24 de novembro de 2009; 12.409, de 25 de maio de 2011, 10.841, de 18 de fevereiro de 2004, e 12.101, de 27 de novembro de 2009; dispõe sobre medidas de suspensão temporária de exigências de regularidade fiscal; revoga dispositivo da Lei nº 12.385,
+   voto principal do projeto: S:4862 (2011-06-29): "Votação dos Pressupostos Constitucionais de Relevância, Urgência e Adequação Financeira e Orçamentária da Medida Provisória nº 526, de 2011." — Sim 40, Não 11
+S:4862 | 2011-06-29 | Votação dos Pressupostos Constitucionais de Relevância, Urgência e Adequação Financeira e Orçamentária da Medida Provisória nº 526, de 2011. | Sim 40 Não 11 | resultado: approved
+S:4877 | 2011-06-29 | Votação do Projeto de Lei de Conversão nº 16, de 2011 | Sim 38 Não 15 | resultado: approved
+
+## S:100923 | PLV 17/2011 | ementa: Institui o Regime Diferenciado de Contratações Públicas - RDC; altera a Lei no 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, a legislação da Agência Nacional de Aviação Civil - ANAC e a legislação da Empresa Brasileira de Infraestrutura Aeroportuária - INFRAERO; cria a Secretaria de Aviação Civil, cargos de Ministro
+   voto principal do projeto: S:4878 (2011-07-06): "Votação dos Pressupostos de Relevância e Urgência da MP nº 527, de 2011" — Sim 40, Não 15
+S:4878 | 2011-07-06 | Votação dos Pressupostos de Relevância e Urgência da MP nº 527, de 2011 | Sim 40 Não 15 | resultado: approved
+S:4879 | 2011-07-06 | Votação do Projeto de Lei de Conversão nº 17, de 2011 | Sim 46 Não 18 | resultado: approved
+
+## S:100972 | MPV 538/2011 | ementa: Autoriza a prorrogação de contratos por tempo determinado firmados com fundamento na alínea "g" do inciso VI do art. 2º da Lei nº 8.745, de 9 de dezembro de 1993, e dá outras providências.
+S:4925 | 2011-10-05 | votação de emendas de parecer contrário à Medida Provisória | Sim 5 Não 49 | resultado: rejected
+
+## S:101022 | PEC 63/2011 | ementa: Altera a redação do art. 3º da Emenda Constittucional nº 62, de 9 de dezembro de 2009, para ampliar o prazo de adesão ao regime especial de precatório até a data de 31 de dezembro de 2012.
+S:5030 | 2012-08-08 | Votação da Emenda nº 1-CCJ (SUBSTITUTIVO) à Proposta de Emenda à Constituição nº 63, de 2011 - 1º Turno (altera a redação do art. 3º da Emenda Constitucional nº 62, de 9 de dezembro de 2009, para ampliar o prazo de adesão ao regime especial de precatórios até a data de 31 de dezembro de 2012). | Sim 56 Não 5 | resultado: approved
+
+## S:101037 | PEC 65/2011 | ementa: Altera o art. 27 do Ato das Disposições Constitucionais Transitórias para criar o Tribunal Regional Federal da 6ª Região, em Belo Horizonte, Minas Gerais.
+   voto principal do projeto: S:5032 (2012-08-29): "Votação em 1º turno da PEC nº 65, de 2011." — Sim 58, Não 6
+S:5032 | 2012-08-29 | Votação em 1º turno da PEC nº 65, de 2011. | Sim 58 Não 6 | resultado: approved
+S:5033 | 2012-08-29 | Votação da Emenda nº 1 - CCJ à PEC nº 65, de 2011 (1º turno). | Sim 56 Não 7 | resultado: approved
+S:5049 | 2012-11-07 | Votação da Proposta de Emenda à Constituição nº 65, de 2011 (2º turno). | Sim 56 Não 6 | resultado: approved
+
+## S:101053 | PLV 18/2011 | ementa: Altera os valores constantes da tabela do Imposto sobre a Renda da Pessoa Física e altera as Leis nºs 11.482, de 31 de maio de 2007, 7.713, de 22 de dezembro de 1988, 9.250, de 26 de dezembro de 1995, 9.656, de 3 de junho de 1998, e 10.480, de 2 de julho de 2002.
+S:4881 | 2011-08-03 | Votação da Emenda nº 51, a Medida Provisória 528 (verificação) - PLV 18/2011 | Sim 19 Não 40 | resultado: rejected
+
+## S:101405 | PLS 448/2011 | ementa: Dispõe sobre royalties e participação especial devidos em função da produção de petróleo, gás natural e outros hidrocarbonetos fluidos sob o regime de concessão no mar territorial, na zona econômica exclusiva e na plataforma continental, e sobre royalties devidos sob o regime de partilha de produção, instituído pela Lei nº 12.351, de 22 de dezembro de 2010.
+S:4916 | 2011-10-19 | Votação da Emenda nº 13 ao PLS nº 448, de 2011. | Sim 18 Não 51 | resultado: rejected
+S:4917 | 2011-10-19 | Votação da Emenda nº 25 ao PLS nº 448, de 2011. | Sim 24 Não 45 | resultado: rejected
+S:4918 | 2011-10-19 | Votação da Emenda nº 19 Substitutivo ao PLS nº 448, de 2011. | Sim 21 Não 40 | resultado: rejected
+
+## S:101736 | PLV 21/2011 | ementa: Altera as Leis nºs 9.478, de 6 de agosto de 1997, e 9.847, de 26 de outubro de de 1999, que dispõem sobre a política e a fiscalização das atividades relativas ao abastecimento nacional de combustíveis; altera o § 1º do art. 9o da Lei nº 8.723, de 28 de outubro de 1993, que dispõe sobre a redução de emissão de poluentes por veículos automotores, as Leis nºs 10.336, de 19 de deze
+   voto principal do projeto: S:4912 (2011-08-31): "Votação dos Pressupostos de Relevância e Urgência e Adequação Financeira e Orçamentária da Medida Provisória nº 532, de 2011." — Sim 43, Não 12
+S:4912 | 2011-08-31 | Votação dos Pressupostos de Relevância e Urgência e Adequação Financeira e Orçamentária da Medida Provisória nº 532, de 2011. | Sim 43 Não 12 | resultado: approved
+
+## S:101807 | PEC 82/2011 | ementa: Altera o art. 134 da Constituição Federal.
+S:5025 | 2012-08-08 | Votação em 1º turno da Proposta de Emenda à Constituição nº 82, de 2011 (altera o art. 134 da Constituição Federal - Defesoria Pública da União). | Sim 61 Não 1 | resultado: approved
+S:5031 | 2012-08-08 | Votação em 2º turno da Proposta de Emenda à Constituição nº 82, de 2011 (altera o art. 134 da Constituição Federal - Defensoria Pública da União). | Sim 65 Não 0 | resultado: approved
+
+## S:102107 | PLC 77/2011 | ementa: Altera dispositivos da Lei Complementar nº 123, de 14 de dezembro de 2006, e dá outras providências.
+   voto principal do projeto: S:4926 (2011-10-05): "votação do Projeto de Lei da Câmara nº 77, de 2011-Complementar, que altera dispositivos da Lei Complementar nº 123, de 2006, e dá outras providências." — Sim 55, Não 0
+S:4926 | 2011-10-05 | votação do Projeto de Lei da Câmara nº 77, de 2011-Complementar, que altera dispositivos da Lei Complementar nº 123, de 2006, e dá outras providências. | Sim 55 Não 0 | resultado: approved
+S:4927 | 2011-10-05 | votação das Emendas 1 a 3-CAE, de parecer favorável ao PLC 77, de 2011. | Sim 52 Não 0 | resultado: approved
+S:4928 | 2011-10-05 | votação da Emenda 4-CAE, ao PLC 77, de 2011. | Sim 6 Não 48 | resultado: rejected
+S:4929 | 2011-10-05 | votação das Emendas 5 a 10 do Parecer contrário ao PLC 77, de 2011. | Sim 1 Não 59 | resultado: rejected
+
+## S:102335 | PLV 25/2011 | ementa: Dá nova redação ao art. 4º da Lei nº 6.932, de 7 de julho de 1981, que dispõe sobre as atividades do médico-residente; e trata das contribuições devidas aos conselhos profissionais em geral.
+   voto principal do projeto: S:4924 (2011-10-05): "votação dos pressupostos constitucionais de relevância e urgência e adequação financeira e orçamentária da Medida Provisória 536, de 2011." — Sim 45, Não 13
+S:4924 | 2011-10-05 | votação dos pressupostos constitucionais de relevância e urgência e adequação financeira e orçamentária da Medida Provisória 536, de 2011. | Sim 45 Não 13 | resultado: approved
+
+## S:102439 | PLC 79/2011 | ementa: Autoriza o Poder Executivo a criar a empresa pública denominada Empresa Brasileira de Serviços Hospitalares - EBSERH; acrescenta dispositivos ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal; e dá outras providências.
+   voto principal do projeto: S:4930 (2011-11-23): "votação do Projeto de Lei da Câmara nº 79, de 2011." — Sim 42, Não 18
+S:4930 | 2011-11-23 | votação do Projeto de Lei da Câmara nº 79, de 2011. | Sim 42 Não 18 | resultado: approved
+
+## S:102551 | SCD 121/2007 | ementa: Regulamenta o § 3º do art. 198 da Constituição Federal para dispor sobre os valores mínimos a serem aplicados anualmente pela União, Estados, Distrito Federal e Municípios em ações e serviços públicos de saúde; institui contribuição social destinada à saúde; estabelece os critérios de rateio dos recursos de transferências para a saúde e as normas de fiscalização, avaliação e co
+   voto principal do projeto: S:4954 (2011-12-07): "Votação dos dispositivos do Parecer favorável ao Substitutivo da Câmara ao PLS 121, de 2007-Complementar." — Sim 70, Não 1
+S:4954 | 2011-12-07 | Votação dos dispositivos do Parecer favorável ao Substitutivo da Câmara ao PLS 121, de 2007-Complementar. | Sim 70 Não 1 | resultado: approved
+S:4955 | 2011-12-07 | Votação do inciso II, art. 1º, §§ 1º e 2º do art. 1º, compreendendo arts 12 a 27 e 62 do Substitutivo. | Sim 4 Não 65 | resultado: rejected
+S:4956 | 2011-12-07 | Votação dos §§2º e 3º do art. 6º do Substitutivo da CD ao PLS 121/2007-COmplementar (Parecer contrário). | Sim 2 Não 68 | resultado: rejected
+
+## S:102933 | PEC 103/2011 | ementa: Acrescenta o inciso VIII-A ao § 2º do art. 155 da Constituição Federal, para modificar a sistemática de cobrança do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação incidente sobre as operações e prestações realizadas de forma não presencial e que destinem bens e serviços a
+   voto principal do projeto: S:5013 (2012-07-04): "Votação da PEC 103, de 2011, na forma do texto consolidado da CCJ (1º Turno)." — Sim 60, Não 0
+S:5013 | 2012-07-04 | Votação da PEC 103, de 2011, na forma do texto consolidado da CCJ (1º Turno). | Sim 60 Não 0 | resultado: approved
+S:5014 | 2012-07-04 | Votação da PEC 103, de 2011, na forma do texto consolidado da CCJ (2º Turno). | Sim 55 Não 0 | resultado: approved
+
+## S:102990 | PLS 652/2011 | ementa: Modifica as Leis nº 8.212 e 8.213, de 24 de julho de 1991, para dispor sobre a aposentadoria especial dos garçons.
+   voto principal do projeto: S:5022 (2012-08-07): "Projeto de Lei do Senado nº 652, de 2011" — Sim 60, Não 0
+S:5022 | 2012-08-07 | Projeto de Lei do Senado nº 652, de 2011 | Sim 60 Não 0 | resultado: approved
+S:5023 | 2012-08-07 | Emenda nº1 - CAS ao PLS 652, de 2011 | Sim 55 Não 0 | resultado: approved
+
+## S:103049 | PLV 26/2011 | ementa: Autoriza o Conselho Monetário Nacional, para fins da política monetária e cambial, a estabelecer condições específicas para negociação de contratos de derivativos; altera os arts. 2º e 3º da Lei nº 6.385, de 7 de dezembro de 1976, o art. 3º do Decreto-Lei nº 1.783, de 18 de abril de 1980, os arts. 1º e 2º da Lei nº 8.894, de 21 de junho de 1994, e a Lei nº 10.931, de 2 de agost
+   voto principal do projeto: S:4933 (2011-11-16): "Votação do Projeto de Lei de Conversão nº 26, de 2011 (MPV 539/2011) (Verificação)" — Sim 44, Não 10
+S:4933 | 2011-11-16 | Votação do Projeto de Lei de Conversão nº 26, de 2011 (MPV 539/2011) (Verificação) | Sim 44 Não 10 | resultado: approved
+
+## S:103351 | PEC 114/2011 | ementa: Altera o art. 76 do Ato das Disposições Constitucionais Transitórias.
+   voto principal do projeto: S:4957 (2011-12-08): "Votação em 1º turno da PEC 114/2011." — Sim 59, Não 12
+S:4957 | 2011-12-08 | Votação em 1º turno da PEC 114/2011. | Sim 59 Não 12 | resultado: approved
+
+## S:103765 | PEC 122/2011 | ementa: Altera a redação do inciso VIII do § 3º do art. 142, da Constituição Federal, para estender aos profissionais de saúde das Forças Armadas a possibilidade de cumulação de cargo a que se refere art. 37, inciso XVI, alínea c.
+   voto principal do projeto: S:5156 (2013-08-07): "Votação do Substitutivo Consolidado a PEC nº 122/2011 (2º turno), que altera a redação do inciso VIII do § 3 do art. 142 da Constituição Federal, para estender " — Sim 57, Não 0
+S:5154 | 2013-08-07 | Votação da emenda nº 1 -CCJ (substitutivo) a PEC nº 122/2011(1º turno), que altera a redação do inciso VIII do § 3 do art. 142 da Constituição Federal para estender aos profissionais de saúde das Forças Armadas a possibilidade de cumulação de cargo a que se refere o art. 37, inciso XVI, alínea C, da Constituição. | Sim 69 Não 0 | resultado: approved
+S:5155 | 2013-08-07 | Votação da emenda nº 2 -PLEN a PEC nº 122/2011 (1º turno), que altera a redação do inciso VIII do § 3 do art. 142, da Constituição Federal, para estender aos profissionais de saúde das Forças Armadas a possibilidade de cumulação de cargo a que se refere o art. 37, inciso XVI, alínea "C", da Constituição. | Sim 60 Não 0 | resultado: approved
+S:5156 | 2013-08-07 | Votação do Substitutivo Consolidado a PEC nº 122/2011 (2º turno), que altera a redação do inciso VIII do § 3 do art. 142 da Constituição Federal, para estender aos profissionais de saúde das Forças Armadas a possibilidade de cumulação de cargo a que se refere o art. 37, inciso XVI, alínea "C" da Constituição. | Sim 57 Não 0 | resultado: approved
+
+## S:103793 | PEC 123/2011 | ementa: Acrescenta a alínea e ao inciso VI do art. 150 da Constituição Federal, instituindo imunidade tributária sobre os fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem como os suportes materiais ou arquivos digitais que os contenham.
+   voto principal do projeto: S:5175 (2013-09-11): "Votação da PEC nº 123, de 2011 (1º turno)." — Sim 50, Não 4
+S:5175 | 2013-09-11 | Votação da PEC nº 123, de 2011 (1º turno). | Sim 50 Não 4 | resultado: approved
+S:5180 | 2013-09-24 | Votação das Emendas nº 1 - CCJ e nº 3 - Plenário, à PEC 123/2011 (1º turno), que acrescenta a alínea "e" ao inciso VI do art. 150 da Constituição Federal, instituindo imunidade tributária sobre os fonogramas e videofonogramas musicais produzidos no Brasil, contendo obras musicais ou literomusicais de autores brasileiros e/ou... | Sim 5 Não 59 | resultado: rejected
+S:5181 | 2013-09-24 | Votação da Emenda nº 2 - Plenário à PEC 123/2011 (Parecer contrário), que acrescenta a alínea "e" ao inciso VI do art. 150 da Constituição Federal, instituindo imunidade tributária sobre os fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou... | Sim 4 Não 61 | resultado: rejected
+S:5182 | 2013-09-24 | Votação da Proposta de Emenda à Constituição nº123/2011 (2º turno), que acrescenta a alínea "e" ao inciso VI do art. 150 da Constituição Federal, instituindo imunidade tributária sobre os fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou... | Sim 61 Não 4 | resultado: approved
+
+## S:104266 | PEC 5/2012 | ementa: Acrescenta o art. 98 ao Ato das Disposições Constitucionais Transitórias da Constituição Federal.
+   voto principal do projeto: S:4972 (2012-03-20): "Votação da PEC 5/2012, em 1º turno." — Sim 64, Não 0
+S:4972 | 2012-03-20 | Votação da PEC 5/2012, em 1º turno. | Sim 64 Não 0 | resultado: approved
+S:4973 | 2012-03-20 | Votação das Emendas nºs 1 e 2-CCJ (de redação) à PEC 5/2012 (1º turno). | Sim 56 Não 0 | resultado: approved
+S:4974 | 2012-03-20 | Votação da PEC 5/2012, em 2º turno. | Sim 61 Não 0 | resultado: approved
+
+## S:104348 | PEC 6/2012 | ementa: Acrescenta o inciso V-A do art. 37 da Constituição da República, para vedar o provimento, a investidura e o exercício em cargo em comissão ou em função de confiança aos brasileiros que estejam em situação de inelegibilidade, ressalvadas as incompatibilidades específicas de cargos políticos eletivos, a condição de inalistável e a de militar.
+   voto principal do projeto: S:5124 (2013-07-02): "Votação da alínea "B" do inciso I do art. 37 do substitutivo a PEC nº 6/2012" — Sim 1, Não 53
+S:5122 | 2013-07-02 | Votação da emenda º 2 (Substitutivo) a Proposta de Emenda à Constituição nº 6/2012 (1º Turno). | Sim 61 Não 0 | resultado: approved
+S:5123 | 2013-07-02 | Votação do Substitutivo à Proposta de Emenda à Constituição nº 6/2012 (2º Turno). | Sim 54 Não 0 | resultado: approved
+S:5124 | 2013-07-02 | Votação da alínea "B" do inciso I do art. 37 do substitutivo a PEC nº 6/2012 | Sim 1 Não 53 | resultado: ?
+
+## S:104943 | PLV 7/2012 | ementa: Reduz a zero as alíquotas da Contribuição para o PIS/Pasep, da Contribuição para o Financiamento da Seguridade Social - COFINS, da Contribuição para o PIS/Pasep - Importação e da Cofins - Importação incidentes soabre a importação e a receita de venda no mercado interno dos produtos que menciona; altera as Leis nºs 10.865, de 30 de abril de 2004, 10.522, de 19 de julho de 2002, 
+   voto principal do projeto: S:4992 (2012-04-25): "Votação dos pressupostos de relevância e urgência do MPV nº 549, de 2011 (PLV nº 7, de 2012)." — Sim 43, Não 16
+S:4992 | 2012-04-25 | Votação dos pressupostos de relevância e urgência do MPV nº 549, de 2011 (PLV nº 7, de 2012). | Sim 43 Não 16 | resultado: approved
+
+## S:105017 | PLV 8/2012 | ementa: Altera dispositivos das Leis nºs 7.920, de 12 de dezembro de 1989, 8.399, de 7 de janeiro de 1992, 9.825, de 23 de agosto de 1999, 12.462, de 5 de agosto de 2011, 6.009, de 26 de dezembro de 1973, e 5.862, de 12 de dezembro de 1972; revoga o Decreto-Lei nº 1.896, de 17 de dezembro de 1981; e dá outras providências.
+   voto principal do projeto: S:4991 (2012-04-25): "Votação do Projeto de Lei de Conversão nº 8, de 2012 (MPV 551/2011)." — Sim 54, Não 5
+S:4991 | 2012-04-25 | Votação do Projeto de Lei de Conversão nº 8, de 2012 (MPV 551/2011). | Sim 54 Não 5 | resultado: approved
+
+## S:105190 | PLC 32/2012 | ementa: Modifica a Lista de serviços tributáveis pelo Imposto sobre Serviços de Qualquer Natureza — ISS anexa à Lei Complementar nº 116, de 31 de julho de 2003.
+   voto principal do projeto: S:5047 (2012-11-07): "Votação do Projeto de Lei da Câmara nº 32, de 2012 - Complementar." — Sim 56, Não 0
+S:5047 | 2012-11-07 | Votação do Projeto de Lei da Câmara nº 32, de 2012 - Complementar. | Sim 56 Não 0 | resultado: approved
+S:5048 | 2012-11-07 | Votação da Emenda nº 1 CCJ de Redação ao PLC nº 32/2012 - Complementar. | Sim 61 Não 0 | resultado: approved
+
+## S:105791 | PEC 57A/1999 | ementa: Dá nova redação ao art. 243 da Constituição Federal.
+S:5281 | 2014-05-27 | Votação da Proposta de Emenda à Constituição nº 57A. de 1999 (1º turno), que dá nova redação ao art. 243 da Constituição Federal (trabalho escravo). | Sim 59 Não 0 | resultado: approved
+S:5282 | 2014-05-27 | Votação da subemenda da CCJ à emenda nº 1 - Plenário à Proposta de Emenda à Constituição nº 57A. de 1999 (1º turno), que dá nova redação ao art. 243 da Constituição Federal (trabalho escravo). | Sim 53 Não 4 | resultado: approved
+S:5283 | 2014-05-27 | Votação da Proposta de Emenda à Constituição nº 57A. de 1999 (2º turno) que dá nova redação ao art. 243 da Constituição Federal (trabalho escravo). | Sim 60 Não 0 | resultado: approved
+
+## S:105947 | PLC 42/2012 | ementa: Altera dispositivo da Lei Complementar nº 93, de 4 de fevereiro de 1998, que institui o Fundo de Terras e da Reforma Agrária – Banco da Terra – e dá outras providências.
+S:5169 | 2013-08-27 | Votação da Emenda nº 3-CRA (Substitutivo) ao PLC nº 42, de 2012. | Sim 63 Não 0 | resultado: approved
+
+## S:106347 | PEC 34/2012 | ementa: Acrescenta o art. 216-A à Constituição Federal para instituir o Sistema Nacional de Cultura.
+S:5034 | 2012-09-12 | Proposta de Emenda à Constituição nº 34, de 2012 (1º turno) | Sim 56 Não 0 | resultado: approved
+S:5035 | 2012-09-12 | Proposta de Emenda à Constituição nº 34, de 2012 (2º turno). | Sim 54 Não 0 | resultado: approved

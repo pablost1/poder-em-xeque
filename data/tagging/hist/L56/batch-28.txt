@@ -1,0 +1,59 @@
+## C:2288389 | PL 2337/2021 | ementa: Altera a legislação do Imposto sobre a Renda e Proventos de Qualquer Natureza das Pessoas Físicas e das Pessoas Jurídicas e da Contribuição Social sobre o Lucro Líquido. NOVA EMENTA: Altera as Leis nºs 9.249, de 26 de dezembro de 1995, 13.043, de 13 de novembro de 2014, 8.981, de 20 de janeiro de 1995, 7.689, de 15 de dezembro de 1988, 9.430, de 27 de dezembro de 1996, 11.196, 
+   voto principal do projeto: C:2292191-9 (2021-08-04): "" — Sim 278, Não 158
+C:2292191-9 | 2021-08-04 |  | Sim 278 Não 158 | resultado: approved
+C:2288389-53 | 2021-08-17 |  | Sim 390 Não 99 | resultado: approved
+C:2288389-68 | 2021-09-01 |  | Sim 44 Não 391 | resultado: rejected
+C:2288389-78 | 2021-09-01 | Votação em turno único. | Sim 398 Não 77 | resultado: approved
+C:2288389-103 | 2021-09-02 | Votação do DTQ 39: MDB: Emenda de Plenário 39 (art. 161, II) | Sim 133 Não 311 | resultado: rejected
+C:2288389-105 | 2021-09-02 | Votação do DTQ 27: PSD: Emenda de Plenário 153 (art. 161, II) | Sim 153 Não 289 | resultado: rejected
+C:2288389-107 | 2021-09-02 | Votação do DTQ 24: PSDB: Emenda de Plenário nº 116 (art. 161, II) | Sim 73 Não 328 | resultado: rejected
+C:2288389-110 | 2021-09-02 | Votação do DTQ 7: SOLIDARIEDADE: Emenda de Plenário n. 115 (art. 161, II) | Sim 84 Não 302 | resultado: rejected
+C:2288389-113 | 2021-09-02 | Votação do DTQ 34: PT: Emenda de Plenário 164 (art. 161, II) | Sim 121 Não 290 | resultado: rejected
+C:2288389-115 | 2021-09-02 | Votação do DTQ 2: PDT: Emenda de Plenário n. 43 (art. 161, II) | Sim 185 Não 227 | resultado: rejected
+C:2288389-117 | 2021-09-02 | Votação do DTQ 38: PSL: Destaque para votação em separado do art. 10 da lei 9.250/1995, alterado pelo art. 47 da subemenda substitutiva global apresentada ao Projeto de Lei 2.337/2021, para fins de sua supressão (art. 161, I) | Sim 211 Não 209 | resultado: ?
+C:2288389-122 | 2021-09-02 | Votação do DTQ 3: PDT: Emenda de Plenário n. 50 (art. 161, II) | Sim 177 Não 262 | resultado: rejected
+C:2288389-132 | 2021-09-02 | Votação do DTQ 30: REPUBLICANOS: Emenda de Plenário 155 (art. 161, II) | Sim 68 Não 371 | resultado: rejected
+C:2288389-146 | 2021-09-02 | Votação do DTQ 40: CIDADANIA: Emenda de Plenário 133 (art. 161, II). | Sim 94 Não 335 | resultado: rejected
+C:2288389-160 | 2021-09-02 | Votação do DTQ 41: PSDB: Emenda de Plenário nº 145 (art. 161, II). | Sim 47 Não 416 | resultado: rejected
+C:2288389-88 | 2021-09-02 | Votação do DTQ 26: NOVO: Emenda de Plenário nº 78 (art. 161, II) | Sim 51 Não 300 | resultado: rejected
+C:2288389-91 | 2021-09-02 | Votação do DTQ 9: PT: Emenda de Plenário n. 106 (art. 161, II) | Sim 110 Não 295 | resultado: rejected
+C:2288389-92 | 2021-09-02 | Votação do DTQ 5: PSOL: Emenda de Plenário n. 64 (art. 161, II) | Sim 113 Não 294 | resultado: rejected
+C:2288389-98 | 2021-09-02 | Votação do DTQ 35: REPUBLICANOS: Emenda do Plenário nº 125 (art. 161, II) | Sim 319 Não 140 | resultado: approved
+
+## C:2288801 | PL 2380/2021 | ementa: Dispõe sobre o funcionamento e as operações do Fundo Geral de Turismo (Fungetur). NOVA EMENTA: Dispõe sobre o funcionamento e as operações do Fundo Geral de Turismo e passa a denomina-lo Novo Fungetur; altera as Leis nºs 11.771, de 17 de setembro de 2008, 14.002, de 22 de maio de 2020, e 10.668, de 14 de maio de 2003; e revoga o Decreto-Lei nº 1.191, de 27 de outubro de 1971
+   voto principal do projeto: C:2296277-8 (2021-09-01): "" — Sim 379, Não 73
+C:2296277-8 | 2021-09-01 |  | Sim 379 Não 73 | resultado: approved
+C:2288801-59 | 2021-12-01 | Votação em turno único. | Sim 407 Não 10 | resultado: approved
+C:2288801-72 | 2021-12-01 | Votação do DTQ 6: PSOL: Destaque para votação em separado do inciso IV do artigo 8° do PL 2.380/2021, para fins de sua supressão. (art. 161, I) | Sim 300 Não 96 | resultado: ?
+C:2288801-77 | 2021-12-01 | Votação do DTQ 11: PT: destaque, com vistas à rejeição, do inciso II do art. 31 do Substitutivo apresentado ao PL 2.380/2021. (art. 161, I) | Sim 269 Não 97 | resultado: ?
+
+## C:2289048 | PL 2405/2021 | ementa: Altera a Lei nº 7.797, de 10 de julho de 1989, que cria o Fundo Nacional de Meio Ambiente, para dispor sobre a aplicação prioritária de recursos em projetos de energia limpa e renovável.
+   voto principal do projeto: C:2300944-10 (2021-11-16): "" — Sim 276, Não 62
+C:2300944-10 | 2021-11-16 |  | Sim 276 Não 62 | resultado: approved
+
+## C:2289616 | PDL 292/2021 | ementa: Susta os efeitos do Portaria GM/SM nº 1.263, de 18 de junho de 2021, que dispõe sobre a aplicação de emendas parlamentares que adicionarem recursos ao Sistema Único de Saúde (SUS), para a realização de transferências do Fundo Nacional de Saúde aos fundos de saúde dos Estados, Distrito Federal e Municípios, no exercício de 2021. NOVA EMENTA: Susta os efeitos do art. 38 da Portar
+   voto principal do projeto: C:2289616-31 (2021-07-08): "Votação em turno único." — Sim 398, Não 16
+C:2289616-31 | 2021-07-08 | Votação em turno único. | Sim 398 Não 16 | resultado: approved
+
+## C:2289980 | PL 2486/2021 | ementa: Altera a Lei nº 9.696, de 1º de setembro de 1998, que dispõe sobre a regulamentação da profissão de Educação Física e cria os respectivos Conselho Federal e Conselhos Regionais de Educação Física.
+   voto principal do projeto: C:2290774-17 (2021-08-18): "" — Sim 406, Não 14
+C:2290774-17 | 2021-08-18 |  | Sim 406 Não 14 | resultado: approved
+C:2289980-49 | 2022-02-15 | Votação em turno único. | Sim 425 Não 26 | resultado: approved
+C:2289980-54 | 2022-02-15 | Votação do DTQ 3: PT: Emenda de Plenário n. 3 (art. 161, II) | Sim 134 Não 277 | resultado: rejected
+
+## C:2291794 | MPV 1058/2021 | ementa: Altera a Lei nº 13.844, de 18 de junho de 2019, para criar o Ministério do Trabalho e Previdência, e dá outras providências NOVA EMENTA: Cria o Ministério do Trabalho e Previdência; altera as Leis nºs 13.844, de 18 de junho de 2019, 7.998, de 11 de janeiro de 1990, e 8.036, de 11 de maio de 1990, e o Decreto-Lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho
+   voto principal do projeto: C:2291794-43 (2021-11-16): "Votação, quanto ao mérito, em turno único." — Sim 391, Não 21
+C:2291794-43 | 2021-11-16 | Votação, quanto ao mérito, em turno único. | Sim 391 Não 21 | resultado: approved
+C:2291794-46 | 2021-11-16 | Votação do DTQ 2: PT: Destaque para votação de parte da emenda de Comissão nº 18 - artigo 1º da emenda. (art. 161, II) | Sim 135 Não 255 | resultado: rejected
+C:2291794-51 | 2021-11-16 | Votação do DTQ 4: PT: Emenda de Comissão n. 235 (art. 161, II) | Sim 134 Não 270 | resultado: rejected
+C:2291794-54 | 2021-11-16 | Votação do DTQ 5: PCdoB: Emenda de Plenário nº 2 (art. 161, II) | Sim 138 Não 265 | resultado: rejected
+C:2291794-57 | 2021-11-16 | Votação do DTQ 7: PSB: Emenda de Comissão n. 246 (art. 161, II) | Sim 144 Não 248 | resultado: rejected
+C:2291794-60 | 2021-11-16 | Votação do DTQ 3: PT: destaque, com vistas à rejeição, do artigo 9º do PLV oferecido à MPV 1.058/2021. (art. 161, I) | Sim 254 Não 130 | resultado: ?
+C:2291794-62 | 2021-11-16 | Votação do DTQ 6: MDB: Destaque das alterações propostas ao Decreto-Lei nº 5.452, de 1º de maio de 1943, constantes do Art. 11 do PLV, apresentado em Plenário, à Medida Provisória 1.058/2021, para fins de sua supressão. (art. 161, I) | Sim 278 Não 115 | resultado: ?
+
+## C:2291898 | PL 2633/2021 | ementa: Esta Lei dispõe sobre repactuação de termos de compromisso entre os entes federados e o Fundo Nacional de Desenvolvimento da Educação - FNDE, para finalização de obras de infraestrutura educacional inacabadas, decorrentes de instrumentos cujo prazo de vigência tenha se esgotado sem a conclusão do objeto pactuado. NOVA EMENTA: Dispõe sobre repactuação de termos de compromisso en
+   voto principal do projeto: C:2297260-11 (2021-09-22): "" — Sim 430, Não 7
+C:2297260-11 | 2021-09-22 |  | Sim 430 Não 7 | resultado: approved
+C:2291898-53 | 2021-10-26 |  | Sim 31 Não 351 | resultado: rejected
+C:2291898-73 | 2021-10-26 | Votação em turno único. | Sim 397 Não 5 | resultado: approved
+C:2291898-78 | 2021-10-26 | Votação do DTQ 1: PSOL: Destaque para votação em separado da expressão "e de relatoria (RP 9)", constante do parágrafo único do artigo 3° do Projeto de Lei n. 2633, de 2021. (art. 161, I). | Sim 303 Não 63 | resultado: ?

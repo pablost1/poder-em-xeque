@@ -1,0 +1,132 @@
+## S:85181 | PEC 17/2008 | ementa: Acrescenta artigos ao Ato das Disposições Constitucionais Transitórias. (Dispõe sobre a prorrogação dos benefícios para a Zona Franca de Manaus).
+   voto principal do projeto: S:4740 (2010-07-07): "Votação da PEC 17, de 2008 (1º Turno) - Acrescenta artigos ao Ato das Disposições Constitucionais Transitórias. (Dispõe sobre a prorrogação dos benefícios para " — Sim 59, Não 0
+S:4741 | 2010-07-07 | Votação da Emenda nº 1 - CCJ à PEC 17 de 2008 (1º turno). | Sim 54 Não 0 | resultado: approved
+S:4742 | 2010-07-07 | Votação da Proposta de Emenda à Constituição nº 17, de 2008 (2º Turno). | Sim 53 Não 0 | resultado: approved
+
+## S:85587 | PEC 20/2008 | ementa: Altera a redação do inciso IV do caput do art. 29 da Constituição Federal e do art. 29 - A, tratando das disposições relativas à recomposição das Câmaras Municipais.
+S:4514 | 2008-12-18 | Proposta de Emenda à Constituição nº 20, de 2008 - Arts. 1º e 3º (1º Turno). | Sim 54 Não 5 | resultado: approved
+S:4519 | 2008-12-18 | Proposta de Emenda à Constituição nº 20, de 2008 - Arts. 1º e 3º (2º Turno). | Sim 58 Não 5 | resultado: approved
+
+## S:85668 | PDS 90/2008 | ementa: Aprova o texto da Convenção sobre os Direitos das Pessoas com Deficiência e de seu Protocolo Facultativo, assinados em Nova Iorque, em 30 de março de 2007.
+   voto principal do projeto: S:4287 (2008-07-02): "Votação do Projeto de Decreto Legislativo nº 90, de 2008 (1º turno)." — Sim 59, Não 0
+S:4287 | 2008-07-02 | Votação do Projeto de Decreto Legislativo nº 90, de 2008 (1º turno). | Sim 59 Não 0 | resultado: approved
+S:4290 | 2008-07-02 | Votação do Projeto de Decreto Legislativo nº 90, de 2008 (2º turno). | Sim 56 Não 0 | resultado: approved
+
+## S:85825 | PDS 139/2008 | ementa: Aprova o texto do Protocolo Facultativo ao Pacto Internacional sobre Direitos Civis e Políticos, adotado em Nova Iorque, em 16 de dezembro de 1966, e do Segundo Protocolo Facultativo ao Pacto Internacional sobre Direitos Civis e Políticos com vistas à Abolição da Pena de Morte, adotado e proclamado pela Resolução nº 44/128, de 15 de dezembro de 1989, com a reserva expressa no a
+   voto principal do projeto: S:4569 (2009-06-09): "Projeto de Decreto Legislativo nº 139, de 2008 - 1ª Verificação de Votação." — Sim 25, Não 0
+S:4569 | 2009-06-09 | Projeto de Decreto Legislativo nº 139, de 2008 - 1ª Verificação de Votação. | Sim 25 Não 0 | resultado: ?
+S:4570 | 2009-06-09 | Projeto de Decreto Legislativo nº 139, de 2008 - 2ª Verificação de Votação. | Sim 27 Não 0 | resultado: ?
+
+## S:86383 | PLV 16/2008 | ementa: Dá nova redação ao inciso II do § 2º - B do art. 17 da Lei nº 8.666, de 21 de junho de 1993, que regulamenta o inciso XXI do caput do art. 37 da Constituição Federal e institui normas para licitações e contratos da administração pública.
+S:4305 | 2008-07-09 | Votação do Projeto de Lei de Conversão nº 16, de 2008, proveniente da Medida Provisória nº 422/2008, ressalvada a Emenda nº 10-PLEN (verificação de votação solicitada pelo Senador Cristovam Buarque, com o apoiamento dos Senadores Flávio Arns, Jefferson Praia, Pedro Simon, Marina Silva e Papaléo Paes). | Sim 37 Não 23 | resultado: approved
+
+## S:86662 | PLV 19/2008 | ementa: Altera a legislação tributária federal, modificando as Leis nºs 10.865,de 30 de abril de 2004, 11.196, de 21 de novembro de 2005, 11.033, de 21 de dezembro de 2004, 11.484, de 31 de maio de 2007, 8.850, de 28 de janeiro de 1994, 8.383, de 30 de dezembro de 1991, 9.481, de 13 de agosto de 1997, 11.051, de 29 de dezembro de 2004, 9.493, de 10 de setembro de 1997, 10.925, de 23 de
+   voto principal do projeto: S:4348 (2008-08-26): "Votação dos pressupostos constitucionais de relevância e urgência e adequação financeira e orçamentária da Medida Provisória nº 428, de 2008, havendo o Senador " — Sim 32, Não 19
+S:4348 | 2008-08-26 | Votação dos pressupostos constitucionais de relevância e urgência e adequação financeira e orçamentária da Medida Provisória nº 428, de 2008, havendo o Senador José Agripino solicitado verificação de votação, com apoiamento dos Senadores Mão Santa, Alvaro Dias e Geraldo Mesquita Júnior. | Sim 32 Não 19 | resultado: approved
+
+## S:86666 | PLV 20/2008 | ementa: Autoriza a União a participar em Fundo de Garantia para a Construção Naval - FGCN para a formação de seu patrimônio; altera as Leis nºs 9.365, de 16 de dezembro de 1996, 5.662, de 21 de junho de 1971, 9.019, de 30 de março de 1995, 11.529, de 22 de outubro de 2007, 6.704, de 26 de outubro de 1979, e 9.818, de 23 de agosto de 1999; e dá outras providências.
+   voto principal do projeto: S:4349 (2008-08-27): "Votação dos pressupostos constitucionais de relevância e urgência e adequação financeira e orçamentária da Medida Provisória nº 429, de 2008 (Solicitada verific" — Sim 37, Não 26
+S:4349 | 2008-08-27 | Votação dos pressupostos constitucionais de relevância e urgência e adequação financeira e orçamentária da Medida Provisória nº 429, de 2008 (Solicitada verificação: votação nominal). | Sim 37 Não 26 | resultado: approved
+
+## S:87005 | PLC 128/2008 | ementa: Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, altera as Leis nºs 8.212, de 24 de julho de 1991, e 8.213, de 24 de julho de 1991, e dá outras providências (altera o Estatuto da Microempresa e Empresa de Pequeno Porte). (Volume - II)
+S:4496 | 2008-12-03 | Votação do Projeto de Lei da Câmara nº 128, de 2008 - Complementar, ressalvadas as emendas. | Sim 49 Não 0 | resultado: approved
+S:4497 | 2008-12-03 | Votação das Emendas nº 1 a 17, 19 a 22-CAE, ao Projeto de Lei da Câmara nº 128, de 2008 - Complementar. | Sim 51 Não 0 | resultado: approved
+S:4498 | 2008-12-03 | Votação das Emendas nº 23 a 26-PLEN (Parecer Contrário) ao Projeto de Lei da Câmara nº 128, de 2008 - Complementar. | Sim 11 Não 35 | resultado: rejected
+
+## S:87198 | PLC 136/2008 | ementa: Dispõe sobre a composição do Conselho de Administração da Superintendência da Zona Franca de Manaus; revoga a Lei Complementar nº 68, de 13 de junho de 1991; e dá outras providências.
+   voto principal do projeto: S:4678 (2009-12-16): "Votação do PLC nº 136, de 2008 - Complementar." — Sim 48, Não 0
+S:4678 | 2009-12-16 | Votação do PLC nº 136, de 2008 - Complementar. | Sim 48 Não 0 | resultado: approved
+
+## S:87262 | SCD 293/1999 | ementa: Dispõe sobre o Sistema Nacional de Crédito Cooperativo e revoga dispositivos das Leis nºs 4.595, de 31 de dezembro de 1964, e 5.764, de 16 de dezembro de 1971.
+   voto principal do projeto: S:4536 (2009-03-24): "Votação do Substitutivo da Câmara ao PLS nº 293, de 1999 - Complementar." — Sim 58, Não 0
+S:4536 | 2009-03-24 | Votação do Substitutivo da Câmara ao PLS nº 293, de 1999 - Complementar. | Sim 58 Não 0 | resultado: approved
+
+## S:87941 | PLV 27/2008 | ementa: Dispõe sobre a reestruturação da composição remuneratória das Carreiras de Auditoria da Receita Federal do Brasil e Auditoria-Fiscal do Trabalho, de que trata a Lei nº 10.910, de 15 de julho de 2004; das Carreiras da Área Jurídica, de que trata a Lei nº 11.358, de 19 de outubro de 2006; das Carreiras de Gestão Governamental, de que trata a Medida Provisória nº 2.229-43, de 6 de
+S:4477 | 2008-11-25 | Votação da Emenda nº 176 à Medida Provisória nº 440, de 2008, destacada (verificação de votação solicitada pelo Senador Marconi Perillo, com o apoiamento dos Senadores José Agripino, Antonio Carlos Júnior, Rosalba Ciarlini e Efraim Morais). | Sim 41 Não 8 | resultado: approved
+S:4478 | 2008-11-25 | Votação da Emenda nº 572 à Medida Provisória nº 440, de 2008, destacada (verificação de votação solicitada pelos Senadores Flexa Ribeiro, Marconi Perillo, José Agripino, Antonio Carlos Júnior e José Nery). | Sim 17 Não 23 | resultado: rejected
+
+## S:87948 | PEC 41/2008 | ementa: Institui o piso salarial para os servidores policiais.
+   voto principal do projeto: S:4654 (2009-12-02): "Votação em 1º turno da PEC Nº 41, de 2008." — Sim 61, Não 0
+S:4654 | 2009-12-02 | Votação em 1º turno da PEC Nº 41, de 2008. | Sim 61 Não 0 | resultado: approved
+S:4655 | 2009-12-02 | Votação em 1º turno das Emendas Nºs 1 e 2-CCJ à PEC Nº 41, de 2008. | Sim 55 Não 0 | resultado: approved
+S:4660 | 2009-12-02 | Votação (2º Turno) da PEC 41, de 2008. | Sim 55 Não 0 | resultado: approved
+S:4661 | 2009-12-02 | Votação (2º Turno) da Emenda nº 1- Plen a PEC 41, de 2008. | Sim 56 Não 0 | resultado: approved
+
+## S:88335 | PEC 42/2008 | ementa: Altera a denominação do Capítulo VII do Título VIII da Constituição Federal e modifica o seu art. 227. (Dispõe sobre a proteção dos direitos econômicos, sociais e culturais da juventude).
+   voto principal do projeto: S:4753 (2010-07-07): " Votação da PEC nº 42, de 2008 - Altera a denominação do Capítulo VII do Título VIII da Constituição Federal e modifica o seu art. 227. (Dispõe sobre a proteção" — Sim 55, Não 0
+S:4744 | 2010-07-07 | Votação da Proposta de Emenda à Constituição nº 42, de 2008 (2º Turno). | Sim 52 Não 0 | resultado: approved
+S:4753 | 2010-07-07 | Votação da PEC nº 42, de 2008 - Altera a denominação do Capítulo VII do Título VIII da Constituição Federal e modifica o seu art. 227. (Dispõe sobre a proteção dos direitos econômicos, sociais e culturais da juventude). | Sim 55 Não 0 | resultado: approved
+S:4755 | 2010-07-07 | Votação das Emendas nºs 1 a 3 - CCJ à PEC nº 42, de 2008 (1º turno). | Sim 56 Não 0 | resultado: approved
+
+## S:88340 | PLV 30/2008 | ementa: Autoriza o Banco do Brasil S.A. e a Caixa Econômica Federal a constituírem subsidiárias e a adquirirem participação em instituições financeiras sediadas no Brasil; altera as Leis nºs 10.637, de 30 de dezembro de 2002, 10.865, de 30 de abril de 2004, e 11.774, de 17 de setembro de 2008; e dá outras providências.
+S:4513 | 2008-12-16 | Votação da Emenda nº 12 à Medida Provisória nº 443, de 2008 (Verificação de votação solicitada pelo Senador José Agripino com apoiamento dos Senadores Antonio Carlos Júnior, Marconi Perillo e Jarbas Vasconcelos). | Sim 22 Não 40 | resultado: rejected
+
+## S:88596 | PEC 12A/2004 | ementa: Acrescenta artigo ao Ato das Disposições Constitucionais Transitórias para convalidar os atos de criação, fusão, incorporação e desmembramento de Municípios.
+S:4520 | 2008-12-18 | Proposta de Emenda à Constituição nº 12-A, de 2004 (2º Turno). | Sim 58 Não 0 | resultado: approved
+
+## S:88888 | PDS 430/2008 | ementa: Aprova o texto do Protocolo de Adesão da República Bolivariana da Venezuela ao Mercosul, assinado em Caracas, em 4 de julho de 2006, pelos Presidentes dos Estados Partes do Mercosul e da Venezuela. VOUME II
+   voto principal do projeto: S:4669 (2009-12-15): "Votação do PDS Nº 430, de 2008 - aprova a adesão da Venezuela ao Mercosul." — Sim 35, Não 27
+S:4669 | 2009-12-15 | Votação do PDS Nº 430, de 2008 - aprova a adesão da Venezuela ao Mercosul. | Sim 35 Não 27 | resultado: approved
+
+## S:88892 | PEC 47/2008 | ementa: Altera a redação do art. 29-A da Constituição Federal, tratando das disposições relativas à recomposição das Câmaras Municipais. (Volume II)
+   voto principal do projeto: S:4591 (2009-06-17): "Votação da PEC nº 47, de 2008 (2º Turno)." — Sim 56, Não 6
+S:4588 | 2009-06-17 | Votação da Emenda nº 2-PLEN (SUBSTITUTIVO) à PEC nº 47, de 2008 (1º Turno). | Sim 62 Não 4 | resultado: approved
+S:4589 | 2009-06-17 | Votação da Subemenda nº 1-CCJ à PEC nº 47, de 2008 (1º Turno). | Sim 55 Não 6 | resultado: approved
+S:4590 | 2009-06-17 | Votação da Subemenda nº 2-CCJ à PEC nº 47, de 2008 (1º Turno). | Sim 56 Não 3 | resultado: approved
+S:4591 | 2009-06-17 | Votação da PEC nº 47, de 2008 (2º Turno). | Sim 56 Não 6 | resultado: approved
+
+## S:90318 | PLV 2/2009 | ementa: Altera a legislação tributária federal relativa ao parcelamento ordinária de débitos tributários; concede remissão nos casos em que especifica; institui regime tributário de transição, alterando o Decreto nº 70.235, de 6 de março de 1972, as Leis nºs 8.212, de 24 de julho de 1991, 8.213, de 24 de julho de 1991, 8.218, de 29 de agosto de 1991, 9.249, de 26 de dezembro de 1995, 9
+   voto principal do projeto: S:4554 (2009-04-29): "Votação do § 5º do art. 1º do PLV, destacado (Verificação de votação, solicitada pelo Senador Aloizio Mercadante, com apoiamento dos Senadores Romero Jucá, Idel" — Sim 31, Não 20
+S:4554 | 2009-04-29 | Votação do § 5º do art. 1º do PLV, destacado (Verificação de votação, solicitada pelo Senador Aloizio Mercadante, com apoiamento dos Senadores Romero Jucá, Ideli Salvatti e Lúcia Vânia). | Sim 31 Não 20 | resultado: approved
+
+## S:90384 | PLV 3/2009 | ementa: Autoriza a União a participar de Fundo de Garantia a Empreendimentos de Energia Elétrica - FGEE; altera o § 4º do art. 1º da Lei nº 11.805, de 6 de novembro de 2008; dispõe sobre a utilização do excesso de arrecadação e do superávit financeiro das fontes de recursos existentes no Tesouro Nacional; altera o art. 1º da Lei nº 10.841, de 18 de fevereiro de 2004; e autoriza a União
+   voto principal do projeto: S:4555 (2009-05-06): " Votação do art. 19 do PLV 3, de 2009 (MP 450/2008) - verificação de votação solicitada pelo Senador Wellington Salgado de Oliveira, nos termos regimentais." — Sim 28, Não 17
+S:4555 | 2009-05-06 | Votação do art. 19 do PLV 3, de 2009 (MP 450/2008) - verificação de votação solicitada pelo Senador Wellington Salgado de Oliveira, nos termos regimentais. | Sim 28 Não 17 | resultado: approved
+
+## S:90770 | PLV 5/2009 | ementa: Dá nova redação à Lei nº 11.887, de 24 de dezembro de 2008, que cria o Fundo Soberano do Brasil - FSB, e à Lei nº 11.314, de 3 de julho de 2006, que autoriza o Departamento Nacional de Infra-Estrutura de Transportes - DNIT a executar obras nas rodovias transferidas a entes da Federação, e dá outras providências.
+S:4566 | 2009-05-27 | Emenda nº 16 ao PLV nº 5, de 2009 (MP 452/2008) - Verificação de votação. | Sim 5 Não 25 | resultado: rejected
+
+## S:91237 | PLV 9/2009 | ementa: Dispõe sobre a regularização fundiária das ocupações incidentes em terras situadas em áreas da União, no âmbito da Amazônia Legal, altera as Leis nºs 8.666, de 21 de junho de 1993, e 6.015, de 31 de dezembro de 1973, revogada a Lei nº 6.431, de 11 de julho de 1977; e dá outras providências. (Volume III)
+   voto principal do projeto: S:4567 (2009-06-03): "Expressão e Dispositivos Destacados do PLV nº 9, de 2009 (MP 458, de 2009): expressão "referentes às áreas de até quatro módulos fiscais" e art. 7º e seus incis" — Sim 23, Não 21
+S:4567 | 2009-06-03 | Expressão e Dispositivos Destacados do PLV nº 9, de 2009 (MP 458, de 2009): expressão "referentes às áreas de até quatro módulos fiscais" e art. 7º e seus incisos, constantes do PLV 9, de 2009.. | Sim 23 Não 21 | resultado: approved
+S:4568 | 2009-06-03 | PLV nº 9, de 2009 (MP 458, de 2009) - Verificação. | Sim 37 Não 2 | resultado: approved
+
+## S:91651 | PEC 28/2009 | ementa: Dá nova redação ao § 6º do art. 226 da Constituição Federal, que dispõe sobre a dissolubilidade do casamento civil pelo divórcio, suprimindo o requisito de prévia separação judicial por mais de 1 (um) ano ou de comprovada separação de fato por mais de 2 (dois) anos.
+   voto principal do projeto: S:4656 (2009-12-02): "Votação em 1º turno da PEC Nº 28, de 2009." — Sim 54, Não 3
+S:4656 | 2009-12-02 | Votação em 1º turno da PEC Nº 28, de 2009. | Sim 54 Não 3 | resultado: approved
+S:4758 | 2010-07-07 | Votação da PEC nº 28, de 2009 (2º turno) - Dá nova redação ao § 6º do art. 226 da Constituição Federal, que dispõe sobre a dissolubilidade do casamento civil pelo divórcio, suprimindo o requisito de prévia separação judicial por mais de 1 (um) ano ou de comprovada separação de fato por mais de 2 (dois) anos. | Sim 49 Não 4 | resultado: approved
+
+## S:92052 | PLC 137/2009 | ementa: Altera dispositivos da Lei Complementar nº 80, de 12 de janeiro de 1994, que organiza a Defensoria Pública da União, do Distrito Federal e dos Territórios e prescreve normas gerais para sua organização nos Estados, e da Lei nº 1.060, de 5 de fevereiro de 1950, e dá outras providências.
+   voto principal do projeto: S:4636 (2009-09-16): "Projeto de Lei de Câmara nº 137, de 2009-Complementar." — Sim 63, Não 1
+S:4636 | 2009-09-16 | Projeto de Lei de Câmara nº 137, de 2009-Complementar. | Sim 63 Não 1 | resultado: approved
+S:4637 | 2009-09-16 | Emendas nºs. 1 a 8-CCJ ao PLC 137, de 2009-CComplementar. | Sim 55 Não 2 | resultado: approved
+
+## S:92221 | PLC 141/2009 | ementa: Altera as Leis nºs 9.096, de 19 de setembro de 1995 -Lei dos Partidos Políticos, 9.504, de 30 de setembro de 1997, que estabelece normas para as eleições, e 4.737, de 15 de julho de 1965 - Código Eleitoral. (VOLUME III)
+S:4638 | 2009-09-15 | Emenda nº 67-PLEN, ao Projeto de Lei da Câmara nº 141, de 2009. | Sim 23 Não 39 | resultado: rejected
+S:4639 | 2009-09-15 | Emenda nº 68-PLEN, ao Projeto de Lei da Câmara nº 141, de 2009. | Sim 16 Não 41 | resultado: rejected
+S:4640 | 2009-09-15 | Emenda nº 69-PLEN, ao Projeto de Lei da Câmara nº 141, de 2009. | Sim 27 Não 39 | resultado: rejected
+
+## S:93462 | PEC 96A/2003 | ementa: Acrescenta § 3º ao art. 76 do Ato das Disposições Constitucionais Transitórias, para reduzir, anualmente, a partir do exercício de 2009, o percentual da Desvinculação das Receitas da União incidente sobre os recursos destinados à manutenção e desenvolvimento do ensino de que trata o art. 212 da Constituição Federal; dá nova redação aos incisos I e VII do art. 208, de forma a pr
+   voto principal do projeto: S:4651 (2009-10-28): "Votação da PEC 96-A, de 2003 (1º turno)." — Sim 53, Não 0
+S:4651 | 2009-10-28 | Votação da PEC 96-A, de 2003 (1º turno). | Sim 53 Não 0 | resultado: approved
+S:4652 | 2009-10-28 | Votação 2º turno da PEC Nº 96-A, de 2003. | Sim 52 Não 0 | resultado: approved
+
+## S:93568 | PEC 87A/2003 | ementa: Altera o art. 89 do Ato das Disposições Constitucionais Transitórias (Dispõe sobre a carreira dos servidores civis e militares do ex-Território Federal de Rondônia).
+   voto principal do projeto: S:4647 (2009-10-28): "Votação da PEC 87-A, de 2003 (1º turno)." — Sim 54, Não 0
+S:4647 | 2009-10-28 | Votação da PEC 87-A, de 2003 (1º turno). | Sim 54 Não 0 | resultado: approved
+S:4648 | 2009-10-28 | Votação da Emenda nº 1 da CCJ À PEC 87-A, de 2003 (1º turno). | Sim 53 Não 0 | resultado: approved
+S:4650 | 2009-10-28 | Votação 2º turno da PEC Nº 87-A, de 2003. | Sim 53 Não 0 | resultado: approved
+
+## S:93639 | PLC 200/2009 | ementa: Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, (altera a alíquota de tributação para produções cinematográficas, artísticas e culturais).
+   voto principal do projeto: S:4674 (2009-12-16): "Votação do PLC nº 200, de 2009 - Complementar." — Sim 51, Não 0
+S:4674 | 2009-12-16 | Votação do PLC nº 200, de 2009 - Complementar. | Sim 51 Não 0 | resultado: approved
+S:4675 | 2009-12-16 | Votação da Emenda nº 1-CAE, de redação, ao PLC nº 200, de 2009 - Complementar. | Sim 45 Não 0 | resultado: approved
+
+## S:93784 | PLC 219/2009 | ementa: Institui a Política Nacional de Assistência Técnica e Extensão Rural para a Agricultura Familiar e Reforma Agrária - PNATER e o Programa Nacional de Assistência Técnica e Extensão Rural na Agricultura Familiar e na Reforma Agrária - PRONATER, altera a Lei nº 8.666, de 21 de junho de 1993, e dá outras providências.
+   voto principal do projeto: S:4670 (2009-12-15): "Votação do PLC Nº 219, de 2009" — Sim 41, Não 8
+S:4670 | 2009-12-15 | Votação do PLC Nº 219, de 2009 | Sim 41 Não 8 | resultado: approved
+
+## S:94373 | PEC 12A/2006 | ementa: Altera o art. 100 da Constituição Federal e acrescenta o art. 97 ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento de precatórios pelos Estados, Distrito Federal e Municípios.
+   voto principal do projeto: S:4662 (2009-12-02): "Votação (1º Turno) da PEC 12A, de 2006." — Sim 56, Não 1
+S:4662 | 2009-12-02 | Votação (1º Turno) da PEC 12A, de 2006. | Sim 56 Não 1 | resultado: approved
+S:4668 | 2009-12-02 | Votação em 2º turno da PEC 12A, de 2006. | Sim 54 Não 2 | resultado: approved

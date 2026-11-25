@@ -1,0 +1,117 @@
+## S:108390 | PLS 386/2012 | ementa: Altera a Lei Complementar nº 116, de 31 de julho de 2003, que dispõe sobre o Imposto Sobre Serviços de Qualquer Natureza - ISS, de competência dos Municípios e do Distrito Federal, e dá outras providências.
+   voto principal do projeto: S:5220 (2013-11-27): "Votação do Substituivo da CAE ao Projeto de Lei do Senado nº 386 de 2012 - Complementar." — Sim 54, Não 0
+S:5220 | 2013-11-27 | Votação do Substituivo da CAE ao Projeto de Lei do Senado nº 386 de 2012 - Complementar. | Sim 54 Não 0 | resultado: approved
+S:5221 | 2013-11-27 | Votação das emendas nºs 6 e 7 ao Substitutivo ao Projeto de Lei do Senado nº 386 de 2012 - Complementar. | Sim 52 Não 0 | resultado: approved
+S:5222 | 2013-11-27 | Emendas Parecer Contrário ao Substitutivo ao PLS nº 386, de 2012 - Complementar | Sim 5 Não 47 | resultado: rejected
+
+## S:108759 | PLS 410/2012 | ementa: Altera a Lei Complementar nº 94, de 19 de fevereiro de 1998, que autoriza o Poder Executivo a criar a Região Integrada de Desenvolvimento do Distrito Federal e Entorno - RIDE e instituir o Programa Especial de Desenvolvimento do Entorno do Distrito Federal, e dá outras providências, para incluir os municípios de Alto Paraíso de Goiás e São João d’Aliança, ambos situados no Esta
+   voto principal do projeto: S:5157 (2013-08-07): "Votação do Projeto de Lei do Senado nº 410 de 2012 (Complementar) que altera a Lei Complementar nº 94, de 1998, que autoriza o poder executivo a criar a Região " — Sim 53, Não 1
+S:5157 | 2013-08-07 | Votação do Projeto de Lei do Senado nº 410 de 2012 (Complementar) que altera a Lei Complementar nº 94, de 1998, que autoriza o poder executivo a criar a Região Integrada de Desenvolvimento do Distrito Federal e Entorno - RIDE e institui o programa esepcial de desenvolvimento do Distrito Federal. | Sim 53 Não 1 | resultado: approved
+S:5158 | 2013-08-07 | Votação da emenda nº 1 CDR e emenda nº 2 Plenário com submenda ao PLS nº 410/2012 (Complementar). | Sim 60 Não 0 | resultado: approved
+
+## S:109150 | PLV 26/2012 | ementa: Dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016.
+   voto principal do projeto: S:5050 (2012-12-17): "Votação dos pressupostos de relevância e urgência da MPV nº 584, de 2012." — Sim 41, Não 8
+S:5050 | 2012-12-17 | Votação dos pressupostos de relevância e urgência da MPV nº 584, de 2012. | Sim 41 Não 8 | resultado: approved
+
+## S:109761 | PEC 66/2012 | ementa: Altera a redação do parágrafo único do art. 7º da Constituição Federal para estabelecer a igualdade de direitos trabalhistas entre os trabalhadores domésticos e demais trabalhadores urbanos e rurais.
+S:5066 | 2013-03-19 | Proposta de Emenda à Constituição nº 66, de 2012, que altera a redação do parágrafo único do art. 7º da Constituição Federal para estabelecer a igualdade de direitos trabalhistas entre os trabalhadores domésticos e demais trabalhadores urbanos e rurais | Sim 70 Não 0 | resultado: approved
+S:5068 | 2013-03-19 | Emenda nº 1 CCJ de Redação à Proposta de Emenda à Constituição nº 66, de 2012 (1º turno). | Sim 60 Não 0 | resultado: approved
+S:5070 | 2013-03-26 | Votação, em 2º turno da Proposta de Emenda à Constituição nº 66, de 2012, que altera a redação do parágrafo único do art. 7º da Constituição Federal para estabelecer a igualdade de direitos trabalhistas entre os trabalhadores domésticos e demais trabalhadores urbanos e rurais. | Sim 66 Não 0 | resultado: approved
+
+## S:112161 | PEC 18/2013 | ementa: Altera o art. 55 da Constituição Federal para tornar automática a perda do mandato de parlamentar nas hipóteses de improbidade administrativa ou de condenação por crime contra a Administração Pública.
+S:5173 | 2013-09-11 | Votação da Emenda nº 1-CCJ (Substitutivo) à PEC nº 18, de 2013 (1º turno). | Sim 69 Não 1 | resultado: approved
+S:5174 | 2013-09-11 | Votação da Emenda nº 1-CCJ (Substitutivo) à PEC nº 18, de 2013 (2º turno). | Sim 61 Não 1 | resultado: approved
+
+## S:112214 | PDS 85/2013 | ementa: Susta os efeitos da resolução administrativa expedida pelo Tribunal Superior Eleitoral nos autos da Petição nº. 9.495/AM, que redefine o número de Deputados Federais, Estaduais e Distritais.
+   voto principal do projeto: S:5202 (2013-10-23): "Votação do Projeto de Decreto Legislativo nº 85 de 2013 (verificação), que "susta os efeitos da resolução administrativa expedida pelo Tribunal Superior Eleitor" — Sim 34, Não 28
+S:5202 | 2013-10-23 | Votação do Projeto de Decreto Legislativo nº 85 de 2013 (verificação), que "susta os efeitos da resolução administrativa expedida pelo Tribunal Superior Eleitoral nos autos da Petição nº. 9.495/AM, que redefine o número de Deputados Federais, Estaduais e Distritais". | Sim 34 Não 28 | resultado: approved
+
+## S:112456 | PLS 150/2013 | ementa: Acrescenta § 5º e 6º ao art. 55 e acrescenta § 9º ao art. 57 da Lei nº 8.213, de 24 de julho de 1991, que "dispõe sobre o Plano de Benefícios da Previdência Social e dá outras providências", para dispor sobre a contagem do período de defeso no âmbito da pesca como tempo de contribuição e aposentadoria especial dos pescadores.
+S:5304 | 2014-08-05 | Votação da Emenda 2 - CAS (SUBSTITUTIVO) ao PLS 150/2013- Complementar. | Sim 57 Não 1 | resultado: approved
+
+## S:112464 | PLV 9/2013 | ementa: Dispõe sobre a exploração direta e indireta, pela União, de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários; altera as Leis nºs 5.025, de 10 de junho de 1966, 10.233, de 5 de junho de 2001, 10.683, de 28 de maio de 2003, 9.719, de 27 de novembro de 1998, e 8.213, de 24 de julho de 1991; revoga as Leis nºs 8.630, de 25 de fevereiro
+   voto principal do projeto: S:5097 (2013-05-16): "Pressupostos constitucionais de relevância, urgência e adequação financeira e orçamentária da Medida Provisória nº 595, de 2012 (verificação)" — Sim 48, Não 12
+S:5097 | 2013-05-16 | Pressupostos constitucionais de relevância, urgência e adequação financeira e orçamentária da Medida Provisória nº 595, de 2012 (verificação) | Sim 48 Não 12 | resultado: approved
+S:5098 | 2013-05-16 | Projeto de Lei de Conversão nº 9, de 2013 (MPV 595/2012) Dispõe sobre a exploração direta e indireta, pela União, de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários, e dá outras providências. | Sim 53 Não 7 | resultado: approved
+
+## S:112691 | PLV 10/2013 | ementa: Altera as Leis nºs 12.409, de 25 de maio de 2011, 12.793, de 2 de abril de 2013, que dispõe sobre o Fundo de Desenvolvimento do Centro-Oeste – FDCO, constitui fonte adicional de recursos para ampliação de limites operacionais da Caixa Econômica Federal, 12.462, de 4 de agosto de 2011, 5.862, de 12 de dezembro de 1972, 8.399, de 7 de janeiro de 1992, 12.096, de 24 de novembro de
+   voto principal do projeto: S:5099 (2013-05-28): "Votação quanto aos pressupostos constitucionais de relevância, urgência e adequação financeira e orçamentária da Medida Provisória nº 600, de 2012." — Sim 37, Não 7
+S:5099 | 2013-05-28 | Votação quanto aos pressupostos constitucionais de relevância, urgência e adequação financeira e orçamentária da Medida Provisória nº 600, de 2012. | Sim 37 Não 7 | resultado: approved
+
+## S:113049 | PLV 15/2013 | ementa: Reduz a zero alíquotas da Contribuição para o PIS/PASEP, da Cofins, da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação, incidentes sobre a receita decorrente da venda no mercado interno e sobre a importação de produtos que compõem a cesta básica, altera as Leis nºs 10.925, de 23 de julho de 2004, 10.147, de 21 de dezembro de 2000, 10.865, de 30 de abril de 2004,
+S:5112 | 2013-06-18 | Votação da emenda nº 34 à Medida Provisória nº 609, de 2013 (Verificação) | Sim 23 Não 39 | resultado: rejected
+
+## S:113086 | PLS 222/2013 | ementa: Estabelece normas gerais sobre o processo administrativo fiscal, no âmbito das administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios.
+   voto principal do projeto: S:5249 (2014-03-26): "Projeto de Lei do Senado nº 222, de 2013 - Complementar - Estabelece normas gerais sobre o processo administrativo fiscal, no âmbito das administrações tributár" — Sim 64, Não 1
+S:5248 | 2014-03-26 | Emenda 1 CCJ e subemenda à emenda 7 ao PLS nº 222, de 2013 - Complementar - Que autoriza o Poder Executivo a criar a mesorregião metade sul do Estado do Rio Grande do Sul. | Sim 55 Não 1 | resultado: approved
+S:5249 | 2014-03-26 | Projeto de Lei do Senado nº 222, de 2013 - Complementar - Estabelece normas gerais sobre o processo administrativo fiscal, no âmbito das administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios (assegura o contraditório e a ampla defesa em processo administrativo fiscal). | Sim 64 Não 1 | resultado: approved
+S:5250 | 2014-03-26 | Emendas nºs 3, 4, 5 e 6 - PLEN ao PLS nº 222, de 2013 - Complementar - que autoriza o Poder Executivo a criar a mesorregião metade sul do Estado do Rio Grande do Sul. | Sim 4 Não 52 | resultado: rejected
+
+## S:113088 | SCD 98/2002 | ementa: Dispõe sobre o procedimento para a criação, a incorporação, a fusão e o desmembramento de Municípios, nos termos do § 4º do art. 18 da Constituição Federal.
+   voto principal do projeto: S:5194 (2013-10-16): "Votação do Substitutivo da Câmara ao PLS nº 98 de 2002 - Complementar, que "dispõe sobre o procedimento para a criação, a incorporação, a fusão e o desmembramen" — Sim 53, Não 5
+S:5194 | 2013-10-16 | Votação do Substitutivo da Câmara ao PLS nº 98 de 2002 - Complementar, que "dispõe sobre o procedimento para a criação, a incorporação, a fusão e o desmembramento de Municípios". | Sim 53 Não 5 | resultado: approved
+S:5196 | 2013-10-16 | Votação do inciso VI do art. 13 do PLS nº 98, de 2002 - Complementar, que "dispõe sobre o procedimento para a criação, a incorporação, a fusão e o desmembramento de Municípios." | Sim 61 Não 1 | resultado: approved
+S:5197 | 2013-10-16 | Votação do inciso IV do art. 13 do PLS nº 98, de 2002 - Complementar, que "dispõe sobre o procedimento para a criação, a incorporação, a fusão e o desmembramento de Municípios." | Sim 6 Não 52 | resultado: rejected
+
+## S:113104 | PLS 224/2013 | ementa: Dispõe sobre o contrato de trabalho doméstico, e dá outras providências.
+   voto principal do projeto: S:5146 (2013-07-11): "Projeto de Lei do Senado nº 224 de 2013 (Complementar)" — Sim 52, Não 0
+S:5146 | 2013-07-11 | Projeto de Lei do Senado nº 224 de 2013 (Complementar) | Sim 52 Não 0 | resultado: approved
+S:5147 | 2013-07-11 | Emendas de parecer favorável ao PLS nº 224/2013 (Complementar) | Sim 49 Não 0 | resultado: approved
+S:5148 | 2013-07-11 | Emendas de parecer contrário ao PLS nº 224/2013 (Complementar) | Sim 14 Não 37 | resultado: rejected
+
+## S:113218 | PLS 240/2013 | ementa: Altera a Lei Complementar n° 62, de 28 de dezembro de 1989, a Lei n° 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), e a Lei n° 8.443, de 16 de julho de 1992 (Lei Orgânica do Tribunal de Contas da União), para dispor sobre os critérios de rateio do Fundo de Participação dos Estados e do Distrito Federal (FPE); e revoga dispositivos da Lei n° 5.172, de 25 de outubr
+   voto principal do projeto: S:5116 (2013-06-18): "Votação, em turno único, do Projeto de Lei do Senado nº 240, de 2013 - Complementar." — Sim 54, Não 9
+S:5116 | 2013-06-18 | Votação, em turno único, do Projeto de Lei do Senado nº 240, de 2013 - Complementar. | Sim 54 Não 9 | resultado: approved
+S:5117 | 2013-06-26 | Votação do caput da emenda nº 1 da Câmara dos Deputados ao PLS nº 240/2013 - Complementar | Sim 55 Não 1 | resultado: approved
+S:5118 | 2013-06-26 | Votacão a emenda nº 2 ao PLS 240/2013 - Complementar | Sim 35 Não 21 | resultado: approved
+S:5119 | 2013-06-26 | Votação do § único da emenda nº 1 da Câmara dos Deputados ao PLS 240/2013 - Complementar | Sim 20 Não 37 | resultado: rejected
+
+## S:113338 | PRS 39/2013 | ementa: Autoriza a União a contratar operação financeira com a República do Congo, no valor equivalente a US$ 352,676,103.62 (trezentos e cinquenta e dois milhões, seiscentos e setenta e seis mil, cento e três dólares dos Estados Unidos da América e sessenta e dois centavos), para o reescalonamento da dívida oficial congolesa para com o Brasil.
+   voto principal do projeto: S:5138 (2013-07-10): "Projeto de Resolução nº 39, de 2013 (verificação)" — Sim 39, Não 21
+S:5138 | 2013-07-10 | Projeto de Resolução nº 39, de 2013 (verificação) | Sim 39 Não 21 | resultado: approved
+
+## S:113546 | PEC 34/2013 | ementa: Altera os incisos XIX e XX do art. 37 e o art. 88 da Constituição Federal, para determinar que a criação e extinção de órgãos, Ministérios ou entidades da Administração Pública seja feita mediante lei complementar.
+S:5252 | 2014-03-26 | Proposta de Emenda à Constituição nº 34, de 2013 (1º turno) - que altera os incisos XIX e XX do art. 37 e o art. 88 da Constituição Federal, para determinar que a criação e extinção de órgãos, ministérios ou entidades da administração pública seja feita mediante Lei Complementar. | Sim 31 Não 23 | resultado: approved
+
+## S:114042 | PEC 39/2013 | ementa: Altera a redação do art. 159 da Constituição Federal, para aumentar em dois pontos percentuais o repasse do IR e do IPI para o Fundo de Participação dos Municípios (FPM).
+S:5305 | 2014-08-05 | Votação da Emenda 1 - CCJ (SUBSTITUTIVO) à PEC 39/2013 (1º turno). | Sim 55 Não 0 | resultado: approved
+S:5306 | 2014-08-05 | Votação da Emenda 1 - CCJ (SUBSTITUTIVO) à PEC 39/2013 (2º turno). | Sim 53 Não 0 | resultado: approved
+
+## S:114143 | PEC 22A/2000 | ementa: Altera os arts. 165 e 166 da Constituição Federal e acrescenta os arts. 35-A e 35-B ao ADCT, tornando obrigatória a execução da programação orçamentária que especifica.
+   voto principal do projeto: S:5209 (2013-11-12): "Votação do Substitutivo Consolidado à PEC nº 22A, de 2000, em segundo turno." — Sim 51, Não 8
+S:5203 | 2013-11-05 | Votação da Emenda nº 1 da CCJ à PEC nº 22A/2000 (SUBSTITUTIVO), que altera os arts. 165 e 166 da Constituição Federal e acrescenta os arts. 35 - A e 35 - B ao ADCT, tornando obrigatória a execução da programação orçamentária que especifica. | Sim 62 Não 9 | resultado: approved
+S:5204 | 2013-11-06 | Emendas 3, 5, 6, 7, 8 e 10- PLEN à PEC 22A/2000 | Sim 1 Não 56 | resultado: rejected
+S:5205 | 2013-11-06 | Subemenda CCJ à Emenda 2 - PLEN e emenda 9 - PLEN à PEC 22A/2000 | Sim 55 Não 1 | resultado: approved
+S:5208 | 2013-11-12 | Votação da Emenda 4 - Plenário à PEC nº 22A, de 2000, em primeiro turno. | Sim 34 Não 23 | resultado: approved
+S:5209 | 2013-11-12 | Votação do Substitutivo Consolidado à PEC nº 22A, de 2000, em segundo turno. | Sim 51 Não 8 | resultado: approved
+
+## S:114234 | PEC 43/2013 | ementa: Acrescenta os §§ 1º e 2º ao art. 47 e dá nova redação aos incisos III, IV e XI do art. 52, ao § 2º do art. 55 e ao § 4º do art. 66 da Constituição Federal, abolindo a votação secreta no âmbito do Poder Legislativo.
+   voto principal do projeto: S:5218 (2013-11-26): "Art. 47, da CF/88 constante do art. 1º da PEC 43/2013 (2º turno)." — Sim 41, Não 16
+S:5211 | 2013-11-13 | Proposta de Emenda à Constituição nº 43/2013 (1º turno) | Sim 54 Não 10 | resultado: approved
+S:5212 | 2013-11-13 | Emendas nºs 2 e 3 - PLEN à PEC 43/2013 (1º turno) | Sim 16 Não 46 | resultado: rejected
+S:5217 | 2013-11-26 | Proposta de Emenda à Constituição nº 43, de 2013 (2º turno), acrescenta os §§ 1º e 2º ao art. 47 e dá nova redação aos incisos III, IV e XI do art. 52, ao § 2º do art. 55 e ao §4º do art. 66 da Constituição Federal, abaolindo a votação secreta do âmbito do Poder Legislativo. | Sim 58 Não 4 | resultado: approved
+S:5218 | 2013-11-26 | Art. 47, da CF/88 constante do art. 1º da PEC 43/2013 (2º turno). | Sim 41 Não 16 | resultado: rejected
+S:5219 | 2013-11-26 | Art. 52 da CF/88 constante do art. 1º da PEC 43/2013 (2º turno). | Sim 40 Não 21 | resultado: rejected
+
+## S:114601 | PLV 26/2013 | ementa: Institui o Programa Mais Médicos; altera as Leis nºs 8.745, de 9 de dezembro de 1993, e 6.932, de 7 de julho de 1981; e dá outras providências.
+   voto principal do projeto: S:5198 (2013-10-16): "Votação do RQS nº 1215, de 2013 (verificação)." — Sim 16, Não 41
+S:5198 | 2013-10-16 | Votação do RQS nº 1215, de 2013 (verificação). | Sim 16 Não 41 | resultado: rejected
+
+## S:115051 | PLC 99/2013 | ementa: Altera a Lei Complementar nº 101, de 4 de maio de 2000, que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal; dispõe sobre critérios de indexação dos contratos de refinanciamento da dívida celebrados entre a União, Estados e Municípios; e dá outras providências.
+   voto principal do projeto: S:5312 (2014-11-05): "Votação do Projeto de Lei da Câmara nº 99, de 2013 (Complementar) que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal; " — Sim 61, Não 0
+S:5312 | 2014-11-05 | Votação do Projeto de Lei da Câmara nº 99, de 2013 (Complementar) que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal; dispõe sobre critérios de indexação dos contratos de refinanciamento da dívida celebrados entre a União, Estados e Municípios. | Sim 61 Não 0 | resultado: approved
+S:5313 | 2014-11-05 | Votação das emendas nºs 1 a 5 - CCJ/CAE ao PLC 99/2013 (Complementar). | Sim 63 Não 0 | resultado: approved
+S:5314 | 2014-11-05 | Votação das emendas nºs 6 a 8 - PLEN ao PLC 99/2013 (Complementar). | Sim 5 Não 51 | resultado: rejected
+
+## S:115169 | PEC 61/2013 | ementa: Dá nova redação ao caput do art. 54 do Ato das Disposições Constitucionais Transitórias e acrescenta art. 54-A a este Ato. (PEC dos Seringueiros / Soldados da Borracha)
+S:5262 | 2014-04-23 | Votação em primeiro turno da Proposta de Emenda à Constituição nº 61, de 2013, que dá nova redação ao "caput" do art. 54 do Ato das Disposições Constitucionais Transitórias e acrescenta o art. 54-A a este ato (indenização aos soldados da borracha). | Sim 59 Não 1 | resultado: approved
+S:5263 | 2014-04-23 | Votação da Emenda nº 1 - CCJ à Proposta de Emenda à Constituição nº 61, de 2013 (primeiro turno). | Sim 57 Não 0 | resultado: approved
+S:5264 | 2014-04-23 | Votação em segundo turno da Proposta de Emenda à Constituição nº 61, de 2013, que dá nova redação ao "caput" do art. 54 do Ato das Disposições Constitucionais Transitórias e acrescenta o art. 54-A a este ato (indenização aos soldados da borracha). | Sim 57 Não 0 | resultado: approved
+
+## S:115833 | PEC 77/2013 | ementa: Inclui o § 10 ao art. 144 da Constituição Federal, para disciplinar a segurança viária no âmbito dos Estados, do Distrito Federal e dos Municípios.
+S:5285 | 2014-05-28 | Votação da Proposta de Emenda à Constitução nº 77, de 2013 (1º Turno), que inclui o §10 ao art. 144 da Constituição Federal, para disciplinar a segurança viária no âmbito dos Estados, do Distrito Federal e dos Municípios. | Sim 58 Não 0 | resultado: approved
+S:5286 | 2014-05-28 | Votação da Proposta de Emenda à Constitução nº 77, de 2013 (2º Turno), que inclui o §10 ao art. 144 da Constituição Federal, para disciplinar a segurança viária no âmbito dos Estados, do Distrito Federal e dos Municípios. | Sim 60 Não 0 | resultado: approved
+
+## S:116436 | PEC 4/2014 | ementa: Altera o Capítulo IV - Das Funções Essenciais à Justiça, do Título IV - Da Organização dos Poderes, e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias da Constituição Federal.
+S:5279 | 2014-05-20 | Votação da Proposta de Emenda à Constituição nº 4, de 2014 (1º turno) que altera o capítulo IV - das funções essenciais à justiça, do título IV - da organização dos poderes, e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias da Constituição Federal (Defensoria Pública). | Sim 61 Não 0 | resultado: approved
+S:5280 | 2014-05-20 | Votação da Proposta de Emenda à Constituição nº 4, de 2014 (2º turno) que altera o capítulo IV - das funções essenciais à justiça, do título IV - da organização dos poderes, e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias da Constituição Federal (Defensoria Pública). | Sim 59 Não 0 | resultado: approved

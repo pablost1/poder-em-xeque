@@ -1,0 +1,51 @@
+## C:2292163 | PLP 112/2021 | ementa: Institui o Código Eleitoral. NOVA EMENTA: Dispõe sobre as normas eleitorais e as normas processuais eleitorais brasileiras.
+   voto principal do projeto: C:2294403-10 (2021-08-31): "" — Sim 322, Não 139
+C:2294403-10 | 2021-08-31 |  | Sim 322 Não 139 | resultado: approved
+C:2292163-29 | 2021-09-02 |  | Sim 118 Não 324 | resultado: rejected
+C:2292163-35 | 2021-09-02 |  | Sim 119 Não 294 | resultado: rejected
+C:2292163-103 | 2021-09-09 | Votação do DTQ 10: PSL: destaque para votação em separado do §8º do art. 170 do substitutivo apresentado ao PLP 112/2021, para fins de sua supressão; (art. 161, I). | Sim 52 Não 405 | resultado: ?
+C:2292163-104 | 2021-09-09 | Votação do DTQ 11: PSL: Destaque para votação em separado do §10º do art. 170 do substitutivo apresentado ao PLP 112/2021, para fins de sua supressão; (art. 161, I) | Sim 14 Não 411 | resultado: ?
+C:2292163-66 | 2021-09-09 | Votação em turno único. | Sim 65 Não 365 | resultado: rejected
+C:2292163-72 | 2021-09-09 | Votação em turno único. | Sim 378 Não 80 | resultado: approved
+C:2292163-77 | 2021-09-09 | Votação do DTQ 27: PT: destaque, com vistas à rejeição, do §5º do art. 50 do PLP 112/2021. (art. 161, I). | Sim 138 Não 304 | resultado: ?
+C:2292163-81 | 2021-09-09 | Votação do DTQ 35: PSB: Emenda de Plenário n. 100 (art. 161, II). | Sim 287 Não 141 | resultado: approved
+C:2292163-85 | 2021-09-09 | Votação do DTQ 38: Bloco PROS (PROS): DESTAQUE PARA VOTAÇÃO EM SEPARADO da expressão "obtenham pelo menos 80% (oitenta por cento) do quociente eleitoral e aos" contida no art. 157 da Subemenda Substitutiva apresentada ao PLP 112, de 2021, com vistas à sua rejeição. (art. 161, I). | Sim 401 Não 38 | resultado: ?
+C:2292163-88 | 2021-09-09 | Votação do DTQ 20: Bloco PROS: Emenda de Plenário n.º 40 (art. 161, II). | Sim 171 Não 253 | resultado: rejected
+C:2292163-92 | 2021-09-09 | Votação do DTQ 41: PSDB: Emenda de Plenário n.º 50 (art. 161, II). | Sim 183 Não 240 | resultado: rejected
+C:2292163-97 | 2021-09-09 | Votação do DTQ 12: PSL: destaque para votação em separado do inciso XIV do art. 170 do substitutivo apresentado ao PLP 112/2021, para fins de sua supressão. (art. 161, I). | Sim 254 Não 170 | resultado: ?
+C:2292163-98 | 2021-09-09 | Votação do DTQ 15: PSB: Emenda de Plenário n. 36 (art. 161, II). | Sim 257 Não 179 | resultado: approved
+C:2292163-122 | 2021-09-15 | Continuação da votação em turno único. | Sim 129 Não 320 | resultado: rejected
+C:2292163-125 | 2021-09-15 | Votação da Emenda Aglutinativa nº 2. | Sim 273 Não 211 | resultado: approved
+C:2292163-130 | 2021-09-15 | Votação do DTQ 34: PSDB: Emenda de Plenário nº 53 (art. 161, II) | Sim 42 Não 381 | resultado: rejected
+C:2292163-131 | 2021-09-15 | Votação do DTQ 9: PDT: Destaque do inciso VIII do art. 343 do Substitutivo, apresentado ao Projeto de Lei Complementar nº 112, de 2021, com vistas à sua supressão. (art. 161, I) | Sim 401 Não 40 | resultado: ?
+C:2292163-137 | 2021-09-15 | Votação do DTQ 19: PL: Emenda de Plenário n.º 68 (art. 161, II) | Sim 194 Não 254 | resultado: rejected
+C:2292163-139 | 2021-09-15 | Votação do DTQ 25: PT: Emenda de Plenário n. 25 (art. 161, II) | Sim 222 Não 221 | resultado: rejected
+C:2292163-142 | 2021-09-15 | Votação do DTQ 16: REPUBLICANOS: Emenda do Plenário nº 27 (art. 161, II) | Sim 52 Não 381 | resultado: rejected
+C:2292163-145 | 2021-09-15 | Votação do DTQ 36: NOVO: Destaque para a votação em separado do "Título III" Da Propaganda Partidária" constante do "Livro XVI " Da Propaganda Política" da Subemenda Substitutiva Global apresentada ao PLP 112/2021, com vista à supressão. (art. 161, I) | Sim 331 Não 111 | resultado: ?
+C:2292163-148 | 2021-09-15 | Votação do DTQ 40: REPUBLICANOS: destaque para votação em separado da expressão "templos" parágrafo primeiro do art. 488 do Subemenda Substitutiva apresentada ao Projeto de Lei Complementar nº 112 de 2021. (art. 161, I) | Sim 297 Não 8 | resultado: ?
+C:2292163-151 | 2021-09-15 | Votação do DTQ 30: SOLIDARIEDADE: Emenda de Plenário nº 64 (art. 161, II) | Sim 159 Não 283 | resultado: rejected
+C:2292163-154 | 2021-09-15 | Votação do DTQ 26: PT: Emenda de Plenário nº 45 (art. 161, II) | Sim 309 Não 166 | resultado: approved
+C:2292163-157 | 2021-09-15 | Votação do DTQ 37: PSOL: Destaque para votação em separado do art. 518, §5°, II, do substitutivo apresentado ao Projeto de Lei Complementar nº 112, de 2021, para sua supressão. (art. 161, I) | Sim 167 Não 276 | resultado: ?
+C:2292163-167 | 2021-09-15 | Votação do DTQ 8: CIDADANIA: destaque para a votação em separado do Art. 572 do Substitutivo apresentado ao Projeto de Lei Complementar nº 112, de 2021, com vistas à supressão do referido dispositivo. (art. 161, I) | Sim 355 Não 92 | resultado: ?
+C:2292163-182 | 2021-09-15 | Votação do DTQ 14: PODE: Emenda de Plenário nº 2 (art. 161, II) | Sim 26 Não 386 | resultado: rejected
+C:2292163-188 | 2021-09-15 | Votação das Emendas de Redação de nºs 1, 2, 3 e 5. | Sim 428 Não 3 | resultado: approved
+
+## C:2293229 | PLP 32/2021 | ementa: Altera a Lei Complementar nº 87, de 13 de setembro de 1996 (Lei Kandir), para regulamentar a cobrança do ICMS nas operações e prestações interestaduais destinadas a consumidor final não contribuinte do imposto. NOVA EMENTA: Altera a Lei Complementar nº 87, de 13 de setembro de 1996 (Lei Kandir), para regulamentar a cobrança do Imposto sobre Operações relativas à Circulação de M
+   voto principal do projeto: C:2293229-55 (2021-12-16): "Votação em turno único." — Sim 387, Não 1
+C:2293229-55 | 2021-12-16 | Votação em turno único. | Sim 387 Não 1 | resultado: approved
+C:2293229-61 | 2021-12-16 | Votação do DTQ 1: NOVO: Emenda de plenário nº 3 (art. 161, II) | Sim 55 Não 322 | resultado: rejected
+
+## C:2293230 | PL 2695/2021 | ementa: Denomina “Aeroporto Internacional de Campo Grande – Ueze Elias Zahran” o aeroporto internacional de Campo Grande, no Estado de Mato Grosso do Sul.
+   voto principal do projeto: C:2295975-8 (2021-08-31): "" — Sim 376, Não 14
+C:2295975-8 | 2021-08-31 |  | Sim 376 Não 14 | resultado: approved
+C:2293230-44 | 2021-09-28 | Votação em turno único. | Sim 390 Não 20 | resultado: approved
+
+## C:2293428 | MPV 1061/2021 | ementa: Institui o Programa Auxílio Brasil e o Programa Alimenta Brasil, e dá outras providências. NOVA EMENTA: Institui o Programa Auxílio Brasil e o Programa Alimenta Brasil; define metas para taxas de pobreza; altera a Lei nº 8.742, de 7 de dezembro de 1993; revoga a Lei nº 10.836, de 9 de janeiro de 2004, e dispositivos das Leis nºs 10.696, de 2 de julho de 2003, 12.512, de 14 de o
+   voto principal do projeto: C:2293428-47 (2021-11-25): "Votação preliminar em turno único." — Sim 341, Não 3
+C:2293428-47 | 2021-11-25 | Votação preliminar em turno único. | Sim 341 Não 3 | resultado: approved
+C:2293428-48 | 2021-11-25 | Votação preliminar em turno único. | Sim 325 Não 25 | resultado: approved
+C:2293428-50 | 2021-11-25 | Votação, quanto ao mérito, em turno único. | Sim 344 Não 0 | resultado: approved
+C:2293428-71 | 2021-11-25 | Votação do DTQ 22: CIDADANIA: Emenda de Comissão nº. 20 (art. 161, II). | Sim 133 Não 175 | resultado: rejected
+C:2293428-77 | 2021-11-25 | Votação do DTQ 13: PDT: Destaque do Parágrafos § 1º e 2º do art. 16 do PLV , apresentado à MP 1061/21, com o intuito da sua supressão. (art. 161, I). | Sim 228 Não 100 | resultado: ?
+C:2293428-80 | 2021-11-25 | Votação do DTQ 14: PSDB: Emenda de Comissão 242 (art. 161, II). | Sim 187 Não 115 | resultado: approved
+C:2293428-83 | 2021-11-25 | Votação do DTQ 16: NOVO: emenda de comissão nº 116 (art. 161, II). | Sim 46 Não 285 | resultado: rejected

@@ -1,0 +1,104 @@
+## C:2118401 | PEC 282/2016 | ementa: Altera a Constituição Federal para vedar as coligações nas eleições proporcionais, disciplinar a autonomia dos partidos políticos e estabelecer normas sobre fidelidade partidária e funcionamento parlamentar dos partidos políticos; e estabelece normas de transição. NOVA EMENTA: Altera a Constituição Federal para vedar as coligações partidárias nas eleições proporcionais, estabel
+   voto principal do projeto: C:2118401-274 (2017-09-20): "Votação em segundo turno." — Sim 363, Não 24
+C:2118401-230 | 2017-09-19 | Votação do destaque da bancada do PRB, que solicita preferência para votação do destaque de bancada nº 4, referente ao art. 2º da proposição original da PEC 282/2016, para que o referido destaque seja apreciado antes dos demais destaques - DTQ 15. | Sim 338 Não 52 | resultado: approved
+C:2118401-246 | 2017-09-20 | Votação do destaque da bancada do PPS, que solicita preferência para votação em separado do art. 2º da proposição original da PEC 282/2016, de autoria do Senado Federal, que "Altera a Constituição Federal para vedar as coligações partidárias nas eleições proporcionais, estabelecer normas sobre fidelidade partidária e acesso dos partidos políticos aos recursos do fundo partidário e ao tempo de propaganda gratuito no rádio e televisão e dispor sobre regras de transição", para reincluí-lo no texto a ser aprovado pela Câmara dos Deputados | Sim 348 Não 87 | resultado: approved
+C:2118401-251 | 2017-09-20 | Votação da expressão "e estabelecer regras sobre escolha, formação e duração de seus órgãos permanentes e provisórios e sobre sua", constante no §1º, do art. 17 da Constituição Federal, na redação do art. 1º do Substitutivo da PEC 282/16, objeto de destaque para votação em separado da bancada do PT - DTQ 14. | Sim 311 Não 107 | resultado: approved
+C:2118401-254 | 2017-09-20 | Votação da expressão "majoritárias, vedada a sua celebração nas eleições proporcionais", contida no §1º do art. 17, com redação dada pelo art. 1º do substitutivo apresentado à PEC 282/2016, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 1. | Sim 371 Não 11 | resultado: approved
+C:2118401-258 | 2017-09-20 | Votação do §3º (caput e incisos), do art. 17 da Constituição Federal, constante no art. 1º do substitutivo adotado pela Comissão Especial da PEC 282/2016 e, por decorrência, o art. 2º do substitutivo (regra de transição para o dispositivo destacado), objeto do destaque para votação em separado da bancada do PSOL – DTQ 3. | Sim 383 Não 17 | resultado: approved
+C:2118401-274 | 2017-09-20 | Votação em segundo turno. | Sim 363 Não 24 | resultado: approved
+C:2118401-293 | 2017-09-27 | Votação da expressão "e estabelecer regras sobre escolha, formação e duração de seus órgãos permanentes e provisórios e sobre sua", constante no §1º, do art. 17 da Constituição Federal, na redação do art. 1º do Substitutivo da PEC 282/16, objeto de destaque para votação em separado da bancada do PSOL - DTQ 1. | Sim 326 Não 104 | resultado: approved
+C:2118401-296 | 2017-09-27 | Votação do §5º do art. 17, constante no art. 1º do substitutivo apresentado à PEC 282/2016, objeto de destaque para votação em separado da bancada do DEM - DTQ 2. | Sim 13 Não 371 | resultado: rejected
+C:2118401-301 | 2017-09-27 | Votação do art. 17-A, da Constituição Federal, alterado pelo art. 1º do substitutivo apresentado à PEC 282/2016, objeto de destaque para votação em separado da bancada do PP - DTQ 4. | Sim 143 Não 280 | resultado: rejected
+
+## C:2118402 | PL 6568/2016 | ementa: Altera a Lei nº 13.254, de 13 de janeiro de 2016, que “dispõe sobre o Regime Especial de Regularização Cambial e Tributária (RERCT) de recursos, bens ou direitos de origem lícita, não declarados ou declarados incorretamente, remetidos, mantidos no exterior ou repatriados por residentes ou domiciliados no País”. NOVA EMENTA: Altera a Lei nº 13.254, de 13 de janeiro de 2016, que 
+   voto principal do projeto: C:2118402-63 (2017-02-15): "Votação em turno único." — Sim 303, Não 124
+C:2118402-63 | 2017-02-15 | Votação em turno único. | Sim 303 Não 124 | resultado: approved
+
+## C:2118464 | MPV 752/2016 | ementa: Dispõe sobre diretrizes gerais para a prorrogação e a relicitação dos contratos de parceria que especifica e dá outras providências. NOVA EMENTA: Dispõe sobre diretrizes gerais para a prorrogação e a relicitação dos contratos de parceria que especifica; altera as Leis nºs 10.233, de 5 de junho de 2001, e 8.987, de 13 de fevereiro de 1995; e dá outras providências.
+   voto principal do projeto: C:2118464-64 (2017-05-02): "Votação preliminar em turno único." — Sim 282, Não 101
+C:2118464-64 | 2017-05-02 | Votação preliminar em turno único. | Sim 282 Não 101 | resultado: approved
+C:2118464-84 | 2017-05-02 | Votação da Emenda nº 72, objeto do destaque para votação em separado da bancada do PT- DTQ 10. | Sim 83 Não 270 | resultado: rejected
+
+## C:2120019 | PL 6621/2016 | ementa: Dispõe sobre a gestão, a organização, o processo decisório e o controle social das agências reguladoras, altera a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 9.472, de 16 de julho de 1997, a Lei nº 9.478, de 6 de agosto de 1997, a Lei nº 9.782, de 26 de janeiro de 1999, a Lei nº 9.961, de 28 de janeiro de 2000, a Lei nº 9.984, de 17 de julho de 2000, a Lei nº 9.986, de 18
+   voto principal do projeto: C:2182535-20 (2018-11-27): "" — Sim 61, Não 206
+C:2182535-20 | 2018-11-27 |  | Sim 61 Não 206 | resultado: rejected
+C:2182535-22 | 2018-11-27 |  | Sim 119 Não 202 | resultado: rejected
+
+## C:2121839 | MPV 756/2016 | ementa: Altera os limites do Parque Nacional do Rio Novo, da Floresta Nacional do Jamanxim e cria a Área de Proteção Ambiental do Jamanxim. NOVA EMENTA: Altera os limites da Floresta Nacional do Jamanxim; cria a Área de Proteção Ambiental do Jamanxim; altera os limites do Parque Nacional de São Joaquim, assim como seu nome para Parque Nacional da Serra Catarinense; e revoga o Decreto n
+   voto principal do projeto: C:2121839-63 (2017-05-16): "Votação preliminar em turno único." — Sim 269, Não 26
+C:2121839-63 | 2017-05-16 | Votação preliminar em turno único. | Sim 269 Não 26 | resultado: approved
+C:2121839-78 | 2017-05-16 | Votação da expressão "bem como permitir a realização de atividades minerárias", constante do art. 1º do Projeto de Lei de Conversão 4/17, apresentado à MPV 756/16, objeto do destaque para votação em separado da bancada do PT - DTQ 2. | Sim 242 Não 25 | resultado: approved
+C:2121839-88 | 2017-05-16 | Votação do art. 5º, contido no Projeto de Lei de Conversão 4/17, apresentado à MPV 756/16, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 5. | Sim 255 Não 19 | resultado: approved
+C:2121839-91 | 2017-05-16 | Votação do art. 9º do Projeto de Lei de Conversão 4/17, apresentado à MPV 756/16, objeto do destaque para votação em separado da bancada do PT - DTQ 4. | Sim 268 Não 60 | resultado: approved
+
+## C:2121843 | MPV 757/2016 | ementa: Institui a Taxa de Controle de Incentivos Fiscais e a Taxa de Serviços em favor da Superintendência da Zona Franca de Manaus - Suframa e dá outras providências NOVA EMENTA: Institui a Taxa de Controle de Incentivos Fiscais (TCIF) e a Taxa de Serviços (TS) em favor da Superintendência da Zona Franca de Manaus (Suframa) e dá outras providências.
+C:2121843-40 | 2017-05-15 | Votação do artigo 16 do PLV 13/17, apresentado à MPV 757/16, objeto do destaque para votação em separado da bancada do PT - DTQ 1. | Sim 264 Não 89 | resultado: approved
+
+## C:2121849 | MPV 758/2016 | ementa: Altera os limites do Parque Nacional do Jamanxim e da Área de Proteção Ambiental do Tapajós. NOVA EMENTA: Altera os limites do Parque Nacional do Jamanxim e cria a Área de Proteção Ambiental Rio Branco.
+   voto principal do projeto: C:2121849-60 (2017-05-16): "Votação preliminar em turno único." — Sim 221, Não 36
+C:2121849-101 | 2017-05-16 | Votação do art. 4º do Projeto de Lei de Conversão 5/17 apresentado à MPV 758/16, com objetivo de aprová-lo e, por decorrência, o inciso I do §2º do art. 1º do Projeto de Lei de Conversão 5/2017, objeto do destaque para votação em separado da bancada do Bloco Parlamentar PP, PTN e PTdoB - DTQ 11. | Sim 240 Não 27 | resultado: approved
+C:2121849-60 | 2017-05-16 | Votação preliminar em turno único. | Sim 221 Não 36 | resultado: approved
+C:2121849-63 | 2017-05-16 | Votação do destaque da bancada do PSDB, que solicita preferência para votação do texto original da MPV 758/16 - DTQ 9. | Sim 254 Não 20 | resultado: approved
+C:2121849-83 | 2017-05-16 | Votação do art. 1º, constante da MPV 758/16, objeto do destaque para votação em separado da bancada do PT - DTQ 14. | Sim 272 Não 39 | resultado: approved
+
+## C:2122076 | PL 6787/2016 | ementa: Altera o Decreto-Lei nº 5.452, de 1º de maio de 1943 - Consolidação das Leis do Trabalho, e a Lei nº 6.019, de 3 de janeiro de 1974, para dispor sobre eleições de representantes dos trabalhadores no local de trabalho e sobre trabalho temporário, e dá outras providências. NOVA EMENTA: Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de 
+   voto principal do projeto: C:2129647-5 (2017-04-18): "" — Sim 230, Não 163
+C:2129647-5 | 2017-04-18 |  | Sim 230 Não 163 | resultado: rejected
+C:2129925-6 | 2017-04-19 |  | Sim 287 Não 144 | resultado: approved
+C:2122076-348 | 2017-04-26 | Votação em turno único. | Sim 296 Não 177 | resultado: approved
+C:2122076-358 | 2017-04-26 | Votação do art. 442-B, contido no art. 1º do Substitutivo apresentado ao PL 6787/2016, com objetivo de suprimi-lo, objeto do destaque para votação em separado da bancada do PDT - DTQ 2. | Sim 258 Não 158 | resultado: approved
+C:2122076-371 | 2017-04-26 | Votação do art. 611-A, constante do art. 1º do substitutivo apresentado ao PL 6787/2016, objeto do destaque para votação em separado da bancada do PSOL - DTQ 18. | Sim 274 Não 160 | resultado: approved
+C:2122076-387 | 2017-04-26 | Votação da Emenda de Plenário n° 15, objeto do destaque para votação em separado da bancada do PT - DTQ 54. | Sim 133 Não 285 | resultado: rejected
+C:2122076-391 | 2017-04-26 | Votação da Emenda de Plenário n° 28, objeto do destaque para votação em separado da bancada do SD - DTQ 51. | Sim 159 Não 259 | resultado: rejected
+
+## C:2122082 | MPV 763/2016 | ementa: Altera a Lei nº 8.036, de 11 de maio de 1990, para elevar a rentabilidade das contas vinculadas do trabalhador por meio da distribuição de lucros do Fundo de Garantia do Tempo de Serviço e dispor sobre possibilidade de movimentação de conta do Fundo vinculada a contrato de trabalho extinto até 31 de dezembro de 2015. NOVA EMENTA: Altera a Lei nº 8.036, de 11 de maio de 1990, pa
+C:2122082-53 | 2017-05-23 | Votação da admissibilidade do destaque simples. | Sim 6 Não 286 | resultado: rejected
+C:2122082-68 | 2017-05-23 | Votação da Emenda nº 8, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 5. | Sim 40 Não 261 | resultado: rejected
+
+## C:2123843 | PEC 304/2017 | ementa: Acrescenta § 7° ao art. 225 da Constituição Federal para determinar que práticas desportivas que utilizem animais não são consideradas cruéis, nas condições que especifica.
+   voto principal do projeto: C:2123843-66 (2017-05-10): "Votação em primeiro turno." — Sim 366, Não 50
+C:2123843-66 | 2017-05-10 | Votação em primeiro turno. | Sim 366 Não 50 | resultado: approved
+C:2123843-93 | 2017-05-31 | Votação em segundo turno. | Sim 373 Não 50 | resultado: approved
+
+## C:2124451 | PLP 343/2017 | ementa: Institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal e dá outras providências. NOVA EMENTA: Institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal; altera as Leis Complementares nºs 101, de 4 de maio de 2000, e 156, de 28 de dezembro de 2016; e dá outras providências.
+   voto principal do projeto: C:2125277-5 (2017-03-14): "" — Sim 292, Não 34
+C:2125277-5 | 2017-03-14 |  | Sim 292 Não 34 | resultado: approved
+C:2124451-108 | 2017-04-11 | Verificação da votação, solicitada pelo Deputado Arthur Lira; Líder do Bloco Parlamentar PP, PTN, PHS, PTdoB, em razão do resultado proclamado pela Mesa: "Rejeitada a admissibilidade dos destaques simples", passando-se à sua votação pelo processo nominal. | Sim 47 Não 233 | resultado: rejected
+C:2124451-130 | 2017-04-18 | Votação do destaque da bancada do PT, que solicita preferência para votação da Emenda Substitutiva Global nº 39 apresentada ao PLP 343/17 - DTQ 11. | Sim 301 Não 127 | resultado: approved
+C:2124451-156 | 2017-04-19 | Votação do art. 2º constante do substitutivo apresentado ao PLP 343/17, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 9. | Sim 302 Não 98 | resultado: approved
+C:2124451-160 | 2017-04-19 | Votação do §1º, do art. 2º do substitutivo apresentado ao PLP 343/17, objeto do destaque para votação em separado da bancada do PSOL - DTQ 8. | Sim 303 Não 51 | resultado: approved
+C:2124451-170 | 2017-04-25 | Votação do inciso I, do § 1º, do art. 2º do substitutivo apresentado ao PLP 343/17, objeto do destaque para votação em separado da bancada do PT - DTQ 21. | Sim 285 Não 143 | resultado: approved
+C:2124451-173 | 2017-04-25 | Votação da Emenda nº 24, objeto do destaque para votação em separado da bancada do PDT- DTQ 24. | Sim 164 Não 244 | resultado: rejected
+C:2124451-176 | 2017-04-25 | Votação do inciso II, do § 1º, do art. 2º do substitutivo apresentado ao PLP 343/17, com vista à sua rejeição, objeto do destaque para votação em separado da bancada do SD - DTQ 33. | Sim 241 Não 185 | resultado: rejected
+C:2124451-191 | 2017-05-10 | Votação do §3º do art. 3º do Substitutivo apresentado ao PLP 343/17, objeto do destaque para votação em separado da bancada do DEM - DTQ 35. | Sim 296 Não 91 | resultado: approved
+C:2124451-195 | 2017-05-10 | Votação do art. 8º do Substitutivo apresentado ao PLP 343/17, objeto do destaque para votação em separado da bancada do PT - DTQ 12. | Sim 314 Não 100 | resultado: approved
+C:2124451-203 | 2017-05-10 | Votação do art. 11 do Substitutivo apresentado ao PLP 343/17, com finalidade de supressão, objeto do destaque para votação em separado da bancada do PSD - DTQ 23. | Sim 3 Não 270 | resultado: rejected
+C:2124451-206 | 2017-05-10 | Votação da Emenda nº 10, objeto do destaque para votação em separado do Bloco Parlamentar PTB, PROS, PSL, PRP - DTQ 1. | Sim 348 Não 2 | resultado: approved
+
+## C:2127797 | MPV 771/2017 | ementa: Transforma a Autoridade Pública Olímpica - APO na Autoridade de Governança do Legado Olímpico - AGLO e dá outras providências. NOVA EMENTA: Transforma a Autoridade Pública Olímpica (APO) na Autoridade de Governança do Legado Olímpico (Aglo); altera a Lei nº 11.356, de 19 de outubro de 2006; revoga a Lei nº 12.396, de 21 de março de 2011; e dá outras providências.
+   voto principal do projeto: C:2127797-84 (2017-07-05): "Votação, quanto ao mérito, em turno único." — Sim 219, Não 75
+C:2127797-84 | 2017-07-05 | Votação, quanto ao mérito, em turno único. | Sim 219 Não 75 | resultado: approved
+
+## C:2127803 | MPV 772/2017 | ementa: Altera a Lei nº 7.889, de 23 de novembro de 1989, que dispõe sobre a inspeção sanitária e industrial dos produtos de origem animal.
+   voto principal do projeto: C:2127803-75 (2017-07-11): "Votação preliminar em turno único." — Sim 247, Não 8
+C:2127803-75 | 2017-07-11 | Votação preliminar em turno único. | Sim 247 Não 8 | resultado: approved
+
+## C:2128869 | MPV 775/2017 | ementa: Altera a Lei nº 12.810, de 15 de maio de 2013, para dispor sobre a constituição de gravames e ônus sobre ativos financeiros e valores mobiliários objeto de registro ou de depósito centralizado.
+C:2128869-89 | 2017-08-15 | Votação do trecho "não se aplicando, quando se tratar de alienação fiduciária de imóvel, o disposto nos parágrafos 5º e 6º, do art. 27, da Lei 9.514, de 20 de novembro de 1997", constante do art. 9º do Projeto de Lei de Conversão apresentado à Medida Provisória 775/17, objeto do destaque para votação em separado da bancada do PT - DTQ 11. | Sim 219 Não 111 | resultado: approved
+
+## C:2129185 | PL 7391/2017 | ementa: Dispõe sobre a anistia das dívidas e multas referentes a cobrança da contribuição ao Fundo de Assistência ao Trabalhador Rural (Funrural) durante o período de 2011 a 2017.
+C:2129185-86 | 2017-12-12 | Votação do art. 15 do PL 9206/17, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 1. | Sim 202 Não 108 | resultado: approved
+
+## C:2132523 | MPV 776/2017 | ementa: Altera a Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos.
+   voto principal do projeto: C:2132523-80 (2017-09-05): "Votação em turno único." — Sim 156, Não 106
+C:2132523-80 | 2017-09-05 | Votação em turno único. | Sim 156 Não 106 | resultado: approved
+
+## C:2132524 | MPV 777/2017 | ementa: Institui a Taxa de Longo Prazo - TLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-Pasep, do Fundo de Amparo ao Trabalhador e do Fundo da Marinha Mercante e dá outras providências. NOVA EMENTA: Institui a Taxa de Longo Prazo (TLP); dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-Pasep, do Fundo de Amparo ao Trabalhador (FAT) e do Fun
+   voto principal do projeto: C:2132524-64 (2017-08-23): "Votação preliminar em turno único." — Sim 261, Não 31
+C:2132524-64 | 2017-08-23 | Votação preliminar em turno único. | Sim 261 Não 31 | resultado: approved
+C:2132524-73 | 2017-08-23 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 28 Não 232 | resultado: rejected
+C:2132524-113 | 2017-08-30 | Votação do art. 12 do Projeto de Lei de Conversão nº 27/17, apresentado à MPV 777/17, objeto do destaque para votação em separado da bancada do PT - DTQ 11. | Sim 231 Não 23 | resultado: approved
+
+## C:2135223 | PL 7574/2017 | ementa: Institui novo marco legal para o exercício da soberania popular direta nos termos referidos no art. 14, incisos I a III, da Constituição Federal.
+   voto principal do projeto: C:2139214-8 (2017-12-13): "" — Sim 323, Não 12
+C:2139214-8 | 2017-12-13 |  | Sim 323 Não 12 | resultado: approved

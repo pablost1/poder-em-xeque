@@ -1,0 +1,159 @@
+## S:141443 | PEC 10/2020 | ementa: Institui regime extraordinário fiscal, financeiro e de contratações para enfrentamento da calamidade pública nacional decorrente de pandemia internacional; e dá outras providências.
+S:6088 | 2020-04-15 | Votação da Emenda nº 63 (Substitutivo) do Relator à PEC nº 10, de 2020, ressalvados os destaques (1º Turno) | Sim 58 Não 21 | resultado: approved
+S:6089 | 2020-04-15 | Votação da Emenda nº 42 à Proposta de Emenda à Constituição nº 10, de 2020, destacada | Sim 23 Não 53 | resultado: rejected
+S:6090 | 2020-04-15 | Votação da Emenda nº 46 à Proposta de Emenda à Constituição nº 10, de 2020, destacada | Sim 17 Não 53 | resultado: rejected
+S:6091 | 2020-04-15 | Votação da Art. 6º do Substitutivo à Proposta de Emenda à Constituição nº 10, de 2020, destacado | Sim 62 Não 13 | resultado: approved
+S:6092 | 2020-04-15 | Votação da Redação proposta pelo Relator, em substituição às Emendas nºs 34 e 45 à PEC nº 10/2020 (1º Turno) | Sim 74 Não 2 | resultado: approved
+S:6093 | 2020-04-17 | Votação da Proposta de Emenda à Constituição nº 10, de 2020 (2º Turno) | Sim 63 Não 15 | resultado: approved
+
+## S:141475 | MPV 946/2020 | ementa: Extingue o Fundo PIS-Pasep, instituído pela Lei Complementar nº 26, de 11 de setembro de 1975, transfere o seu patrimônio para o Fundo de Garantia do Tempo de Serviço, e dá outras providências.
+   voto principal do projeto: S:6162 (2020-07-30): "Votação do PLV nº 31, de 2020 e Pres. de Relevância e Urgência, com adendo do Relator." — Sim 72, Não 0
+S:6162 | 2020-07-30 | Votação do PLV nº 31, de 2020 e Pres. de Relevância e Urgência, com adendo do Relator. | Sim 72 Não 0 | resultado: approved
+
+## S:141561 | PL 1886/2020 | ementa: Institui o Certificado de Recebíveis da Educação (CRE) - Emergencial - em decorrência do estado de calamidade pública pela pandemia de COVID-19
+S:6117 | 2020-05-20 | Votação da Emenda nº 28 - PLEN (Substitutivo) do Relator ao PL nº 1886, de 2020, ressalvado o destaque. | Sim 77 Não 0 | resultado: approved
+
+## S:141571 | PLP 149/2019 | ementa: Estabelece auxílio financeiro da União aos Estados, ao Distrito Federal e aos Municípios para mitigar os efeitos da pandemia da Covid-19; dispõe sobre a aplicação da Lei Complementar nº 101, de 4 de maio de 2000; e dá outras providências.
+S:6099 | 2020-05-02 | Votação da Emenda nº 46 - PLEN (Subst.) ao PLP nº 39, de 2020, ressalvados os destaques, com adendo do Relator. | Sim 79 Não 1 | resultado: approved
+
+## S:141614 | PL 873/2020 (Substitutivo-CD) | ementa: Altera a Lei nº 13.982, de 2 de abril de 2020, para promover modificações nas regras do auxílio emergencial; veda a suspensão de benefícios previdenciários e assistenciais para idosos, pessoas com deficiência ou pessoas com enfermidade grave, enquanto durar a pandemia da Covid-19; e dá outras providências
+   voto principal do projeto: S:6094 (2020-04-22): "Votação do Substitutivo da Câmara dos Deputados ao Projeto de Lei do Senado nº 873, de 2020." — Sim 80, Não 0
+S:6094 | 2020-04-22 | Votação do Substitutivo da Câmara dos Deputados ao Projeto de Lei do Senado nº 873, de 2020. | Sim 80 Não 0 | resultado: approved
+
+## S:141669 | PL 2083/2020 | ementa: Altera a Lei nº 13.979, de 26 de fevereiro de 1998, que dispõe sobre as medidas para enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019, para criar programa de atenção aos problemas de saúde mental ocorridos em virtude do período de distanciamento social.
+   voto principal do projeto: S:6301 (2021-04-07): "Votação nominal." — Sim 73, Não 0
+S:6301 | 2021-04-07 | Votação nominal. | Sim 73 Não 0 | resultado: approved
+
+## S:141674 | PL 1282/2020 (Substitutivo-CD) | ementa: Institui o Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe), para o desenvolvimento e o fortalecimento dos pequenos negócios; e altera as Leis nºs 13.636, de 20 de março de 2018, 10.735, de 11 de setembro de 2003, e 9.790, de 23 de março de 1999.
+   voto principal do projeto: S:6095 (2020-04-24): "Votação do Substitutivo da Câmara dos Deputados ao Projeto de Lei nº 1282, de 2020." — Sim 74, Não 0
+S:6095 | 2020-04-24 | Votação do Substitutivo da Câmara dos Deputados ao Projeto de Lei nº 1282, de 2020. | Sim 74 Não 0 | resultado: approved
+S:6096 | 2020-04-24 | Votação do parágrafo 3º do art. 2º do texto aprovado pelo Senado ao Substitutivo da Câmara dos Deputados ao Projeto de Lei nº 1.282, de 2020. | Sim 24 Não 48 | resultado: rejected
+
+## S:141753 | MPV 959/2020 | ementa: Estabelece a operacionalização do pagamento do Benefício Emergencial de Preservação do Emprego e da Renda e do benefício emergencial mensal de que trata a Medida Provisória nº 936, de 1º de abril de 2020, e prorroga a vacatio legis da Lei nº 13.709, de 14 de agosto de 2018, que estabelece a Lei Geral de Proteção de Dados Pessoais - LGPD.
+   voto principal do projeto: S:6170 (2020-08-26): "Votação do PLV nº 34/2020 e Pressupostos de Relevância e Urgência da MPV nº 959/2020, nos termos do Parecer." — Sim 74, Não 0
+S:6170 | 2020-08-26 | Votação do PLV nº 34/2020 e Pressupostos de Relevância e Urgência da MPV nº 959/2020, nos termos do Parecer. | Sim 74 Não 0 | resultado: approved
+
+## S:141756 | PL 2324/2020 | ementa: Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para dispor sobre uso compulsório de leitos privados disponíveis, de qualquer espécie, pelos entes federativos para a internação de pacientes acometidos de Síndrome Aguda Respiratória Grave ou com suspeita ou diagnóstico de COVID-19, e dá outras providências.
+   voto principal do projeto: S:6120 (2020-05-26): "Votação do Projeto de Lei nº 2324, de 2020, nos termos do Parecer." — Sim 76, Não 0
+S:6120 | 2020-05-26 | Votação do Projeto de Lei nº 2324, de 2020, nos termos do Parecer. | Sim 76 Não 0 | resultado: approved
+
+## S:141814 | PL 1304/2020 | ementa: Altera a Lei nº 10.304, de 5 de novembro de 2001, que transfere ao domínio dos Estados de Roraima e do Amapá terras pertencentes à União, e a Lei nº 6.634, de 2 de maio de 1979, que dispõe sobre a Faixa de Fronteira.
+S:6100 | 2020-05-05 | Votação do Projeto de Lei nº 1304, de 2020, nos termos do Parecer, ressalvados os destaques. | Sim 79 Não 0 | resultado: approved
+S:6101 | 2020-05-05 | Votação da Emenda nº 1 - PLEN ao Projeto de Lei nº 1.304, de 2020, destacada. | Sim 20 Não 51 | resultado: rejected
+
+## S:141815 | PL 1409/2020 | ementa: Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para determinar a adoção de medidas imediatas que preservem a saúde e a vida de todos os profissionais considerados essenciais ao controle de doenças e à manutenção da ordem pública, durante a emergência de saúde pública decorrente do coronavírus responsável pelo surto de 2019.
+S:6108 | 2020-05-12 | Votação da Emenda nº 33 - PLEN (Substitutivo) ao Projeto de Lei nº 1409, de 2020, nos termos do Parecer. | Sim 75 Não 0 | resultado: approved
+
+## S:141816 | PL 1079/2020 | ementa: Altera a Lei nº 10.260, de 12 de julho de 2001, para suspender temporariamente as obrigações financeiras dos estudantes beneficiários do Fundo de Financiamento Estudantil (Fies) por 60 (sessenta) dias, contados da data de publicação desta Lei, prorrogáveis por igual prazo pelo Poder Executivo.
+S:6109 | 2020-05-12 | Votação da Emenda nº 16 - PLEN (Substitutivo) ao Projeto de Lei nº 1079, de 2020, nos termos do Parecer. | Sim 75 Não 0 | resultado: approved
+
+## S:141818 | PL 1106/2020 | ementa: Altera dispositivo da Lei nº 12.212, de 20 de janeiro de 2010, para simplificar a inscrição dos beneficiários da Tarifa Social de Energia Elétrica.
+S:6339 | 2021-06-30 | Votação nominal da Emenda nº 6 - PLEN ao Projeto de Lei nº 1.106, de 2020, destacada. | Sim 50 Não 22 | resultado: approved
+
+## S:141819 | PL 675/2020 | ementa: Suspende retroativamente e impede novas inscrições nos cadastros de empresas de análises e informações para decisões de crédito enquanto vigente a calamidade pública decorrente da pandemia da Covid-19.
+S:6107 | 2020-05-12 | Votação da Emenda nº 21 - PLEN (Substitutivo) ao Projeto de Lei nº 675, de 2020, nos termos do Parecer. | Sim 72 Não 4 | resultado: approved
+
+## S:141823 | PL 864/2020 | ementa: Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para estabelecer o prazo de 72 (setenta e duas) horas para que a Agência Nacional de Vigilância Sanitária (Anvisa) autorize a importação e distribuição de quaisquer materiais, medicamentos, equipamentos e insumos da área de saúde registrados por autoridade sanitária estrangeira e autorizados à distribuição comercial em seus res
+S:6103 | 2020-05-06 | Votação do Projeto de Lei nº 864, de 2020, com emenda de redação, nos termos do Parecer. | Sim 75 Não 1 | resultado: approved
+
+## S:141837 | PLP 39/2020 (Emenda-CD) | ementa: Emendas da Câmara dos Deputados ao Projeto de Lei Complementar nº 39 de 2020 do Senado Federal, que “Estabelece o Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19), altera a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências”.
+S:6102 | 2020-05-06 | Votação das Emendas da Câmara dos Deputados ao PLP 39, de 2020, nos termos do parecer. | Sim 80 Não 0 | resultado: approved
+
+## S:141840 | PL 2424/2020 | ementa: Dispõe sobre a concessão de linha especial de crédito para profissionais liberais, que atuem como pessoa física, durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020.
+S:6124 | 2020-05-28 | Votação da Emenda nº 21 - PLEN (Substitutivo) ao Projeto de Lei nº 2424, de 2020. | Sim 73 Não 0 | resultado: approved
+
+## S:141863 | MPV 961/2020 | ementa: Autoriza pagamentos antecipados nas licitações e nos contratos, adequa os limites de dispensa de licitação e amplia o uso do Regime Diferenciado de Contratações Públicas - RDC durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020.
+   voto principal do projeto: S:6175 (2020-09-03): "Votação do Projeto de Lei de Conversão nº 36 de 2020 e Pressupostos de Relevância e Urgência da MPV nº 961/2020." — Sim 57, Não 16
+S:6175 | 2020-09-03 | Votação do Projeto de Lei de Conversão nº 36 de 2020 e Pressupostos de Relevância e Urgência da MPV nº 961/2020. | Sim 57 Não 16 | resultado: approved
+
+## S:141944 | PL 2630/2020 | ementa: Institui a Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet.
+   voto principal do projeto: S:6149 (2020-06-30): "Votação do Art. 10 do Substitutivo ao Projeto de Lei nº 2.630, de 2020, destacado." — Sim 40, Não 32
+S:6147 | 2020-06-30 | Votação da Emenda 153 (Subst.) ao PL 2630/2020, com os ajustes propostos pelo Relator, ressalvados os destaques. | Sim 44 Não 32 | resultado: approved
+S:6148 | 2020-06-30 | Votação da Emenda nº 142 - PLEN ao Projeto de Lei nº 2.630, de 2020, destacada. | Sim 28 Não 41 | resultado: rejected
+S:6149 | 2020-06-30 | Votação do Art. 10 do Substitutivo ao Projeto de Lei nº 2.630, de 2020, destacado. | Sim 40 Não 32 | resultado: approved
+
+## S:141962 | PL 1179/2020 (Substitutivo-CD) | ementa: Institui normas de caráter transitório e emergencial para a regulação de relações jurídicas de direito privado em virtude da pandemia da Covid-19; e altera a Lei nº 13.709, de 14 de agosto de 2018.
+   voto principal do projeto: S:6113 (2020-05-19): "Votação do art. 18 do Substitutivo da Câmara dos Deputados ao Projeto de Lei nº 1.179, de 2020, destacado." — Sim 62, Não 15
+S:6113 | 2020-05-19 | Votação do art. 18 do Substitutivo da Câmara dos Deputados ao Projeto de Lei nº 1.179, de 2020, destacado. | Sim 62 Não 15 | resultado: approved
+
+## S:142016 | PEC 18/2020 | ementa: Acrescenta o art. 115 ao Ato das Disposições Constitucionais Transitórias (ADCT) para dispor sobre o adiamento das eleições municipais para Prefeito, Vice-Prefeito e Vereador, previstas para 4 de outubro de 2020, para o dia 6 de dezembro do mesmo ano, em decorrência das medidas para o enfrentamento da pandemia da Covid-19 declarada pela Organização Mundial da Saúde.
+S:6136 | 2020-06-23 | Votação da Emenda nº 36 - PLEN (Substitutivo) do Relator à PEC nº 18/2020, ressalvados os destaques (1º Turno). | Sim 67 Não 8 | resultado: approved
+S:6137 | 2020-06-23 | Votação da Emenda nº 22 - PLEN à Proposta de Emenda à Constituição nº 18, de 2020, destacada. | Sim 14 Não 56 | resultado: rejected
+S:6138 | 2020-06-23 | Votação da Emenda nº 5 - PLEN à Proposta de Emenda à Constituição nº 18, de 2020, destacada. | Sim 16 Não 53 | resultado: rejected
+S:6139 | 2020-06-23 | Votação da Proposta de Emenda à Constituição nº 18, de 2020 (2º Turno). | Sim 64 Não 7 | resultado: approved
+
+## S:142022 | PL 1562/2020 | ementa: Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para dispor sobre a obrigatoriedade do uso de máscaras de proteção individual para circulação em espaços públicos e privados acessíveis ao público, em vias públicas e em transportes públicos durante a vigência das medidas para enfrentamento da emergência de saúde pública de importância internacional decorrente da pandemia da Co
+S:6132 | 2020-06-04 | Votação da Emenda nº 29 - PLEN (Substitutivo) ao Projeto de Lei nº 1.562, de 2020, nos termos do Parecer. | Sim 76 Não 0 | resultado: approved
+
+## S:142075 | PLP 133/2020 | ementa: Institui transferências obrigatórias da União para os Estados, o Distrito Federal e os Municípios, por prazo ou fato determinado, e declara atendida a regra de cessação contida no § 2º no art. 91 do Ato das Disposições Constitucionais Transitórias.
+S:6251 | 2020-11-18 | Votação do Projeto de Lei Complementar nº 133, de 2020, com as Emendas nºs 13 a 15, nos termos do Parecer. | Sim 70 Não 0 | resultado: approved
+
+## S:142077 | PLP 135/2020 | ementa: Altera a Lei Complementar nº 101, de 4 de maio de 2000, para vedar a limitação de empenho e movimentação financeira das despesas relativas à inovação e ao desenvolvimento científico e tecnológico custeadas por fundo criado para tal finalidade, bem como altera a Lei nº 11.540, de 12 de novembro de 2007, para modificar a natureza e as fontes de receitas do Fundo Nacional de Desen
+S:6165 | 2020-08-13 | Votação do Projeto de Lei Complementar nº 135, de 2020 e Emendas, nos termos do Parecer. | Sim 71 Não 1 | resultado: approved
+
+## S:142085 | PL 1826/2020 | ementa: Dispõe sobre compensação financeira a ser paga pela União aos profissionais e trabalhadores de saúde que, durante o período de emergência de saúde pública de importância nacional decorrente da disseminação do novo coronavírus (SARS-CoV-2), por terem trabalhado no atendimento direto a pacientes acometidos pela Covid-19, ou realizado visitas domiciliares em determinado período de
+   voto principal do projeto: S:6151 (2020-07-07): "Votação do Projeto de Lei nº 1.826 de 2020, nos termos do Parecer." — Sim 76, Não 0
+S:6151 | 2020-07-07 | Votação do Projeto de Lei nº 1.826 de 2020, nos termos do Parecer. | Sim 76 Não 0 | resultado: approved
+
+## S:142088 | PL 1194/2020 (Substitutivo-CD) | ementa: Dispõe sobre o combate ao desperdício de alimentos e a doação de excedentes de alimentos para o consumo humano e para o consumo de cães e gatos, nas condições que especifica.
+   voto principal do projeto: S:6128 (2020-06-02): "Votação do Substitutivo da Câmara dos Deputados ao PL 1.194/20, nos termos do Parecer." — Sim 77, Não 0
+S:6128 | 2020-06-02 | Votação do Substitutivo da Câmara dos Deputados ao PL 1.194/20, nos termos do Parecer. | Sim 77 Não 0 | resultado: approved
+
+## S:142089 | PL 669/2019 (Substitutivo-CD) | ementa: Altera as Leis nºs 13.460, de 26 de junho de 2017, e 8.987, de 13 de fevereiro de 1995, para dispor sobre a interrupção e a religação ou o restabelecimento de serviços públicos.
+   voto principal do projeto: S:6119 (2020-05-25): "Votação do Substitutivo da Câmara dos Deputados ao Projeto de Lei nº 669, de 2019, nos termos do parecer." — Sim 73, Não 0
+S:6119 | 2020-05-25 | Votação do Substitutivo da Câmara dos Deputados ao Projeto de Lei nº 669, de 2019, nos termos do parecer. | Sim 73 Não 0 | resultado: approved
+
+## S:142091 | PL 1291/2020 | ementa: Define como essenciais os serviços e as atividades abrangidos pelo inciso II do § 1º do art. 3º do Decreto nº 10.282, de 20 de março de 2020, relacionados às mulheres em situação de violência doméstica ou familiar, aos casos de suspeita ou confirmação de violência praticada contra idosos, crianças ou adolescentes, e estabelece a forma de cumprimento de medidas de combate e prev
+S:6130 | 2020-06-03 | Votação da Emenda nº 17 - PLEN (Substitutivo) ao Projeto de Lei nº 1291, de 2020, nos termos do Parecer. | Sim 74 Não 0 | resultado: approved
+
+## S:142108 | PL 2872/2020 | ementa: Altera o art. 52 do Decreto-Lei nº 37, de 18 de novembro de 1966, para estabelecer prazo máximo para desembaraço aduaneiro de insumos importados usados no combate à pandemia da Covid-19 e nas pesquisas a ela relacionadas, em caso de emergência, de estado de calamidade pública ou de pandemia declarada pela Organização Mundial da Saúde (OMS), reconhecidos pelas autoridades compet
+   voto principal do projeto: S:6319 (2021-05-19): "Votação nominal." — Sim 78, Não 0
+S:6319 | 2021-05-19 | Votação nominal. | Sim 78 Não 0 | resultado: approved
+
+## S:142136 | PL 1075/2020 | ementa: Dispõe sobre ações emergenciais destinadas ao setor cultural a serem adotadas durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020; e dá outras providências.
+S:6133 | 2020-06-04 | Votação do Projeto de Lei nº 1.075, de 2020 e Emendas, nos termos do Parecer. | Sim 75 Não 0 | resultado: approved
+
+## S:142169 | PL 2981/2020 | ementa: Dispõe sobre prioridade para recebimento da restituição do imposto de renda, de que trata o art. 16 da Lei nº 9.250, de 26 de dezembro de 1995, durante o período de Emergência em Saúde Pública de Importância Nacional (Espin), em razão da pandemia do Covid19.
+S:6300 | 2021-04-06 | Votação nominal da Emenda nº 1, destacada. | Sim 24 Não 48 | resultado: rejected
+
+## S:142263 | MPV 975/2020 | ementa: Institui o Programa Emergencial de Acesso a Crédito e altera a Lei nº 12.087, de 11 de novembro de 2009, e a Lei nº 13.999, de 18 de maio de 2020.
+   voto principal do projeto: S:6159 (2020-07-29): "Votação do Projeto de Lei de Conversão nº 24 de 2020 e Pressupostos de Relevância e Urgência da MPV nº 975/2020." — Sim 73, Não 0
+S:6159 | 2020-07-29 | Votação do Projeto de Lei de Conversão nº 24 de 2020 e Pressupostos de Relevância e Urgência da MPV nº 975/2020. | Sim 73 Não 0 | resultado: approved
+
+## S:142442 | PL 3229/2020 | ementa: Altera a Lei nº 8.742, de 7 de dezembro de 1993, para autorizar a utilização de recursos do Sistema Único de Assistência Social (SUAS) para a compra de álcool em gel e máscaras N95/PFF2 ou equivalentes, ou de pano duplo 100% algodão, a serem distribuídos à população em estado de vulnerabilidade durante o período de enfrentamento da emergência de saúde pública de importância int
+   voto principal do projeto: S:6181 (2020-09-17): "Votação do Projeto de Lei nº 3.229, de 2020, nos termos do Parecer." — Sim 60, Não 2
+S:6181 | 2020-09-17 | Votação do Projeto de Lei nº 3.229, de 2020, nos termos do Parecer. | Sim 60 Não 2 | resultado: approved
+
+## S:142499 | MPV 982/2020 | ementa: Dispõe sobre a conta do tipo poupança social digital.
+   voto principal do projeto: S:6221 (2020-10-01): "Votação do Projeto de Lei de Conversão nº 39, de 2020 e Pressupostos de Relevância e Urgência da MPV 982/2020." — Sim 67, Não 0
+S:6221 | 2020-10-01 | Votação do Projeto de Lei de Conversão nº 39, de 2020 e Pressupostos de Relevância e Urgência da MPV 982/2020. | Sim 67 Não 0 | resultado: approved
+
+## S:142596 | PL 1013/2020 | ementa: Suspende o pagamento do parcelamento de dívidas no âmbito do Programa de Modernização da Gestão e de Responsabilidade Fiscal do Futebol Brasileiro (Profut), criado pela Lei nº 13.155, de 4 de agosto de 2015, durante a vigência de calamidade pública nacional reconhecida pelo Congresso Nacional; e altera as Leis nºs 9.615, de 24 de março de 1998, e 10.671, de 15 de maio de 2003.
+   voto principal do projeto: S:6220 (2020-09-29): "Votação do Projeto de Lei nº 1.013, de 2020, nos termos do Parecer." — Sim 72, Não 1
+S:6220 | 2020-09-29 | Votação do Projeto de Lei nº 1.013, de 2020, nos termos do Parecer. | Sim 72 Não 1 | resultado: approved
+
+## S:142690 | PL 550/2019 (Substitutivo-CD) | ementa: Altera a Lei nº 12.334, de 20 de setembro de 2010, que estabelece a Política Nacional de Segurança de Barragens (PNSB), a Lei nº 7.797, de 10 de julho de 1989, que cria o Fundo Nacional do Meio Ambiente (FNMA), a Lei nº 9.433, de 8 de janeiro de 1997, que institui a Política Nacional de Recursos Hídricos, e o Decreto-Lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração)
+   voto principal do projeto: S:6174 (2020-09-02): "Votação do Art. 17 - E da Lei nº 12.334, de 2010, previsto no art. 4º do Substitutivo, destacado." — Sim 52, Não 22
+S:6174 | 2020-09-02 | Votação do Art. 17 - E da Lei nº 12.334, de 2010, previsto no art. 4º do Substitutivo, destacado. | Sim 52 Não 22 | resultado: rejected
+
+## S:142691 | PLP 9/2020 | ementa: Autoriza celebração de transação resolutiva de litígio para os créditos da Fazenda Pública apurados na forma do Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional); e prorroga o prazo para enquadramento no Simples Nacional em todo o território brasileiro, no ano de 2020, para microempres
+   voto principal do projeto: S:6154 (2020-07-14): "Projeto de Lei Complementar nº 9, de 2020." — Sim 70, Não 0
+S:6154 | 2020-07-14 | Projeto de Lei Complementar nº 9, de 2020. | Sim 70 Não 0 | resultado: approved
+
+## S:142693 | PLP 170/2020 (Substitutivo-CD) | ementa: Dispõe sobre o Imposto Sobre Serviços de Qualquer Natureza (ISSQN), de competência dos Municípios e do Distrito Federal, incidente sobre os serviços previstos nos subitens 4.22, 4.23, 5.09, 15.01 e 15.09 da lista de serviços anexa à Lei Complementar nº 116, de 31 de julho de 2003; institui o Comitê Gestor das Obrigações Acessórias do Imposto Sobre Serviços de Qualquer Natureza 
+   voto principal do projeto: S:6172 (2020-08-27): "Votação nominal do PLP nº 170, de 2020 (Substitutivo da Câmara dos Deputados ao PLS nº 445/2017)." — Sim 66, Não 3
+S:6172 | 2020-08-27 | Votação nominal do PLP nº 170, de 2020 (Substitutivo da Câmara dos Deputados ao PLS nº 445/2017). | Sim 66 Não 3 | resultado: approved
+
+## S:143101 | MPV 986/2020 | ementa: Estabelece a forma de repasse pela União dos valores a serem aplicados pelos Poderes Executivos locais em ações emergenciais de apoio ao setor cultural durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e as regras para a restituição ou a suplementação por meio de outras fontes próprias de recursos pelos Estados, pelos Muni
+   voto principal do projeto: S:6152 (2020-07-22): "Votação da Medida Provisória nº 986 de 2020, em conjunto com seus Pressupostos de Relevância e Urgência." — Sim 76, Não 0
+S:6152 | 2020-07-22 | Votação da Medida Provisória nº 986 de 2020, em conjunto com seus Pressupostos de Relevância e Urgência. | Sim 76 Não 0 | resultado: approved
+
+## S:143156 | MPV 987/2020 | ementa: Altera a Lei nº 9.440, de 14 de março de 1997, que estabelece incentivos fiscais para o desenvolvimento regional.
+   voto principal do projeto: S:6222 (2020-10-06): "Votação do PLV nº 40/2020 e Pressupostos de Relevância e Urgência da MPV nº 987/2020." — Sim 67, Não 4
+S:6222 | 2020-10-06 | Votação do PLV nº 40/2020 e Pressupostos de Relevância e Urgência da MPV nº 987/2020. | Sim 67 Não 4 | resultado: approved
+
+## S:143258 | PL 3267/2019 | ementa: Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro); e dá outras providências.
+   voto principal do projeto: S:6168 (2020-08-18): "Votação da Decisão do Presidente para retirada de pauta do Projeto de Lei nº 3.267, de 2019." — Sim 31, Não 39
+S:6177 | 2020-09-03 | Votação do Projeto de Lei nº 3.267, de 2019, nos termos do Parecer, ressalvados os destaques. | Sim 46 Não 21 | resultado: approved
+S:6178 | 2020-09-03 | Votação da Emenda nº 67 - PLEN ao Projeto de Lei nº 3.267, de 2019, destacada. | Sim 25 Não 37 | resultado: rejected
+S:6179 | 2020-09-03 | Votação da Emenda nº 48 - PLEN ao Projeto de Lei nº 3.267, de 2019, destacada. | Sim 22 Não 35 | resultado: rejected

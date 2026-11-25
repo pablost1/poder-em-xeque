@@ -1,0 +1,159 @@
+@import "tailwindcss";
+
+/*
+ * Design tokens. The look follows the gov.br design language (blue-warm palette,
+ * Raleway type, pill buttons, thin bordered cards) but this is an independent
+ * project: no official marks are used.
+ */
+:root,
+[data-theme="light"] {
+  color-scheme: light;
+  --page: #f8f8f8;
+  --surface: #ffffff;
+  --surface-2: #f0f2f7;
+  --line: #cccccc;
+  --line-soft: #e3e5ea;
+  --ink: #333333;
+  --ink-strong: #1b1b1b;
+  --muted: #5c6370;
+  --brand: #1351b4; /* text links, accents */
+  --brand-solid: #1351b4; /* button fills */
+  --on-brand: #ffffff;
+  --brand-soft: #dbe8fb;
+  --brand-deep: #071d41;
+  --focus: #c78a00;
+
+  --yes-bg: #e3f5e1;
+  --yes-fg: #0e5a14;
+  --no-bg: #fde8e4;
+  --no-fg: #a3190b;
+  --neutral-bg: #e6e8ee;
+  --neutral-fg: #3d4452;
+
+  --iv-left: #d7263d;
+  --iv-right: #1351b4;
+  --iv-privilege: #b8860b;
+  --iv-empty: #e1e4eb;
+
+  --heat-l: 82%;
+  --heat-ink: #1b1b1b;
+  --map-l: 45%;
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0b1220;
+  --surface: #111b2e;
+  --surface-2: #17233b;
+  --line: #2b3a58;
+  --line-soft: #1f2d48;
+  --ink: #dde5f3;
+  --ink-strong: #f3f6fc;
+  --muted: #9fb0cc;
+  --brand: #8ab4f8;
+  --brand-solid: #2a66cc;
+  --on-brand: #ffffff;
+  --brand-soft: #172c52;
+  --brand-deep: #050d1c;
+  --focus: #f2c94c;
+
+  --yes-bg: #0f3a1a;
+  --yes-fg: #8de29a;
+  --no-bg: #4a1912;
+  --no-fg: #ffb4a8;
+  --neutral-bg: #232f47;
+  --neutral-fg: #c3cee3;
+
+  --iv-left: #ff6b7d;
+  --iv-right: #6ea2f5;
+  --iv-privilege: #e3b341;
+  --iv-empty: #25314b;
+
+  --heat-l: 30%;
+  --heat-ink: #f3f6fc;
+  --map-l: 62%;
+}
+
+@theme inline {
+  --color-page: var(--page);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-line: var(--line);
+  --color-line-soft: var(--line-soft);
+  --color-ink: var(--ink);
+  --color-ink-strong: var(--ink-strong);
+  --color-muted: var(--muted);
+  --color-brand: var(--brand);
+  --color-brand-solid: var(--brand-solid);
+  --color-on-brand: var(--on-brand);
+  --color-brand-soft: var(--brand-soft);
+  --color-brand-deep: var(--brand-deep);
+  --color-yes-bg: var(--yes-bg);
+  --color-yes-fg: var(--yes-fg);
+  --color-no-bg: var(--no-bg);
+  --color-no-fg: var(--no-fg);
+  --color-neutral-bg: var(--neutral-bg);
+  --color-neutral-fg: var(--neutral-fg);
+  --color-iv-left: var(--iv-left);
+  --color-iv-right: var(--iv-right);
+  --color-iv-privilege: var(--iv-privilege);
+  --color-iv-empty: var(--iv-empty);
+  --font-sans: var(--font-raleway), "Rawline", "Segoe UI", Arial, sans-serif;
+}
+
+html {
+  background: var(--page);
+}
+
+body {
+  background: var(--page);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  line-height: 1.5;
+}
+
+/* Visible focus ring, as in the gov.br design system. */
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Na camada base, para que utilitários como text-on-brand/text-ink vençam a cor padrão dos links. */
+@layer base {
+  a {
+    color: var(--brand);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Destaque breve de uma seção quando se clica no sumário lateral (src/components/sumario.tsx). */
+@keyframes secao-brilho {
+  0% {
+    box-shadow: 0 0 0 0 transparent;
+  }
+  30% {
+    box-shadow:
+      0 0 0 3px color-mix(in srgb, var(--brand) 70%, transparent),
+      0 0 32px 6px color-mix(in srgb, var(--brand) 40%, transparent);
+  }
+  100% {
+    box-shadow: 0 0 0 0 transparent;
+  }
+}
+.secao-destaque {
+  animation: secao-brilho 1.8s ease-out 0.2s 1;
+}
+@media (prefers-reduced-motion: reduce) {
+  .secao-destaque {
+    animation: none;
+    outline: 3px solid var(--brand);
+    outline-offset: 2px;
+  }
+}

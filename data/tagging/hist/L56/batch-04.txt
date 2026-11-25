@@ -1,0 +1,71 @@
+## C:2187087 | PL 5029/2019 | ementa: Dispõe sobre a remuneração recebida por funcionário de partido político com recursos do fundo partidário e dá outras providências. NOVA EMENTA: Altera as Leis n°s 9.096, de 19 de setembro de 1995, 9.504, de 30 setembro de 1997, 4.737, de 15 de julho de 1965 (Código Eleitoral), 13.831, de 17 de maio de 2019, e a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.4
+   voto principal do projeto: C:2187087-39 (2019-09-03): "" — Sim 79, Não 296
+C:2187087-39 | 2019-09-03 |  | Sim 79 Não 296 | resultado: rejected
+C:2187087-53 | 2019-09-03 | Votação em turno único. | Sim 67 Não 295 | resultado: rejected
+C:2187087-60 | 2019-09-03 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 263 Não 144 | resultado: approved
+C:2187087-67 | 2019-09-04 | Continuação da votação em turno único. | Sim 62 Não 305 | resultado: rejected
+C:2187087-99 | 2019-09-04 | Votação do DTQ 12: PSL: Destaque para votação em separado do art. 24-D da Lei n. 9.504, de 1997, alterado pelo art. 2º do Substitutivo apresentado ao PL 11021/2018 para fins de supressão (art. 161, I). | Sim 140 Não 293 | resultado: ?
+C:2187087-144 | 2019-09-18 |  | Sim 147 Não 270 | resultado: rejected
+C:2187087-155 | 2019-09-18 |  | Sim 64 Não 269 | resultado: rejected
+C:2187087-162 | 2019-09-18 |  | Sim 68 Não 262 | resultado: rejected
+C:2187087-169 | 2019-09-18 | Continuação da votação, em turno único, do Substitutivo do Senado Federal ao Projeto de Lei nº 11.021-B, de 2018 (número de origem na Câmara dos Deputados). | Sim 68 Não 223 | resultado: rejected
+C:2187087-172 | 2019-09-18 | Continuação da votação, em turno único, do Substitutivo do Senado Federal ao Projeto de Lei nº 11.021-B, de 2018 (número de origem na Câmara dos Deputados). | Sim 47 Não 265 | resultado: rejected
+C:2187087-174 | 2019-09-18 | Votação, em globo, das emendas supressivas do Senado Federal ao Projeto de Lei nº 5.029, de 2019, com parecer pela rejeição. | Sim 150 Não 252 | resultado: rejected
+C:2187087-179 | 2019-09-18 | Votação do DTQ 1: NOVO: votação em separado da emenda supressiva de autoria do Senado Federal, apresentada ao PL 5029/19, que suprimiu o art. 44 da Lei 9096/95 alterada pelo art. 1º do PL 5029/2019 aprovado pela Câmara dos Deputados. (art. 161, II) | Sim 136 Não 174 | resultado: ?
+C:2187087-182 | 2019-09-18 | Votação do DTQ 4: PSL: da Emenda do Senado Federal que suprime o Inciso VIII do Art. 44 da Lei n. 9096/95, alterado pelo Art. 1º do texto da Câmara dos Deputados. | Sim 164 Não 249 | resultado: ?
+C:2187087-185 | 2019-09-18 | Votação do DTQ 2: PSL: votação da Emenda do Senado Federal que suprime o Inciso X do Art. 44 da Lei n. 9096/95, alterado pelo Art. 1º do texto da Câmara dos Deputados. | Sim 165 Não 243 | resultado: ?
+C:2187087-189 | 2019-09-18 | Votação do DTQ 3: PSL: da Emenda do Senado Federal que suprime o art. 11 da Lei n. 9504/1997, alterado pelo art. 2º do texto da Câmara dos Deputados. | Sim 148 Não 244 | resultado: ?
+C:2187087-192 | 2019-09-18 | Votação do DTQ 6: CIDADANIA: votação em separado da emenda do Senado que suprime o parágrafo único do artigo 18-A da Lei 9504/97 constante do art. 2º do PL 5029, para aprovação da emenda e retirada do dispositivo. | Sim 158 Não 244 | resultado: ?
+C:2187087-194 | 2019-09-18 | Votação do DTQ 5: PSOL: votação da Emenda Supressiva referente ao Art. 26, constante do Art. 2º do Projeto de Lei n. 5029, de 2019, com vistas à aprovação da Emenda e consequente supressão do texto. | Sim 181 Não 213 | resultado: ?
+C:2187087-196 | 2019-09-18 | Votação do DTQ 7: PODEMOS: votação em separado da emenda supressiva referente ao parágrafo único do artigo 3º constante do art. 5º do PL 5029/19, com vistas à aprovação da emenda e consequente supressão do texto (art. 161, II). | Sim 146 Não 251 | resultado: ?
+
+## C:2188301 | MPV 861/2018 | ementa: Dispõe sobre a transferência, da União para o Distrito Federal, da Junta Comercial do Distrito Federal e das atividades de registro público de empresas mercantis e atividades afins no Distrito Federal e altera a Lei nº 8.934, de 18 de novembro de 1994, que dispõe sobre o Registro Público de Empresas Mercantis e Atividades fins.
+   voto principal do projeto: C:2188301-38 (2019-05-07): "" — Sim 7, Não 260
+C:2188301-38 | 2019-05-07 |  | Sim 7 Não 260 | resultado: rejected
+C:2188301-41 | 2019-05-07 |  | Sim 23 Não 283 | resultado: rejected
+C:2188301-45 | 2019-05-07 | Votação preliminar em turno único. | Sim 321 Não 5 | resultado: approved
+C:2188301-50 | 2019-05-07 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 8 Não 306 | resultado: rejected
+C:2188301-57 | 2019-05-07 | Continuação da votação em turno único. | Sim 6 Não 307 | resultado: rejected
+C:2188301-59 | 2019-05-07 | Votação, quanto ao mérito, em turno único. | Sim 335 Não 7 | resultado: approved
+C:2188301-62 | 2019-05-07 | Votação do parágrafo único, do art. 1º, apresentado à MPV 861/18, objeto do destaque para votação em separado da bancada do PT - DTQ 2. | Sim 321 Não 2 | resultado: ?
+C:2188301-65 | 2019-05-07 | Votação do art. 7º do Projeto de Lei de Conversão apresentado à MPV 861/18, objeto do destaque para votação em separado da bancada do PT - DTQ 1. | Sim 299 Não 3 | resultado: ?
+
+## C:2188479 | PL 11147/2018 | ementa: Torna obrigatória a inclusão do símbolo mundial da conscientização do transtorno do espectro autista em todas as placas de sinalização de prioridade presentes em estabelecimentos abertos ao público, transportes, repartições públicas e outros. NOVA EMENTA: Altera a Lei nº 12.764, de 27 de dezembro de 2012, para tornar obrigatória a inclusão do símbolo mundial da conscientização 
+   voto principal do projeto: C:2320527-8 (2022-05-04): "" — Sim 373, Não 8
+C:2320527-8 | 2022-05-04 |  | Sim 373 Não 8 | resultado: approved
+
+## C:2189858 | MPV 863/2018 | ementa: Altera a Lei nº 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica. NOVA EMENTA: Altera a Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica).
+   voto principal do projeto: C:2189858-42 (2019-05-21): "" — Sim 3, Não 273
+C:2189858-42 | 2019-05-21 |  | Sim 3 Não 273 | resultado: rejected
+C:2189858-45 | 2019-05-21 |  | Sim 2 Não 266 | resultado: rejected
+C:2189858-49 | 2019-05-21 |  | Sim 3 Não 298 | resultado: rejected
+C:2189858-53 | 2019-05-21 |  | Sim 5 Não 274 | resultado: rejected
+C:2189858-73 | 2019-05-21 | Votação da Emenda nº 21, objeto do destaque para votação em separado da bancada do PSB - DTQ 5. | Sim 86 Não 291 | resultado: rejected
+
+## C:2190190 | MPV 866/2018 | ementa: Autoriza a criação da empresa pública NAV Brasil Serviços de Navegação Aérea S.A. NOVA EMENTA: Autoriza a criação da empresa pública NAV Brasil Serviços de Navegação Aérea S.A. (NAV Brasil) e altera as Leis nºs 7.783, de 28 de junho de 1989, e 6.009, de 26 de dezembro de 1973.
+C:2190190-68 | 2019-09-25 | Votação do DTQ 13: PSOL: Destaque para votação em separado do § 2º do art. 6º do PLV n. 4, de 2019, apresentado à MPV n. 866, de 2019, para sua supressão (161, I). | Sim 214 Não 83 | resultado: ?
+
+## C:2190237 | MPV 867/2018 | ementa: Altera a Lei nº 12.651, de 25 de maio de 2012, para dispor sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental. NOVA EMENTA: Altera a Lei nº 12.651, de 25 de maio de 2012, para dispor sobre o Programa de Regularização Ambiental e o Cadastro Ambiental Rural.
+   voto principal do projeto: C:2190237-37 (2019-05-28): "" — Sim 8, Não 280
+C:2190237-37 | 2019-05-28 |  | Sim 8 Não 280 | resultado: rejected
+C:2190237-40 | 2019-05-28 |  | Sim 64 Não 202 | resultado: rejected
+C:2190237-47 | 2019-05-28 |  | Sim 17 Não 256 | resultado: rejected
+C:2190237-50 | 2019-05-28 |  | Sim 287 Não 20 | resultado: approved
+C:2190237-54 | 2019-05-28 |  | Sim 15 Não 246 | resultado: rejected
+C:2190237-57 | 2019-05-28 |  | Sim 16 Não 265 | resultado: rejected
+C:2190237-60 | 2019-05-28 | Votação preliminar em turno único. | Sim 293 Não 15 | resultado: approved
+C:2190237-103 | 2019-05-29 | Votação do art. 42 da Lei 12.651/12, constante do art. 1º do PLV 9/19, apresentado à MP 867/18, com vistas à sua supressão, objeto do destaque para votação em separado da bancada do PT - DTQ 2. | Sim 240 Não 18 | resultado: ?
+C:2190237-105 | 2019-05-29 | Votação do art. 59 da Lei 12651/12, constante do art. 1º do PLV 9/19, apresentado à MP 867/18, com vistas à sua supressão, objeto do destaque para votação em separado da bancada do PT - DTQ 3. | Sim 249 Não 22 | resultado: ?
+C:2190237-108 | 2019-05-29 | Votação do §9º, do art. 59 da Lei 12.651/12, constante do art. 1º do PLV 9/19, para sua supressão, objeto do destaque para votação em separado da bancada do PSOL - DTQ 11. | Sim 249 Não 13 | resultado: ?
+C:2190237-111 | 2019-05-29 | Votação do §13 do art. 59 da Lei 12651/2012, contido no art. 1º do PLV nº 9/2019, apresentado à MPV 867/18, com vistas à supressão, objeto do destaque para votação em separado da bancada do PSB - DTQ 8. | Sim 223 Não 31 | resultado: ?
+C:2190237-114 | 2019-05-29 | Votação do art. 60-A do PLV apresentado à MP 867/18, com vistas à sua supressão, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 9. | Sim 247 Não 31 | resultado: ?
+C:2190237-117 | 2019-05-29 | Votação das expressões: "porém, em caso de conversão nesses biomas e formas de vegetação para a produção agrícola com cultivos anuais ou perenes, respeitar-se-á o limite de manutenção da reserva legal, previstos na Lei 12.651, de 25 de maio de 2012", constante da parte final do inciso V, do § 3º do art. 68 da Lei 12.651/2012, com redação dada pelo artigo 1º do PLV 09/2019, oferecido à MPV 867/2018, para fins de sua supressão, objeto do destaque para votação em separado do Bloco PP/MDB/PTB - DTQ 10. | Sim 21 Não 241 | resultado: ?
+C:2190237-66 | 2019-05-29 | Continuação da votação em turno único. | Sim 15 Não 240 | resultado: rejected
+C:2190237-69 | 2019-05-29 | Votação preliminar em turno único. | Sim 247 Não 12 | resultado: approved
+C:2190237-72 | 2019-05-29 | Votação do destaque da bancada do CIDADANIA, que solicita votação do texto original da MPV para que tenha preferência quanto ao Projeto de Lei de Conversão 9/19 - DTQ 4. | Sim 118 Não 262 | resultado: rejected
+C:2190237-80 | 2019-05-29 | Votação, quanto ao mérito, em turno único. | Sim 243 Não 19 | resultado: approved
+C:2190237-82 | 2019-05-29 | Votação do destaque do Bloco PP/MDB/PTB, que solicita votação do DTQ 7, apresentado pelo PSB, que pede a votação em separado do §3º do art. 68 da Lei 12651/2012, contido no art. 1º do PLV nº 9/2019, para que seja apreciado em 1º lugar, logo após a apreciação do PLV - DTQ 12. | Sim 241 Não 18 | resultado: approved
+C:2190237-86 | 2019-05-29 | Votação do §3º do art. 68, da Lei 12.651/2012, contido no art. 1º do PLV nº 9/2019, apresentado à MPV 867/18, com vistas à supressão, objeto do destaque para votação em separado da bancada do PSB - DTQ 7. | Sim 252 Não 79 | resultado: ?
+C:2190237-94 | 2019-05-29 | Continuação da votação em turno único. | Sim 12 Não 250 | resultado: rejected
+C:2190237-97 | 2019-05-29 | Votação do inciso III do § 3º do art. 34 da Lei 12651/12, constante do art. 1º do PLV 9/19, apresentado à MP 867/18, com vistas à sua supressão, objeto do destaque para votação em separado da bancada do PT - DTQ 1. | Sim 242 Não 17 | resultado: ?
+C:2190237-99 | 2019-05-29 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 9 Não 263 | resultado: rejected

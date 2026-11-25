@@ -1,0 +1,151 @@
+## S:79336 | MPV 330/2006 | ementa: Abre crédito extraordinário ao Orçamento de Investimento para 2006, em favor de empresas do Grupo ELETROBRÁS, no valor total de R$ 106.726.769,00 (cento e seis milhões , setecentos e vinte e seis mil, setecentos e sessenta e nove reais), para os fins que especifica.
+   voto principal do projeto: S:4049 (2007-02-28): "Votação da Medida Provisória nº 330, de 2006." — Sim 33, Não 22
+S:4049 | 2007-02-28 | Votação da Medida Provisória nº 330, de 2006. | Sim 33 Não 22 | resultado: approved
+
+## S:79560 | PLC 119/2006 | ementa: Institui, na forma do art. 43 da Constituição Federal, a Superintendência do Desenvolvimento Sustentável do Centro-Oeste - SUDECO, estabelece sua composição, natureza jurídica, objetivos, área de competência e instrumentos de ação.
+S:4499 | 2008-12-03 | Votação do substitutivo (Emenda nº 2-CAE) ao Projeto de Lei da Câmara nº 119, de 2006 - Complementar. | Sim 47 Não 0 | resultado: approved
+
+## S:79712 | MPV 336/2006 | ementa: Abre crédito extraordinário, em favor da Presidência da República e dos Ministérios de Minas e Energia, dos Transportes, do Esporte, da Integração Nacional e das Cidades, no valor global de R$ 385.263.657,00 (trezentos e oitenta e cinco milhões, duzentos e sessenta e três mil, seiscentos e cinqüenta e sete reais), para os fins que especifica.
+   voto principal do projeto: S:4054 (2007-03-27): "Votação da expressão "Funcional Programática 2084513420080", destacada, constante do anexo da MPV." — Sim 32, Não 31
+S:4054 | 2007-03-27 | Votação da expressão "Funcional Programática 2084513420080", destacada, constante do anexo da MPV. | Sim 32 Não 31 | resultado: approved
+
+## S:79870 | PRS 2/2007 | ementa: Cria no Senado Federal a Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática - CCT.
+   voto principal do projeto: S:4046 (2007-02-07): "Votação do Projeto de Resolução nº 2, de 2007." — Sim 48, Não 6
+S:4046 | 2007-02-07 | Votação do Projeto de Resolução nº 2, de 2007. | Sim 48 Não 6 | resultado: approved
+
+## S:80262 | PLS 121/2007 | ementa: Dispõe sobre os valores mínimos a serem aplicados anualmente por Estados, Distrito Federal, Municípios e União em ações e serviços públicos de saúde, os critérios de rateio dos recursos de transferências para a saúde e as normas de fiscalização, avaliação e controle das despesas com saúde nas três esferas de governo.
+S:4237 | 2008-04-09 | Votação, em turno único, do Projeto de Lei do Senado nº 121, de 2007 - Complementar, ressalvadas as emendas e subemendas. | Sim 58 Não 1 | resultado: approved
+S:4238 | 2008-04-09 | Emendas nº 8, 9, 14, 15 e 24-CAE e das Emendas 26 a 38-CAS ao PLS nº 121/2007 - Complementar. | Sim 59 Não 0 | resultado: approved
+S:4239 | 2008-04-09 | Subemendas da CAS às Emendas nº 1, 17 e 22-CAE e à Emenda nº 39-Plenário. | Sim 54 Não 0 | resultado: approved
+S:4240 | 2008-04-09 | Emendas nº 2, 3, 6, 7, 10, 11, 12, 13, 16, 18, 20, 21 e 23-CAE e Emendas nº 40 a 54, de Plenário, ao PLS nº 121, de 2007 - Complementar.. | Sim 6 Não 47 | resultado: rejected
+S:4253 | 2008-05-06 | Redação final do art. 2º do Projeto de Lei do Senado nº 121, de 2007 - Complementar, conforme proposta de harmonização do texto (houve solicitação, nos termos do art. 325 do Regimento Interno, que a redação final do projeto fosse colocada novamente em votação para harmonizar a redação de seu art. 2º, tendo em vista a existência de contradição entre emendas aprovadas na sessão de 9 de abril de 2008). | Sim 55 Não 1 | resultado: approved
+
+## S:80297 | PEC 23/2007 | ementa: Altera os artigos 17 e 55 da Constituição Federal, para assegurar, aos partidos, a titularidade dos mandatos parlamentares.
+S:4159 | 2007-10-17 | Primeiro turno de votação do substitutivo à PEC nº 23, de 2007 (Emenda nº 1-CCJ). | Sim 56 Não 0 | resultado: approved
+S:4160 | 2007-10-17 | Votação em segundo turno do substitutivo à PEC nº 23, de 2007 (Emenda nº 1-CCJ). | Sim 58 Não 0 | resultado: approved
+
+## S:80417 | MPV 360/2007 | ementa: Altera a Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Municípios, e dá outras providências.
+S:4104 | 2007-06-27 | Votação das Emendas nºs 1 a 6 à Medida Provisória nº 360, de 2007. | Sim 25 Não 27 | resultado: rejected
+
+## S:80493 | PLV 5/2007 | ementa: Dispõe sobre a revitalização do setor ferroviário, altera dispositivos da Lei nº 10.233, de 5 de junho de 2001, e dá outras providências.
+   voto principal do projeto: S:4069 (2007-05-16): "Votação do art. 23 do Projeto de Lei do Conversão nº 5/2007." — Sim 34, Não 26
+S:4069 | 2007-05-16 | Votação do art. 23 do Projeto de Lei do Conversão nº 5/2007. | Sim 34 Não 26 | resultado: approved
+
+## S:80614 | PLV 7/2007 | ementa: Regulamenta o fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, de que trata o art. 60 do Ato das Disposições Constitucionais Transitórias; altera a Lei nº 10.195, de 14 de fevereiro de 2001; revoga dispositivos das Leis nºs 9.424, de 24 de dezembro de 1996, 10.880, de 9 de junho de 2004, e 10.845, de 5 de março de
+S:4070 | 2007-05-22 | Votação da Emenda nº 194 ao Projeto de Lei de Conversao nº 7, de 2007. | Sim 41 Não 22 | resultado: approved
+
+## S:80664 | PLV 9/2007 | ementa: Constitui fonte de recursos adicional para ampliação de limites operacionais da Caixa Econômica Federal - CEF.
+S:4071 | 2007-05-23 | Votação da Emenda nº 64 ao Projeto de Lei de Convenção nº 9, de 2007. | Sim 23 Não 44 | resultado: rejected
+
+## S:80712 | PLV 10/2007 | ementa: Institui o Fundo de Investimento do Fundo de Garantia do Tempo de Serviço - FI-FGTS, altera a Lei nº 8.036, de 11 de maio de 1990, e dá outras providências.
+   voto principal do projeto: S:4072 (2007-05-29): "Votação do Projeto de Lei de Conversão nº 10, de 2007." — Sim 40, Não 26
+S:4072 | 2007-05-29 | Votação do Projeto de Lei de Conversão nº 10, de 2007. | Sim 40 Não 26 | resultado: approved
+
+## S:81729 | PLV 19/2007 | ementa: Dispõe sobre a criação do Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes; altera as Leis nºs 7.735, de 22 de fevereiro de 1989, 11.284, de 2 de março de 2006,9.985, de 18 de julho de 2000,10.410, de 11 de janeiro de 2002,11.156, de 29 de julho de 2005, 11.357, de 19 de outubro de 2006, e 7.957, de 20 de dezembro de 1989; revoga dispositivos da 
+   voto principal do projeto: S:4127 (2007-08-07): "Votação quanto aos pressupostos constitucionais de relevância e urgência da Medida Provisória nº 366, de 2007." — Sim 37, Não 25
+S:4127 | 2007-08-07 | Votação quanto aos pressupostos constitucionais de relevância e urgência da Medida Provisória nº 366, de 2007. | Sim 37 Não 25 | resultado: approved
+
+## S:81781 | PLC 43/2007 | ementa: Altera a Lei Complementar nº 123, de 14 de dezembro de 2006 (altera dispositivos referentes a tributação de Microempresas e Empresas de Pequeno Porte - Supersimples).
+   voto principal do projeto: S:4128 (2007-08-07): "Votação do Projeto de Lei da Câmara nº 43, de 2007 - Complementar." — Sim 56, Não 0
+S:4128 | 2007-08-07 | Votação do Projeto de Lei da Câmara nº 43, de 2007 - Complementar. | Sim 56 Não 0 | resultado: approved
+S:4129 | 2007-08-07 | Votação das Emendas nºs 1 a 4, da CAE, de Redação, ao Projeto de Lei da Câmara nº 43, de 2007 - Complementar. | Sim 45 Não 0 | resultado: approved
+S:4130 | 2007-08-07 | Votação das Emendas nºs 5, 6 e 7- Plen, de parecer contrário, ao Projeto de Lei da Câmara nº 43, de 2007 - Complementar. | Sim 12 Não 34 | resultado: rejected
+
+## S:82056 | PEC 64/2007 | ementa: Altera a redação do inciso XVIII do art. 7º da Constituição Federal, para aumentar para 180 (cento e oitenta) dias a duração do período da licença à gestante.
+   voto principal do projeto: S:4759 (2010-07-07): "Votação da PEC nº 64, de 2007 - Altera a redação do inciso XVIII do art. 7º da Constituição Federal, para aumentar para 180 (cento e oitenta) dias a duração do " — Sim 54, Não 0
+S:4759 | 2010-07-07 | Votação da PEC nº 64, de 2007 - Altera a redação do inciso XVIII do art. 7º da Constituição Federal, para aumentar para 180 (cento e oitenta) dias a duração do período da licença à gestante. | Sim 54 Não 0 | resultado: approved
+S:4762 | 2010-08-03 | Votação da Proposta de Emenda à Constituição nº 64, de 2007 (2º Turno) - Altera a redação do inciso XVIII do art. 7º da Constituição Federal, para aumentar para 180 (cento e oitenta) dias a duração do período da licença à gestante. | Sim 62 Não 0 | resultado: approved
+
+## S:82059 | PLV 21/2007 | ementa: Acresce e altera dispositivos das Leis nºs 10.683, de 28 de maio de 2003, 10.233, de 5 de junho de 2001, 10.893, de 13 de julho de 2004, 5.917, de 10 de setembro de 1973, 11.457, de 16 de março de 2007, e 8.630, de 25 de fevereiro de 1993, para criar a Secretaria Especial de Portos, e dá outras providências.
+   voto principal do projeto: S:4131 (2007-08-22): "Votação do Projeto de Lei de Conversão nº 21, de 2007." — Sim 32, Não 23
+S:4131 | 2007-08-22 | Votação do Projeto de Lei de Conversão nº 21, de 2007. | Sim 32 Não 23 | resultado: approved
+
+## S:82182 | PEC 75/2007 | ementa: Altera o art. 159 da Constituição Federal, aumentando a entrega de recursos pela União ao Fundo de Participação dos Municípios (Minirreforma Tributária).
+S:4136 | 2007-08-29 | Votação da Proposta de Emenda à Constituição nº 75, de 2007 (1º Turno). | Sim 58 Não 0 | resultado: approved
+S:4137 | 2007-08-29 | Votação da Proposta de Emenda à Constituição nº 75, de 2007 (2º Turno). | Sim 57 Não 0 | resultado: approved
+
+## S:82471 | PLV 27/2007 | ementa: Acresce, altera e revoga dispositivos da Lei nº 10.683, de 28 de maio de 2003; altera dispositivo da Lei nº 11.343, de 23 de agosto de 2006; acresce dispositivos à Lei nº 11.356, de 19 de outubro de 2006; cria a Secretaria de Planejamento de Longo Prazo da Presidência da República; cria cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e Funções Gratificadas
+   voto principal do projeto: S:4139 (2007-09-26): "Votação dos pressupostos de relevância e urgência da MP 377/2007." — Sim 22, Não 46
+S:4139 | 2007-09-26 | Votação dos pressupostos de relevância e urgência da MP 377/2007. | Sim 22 Não 46 | resultado: rejected
+
+## S:82502 | MPV 392/2007 | ementa: Revoga a Medida Provisória nº 382, de 24 de julho de 2007, dispõe sobre o desconto de créditos da Contribuição para o PIS/PASEP e da COFINS, na aquisição no mercado interno ou importação de bens de capital destinados à produção dos bens relacionados nos Anexos I e II da Lei nº 10.485, de 3 de julho de 2002, e dos produtos classificados na Tabela de Incidência do Imposto sobre P
+   voto principal do projeto: S:4172 (2007-11-27): "Votação, em turno único, da Medida Provisória nº 392, de 2007." — Sim 40, Não 16
+S:4172 | 2007-11-27 | Votação, em turno único, da Medida Provisória nº 392, de 2007. | Sim 40 Não 16 | resultado: approved
+
+## S:82744 | PEC 89/2007 | ementa: Prorroga os prazos previstos no caput dos arts. 76 e 84 do Ato das Disposições Constitucionais Transitórias e dá outras providências. (Prorrogando a vigência da Desvinculação de Receitas da União - DRU e da Contribuição Provisória sobre Movimentação Financeira - CPMF).
+   voto principal do projeto: S:4209 (2007-12-12): "Votação dos artigos 1º e 3º da PEC nº 89, de 2007 (1º Turno)." — Sim 60, Não 18
+S:4208 | 2007-12-12 | Votação do art. 2º da Proposta de Emenda à Constituição nº 89, de 2007 (1º Turno). | Sim 45 Não 34 | resultado: rejected
+S:4209 | 2007-12-12 | Votação dos artigos 1º e 3º da PEC nº 89, de 2007 (1º Turno). | Sim 60 Não 18 | resultado: approved
+S:4210 | 2007-12-12 | Votação das emendas nº 1 a 19, de parecer contrário, à PEC nº 89, de 2007 (1º Turno). | Sim 2 Não 59 | resultado: rejected
+S:4216 | 2007-12-19 | Votação da Proposta de Emenda à Constituição nº 89, de 2007 (2º Turno). | Sim 65 Não 6 | resultado: approved
+
+## S:82930 | PLS 611/2007 | ementa: Acresce dispositivo à Lei Complementar nº 101, de 4 de maio de 2000 (limite para o aumento da despesa com pessoal e encargos sociais da União).
+   voto principal do projeto: S:4676 (2009-12-16): "Votação do PLS nº 611, de 2007 - Complementar." — Sim 48, Não 0
+S:4676 | 2009-12-16 | Votação do PLS nº 611, de 2007 - Complementar. | Sim 48 Não 0 | resultado: approved
+S:4677 | 2009-12-16 | Votação das Emendas nºs 1 e 2-CAE e alterações propostas pelo autor ao PLS 611, de 2007 - Complementar. | Sim 48 Não 0 | resultado: approved
+
+## S:83013 | PLS 633/2007 | ementa: Altera a Lei Complementar nº 91, de 22 de dezembro de 1997, que dispõe sobre a fixação dos coeficientes do Fundo de Participação dos Municípios, para estender ao exercício de 2008 os coeficientes atribuídos em 2007.
+   voto principal do projeto: S:4171 (2007-11-07): "Votação, em turno único, do PLS nº 633/2007 - Complementar." — Sim 51, Não 0
+S:4171 | 2007-11-07 | Votação, em turno único, do PLS nº 633/2007 - Complementar. | Sim 51 Não 0 | resultado: approved
+
+## S:83210 | PLV 37/2007 | ementa: Institui o Programa Nacional de Dragagem Portuária e Hidroviária, e dá outras providências.
+   voto principal do projeto: S:4173 (2007-11-27): "Votação, em turno único, do Projeto de Lei de Conversão nº 37, de 2007 (proveniente da MP nº 393/2007)." — Sim 38, Não 20
+S:4173 | 2007-11-27 | Votação, em turno único, do Projeto de Lei de Conversão nº 37, de 2007 (proveniente da MP nº 393/2007). | Sim 38 Não 20 | resultado: approved
+
+## S:83322 | MPV 402/2007 | ementa: Abre crédito extraordinário, em favor de diversos órgão do Poder Executivo, no valor global de R$ 1.646.339.765,00 (um bilhão, seiscentos e quarenta e seis milhões, trezentos e trinta e nove mil, setecentos e sessenta e cinco reais), para os fins que especifica.
+   voto principal do projeto: S:4235 (2008-04-08): "Pressupostos constitucionais de relevância e urgência e adequação financeira e orçamentária da Medida Provisória nº 402, de 2007 (Verificação solicitada pelo Se" — Sim 38, Não 13
+S:4235 | 2008-04-08 | Pressupostos constitucionais de relevância e urgência e adequação financeira e orçamentária da Medida Provisória nº 402, de 2007 (Verificação solicitada pelo Senador Arthur Virgílio, com o apoiamento dos Senadores José Agripino, Geraldo Mesquita Júnior e Mão Santa). | Sim 38 Não 13 | resultado: approved
+S:4236 | 2008-04-09 | Votação, em turno único, da Medida Provisória nº 402, de 2007, ressalvadas as emendas e subemendas (Verificação de votação solicitada). | Sim 37 Não 6 | resultado: approved
+
+## S:83562 | PEC 100/2007 | ementa: Dá nova redação às alíneas b e c do inciso XXIII do art. 21 da Constituição Federal, para autorizar a produção, a comercialização e a utilização de radioisótopos para a pesquisa e uso médicos.
+S:4765 | 2010-08-03 | Votação da Proposta de Emenda à Constituição nº 100, de 2007 (1º Turno) - Dá nova redação às alíneas b e c do inciso XXIII do art. 21 da Constituição Federal, para autorizar a produção, a comercialização e a utilização de radioisótopos para a pesquisa e uso médicos. | Sim 56 Não 1 | resultado: approved
+S:4770 | 2010-08-03 | Votação da Proposta de Emenda à Constituição nº 100, de 2007 (2º Turno) - Dá nova redação às alíneas b e c do inciso XXIII do art. 21 da Constituição Federal, para autorizar a produção, a comercialização e a utilização de radioisótopos para a pesquisa e uso médicos. | Sim 51 Não 0 | resultado: approved
+
+## S:83738 | MPV 408/2007 | ementa: Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor global de R$ 3.015.446.182,00, (três bilhões, quinze milhões, quatrocentos e quarenta e seis mil, cento e oitenta e dois reais), para os fins que especifica.
+   voto principal do projeto: S:4251 (2008-05-06): "Pressupostos constitucionais de relevância, urgência e adequação financeira e orçamentária da Medida Provisória nº 408, de 2007 (Verificação da votação solicita" — Sim 31, Não 21
+S:4251 | 2008-05-06 | Pressupostos constitucionais de relevância, urgência e adequação financeira e orçamentária da Medida Provisória nº 408, de 2007 (Verificação da votação solicitada pelo Senador Arthur Virgílio, com o apoiamento regimental). | Sim 31 Não 21 | resultado: approved
+
+## S:83745 | MPV 409/2007 | ementa: Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor global de R$ 750.465.000,00 (setecentos e cinqüenta milhões, quatrocentos e sessenta e cinco mil reais), para os fins que especifica.
+   voto principal do projeto: S:4252 (2008-05-06): "Pressupostos constitucionais de relevância, urgência e adequação financeira e orçamentária da Medida Provisória nº 409, de 2007 (Verificação de votação solicita" — Sim 34, Não 24
+S:4252 | 2008-05-06 | Pressupostos constitucionais de relevância, urgência e adequação financeira e orçamentária da Medida Provisória nº 409, de 2007 (Verificação de votação solicitada, com apoiamento regimental). | Sim 34 Não 24 | resultado: approved
+
+## S:83750 | MPV 414/2008 | ementa: Constitui fonte de recursos adicional para ampliação de limites operacionais do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
+   voto principal do projeto: S:4264 (2008-06-03): "Pressupostos constitucionais de relevância e urgência e adequação financeira e orçamentáriada da Medida Provisória nº 414, de 2008 (verificação de votação solic" — Sim 33, Não 25
+S:4264 | 2008-06-03 | Pressupostos constitucionais de relevância e urgência e adequação financeira e orçamentáriada da Medida Provisória nº 414, de 2008 (verificação de votação solicitada pelo Senador José Agripino com o apoiamento dos Senadores Arthur Virgílio, Mozarildo Cavalcanti e Geraldo Mesquita Júnior). | Sim 33 Não 25 | resultado: approved
+
+## S:83981 | PLV 1/2008 | ementa: Dá nova redação aos arts. 1º e 2º da Lei nº 10.841, de 18 de fevereiro de 2004, que autoriza a União a permutar Certificados Financeiros do Tesouro.
+   voto principal do projeto: S:4223 (2008-03-11): "Pressupostos de relevância e urgência da MP nº 396/2007 - Parecer nº 171/2008. Verificação de votação solicitada pelo Senador Arthur Virgílio, com apoiamento do" — Sim 42, Não 17
+S:4223 | 2008-03-11 | Pressupostos de relevância e urgência da MP nº 396/2007 - Parecer nº 171/2008. Verificação de votação solicitada pelo Senador Arthur Virgílio, com apoiamento dos Senadores José Agripino, Heráclito Fortes e Mão Santa. | Sim 42 Não 17 | resultado: approved
+S:4225 | 2008-03-11 | Projeto de Lei de Conversão nº 1, de 2008 (MP nº 396/2007). Verificação de votação solicitada pelo Senador Arthur Virgílio, com apoiamento do Senador José Agripino e das Senadoras Marisa Serrano e Kátia Abreu. | Sim 41 Não 17 | resultado: approved
+
+## S:83982 | MPV 419/2008 | ementa: Altera as Leis nºs 10.683, de 28 de maio de 2003, e 10.678, de 23 de maio de 2003, transformando o cargo de Secretário Especial de Políticas de Promoção da Igualdade Racial em Ministro de Estado Chefe da Secretaria Especial de Políticas de Promoção da Igualdade Racial.
+   voto principal do projeto: S:4270 (2008-06-10): "Pressupostos constitucionais de relevância e urgência e adequação financeira e orçamentária da Medida Provisória nº 419, de 2008 (verificação de votação solicit" — Sim 29, Não 27
+S:4270 | 2008-06-10 | Pressupostos constitucionais de relevância e urgência e adequação financeira e orçamentária da Medida Provisória nº 419, de 2008 (verificação de votação solicitada pelo Senador José Agripino, com o apoiamento dos Senadores Geraldo Mesquita Júnior, Mário Couto e Flexa Ribeiro). | Sim 29 Não 27 | resultado: approved
+
+## S:84015 | MPV 420/2008 | ementa: Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 12.500.000.000,00 (doze bilhões e quinhentos milhões de reais), para o fim que especifica.
+S:4271 | 2008-06-18 | Votação da Medida Provisória nº 420, de 2008, ressalvadas as emendas (verificação de votação solicitada pelo Senador Mão Santa, com o apoiamento dos Senadores Pedro Simon, Geraldo Mesquita Júnior e Papaléo Paes). | Sim 40 Não 14 | resultado: approved
+
+## S:84117 | PEC 7/2008 | ementa: Altera os arts. 21, 22 e 48 da Constituição Federal, para transferir da União para o Distrito Federal as atribuições de organizar e manter a Defensoria Pública do Distrito Federal.
+   voto principal do projeto: S:4657 (2009-12-02): "Votação em 2º turno da PEC Nº 7, de 2008." — Sim 56, Não 0
+S:4522 | 2008-12-18 | Proposta de Emenda à Constituição nº 7, de 2008 (1º Turno). | Sim 59 Não 0 | resultado: approved
+S:4657 | 2009-12-02 | Votação em 2º turno da PEC Nº 7, de 2008. | Sim 56 Não 0 | resultado: approved
+
+## S:84192 | PLV 3/2008 | ementa: Abre crédito extraordinário, em favor da Presidência da República e dos Ministérios das Relações Exteriores, dos Transportes, do Meio Ambiente e da Integração Nacional, no valor de R$ 456.625.000,00 (quatrocentos e cinqüenta e seis milhões, seiscentos e vinte e cinco mil reais), para os fins que especifica.
+   voto principal do projeto: S:4229 (2008-03-26): "Pressupostos constitucionais de relevância e urgência. Verificação de votação solicitada pelo Senador Arthur Virgílio, com o apoiamento dos Senadores Eduardo Az" — Sim 33, Não 6
+S:4229 | 2008-03-26 | Pressupostos constitucionais de relevância e urgência. Verificação de votação solicitada pelo Senador Arthur Virgílio, com o apoiamento dos Senadores Eduardo Azeredo, Flexa Ribeiro e José Agripino (foi constatada a falta de quorum). | Sim 33 Não 6 | resultado: ?
+
+## S:84520 | PEC 14/2008 | ementa: Altera o Ato das Disposições Constitucionais Transitórias para tornar permanente o Fundo de Combate e Erradicação da Pobreza.
+S:4743 | 2010-07-07 | Votação da Proposta de Emenda à Constituição nº 14, de 2008 (2º Turno). | Sim 52 Não 0 | resultado: approved
+S:4752 | 2010-07-07 | Votação da Emenda n º 1 - CCJ (substitutivo) à PEC nº 14, de 2008 (1º turno). | Sim 50 Não 0 | resultado: approved
+
+## S:84651 | MPV 424/2008 | ementa: Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor global de R$ 1.816.577.877,00 (um bilhão, oitocentos e dezesseis milhões, quinhentos e setenta e sete mil, oitocentos e setenta e sete reais), para os fins que especifica.
+   voto principal do projeto: S:4306 (2008-07-09): "Votação da Medida Provisória nº 424, de 2008 (verificação de votação solicitada, nos termos regimentais)." — Sim 32, Não 24
+S:4306 | 2008-07-09 | Votação da Medida Provisória nº 424, de 2008 (verificação de votação solicitada, nos termos regimentais). | Sim 32 Não 24 | resultado: ?
+
+## S:85036 | PLV 14/2008 | ementa: Dispõe sobre medidas tributárias destinadas a estimular os investimentos e a modernização do setor de turismo, a reforçar o sistema de proteção tarifária brasileiro, a estabelecer a incidência de forma concentrada da Contribuição para o PIS/PASEP e da contribuição para o Financiamento da Seguridade Social - COFINS na produção e comercialização de álcool; altera as Leis nºs 10.8
+   voto principal do projeto: S:4263 (2008-05-28): "Projeto de Lei de Conversão nº 14, de 2008, proveniente da Medida Provisória nº 413, de 2008 (verificação - Votação nominal solicitada por lideranças partidária" — Sim 39, Não 20
+S:4263 | 2008-05-28 | Projeto de Lei de Conversão nº 14, de 2008, proveniente da Medida Provisória nº 413, de 2008 (verificação - Votação nominal solicitada por lideranças partidárias). | Sim 39 Não 20 | resultado: approved
+
+## S:85165 | PLV 15/2008 | ementa: Altera as Leis nºs 11.508, de 20 de julho de 2007, que dispõe sobre o regime tributário, cambial e administrativo das Zonas de Processamento de Exportação, e 8.256, de 25 de novembro de 1991, que cria áreas de livre comércio nos municípios de Boa Vista e Bonfim, no Estado de Roraima; e dá outras providências.
+   voto principal do projeto: S:4268 (2008-06-04): "Pressupostos constitucionais de relevância e urgência e adequação financeira e orçamentária do Projeto de Lei de Conversão nº 15, de 2008, proveniente da Medida" — Sim 45, Não 6
+S:4268 | 2008-06-04 | Pressupostos constitucionais de relevância e urgência e adequação financeira e orçamentária do Projeto de Lei de Conversão nº 15, de 2008, proveniente da Medida Provisória nº 418, de 2008 (verificação de votação solicitada pelo Senador Arthur Virgílio com o apoiamento dos Senadores José Agripino, João Pedro e Jefferson Praia). | Sim 45 Não 6 | resultado: approved

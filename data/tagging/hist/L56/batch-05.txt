@@ -1,0 +1,82 @@
+## C:2190265 | PL 11276/2018 | ementa: Institui a Política Nacional de Manejo Integrado do Fogo. NOVA EMENTA: Institui a Política Nacional de Manejo Integrado do Fogo; e altera as Leis nºs 7.735, de 22 de fevereiro de 1989, 12.651, de 25 de maio de 2012 (Código Florestal), e 9.605, de 12 de fevereiro de 1998.
+C:2190265-63 | 2021-10-28 | Votação do DTQ 3: PSOL: Destaque para votação em separado do inciso XII do artigo 2° do Substitutivo oferecido ao Projeto de Lei nº 11.276/2018, e, por decorrência, do § 7º do artigo 32, para fins de supressão. | Sim 315 Não 12 | resultado: ?
+
+## C:2190288 | MPV 870/2019 | ementa: Estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios. NOVA EMENTA: Estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios; altera as Leis nºs 13.334, de 13 de setembro de 2016, 9.069, de 29 de junho de 1995, 11.457, de 16 de março de 2007, 9.984, de 17 de julho de 2000, 9.433, de 8 de janeiro de 1997, 8.001, 
+C:2190288-81 | 2019-05-22 | Votação do art. 38, VII, da MPV nº 870/19, para fins de sua aprovação e incorporação no texto final e, por decorrência, do art. 14 da Lei 9613/1998, alterado pelo art. 72 da MPV 870/19, objeto do destaque para votação em separado da bancada do PODEMOS - DTQ 9. | Sim 210 Não 228 | resultado: rejected
+
+## C:2190355 | MPV 871/2019 | ementa: Institui o Programa Especial para Análise de Benefícios com Indícios de Irregularidade, o Programa de Revisão de Benefícios por Incapacidade, o Bônus de Desempenho Institucional por Análise de Benefícios com Indícios de Irregularidade do Monitoramento Operacional de Benefícios e o Bônus de Desempenho Institucional por Perícia Médica em Benefícios por Incapacidade, e dá outras p
+   voto principal do projeto: C:2190355-51 (2019-05-29): "" — Sim 5, Não 259
+C:2190355-51 | 2019-05-29 |  | Sim 5 Não 259 | resultado: rejected
+C:2190355-74 | 2019-05-29 | Votação do inciso V do art. 8º, constante do PLV apresentado à MPV 871/2019, objeto do destaque para votação em separado da bancada do PT - DTQ 27. | Sim 249 Não 123 | resultado: ?
+C:2190355-84 | 2019-05-29 | Votação da Emenda 185, na parte que modifica o caput do artigo 38-A da Lei 8213/91, objeto do destaque para votação em separado da bancada do PT - DTQ 3. | Sim 166 Não 216 | resultado: rejected
+C:2190355-87 | 2019-05-29 | Votação da Emenda nº 92, objeto do destaque para votação em separado da bancada do PSB - DTQ 12. | Sim 163 Não 211 | resultado: rejected
+C:2190355-90 | 2019-05-29 | Votação de parte da Emenda 254, para incluir a expressão " sendo vedado o compartilhamento dos dados com demais entidades de direito privado" no final do texto do parágrafo 5º, do art. 124-B, da Lei 8213/91, constante do art. 25, do PLV 11, da MPV 871/2019, objeto do destaque para votação em separado do Bloco Parlamentar PP/MDB/PTB - DTQ 34. | Sim 248 Não 137 | resultado: approved
+
+## C:2190730 | PL 226/2019 | ementa: Dispõe sobre a obrigatoriedade da divulgação da Central de Atendimento à Mulher (Disque 180) e do Serviço de Denúncia de Violações aos Direitos Humanos (Disque 100) nos estabelecimentos de acesso ao público que especifica. NOVA EMENTA: Altera a Lei nº 10.714, de 13 de agosto de 2003, para dispor sobre a divulgação ao público dos códigos de acesso telefônico destinados a receber
+   voto principal do projeto: C:2190730-67 (2021-07-01): "Votação em turno único." — Sim 348, Não 8
+C:2190730-67 | 2021-07-01 | Votação em turno único. | Sim 348 Não 8 | resultado: approved
+
+## C:2190880 | PDL 3/2019 | ementa: Susta a aplicação do Decreto nº 9.690, de 23 de janeiro de 2019, no que diz respeito à delegação da competência de classificação de informações públicas nos graus de sigilo ultrassecreto ou secreto. NOVA EMENTA: Susta a aplicação do Decreto nº 7.724, de 16 de maio de 2012, no que diz respeito à delegação da competência de classificação de informações públicas nos graus de sigil
+   voto principal do projeto: C:2190880-37 (2019-02-19): "" — Sim 54, Não 325
+C:2190880-37 | 2019-02-19 |  | Sim 54 Não 325 | resultado: rejected
+C:2192300-10 | 2019-02-19 |  | Sim 367 Não 57 | resultado: approved
+
+## C:2191205 | PL 485/2019 | ementa: Acrescenta parágrafo único ao art. 12-A da Lei n° 10.098, de 19 de dezembro de 2000, que "estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências", para fins de disciplinar obrigatoriedade de disponibilização de carrinhos de compra em supermercados adaptáveis para u
+   voto principal do projeto: C:2191205-43 (2020-12-21): "" — Sim 20, Não 238
+C:2191205-43 | 2020-12-21 |  | Sim 20 Não 238 | resultado: rejected
+C:2191205-54 | 2020-12-21 |  | Sim 21 Não 238 | resultado: rejected
+C:2191205-76 | 2020-12-21 | Votação do DTQ 5: PT: Destaque para que a redação do artigo 2º proposto pela emenda de Plenário n. 2 substitua a redação dada pelo artigo 2º do substitutivo ao PL 485/2019. (art. 161, II) | Sim 178 Não 266 | resultado: rejected
+C:2191205-79 | 2020-12-21 | Votação do DTQ 3: PSOL: Destaque para votação em separado do § 1º do art. 12-B da Lei nº 10098 de 2000, incluído pelo art. 2º do substitutivo apresentado ao PL 485 de 2019, com vistas a sua rejeição. (art. 161, I) | Sim 302 Não 99 | resultado: ?
+
+## C:2191844 | PLP 25/2019 | ementa: Institui o Sistema Nacional de Educação (SNE), fixando normas para a cooperação entre a União, os Estados, o Distrito Federal e os Municípios nas políticas, programas e ações educacionais, em regime de colaboração, nos termos do inciso V do caput e do parágrafo único do art. 23, do art. 211 e do art. 214 da Constituição Federal.
+   voto principal do projeto: C:2314387-8 (2022-02-16): "" — Sim 422, Não 21
+C:2314387-8 | 2022-02-16 |  | Sim 422 Não 21 | resultado: approved
+
+## C:2192367 | PL 888/2019 | ementa: Dá nova redação ao §6º do art. 4o e acrescenta o artigo 11 à Lei no 10.931, de 2 de agosto de 2004 que trata de patrimônio de afetação de incorporações imobiliárias; dá nova redação ao art. 2º e acrescenta o art. 2º-A à Lei 12.024, de 27 de agosto de 2009 que dispõe sobre o tratamento tributário a ser dado às receitas mensais auferidas pelas empresas construtoras nos contratos 
+   voto principal do projeto: C:2194357-6 (2019-03-26): "" — Sim 334, Não 30
+C:2194357-6 | 2019-03-26 |  | Sim 334 Não 30 | resultado: approved
+
+## C:2192459 | PEC 6/2019 | ementa: Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências.
+   voto principal do projeto: C:2192459-588 (2019-07-09): "" — Sim 117, Não 331
+C:2192459-588 | 2019-07-09 |  | Sim 117 Não 331 | resultado: rejected
+C:2192459-609 | 2019-07-10 | Votação em primeiro turno. | Sim 29 Não 334 | resultado: rejected
+C:2192459-619 | 2019-07-10 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 22 Não 345 | resultado: rejected
+C:2192459-625 | 2019-07-10 | Continuação da votação em primeiro turno. | Sim 25 Não 314 | resultado: rejected
+C:2192459-636 | 2019-07-10 | Continuação da votação em primeiro turno. | Sim 379 Não 131 | resultado: approved
+C:2192459-640 | 2019-07-10 | Votação do DTQ 9: PL: Emenda nº 176 (161,II). | Sim 265 Não 184 | resultado: rejected
+C:2192459-646 | 2019-07-11 | Continuação da votação em primeiro turno. | Sim 75 Não 339 | resultado: rejected
+C:2192459-649 | 2019-07-11 | Votação da EMA 5: DEM: Emenda Aglutinativa nº 5. | Sim 344 Não 132 | resultado: approved
+C:2192459-653 | 2019-07-11 | Votação do DTQ 95: PSB: Destaque para votação em separado do § 14 do art. 195 da Constituição Federal, contido no art. 1º do Substitutivo da Comissão Especial, apresentado à PEC 6/2019 (161, I). | Sim 334 Não 155 | resultado: ?
+C:2192459-657 | 2019-07-11 | Votação do DTQ 2: Cidadania: Destaque do par. único do art. 203 da Constituição Federal, constante do art. 1º do substitutivo adotado pela Comissão Especial da PEC nº 6-A de 2019, com vistas a sua exclusão do texto (161,I). | Sim 322 Não 164 | resultado: ?
+C:2192459-662 | 2019-07-11 | Continuação da votação em primeiro turno. | Sim 58 Não 347 | resultado: rejected
+C:2192459-665 | 2019-07-11 | Votação do DTQ 14: PSOL: Destaque para votaçao em separado do §3º, do art. 239, constante do art. 1º do substitutivo adotado pela Comissão Especial da PEC 6/2019, para sua supressão (161,I). | Sim 326 Não 164 | resultado: ?
+C:2192459-668 | 2019-07-11 | Votação da EMA 8: PODEMOS: Emenda Aglutinativa nº 8. | Sim 467 Não 15 | resultado: approved
+C:2192459-671 | 2019-07-11 | Votação do DTQ 76: PSB: Destaque para votação em separado do §2º do art. 18 do substitutivo da Comissão Especial apresentado à PEC 6/2019 (161,I). | Sim 15 Não 445 | resultado: ?
+C:2192459-690 | 2019-07-12 | Continuação da votação em primeiro turno. | Sim 32 Não 260 | resultado: rejected
+C:2192459-692 | 2019-07-12 | Votação da EMA 4: PDT: Emenda Aglutinativa nº 4. | Sim 165 Não 296 | resultado: rejected
+C:2192459-696 | 2019-07-12 | Votação do DTQ 44: PDT: Destaque para votação em separado do inciso IV do art. 20, do Substitutivo apresentado à PEC 6/2019 (161, I). | Sim 387 Não 103 | resultado: ?
+C:2192459-704 | 2019-07-12 | Votação do DTQ 43: PDT: Destaque para votação em separado da expressão "em dois anos" constante do § 1º, do art. 20, do Substitutivo apresentado à PEC 6/2019 (161, I). | Sim 25 Não 465 | resultado: ?
+C:2192459-705 | 2019-07-12 | Continuação da votação em primeiro turno. | Sim 21 Não 243 | resultado: rejected
+C:2192459-724 | 2019-07-12 | Votação do DTQ 12: PT: Destaque para votação em separado do art. 23 do substitutivo adotado pela Comissão Especial à PEC 6/2019, com vistas a sua rejeição (161,I). | Sim 328 Não 156 | resultado: ?
+C:2192459-727 | 2019-07-12 | Votação do DTQ 11: PT: Destaque para votação em separado do art. 26 do substitutivo adotado pela Comissão Especial à PEC 6/2019, com vistas a sua rejeição (161,I). | Sim 346 Não 131 | resultado: ?
+C:2192459-730 | 2019-07-12 | Votação do DTQ 13: PT: Destaque para votação em separado do §2º do art. 26 do substitutivo adotado pela Comissão Especial à PEC 6/2019, com vistas a sua rejeição (161,I). | Sim 340 Não 129 | resultado: ?
+C:2192459-734 | 2019-07-12 | Votação da Emenda de Redação nº 1. | Sim 435 Não 3 | resultado: approved
+C:2192459-757 | 2019-08-06 |  | Sim 18 Não 306 | resultado: rejected
+C:2192459-763 | 2019-08-06 |  | Sim 353 Não 10 | resultado: approved
+C:2192459-772 | 2019-08-06 | Votação em segundo turno. | Sim 12 Não 349 | resultado: rejected
+C:2192459-775 | 2019-08-06 | Votação em segundo turno. | Sim 11 Não 355 | resultado: rejected
+C:2192459-781 | 2019-08-06 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 9 Não 304 | resultado: rejected
+C:2192459-786 | 2019-08-06 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 370 Não 124 | resultado: approved
+C:2192459-794 | 2019-08-07 | Continuação da votação em segundo turno. | Sim 7 Não 256 | resultado: rejected
+C:2192459-795 | 2019-08-07 | Votação do DTQ 11: PT: Destaque do § 14 do art. 195 da CF/88, na redação do art. 1º da PEC 6/2019 (redação para 2º turno) (161, I). | Sim 364 Não 130 | resultado: ?
+C:2192459-798 | 2019-08-07 | Votação do DTQ 7: PCdoB: Destaque do inciso V, do art 201, constante do art 1º da PEC 6/2019, com vistas à sua supressão (161, I). | Sim 339 Não 153 | resultado: ?
+C:2192459-804 | 2019-08-07 | Votação do DTQ 10: PT: Destaque do art. 203 da Constituição Federal na redação dada pelo art. 1º da PEC 6/2019 (redação para 2º turno) (161, I). | Sim 346 Não 146 | resultado: ?
+C:2192459-807 | 2019-08-07 | Votação do DTQ 1: PSOL: Destaque para votação em separado do § 3º, do art. 239, constante do art. 1º da Redação para o 2º Turno aprovada pela Comissão Especial, para sua supressão (161, I). | Sim 345 Não 139 | resultado: ?
+C:2192459-810 | 2019-08-07 | Votação do DTQ 5: NOVO: Destaque para votação em separado do Art. 20 do texto do 2º Turno da PEC 6/2019, com vistas à sua supressão. (161, I). | Sim 394 Não 9 | resultado: ?
+C:2192459-813 | 2019-08-07 | Votação do DTQ 3: PDT: Destaque para votação em separado do inciso IV, do art. 20 da PEC nº 6-G, de 2019 (Redação para o Segundo Turno) (161, I). | Sim 352 Não 136 | resultado: ?
+C:2192459-816 | 2019-08-07 | Votação do DTQ 8: PSB: Destaque para votação em separado do § 1º do art. 21 da redação para o segundo turno da PEC 6/2019. (161, I). | Sim 347 Não 137 | resultado: ?
+C:2192459-819 | 2019-08-07 | Votação do DTQ 9: PT: Destaque do art. 26 da PEC 6/2019 (redação para 2º Turno) (161, I). | Sim 352 Não 135 | resultado: ?
+
+## C:2192602 | PL 984/2019 | ementa: Altera a Lei nº 9.985, de 18 de julho de 2000, para criar a categoria de Unidade de Conservação denominada Estrada-Parque e institui a Estrada-Parque Caminho do Colono no Parque Nacional do Iguaçu.
+   voto principal do projeto: C:2211629-12 (2021-06-09): "" — Sim 315, Não 138
+C:2211629-12 | 2021-06-09 |  | Sim 315 Não 138 | resultado: approved

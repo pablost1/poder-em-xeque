@@ -1,0 +1,119 @@
+## C:2164234 | MPV 809/2017 | ementa: Altera a Lei nº 11.516, de 28 de agosto de 2007, que dispõe sobre a criação do Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes, e a Lei nº 7.957, de 20 de dezembro de 1989, que dispõe sobre a tabela de Pessoal do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama. NOVA EMENTA: Altera as Leis nºs 11.516, de 28 de ago
+   voto principal do projeto: C:2164234-73 (2018-04-24): "Votação preliminar em turno único." — Sim 273, Não 5
+C:2164234-73 | 2018-04-24 | Votação preliminar em turno único. | Sim 273 Não 5 | resultado: approved
+C:2164234-79 | 2018-04-24 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 6 Não 251 | resultado: rejected
+C:2164234-81 | 2018-04-24 | Votação, quanto ao mérito, em turno único. | Sim 259 Não 12 | resultado: approved
+C:2164234-103 | 2018-04-25 | Votação do § 3º, do art. 14-A, com redação dada pelo art. 1º do Projeto de Lei de Conversão 5/2018, com vistas à sua supressão, objeto do destaque para votação em separado da bancada do PSOL - DTQ11. | Sim 247 Não 34 | resultado: approved
+C:2164234-106 | 2018-04-25 | Votação do art. 2º do Projeto de Lei de Conversão apresentado à MPV 809/17, com vistas à supressão do dispositivo, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 2. | Sim 236 Não 35 | resultado: approved
+C:2164234-109 | 2018-04-25 | Votação do inciso III, do art. 12 da Lei 7957/89, alterado pelo art. 2º do Projeto de Lei de Conversão apresentado à MPV 809/17, objeto do destaque para votação em separado da bancada do PT - DTQ 6. | Sim 266 Não 24 | resultado: approved
+C:2164234-113 | 2018-04-25 | Votação do inciso IV, do art. 12 da Lei 7957/89, alterado pelo art. 2º do Projeto de Lei de Conversão apresentado à MPV 809/17, objeto do destaque para votação em separado da bancada do PT - DTQ 8. | Sim 239 Não 26 | resultado: approved
+
+## C:2165578 | MPV 810/2017 | ementa: Altera a Lei nº 8.248, de 23 de outubro de 1991, e a Lei nº 8.387, de 30 de dezembro de 1991, e dá outras providências.
+C:2165578-69 | 2018-05-08 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 5 Não 267 | resultado: rejected
+
+## C:2166092 | PL 9327/2017 | ementa: Dispõe sobre a emissão de duplicata sob a forma escritural. NOVA EMENTA: Dispõe sobre a emissão de duplicata sob a forma escritural; altera a Lei nº 9.492, de 10 de setembro de 1997; e dá outras providências
+   voto principal do projeto: C:2175597-7 (2018-05-28): "" — Sim 293, Não 10
+C:2175597-7 | 2018-05-28 |  | Sim 293 Não 10 | resultado: approved
+C:2166092-33 | 2018-06-06 |  | Sim 13 Não 260 | resultado: rejected
+
+## C:2166464 | PLP 459/2017 | ementa: Altera a Lei n. 4.320, de 17 de março de 1964, para dispor sobre a cessão de direitos creditórios originados de créditos tributários e não tributários dos entes da Federação, e a Lei n. 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), para prever o protesto extrajudicial como causa de interrupção da prescrição e para autorizar a administração tributária a requisita
+   palavras-chave: Alteração, Lei do Direito Financeiro, autorização, regulamentação, cessão de direitos, direito creditório, crédito tributário, crédito não tributário, ente federado, pess
+   voto principal do projeto: C:2186530-6 (2018-11-20): "" — Sim 270, Não 25
+C:2186530-6 | 2018-11-20 |  | Sim 270 Não 25 | resultado: approved
+C:2166464-52 | 2018-12-12 |  | Sim 85 Não 172 | resultado: rejected
+
+## C:2167507 | MPV 811/2017 | ementa: Altera a Lei nº 12.304, de 2 de agosto de 2010, que autoriza o Poder Executivo a criar a empresa pública denominada Empresa Brasileira de Administração de Petróleo e Gás Natural S.A. - Pré-Sal Petróleo S.A. - PPSA e dispõe sobre a política de comercialização de petróleo, gás natural e outros hidrocarbonetos. NOVA EMENTA: Altera as Leis nºs 12.304, de 2 de agosto de 2010, e 12.3
+   voto principal do projeto: C:2167507-65 (2018-05-15): "Votação preliminar em turno único." — Sim 241, Não 14
+C:2167507-65 | 2018-05-15 | Votação preliminar em turno único. | Sim 241 Não 14 | resultado: approved
+C:2167507-100 | 2018-05-16 | Continuação da votação em turno único. | Sim 25 Não 257 | resultado: rejected
+C:2167507-107 | 2018-05-16 | Votação da alínea "a", do inciso II, do art. 4º da Lei 12.304/10, constante do art. 1º do Projeto de Lei de Conversão oferecido à MP 811/17, com vistas à supressão, objeto do destaque para votação em separado da bancada do PSB - DTQ 10. | Sim 222 Não 47 | resultado: ?
+C:2167507-112 | 2018-05-16 | Votação da Emenda nº 35, objeto do destaque para votação em separado da bancada do PT - DTQ 2. | Sim 61 Não 207 | resultado: rejected
+C:2167507-118 | 2018-05-16 | Votação da expressão "ou comercializar diretamente", constante da alínea "a" do inciso II do art. 4º da Lei 12.304/10, na redação dada no art. 1º do Projeto de Lei de Conversão oferecido à MPV 811, e por decorrência, os parágrafos 3º e 6º do art. 4º da Lei 12.304/10, constante no art. 1º, com objetivo de sua supressão, objeto do destaque para votação em separado da bancada do PDT - DTQ 16. | Sim 234 Não 48 | resultado: ?
+C:2167507-125 | 2018-05-16 | Votação da Emenda nº 36, objeto do destaque para votação em separado da bancada do PT - DTQ 3. | Sim 38 Não 240 | resultado: rejected
+C:2167507-76 | 2018-05-16 | Continuação da votação em turno único. | Sim 11 Não 245 | resultado: rejected
+C:2167507-81 | 2018-05-16 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 9 Não 246 | resultado: rejected
+C:2167507-87 | 2018-05-16 | Votação, quanto ao mérito, em turno único. | Sim 224 Não 57 | resultado: approved
+
+## C:2167543 | MPV 812/2017 | ementa: Altera a Lei nº 7.827, de 27 de setembro de 1989, que regulamenta o art. 159, inciso I, alínea "c", da Constituição Federal, e institui o Fundo Constitucional de Financiamento do Norte - FNO, o Fundo Constitucional de Financiamento do Nordeste - FNE e o Fundo Constitucional de Financiamento do Centro-Oeste - FCO, e a Lei nº 10.177, de 12 de janeiro de 2001, que dispõe sobre as 
+   voto principal do projeto: C:2167543-40 (2018-05-22): "" — Sim 5, Não 281
+C:2167543-40 | 2018-05-22 |  | Sim 5 Não 281 | resultado: rejected
+
+## C:2167917 | PL 9557/2018 | ementa: Dispõe sobre a composição do Conselho da Justiça Federal. NOVA EMENTA: Altera a Lei nº 11.798, de 29 de outubro de 2008, para dispor sobre a composição do Conselho da Justiça Federal.
+   voto principal do projeto: C:2173291-6 (2018-05-09): "" — Sim 283, Não 6
+C:2173291-6 | 2018-05-09 |  | Sim 283 Não 6 | resultado: approved
+
+## C:2167919 | PLP 470/2018 | ementa: Estabelece prazo de 180 (cento e oitenta) dias para a instalação de bloqueadores de sinais de telecomunicação nos estabelecimentos penitenciários; altera o art. 3º da Lei Complementar nº 79, de 7 de janeiro de 1994, para estabelecer a aplicação de recursos do Fundo Penitenciário Nacional (Funpen) na instalação, no custeio e na manutenção de bloqueadores de sinais de telecomunic
+   voto principal do projeto: C:2169397-9 (2018-03-21): "" — Sim 394, Não 2
+C:2169397-9 | 2018-03-21 |  | Sim 394 Não 2 | resultado: approved
+
+## C:2168064 | PDC 886/2018 | ementa: Aprova a intervenção federal no Estado do Rio de Janeiro nos termos do Decreto Presidencial nº 9.288, de 16 de fevereiro de 2018, com o objetivo de pôr termo ao grave comprometimento da ordem pública. NOVA EMENTA: Aprova o Decreto nº 9.288, de 16 de fevereiro de 2018, que "Decreta intervenção federal no Estado do Rio de Janeiro com o objetivo de pôr termo ao grave comprometimen
+   voto principal do projeto: C:2168064-19 (2018-02-19): "Votação em turno único." — Sim 340, Não 72
+C:2168064-19 | 2018-02-19 | Votação em turno único. | Sim 340 Não 72 | resultado: approved
+
+## C:2168386 | MPV 821/2018 | ementa: Altera a Lei nº 13.502, de 1º de novembro de 2017, que dispõe sobre organização básica da Presidência da República e dos Ministérios, para criar o Ministério Extraordinário da Segurança Pública. NOVA EMENTA: Altera a Lei nº 13.502, de 1º de novembro de 2017, que dispõe sobre a organização básica da Presidência da República e dos Ministérios, para criar o Ministério da Segurança
+C:2168386-45 | 2018-06-13 | Votação do parágrafo único do art. 40-B da Lei 13.502/17 constante no art. 2º do Projeto de Lei de Conversão 16/18 apresentado à MPV 821/18, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 8. | Sim 216 Não 93 | resultado: ?
+
+## C:2172828 | PDC 916/2018 | ementa: Susta o artigo 6º da Resolução ANP nº 43 de 22 de dezembro de 2009.
+   voto principal do projeto: C:2173096-10 (2018-06-20): "" — Sim 213, Não 98
+C:2173096-10 | 2018-06-20 |  | Sim 213 Não 98 | resultado: rejected
+
+## C:2173218 | PDC 920/2018 | ementa: Susta a Portaria Interministerial Mdic - MMA nº 78, de 29 de dezembro de 2017, que estabelece normas, critérios, padrões e medidas de ordenamento pesqueiro em águas continentais na região hidrográfica do Atlântico Nordeste Oriental.
+   voto principal do projeto: C:2173759-7 (2018-05-09): "Matéria sobre a mesa (EXTRAPAUTA)." — Sim 337, Não 12
+C:2173759-7 | 2018-05-09 | Matéria sobre a mesa (EXTRAPAUTA). | Sim 337 Não 12 | resultado: approved
+
+## C:2173223 | PL 10107/2018 | ementa: Dispõe sobre a digitalização e a utilização de sistemas informatizados para guarda, armazenamento e manuseio de prontuário de paciente.
+   voto principal do projeto: C:2187020-9 (2018-11-27): "" — Sim 285, Não 15
+C:2187020-9 | 2018-11-27 |  | Sim 285 Não 15 | resultado: approved
+
+## C:2173680 | PLP 500/2018 | ementa: Altera Lei Complementar nº 162, de 6 de abril de 2018 que Institui o Programa Especial de Regularização Tributária das Microempresas e Empresas de Pequeno Porte optantes pelo Simples Nacional (Pert-SN), a fim de permitir a entrada novamente dos optantes do simples nacional excluídos em janeiro de 2018. NOVA EMENTA: Altera a Lei Complementar nº 162, de 6 de abril de 2018, para p
+   voto principal do projeto: C:2173680-62 (2018-06-25): "Continuação da votação em turno único. DCD 26/06/18 PÁG 160 - 200." — Sim 270, Não 1
+C:2173680-62 | 2018-06-25 | Continuação da votação em turno único. DCD 26/06/18 PÁG 160 - 200. | Sim 270 Não 1 | resultado: approved
+
+## C:2175857 | OBJ 16/2018 | ementa: Eleição para o cargo de 4º Secretário da Mesa Diretora da Câmara dos Deputados para o biênio 2017-2018
+   voto principal do projeto: C:2175857-4 (2018-05-22): "Eleição para o cargo de 4º Secretário da Mesa Diretora da Câmara dos Deputados." — Sim 0, Não 0
+C:2175857-4 | 2018-05-22 | Eleição para o cargo de 4º Secretário da Mesa Diretora da Câmara dos Deputados. | Sim 0 Não 0 | resultado: approved
+
+## C:2176901 | PL 10316/2018 | ementa: Altera a Lei nº 9.478, de 16 de agosto de 1997, e a Lei nº 9.718, de 27 de novembro de 1998, para dispor sobre a comercialização de etanol hidratado combustível.
+   voto principal do projeto: C:2177118-7 (2018-06-13): "" — Sim 236, Não 122
+C:2177118-7 | 2018-06-13 |  | Sim 236 Não 122 | resultado: rejected
+
+## C:2177451 | PL 10332/2018 | ementa: Altera a Lei nº 10.438, de 26 de abril de 2002, que cria a Conta de Desenvolvimento Energético, a Lei nº 12.111, de 9 de dezembro de 2009, que dispõe sobre os serviços de energia elétrica nos sistemas isolados, e a Lei nº 12.783, de 11 de janeiro de 2013, que dispõe sobre as concessões de geração, transmissão e distribuição de energia elétrica, sobre a redução dos encargos seto
+   voto principal do projeto: C:2180608-7 (2018-07-03): "" — Sim 226, Não 48
+C:2180608-7 | 2018-07-03 |  | Sim 226 Não 48 | resultado: approved
+C:2177451-57 | 2018-07-04 |  | Sim 227 Não 32 | resultado: approved
+C:2177451-73 | 2018-07-04 |  | Sim 32 Não 225 | resultado: rejected
+C:2177451-75 | 2018-07-04 |  | Sim 31 Não 223 | resultado: rejected
+C:2177451-78 | 2018-07-04 |  | Sim 25 Não 232 | resultado: rejected
+C:2177451-83 | 2018-07-04 |  | Sim 29 Não 228 | resultado: rejected
+C:2177451-90 | 2018-07-04 | Votação em turno único. | Sim 203 Não 123 | resultado: approved
+C:2177451-109 | 2018-07-10 | Votação da Emenda nº 23, objeto do destaque para votação em separado da bancada do PDT - DTQ 8. | Sim 129 Não 205 | resultado: rejected
+C:2177451-123 | 2018-07-10 | Votação da Emenda nº 20, objeto do destaque para votação em separado da bancada do PT - DTQ 2. | Sim 161 Não 210 | resultado: rejected
+C:2177451-126 | 2018-07-10 | Votação da Emenda nº 9, objeto do destaque para votação em separado da bancada do PT - DTQ 3. | Sim 159 Não 220 | resultado: rejected
+C:2177451-129 | 2018-07-10 | Votação da Emenda nº 14, objeto do destaque para votação em separado da bancada do PSB - DTQ 17. | Sim 143 Não 221 | resultado: rejected
+C:2177451-131 | 2018-07-10 | Votação da Emenda nº 24, objeto do destaque para votação em separado da bancada do PSOL - DTQ 19. | Sim 163 Não 217 | resultado: rejected
+
+## C:2179189 | PL 10431/2018 | ementa: Dispõe sobre o cumprimento de sanções impostas por resoluções do Conselho de Segurança das Nações Unidas, incluída a indisponibilidade de ativos de pessoas naturais e jurídicas e de entidades, e a designação nacional de pessoas investigadas ou acusadas de terrorismo, seu financiamento ou atos correlacionados. NOVA EMENTA: Dispõe sobre o cumprimento de sanções impostas por resol
+   voto principal do projeto: C:2186805-6 (2018-11-20): "" — Sim 301, Não 14
+C:2186805-6 | 2018-11-20 |  | Sim 301 Não 14 | resultado: approved
+
+## C:2181260 | MPV 843/2018 | ementa: Estabelece requisitos obrigatórios para a comercialização de veículos no Brasil, institui o Programa Rota 2030 - Mobilidade e Logística e dispõe sobre o regime tributário de autopeças não produzidas. NOVA EMENTA: Estabelece requisitos obrigatórios para a comercialização de veículos no Brasil; institui o Programa Rota 2030 - Mobilidade e Logística; dispõe sobre o regime tributár
+   voto principal do projeto: C:2181260-40 (2018-11-07): "Votação em turno único." — Sim 86, Não 171
+C:2181260-40 | 2018-11-07 | Votação em turno único. | Sim 86 Não 171 | resultado: rejected
+C:2181260-53 | 2018-11-07 | Votação preliminar em turno único. | Sim 284 Não 22 | resultado: approved
+C:2181260-73 | 2018-11-07 | Votação do inciso II do art. 9º do PLV 27/2018 oferecido à MPV 843/2018, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 2. | Sim 145 Não 151 | resultado: ?
+C:2181260-81 | 2018-11-07 | Votação do art. 11-D, da Lei nº 9440/97, com a redação dada pelo art. 30 do PLV apresentado à MPV 843/18, com o objetivo de suprimi-lo, objeto do destaque para votação em separado da bancada do DEM - DTQ 9. | Sim 17 Não 299 | resultado: ?
+
+## C:2182065 | MPV 845/2018 | ementa: Institui o Fundo Nacional de Desenvolvimento Ferroviário.
+   voto principal do projeto: C:2182065-64 (2018-11-21): "Votação, quanto ao mérito, em turno único." — Sim 145, Não 217
+C:2182065-64 | 2018-11-21 | Votação, quanto ao mérito, em turno único. | Sim 145 Não 217 | resultado: rejected
+C:2182065-70 | 2018-11-21 | Votação das emendas de nºs 1; 4 a 17; e 19, com parecer pela rejeição. | Sim 15 Não 254 | resultado: rejected
+
+## C:2183306 | MPV 848/2018 | ementa: Altera a Lei nº 8.036, de 11 de maio de 1990, que dispõe sobre o Fundo de Garantia do Tempo de Serviço, para possibilitar a aplicação de recursos em operações de crédito destinadas às entidades hospitalares filantrópicas e sem fins lucrativos que participem de forma complementar do Sistema Único de Saúde. NOVA EMENTA: Altera a Lei nº 8.036, de 11 de maio de 1990, que dispõe sob
+   voto principal do projeto: C:2183306-45 (2018-10-30): "Continuação da votação em turno único." — Sim 5, Não 260
+C:2183306-45 | 2018-10-30 | Continuação da votação em turno único. | Sim 5 Não 260 | resultado: rejected
+C:2183306-48 | 2018-10-30 | Votação da expressão "bem como, para instituições que atuam no campo para pessoas com deficiência", contida na emenda 5, para inclusão na alínea "n" do inciso I do art. 9º do Projeto de Lei de Conversão, apresentado à MPV 848/2018, logo após a expressão "...hospitalares filantrópicos", preservando os textos seguintes, objeto do destaque para votação em separado da bancada do PSDB - DTQ 11. | Sim 253 Não 3 | resultado: approved
+
+## C:2186777 | PLP 549/2018 | ementa: Acrescenta o § 3º ao art. 2º da Lei Complementar nº 91, de 22 de dezembro de 1997, que dispõe sobre a fixação dos coeficientes de distribuição dos recursos do Fundo de Participação dos Municípios. NOVA EMENTA: Acrescenta o § 3º ao art. 2º da Lei Complementar nº 91, de 22 de dezembro de 1997, que dispõe sobre a fixação dos coeficientes de distribuição dos recursos do Fundo de Pa
+   voto principal do projeto: C:2186777-31 (2018-11-21): "" — Sim 51, Não 207
+C:2186777-31 | 2018-11-21 |  | Sim 51 Não 207 | resultado: rejected
+C:2186777-35 | 2018-11-21 | Votação em turno único. | Sim 301 Não 33 | resultado: approved

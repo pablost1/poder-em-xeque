@@ -1,0 +1,95 @@
+## S:57026 | PEC 27/2003 | ementa: Altera o § 8º do artigo 62 da Constituição Federal, para determinar que as medidas provisórias terão a sua votação iniciada, alternadamente, na Câmara dos Deputados e no Senado Federal.
+S:2243 | 2003-11-04 | Proposta de Emenda à Constituição nº 27, de 2003 (1º turno). | Sim 62 Não 0 | resultado: approved
+S:2426 | 2003-11-25 | Proposta de Emenda à Constituição nº 27 de 2003 (2º turno). | Sim 74 Não 0 | resultado: approved
+
+## S:58362 | PEC 42/2003 | ementa: Altera o art. 40 da Constituição Federal, relativo ao limite de idade para a aposentadoria compulsória do servidor público em geral, e acrescenta dispositivo ao Ato das Disposições Constitucionais Transitórias.
+   voto principal do projeto: S:3875 (2005-08-24): "Altera os artigos 73, 101, 104, 107 e 111 da Constituição Federal, destacado - (1º Turno)" — Sim 0, Não 61
+S:3874 | 2005-08-24 | Proposta de Emenda à Constituição nº 42 de 2003 (1º Turno) | Sim 63 Não 4 | resultado: approved
+S:3875 | 2005-08-24 | Altera os artigos 73, 101, 104, 107 e 111 da Constituição Federal, destacado - (1º Turno) | Sim 0 Não 61 | resultado: rejected
+S:3876 | 2005-08-24 | Emenda nº 4 - PLEN à Pec nº 42 de 2003, (1º Turno) | Sim 60 Não 2 | resultado: approved
+S:3877 | 2005-08-24 | Emenda nº 6- PLEN à PEC nº 42 de 2003 (1ª Turno) | Sim 22 Não 33 | resultado: rejected
+S:3878 | 2005-08-24 | Emendas nºs 1 e 2 - CCJ, à PEC 42/2003 (1º Turno) | Sim 61 Não 2 | resultado: approved
+S:3869 | 2005-08-30 | Proposta de emenda à Constituição nº 43 de 2003 (2º Turno) | Sim 55 Não 1 | resultado: approved
+
+## S:58396 | PLS 221/2003 | ementa: Altera a Lei Complementar nº 97, de 09 de junho de 1999, que dispõe sobre as normas gerais para a organização, o preparo e o emprego das Forças Armadas, para estabelecer novas atribuições subsidiárias.
+   voto principal do projeto: S:2664 (2004-06-08): "Substitutivo ao Projeto de Lei do Senado nº 221, de 2003 - Complementar." — Sim 58, Não 0
+S:2664 | 2004-06-08 | Substitutivo ao Projeto de Lei do Senado nº 221, de 2003 - Complementar. | Sim 58 Não 0 | resultado: approved
+S:2665 | 2004-06-08 | Art. 18-A (constante do art. 3º do Substitutivo ao Projeto de Lei do Senado nº 221, de 2003 - Complementar). | Sim 57 Não 3 | resultado: approved
+
+## S:58714 | MPV 120/2003 | ementa: Altera o artigo 16 da Medida Provisória nº 2181-45, de 24 de agosto e 2001, que dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras ptovidências.
+S:1143 | 2003-08-12 | Emenda nº 3 à Medida Provisória nº 120, de 2003. | Sim 20 Não 35 | resultado: rejected
+
+## S:59189 | MPV 123/2003 | ementa: Define normas de regulação para o setor farmacêutico, cria a Câmara de Regulação do Mercado de Medicamentos - CMED, altera a Lei nº 6360, de 23 de setembro de 1976, e dá outras providências.
+   voto principal do projeto: S:1423 (2003-09-09): "Projeto de Lei de Conversão nº 23, de 2003. (MP 123/2003)" — Sim 44, Não 12
+S:1423 | 2003-09-09 | Projeto de Lei de Conversão nº 23, de 2003. (MP 123/2003) | Sim 44 Não 12 | resultado: approved
+
+## S:60041 | PEC 57/2003 | ementa: Acrescenta o § 3º ao artigo 215 da Constituição Federal, instituindo o Plano Nacional de Cultura.
+S:3226 | 2005-02-23 | Proposta de Emenda à Constituição nº 57, de 2003 (1º Turno). | Sim 65 Não 0 | resultado: approved
+S:3650 | 2005-06-01 | Proposta de Emenda da Constituição, nº 57 de 2003 (2º turno) | Sim 56 Não 1 | resultado: approved
+
+## S:60903 | PEC 67/2003 | ementa: Modifica os artigos 37, 40, 42, 48, 96, 149 e 201 da Constituição Federal, revoga o inciso IX do § 3º do artigo 142 e o § 10 do artigo 201 da Constituição Federal e dispositivos da Emenda Constitucional nº 20, de 15 de dezembro de 1998, e dá outras providências. (Volume - XXVI)
+S:2425 | 2003-11-25 | Decisão da Presidência sobre o art. 133, inciso V alínea "b" da Proposta de Emenda à Constituição nº 67 de 2003. | Sim 47 Não 22 | resultado: approved
+S:2429 | 2003-11-25 | Proposta de Emenda à Constituição nº 67 de 2003, juntamente com a Emenda de Redação - CCJ, ressalvados os destaques e as emendas. (1º turno) | Sim 55 Não 25 | resultado: approved
+S:2433 | 2003-11-25 | Parágrafo 1º do art. 42, constante da redação dada pelo art. 1º da Proposta de Emenda à Constituição nº 67 de 2003. | Sim 0 Não 70 | resultado: rejected
+S:2435 | 2003-11-25 | Inciso I do art. 201, referenciado no art. 1º da Proposta de Emenda à Cosntituição nº 67 de 2003 e, conmcomitantemente, da expressão "§ 10 do art. 201", refrenciado no art. 11 da mesma Proposta. | Sim 39 Não 33 | resultado: rejected
+S:2483 | 2003-12-11 | Proposta de Emenda à Constituição nº 67, de 2003, com as Emendas nºs 1 e 3, de redação, com parecer favorável (2º turno). | Sim 51 Não 24 | resultado: approved
+S:2484 | 2003-12-11 | Emendas nºs 2, 5, 6, 8 e 9, de Plenário, com parecer contráro à Proposta de Emenda à Constituição nº 67, de 2003. | Sim 27 Não 48 | resultado: rejected
+
+## S:62161 | PEC 74/2003 | ementa: Altera o Sistema Tributário Nacional e dá outras providências. (Volume - XX)
+S:2489 | 2003-12-11 | Proposta de Emenda à Constituição nº 74, de 2003 (1º turno) | Sim 63 Não 4 | resultado: approved
+S:2490 | 2003-12-11 | Emendas nºs 1 a 24 - CCJ, 102, 106, 110, 138 a 446 - de Plenário à Proposta de Emenda à Constituição nº 74, de 2003. | Sim 64 Não 0 | resultado: approved
+S:2491 | 2003-12-11 | Parágrafo único da Emenda nº 460 - CCJ, destacada à Proposta de Emenda à Constituição nº 74, de 2003. | Sim 4 Não 61 | resultado: rejected
+S:2492 | 2003-12-11 | Emendas nºs 464 e 465 - Plenário, aditada ao parecer do Relator à Proposta de Emenda à Constituição nº 74, de 2003. | Sim 64 Não 0 | resultado: approved
+S:2493 | 2003-12-11 | Subemendas às emendas nºs 384 e 92; subemenda às emendas nºs 431, 445, 253 e 442 - Plenário; da subemenda às emendas nºs 33, 448, 112 e 447 - Plenário; Subemendas nºs 449 e 271 à Proposta de Emenda à Constituição nº 74, de 2003. | Sim 64 Não 0 | resultado: approved
+S:2494 | 2003-12-11 | Subemendas às emendas nºs 53, 161, 309 e 386 - Plenário à Proposta de Emenda à Constituição nº 74, de 2003. | Sim 64 Não 0 | resultado: approved
+S:2495 | 2003-12-11 | Emendas de parecer contrário à Proposta de Emenda à Constituição nº 74, de 2003. | Sim 15 Não 47 | resultado: rejected
+S:2496 | 2003-12-11 | Emenda nº 464 - Plenário, aditada ao parecer à Proposta de Emenda à Constituição nº 74, de 2003. | Sim 35 Não 28 | resultado: rejected
+S:2497 | 2003-12-11 | Emenda nº 217 - Plenário à Proposta de Emenda à Constituição nº 74, de 2003. | Sim 43 Não 18 | resultado: rejected
+S:2463 | 2003-12-17 | Proposta de Emenda à Constituição nº 74, de 2003. (2º Turno) | Sim 64 Não 5 | resultado: approved
+S:2464 | 2003-12-17 | Art. 5º da Proposta de Emenda à Constituição nº 74, de 2003. | Sim 1 Não 65 | resultado: rejected
+
+## S:62771 | PEC 77/2003 | ementa: Altera os artigos 40, 144, 149, 194, 195 e 201 da Constituição Federal, para dispor sobre a previdência social, e dá outras providências.
+S:2470 | 2003-12-15 | Substitutivo à Proposta de Emenda à Constituição nº 77, de 2003 (1º turno) | Sim 69 Não 0 | resultado: approved
+S:2468 | 2003-12-17 | Proposta de Emenda à Constituição nº 77, de 2003. (2º Turno). | Sim 64 Não 0 | resultado: approved
+S:3827 | 2005-06-30 | Emenda nº 8 à propsota de Emenda à Constituição nº 77-A de 2003, em primeiro turno. | Sim 65 Não 0 | resultado: approved
+S:3828 | 2005-06-30 | Inciso XI do artigo 37, da propsota de Emenda à Constituição nº 77-A de 2003 em primeiro turno. | Sim 34 Não 26 | resultado: approved
+S:3829 | 2005-06-30 | Emenda nº 7 à proposta de emenda à constituição nº 77- A de 2003 em primeiro turno. | Sim 58 Não 1 | resultado: rejected
+S:3843 | 2005-06-30 | Emenda nº 9-Plen, à proposta de emenda à constituição ao nº 77-A de 2003, em primeiro turno. | Sim 33 Não 21 | resultado: rejected
+S:3844 | 2005-06-30 | Emenda nº 10-Plen à proposta de emenda à constituição nº 77-A de 2003, em primeiro turno. | Sim 26 Não 25 | resultado: rejected
+S:3845 | 2005-06-30 | Emendas nºs 1e 3, à PEC 77-A/2003 (1ª Turno). | Sim 52 Não 0 | resultado: approved
+S:3846 | 2005-06-30 | Proposta de Emenda à Constituição nº 77-A, de 2003. (2ª Turno) | Sim 61 Não 0 | resultado: approved
+
+## S:62800 | PLC 65/2003 | ementa: Dispõe sobre o Quadro de Pessoal da Agência Nacional de Águas - ANA, e dá outras providências.
+   voto principal do projeto: S:2276 (2003-11-05): "Porjeto de Lei da Câmara nº 65, de 2003." — Sim 48, Não 1
+S:2276 | 2003-11-05 | Porjeto de Lei da Câmara nº 65, de 2003. | Sim 48 Não 1 | resultado: approved
+
+## S:63304 | PLC 71/2003 | ementa: Regula a recuperação judicial, a extrajudicial e a falência de devedores pessoas físicas e jurídicas que exerçam atividade econômica regida pelas leis comerciais, e dá outras providências. (Volume - VII) (Urgência e Turno Suplementar)
+   voto principal do projeto: S:2723 (2004-07-06): "Substitutivo do Senado ao Projeto de Lei da Câmara nº 71, de 2003. (turno suplementar)" — Sim 64, Não 2
+S:2723 | 2004-07-06 | Substitutivo do Senado ao Projeto de Lei da Câmara nº 71, de 2003. (turno suplementar) | Sim 64 Não 2 | resultado: approved
+S:2724 | 2004-07-06 | Emendas nºs 43, 44, 48, 49 e 51, de Plenário, com parecer contrário, ao Substitutivo do Senado ao Projeto de Lei da Câmara nº 71, de 2003. (turno suplementar) | Sim 9 Não 47 | resultado: rejected
+
+## S:63306 | PLC 70/2003 | ementa: Altera dispositivos da Lei nº 5172, de 25 de outubro de 1966 - Código Tributário Nacional, e dá outras providências.
+   voto principal do projeto: S:2688 (2004-06-17): "Substituto ao Projeto de Lei da Câmara nº 70, de 2003 - Complementar." — Sim 50, Não 3
+S:2688 | 2004-06-17 | Substituto ao Projeto de Lei da Câmara nº 70, de 2003 - Complementar. | Sim 50 Não 3 | resultado: approved
+S:2725 | 2004-07-06 | Substitutivo do Senado ao Projeto de Lei da Câmara nº 70, de 2003 - Complementar (turno suplementar). | Sim 53 Não 3 | resultado: approved
+S:2726 | 2004-07-06 | Inciso I, parágrafo único do art. 186, do Código Tributário Nacional (Lei nº 5172 - 66) constante no art. 1º do Substitutivo do Senado ao Projeto de Lei da Câmara nº 70, de 2003 - complementar. | Sim 54 Não 3 | resultado: approved
+S:2727 | 2004-07-06 | Emenda nº 4, de Plenário, do Relator ao Substitutivo do Senado ao Projeto de Lei da Câmara nº 70, de 2003. | Sim 50 Não 1 | resultado: approved
+S:2728 | 2004-07-06 | Emendas nº 1 e 3, de Plenário, com parecer contrário ao Substitutivo do Senado ao Projeto de Lei da Câmara nº 70, de 2003 - complementar. | Sim 4 Não 46 | resultado: rejected
+
+## S:63557 | MPV 135/2003 | ementa: Altera a Legislação Tributária Federal e dá outras providências. (Volume - VII)
+   voto principal do projeto: S:2503 (2003-12-22): "Projeto de Lei de Conversão nº 30, de 2003 (MP 135/2003)." — Sim 41, Não 9
+S:2503 | 2003-12-22 | Projeto de Lei de Conversão nº 30, de 2003 (MP 135/2003). | Sim 41 Não 9 | resultado: approved
+
+## S:63986 | PEC 87/2003 | ementa: Altera o artigo 89 do Ato das Disposições Constitucionais. (Dispõe sobre a carreira dos servidores civis e militares do ex-Território Federal de Rondônia).
+   voto principal do projeto: S:3868 (2005-08-30): "Expressão ou estadual (atr. 89 da Constituição Federal) constante da art. 1º da PEC nº 87, de 2003." — Sim 6, Não 53
+S:3867 | 2005-08-30 | Proposta de Emenda à Constituição nº 87, de 2003 (1 º Turno) | Sim 60 Não 1 | resultado: approved
+S:3868 | 2005-08-30 | Expressão ou estadual (atr. 89 da Constituição Federal) constante da art. 1º da PEC nº 87, de 2003. | Sim 6 Não 53 | resultado: rejected
+S:3897 | 2005-11-23 | Proposta de emenda à Constituição, que altera o art. 89 do ato das disposições constitucionais transitórias (dispõe sobre a carreira dos servidores civis e militares do ex- território Federal de Rondônia) | Sim 58 Não 1 | resultado: approved
+
+## S:64065 | MPV 136/2003 | ementa: Acrescenta artigo à Lei nº 8884, de 11 de junho de 1994, que transforma o Conselho Administrativo de Defesa Econômica - CADE em Autarquia e dispõe sobre a prevenção e a repressão às infrações contra a ordem econômica.
+   voto principal do projeto: S:2523 (2004-02-05): "Decisão da Presidência em Questão de Ordem." — Sim 33, Não 8
+S:2524 | 2004-02-05 | Medida Provisória 136, de 2003. | Sim 35 Não 9 | resultado: approved
+
+## S:64476 | PRS 68/2003 | ementa: Autoriza a Prefeitura Municipal de São Paulo a contratar operação de crédito externo, com garantia da República Federativa do Brasil, com o Banco Interamericano de Desenvolvimento - BID, no valor de US$ 100,400,000.00 (cem milhões e quatrocentos mil dólares dos Estados Unidos da América), de principal, destinada a Financiar, parcialmente, o Programa de Reabilitação da Área Cent
+   voto principal do projeto: S:2624 (2004-05-05): "Projeto de Resolução nº 68, de 2003." — Sim 39, Não 8
+S:2624 | 2004-05-05 | Projeto de Resolução nº 68, de 2003. | Sim 39 Não 8 | resultado: approved

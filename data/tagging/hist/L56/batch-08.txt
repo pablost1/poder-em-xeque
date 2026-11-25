@@ -1,0 +1,80 @@
+## C:2206203 | PL 3267/2019 | ementa: Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro. NOVA EMENTA: Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para modificar a composição do Conselho Nacional de Trânsito e ampliar o prazo de validade das habilitações; e dá outras providências.
+   voto principal do projeto: C:2206203-119 (2020-06-23): "" — Sim 107, Não 313
+C:2206203-119 | 2020-06-23 |  | Sim 107 Não 313 | resultado: rejected
+C:2206203-138 | 2020-06-23 | Votação em turno único. | Sim 353 Não 125 | resultado: approved
+C:2206203-146 | 2020-06-23 | Votação do DTQ 13: Republicanos : destaque da Emenda de Comissão nº 114, apresentada ao Projeto de Lei nº 3.267/2019. (161,II) | Sim 139 Não 289 | resultado: rejected
+C:2206203-171 | 2020-06-24 | Votação do DTQ 17: PSB - destaque da emenda de plenário nº 10 - apresentada ao PL 3267/19. (161, II) | Sim 142 Não 301 | resultado: rejected
+C:2206203-177 | 2020-06-24 | Votação do DTQ 2: PDT - destaque para emenda de plenário n° 12, do Deputado Dagoberto PDT/MS, ao PL 3267/19. (161,II) | Sim 131 Não 247 | resultado: rejected
+C:2206203-188 | 2020-06-24 | Votação do DTQ 18: PT: Destaque, com vistas à rejeição, do § 2º do art. 147 da Lei n. 9.503/1997 e, por decorrência, do subsequente § 2º-A, todos na redação dada pelo artigo 1º do Substitutivo oferecido ao PL 3.267/2019. (161, I) | Sim 340 Não 124 | resultado: ?
+C:2206203-197 | 2020-06-24 | Votação do DTQ 16: PSDB - destaque para votação em separado do §2º da Emenda de Comissão nº 81, apresentada ao Projeto de Lei 3267/2019, com objetivo de substituir o §2º, do artigo 147 da Lei 9503/1997, constante do artigo 1º do Substitutivo apresentado ao PL 3267/2019. (161, II). | Sim 154 Não 307 | resultado: rejected
+C:2206203-200 | 2020-06-24 | Votação do DTQ 3: PSL: destaque para votação em separado do §2º-A do art. 147, constante do art. 1º do Substitutivo apresentado ao Projeto de Lei nº 3.267, de 2019, para suprimi-lo art. (161, I ) | Sim 212 Não 244 | resultado: ?
+C:2206203-220 | 2020-06-24 | Votação do DTQ 15: PCdoB: Emenda de Plenário nº 36, apresentada ao PL 3.267/2019 (art. 161, II) | Sim 185 Não 261 | resultado: rejected
+C:2206203-223 | 2020-06-24 | Votação do DTQ 25: PT: destaque da Emenda de Plenário n. 45, apresentada ao PL 3.267/2019. | Sim 120 Não 299 | resultado: rejected
+C:2206203-231 | 2020-06-24 | Votação do DTQ 4: PSB: destaque para votação em separado art. 261 da Lei 9503/97, constante do art. 1º do substitutivo apresentado ao PL 3267/19, para sua supressão. (161, I ) | Sim 331 Não 127 | resultado: ?
+C:2206203-234 | 2020-06-24 | Votação do DTQ 12: PT: Destaque, com vistas à rejeição, do inciso I do "caput" do artigo 261 da Lei n. 9.503/1997 e, por decorrência, dos §§ 3º e 5º desse mesmo artigo, na redação dada pelo artigo 1º do Substitutivo oferecido ao PL 3.267/2019. (161,I) | Sim 340 Não 120 | resultado: ?
+C:2206203-239 | 2020-06-24 | Votação do DTQ 21: PSOL: destaque para votação em separado do inciso XI do art. 6º do Substitutivo oferecido ao PL 3267 de 2019, para sua supressão. (161, I) | Sim 333 Não 127 | resultado: ?
+
+## C:2206395 | PLP 149/2019 | ementa: Estabelece o Programa de Acompanhamento e Transparência Fiscal, o Plano de Promoção do Equilíbrio Fiscal, altera a Lei Complementar nº 101, de 4 de maio de 2000, a Lei Complementar nº 156, de 28 de dezembro de 2016, a Lei nº 12.348, de 15 de dezembro de 2010, a Lei nº 12.649, de 17 de maio de 2012 e a Medida Provisória nº 2.185-35, de 24 de agosto de 2001
+   voto principal do projeto: C:2242621-7 (2020-04-03): "" — Sim 440, Não 15
+C:2242621-7 | 2020-04-03 |  | Sim 440 Não 15 | resultado: approved
+C:2206395-51 | 2020-04-13 | Votação em turno único. | Sim 431 Não 70 | resultado: approved
+C:2206395-55 | 2020-04-13 | Votação do DTQ 29: Bloco PP: Emenda nº 35 apresentada ao Projeto de Lei Complementar nº 149, de 2019. | Sim 16 Não 338 | resultado: rejected
+C:2206395-58 | 2020-04-13 | Votação do DTQ 31: Bloco PP: Emenda nº 94 apresentada ao Projeto de Lei Complementar nº 149, de 2019. | Sim 80 Não 372 | resultado: rejected
+C:2206395-99 | 2020-04-13 | Votação do DTQ 41: Bloco PP: Emenda 111 apresentada ao PLP 149/2019. | Sim 65 Não 419 | resultado: rejected
+
+## C:2207429 | PL 3430/2019 | ementa: Altera dispositivos da Lei nº 12.651, de 25 de maio de 2012, para disciplinar a intervenção e implantação de instalações necessárias à recuperação e proteção de nascentes. NOVA EMENTA: Altera as Leis nºs 12.651, de 25 de maio de 2012, e 14.119, de 13 de janeiro de 2021, para disciplinar a intervenção e a implantação de instalações necessárias à recuperação e à proteção de nasce
+   voto principal do projeto: C:2207429-60 (2021-06-08): "Votação em turno único." — Sim 453, Não 0
+C:2207429-60 | 2021-06-08 | Votação em turno único. | Sim 453 Não 0 | resultado: approved
+
+## C:2207511 | PL 3443/2019 | ementa: Dispõe sobre a Prestação Digital dos Serviços Públicos na Administração Pública - Governo Digital.
+   voto principal do projeto: C:2222991-6 (2019-10-16): "" — Sim 371, Não 8
+C:2222991-6 | 2019-10-16 |  | Sim 371 Não 8 | resultado: approved
+
+## C:2207515 | PL 3444/2019 | ementa: Altera a Lei nº 12.846, de 1º de agosto de 2013, para permitir a alienação do controle acionário em casos de fraude à licitação.
+   voto principal do projeto: C:2222992-9 (2019-11-06): "" — Sim 283, Não 65
+C:2222992-9 | 2019-11-06 |  | Sim 283 Não 65 | resultado: approved
+
+## C:2207613 | PL 3261/2019 | ementa: Atualiza o marco legal do saneamento básico e altera a Lei nº 11.445, de 5 de janeiro de 2007 (Lei do Saneamento Básico), para aprimorar as condições estruturais do saneamento básico no País, a Lei nº 13.529, de 4 de dezembro de 2017, para autorizar a União a participar de fundo com a finalidade exclusiva de financiar serviços técnicos especializados, a Lei nº 11.107, de 6 de a
+   voto principal do projeto: C:2230573-7 (2019-11-27): "" — Sim 269, Não 113
+C:2230573-7 | 2019-11-27 |  | Sim 269 Não 113 | resultado: approved
+C:2207613-130 | 2019-12-11 |  | Sim 24 Não 236 | resultado: rejected
+C:2207613-135 | 2019-12-11 |  | Sim 259 Não 12 | resultado: approved
+C:2207613-144 | 2019-12-11 | Votação em turno único. | Sim 31 Não 247 | resultado: rejected
+C:2207613-147 | 2019-12-11 | Votação em turno único. | Sim 22 Não 240 | resultado: rejected
+C:2207613-150 | 2019-12-11 | Votação do DTQ 15: DEM: Destaque de preferência para que o PL n. 4162/19, do Poder Executivo, seja apreciado antes das demais proposições (art. 161, IV). | Sim 253 Não 17 | resultado: approved
+C:2207613-156 | 2019-12-11 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 20 Não 237 | resultado: rejected
+C:2207613-160 | 2019-12-11 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 23 Não 238 | resultado: rejected
+C:2207613-166 | 2019-12-11 | Votação das Emendas de Plenário de nºs 15, 16, 17 e 23, com parecer pela aprovação. | Sim 290 Não 24 | resultado: approved
+C:2207613-167 | 2019-12-11 | Votação em turno único. | Sim 276 Não 124 | resultado: approved
+C:2207613-171 | 2019-12-11 | Votação do DTQ 23: Bloco PP/MDB/PTB: Destaque para votação em separado da expressão "e de resolução de passivos de poluição hídrica causada pelo lançamento de efluentes sem tratamento" constante do inciso V, do art. 11 da Lei 11.445/2007, modificado pelo art. 8º da Emenda 15 apresentada ao PL 4162/2019 (161, I). | Sim 70 Não 232 | resultado: ?
+C:2207613-174 | 2019-12-11 | Votação do DTQ 14: SD: Emenda 12 (161, II). | Sim 274 Não 20 | resultado: approved
+C:2207613-180 | 2019-12-11 | Votação do DTQ 13: PSOL: Destaque para votação em separado do art. 50 da Lei 11445/2007, com a redação dada pelo art. 8º do Substitutivo aprovado pela Comissão Especial do PL 3261/2019, com vistas a sua supressão. (161, I). | Sim 215 Não 77 | resultado: ?
+C:2207613-183 | 2019-12-11 | Votação do DTQ 18: CIDADANIA: Destaque para votação em separado do art. 54 da Lei n. 12305/2010, com redação dada pelo art. 9º do Substitutivo ao PL n. 3261/19 (art. 161, I). | Sim 256 Não 41 | resultado: ?
+C:2207613-192 | 2019-12-17 | Continuação da votação em turno único. | Sim 12 Não 251 | resultado: rejected
+C:2207613-195 | 2019-12-17 | Votação do DTQ 21: PT: Destaque do art. 11 da Emenda nº 17 apresentada ao PL nº 4162/2019, para sua rejeição (161, II). | Sim 229 Não 27 | resultado: ?
+C:2207613-203 | 2019-12-17 | Continuação da votação em turno único. | Sim 12 Não 245 | resultado: rejected
+C:2207613-205 | 2019-12-17 | Votação do DTQ 1: PCdoB: Destaque para a supressão do art. 15 do substitutivo apresentado ao PL 3261/2019 (161, I). | Sim 223 Não 35 | resultado: ?
+C:2207613-209 | 2019-12-17 | Votação do DTQ 4: PT: Emenda 7 (161, II). | Sim 66 Não 192 | resultado: rejected
+C:2207613-213 | 2019-12-17 | Votação do DTQ 17: REPUBLICANOS: Emenda 18 (161, II). | Sim 34 Não 290 | resultado: rejected
+
+## C:2208682 | PL 1153/2019 | ementa: Altera a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto e dá outras providências (Lei Pelé), para dividir em seções o Capítulo V – DA PRÁTICA DESPORTIVA PROFISSIONAL e para acrescentar dispositivo relativo aos atletas de base. NOVA EMENTA: Institui a Lei Geral do Esporte; altera as Leis nºs 9.394, de 20 de dezembro de 1996, 13.756, de 12 de deze
+   voto principal do projeto: C:2208682-147 (2022-07-06): "Votação em turno único." — Sim 398, Não 13
+C:2208682-147 | 2022-07-06 | Votação em turno único. | Sim 398 Não 13 | resultado: approved
+C:2208682-151 | 2022-07-06 | Votação do DTQ 4: PT: Emenda de Plenário nº 5 (art. 161, II) | Sim 104 Não 294 | resultado: rejected
+C:2208682-154 | 2022-07-06 | Votação do DTQ 7: PT: destaque, com vistas à rejeição, da expressão "a partir de 2028”, constante do inciso IX do art. 35 do Substitutivo apresentado pelo relator ao PL 1153/2019. (art. 161, I) | Sim 116 Não 303 | resultado: ?
+C:2208682-162 | 2022-07-06 | Votação do DTQ 1: PP: Emenda de Plenário nº 1 (art. 161, II). | Sim 393 Não 19 | resultado: approved
+C:2208682-164 | 2022-07-06 | Votação do DTQ 8: PSOL: destaque para votação em separado do art. 109 do Substitutivo apresentado ao Projeto de Lei n. 1.153/19. (art. 161, I) | Sim 4 Não 387 | resultado: ?
+C:2208682-167 | 2022-07-06 | Votação do DTQ 2: NOVO: Destaque para a votação em separado do art. 213 do Substitutivo apresentado ao PL 1153/2019, com vistas à sua supressão (art. 161, I). | Sim 362 Não 37 | resultado: ?
+
+## C:2208720 | MPV 886/2019 | ementa: Altera a Lei nº 13.844, de 18 junho de 2019, a Lei nº 8.171, de 17 de janeiro de 1991, a Lei nº 12.897, de 18 de dezembro de 2013, a Lei nº 9.613, de 3 de março de 1998, e a Lei nº 13.334, de 13 de setembro de 2016, para dispor sobre a organização básica dos órgãos da Presidência da República e dos Ministérios. NOVA EMENTA: Altera a Lei nº 13.844, de 18 junho de 2019, a Lei nº 
+   voto principal do projeto: C:2208720-41 (2019-10-15): "" — Sim 46, Não 212
+C:2208720-41 | 2019-10-15 |  | Sim 46 Não 212 | resultado: rejected
+C:2208720-44 | 2019-10-15 |  | Sim 57 Não 202 | resultado: rejected
+C:2208720-50 | 2019-10-15 | Votação preliminar em turno único. | Sim 258 Não 75 | resultado: approved
+C:2208720-53 | 2019-10-15 | Votação, quanto ao mérito, em turno único. | Sim 314 Não 57 | resultado: approved
+C:2208720-56 | 2019-10-15 | Votação do DTQ 1: PT: Destaque da Emenda nº 70 (art. 161, II). | Sim 104 Não 243 | resultado: rejected
+C:2208720-68 | 2019-10-15 | Votação do DTQ 2: PT: Destaque da Emenda nº 72 (art. 161, II). | Sim 114 Não 284 | resultado: rejected
+
+## C:2208771 | PRC 84/2019 | ementa: Altera os arts. 50, 72, 84, 117, 122, 155, 157, 177, 185, 186, 189 e 193 do Regimento Interno da Câmara dos Deputados, para dispor sobre prorrogação do tempo de duração das sessões, e dá outras providências. NOVA EMENTA: Altera os arts. 41, 65, 66, 67, 70, 85, 89, 117, 122, 155, 157, 161, 162, 163, 175, 177, 178, 185, 186, 191, 192 e 193 do Regimento Interno da Câmara dos Deput
+   voto principal do projeto: C:2208771-83 (2021-05-12): "Votação em turno único." — Sim 337, Não 110
+C:2208771-83 | 2021-05-12 | Votação em turno único. | Sim 337 Não 110 | resultado: approved

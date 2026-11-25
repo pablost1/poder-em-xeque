@@ -1,0 +1,79 @@
+## C:2283578 | PRC 43/2021 | ementa: Denomina “Deputado Bonifácio de Andrada” a Ala “A” do pavimento térreo do Anexo II da Câmara dos Deputados.
+   voto principal do projeto: C:2297494-8 (2021-10-27): "" — Sim 351, Não 13
+C:2297494-8 | 2021-10-27 |  | Sim 351 Não 13 | resultado: approved
+
+## C:2283678 | MPV 1052/2021 | ementa: Altera a Lei nº 12.712, de 30 de agosto de 2012, a Lei nº 7.827, de 27 de setembro de 1989, a Lei nº 10.177, de 12 de janeiro de 2001, e a Lei nº 9.126, de 10 de novembro de 1995. NOVA EMENTA: Altera as Leis nºs 12.712, de 30 de agosto de 2012, 7.827, de 27 de setembro de 1989, 10.177, de 12 de janeiro de 2001, 9.126, de 10 de novembro de 1995, 11.079, de 30 de dezembro de 2004
+   voto principal do projeto: C:2283678-32 (2021-09-16): "" — Sim 102, Não 272
+C:2283678-32 | 2021-09-16 |  | Sim 102 Não 272 | resultado: rejected
+C:2283678-40 | 2021-09-16 |  | Sim 106 Não 298 | resultado: rejected
+C:2283678-55 | 2021-09-16 | Votação preliminar em turno único. | Sim 312 Não 110 | resultado: approved
+C:2283678-56 | 2021-09-16 | Votação preliminar em turno único. | Sim 273 Não 107 | resultado: approved
+C:2283678-59 | 2021-09-16 | Votação, quanto ao mérito, em turno único. | Sim 301 Não 105 | resultado: approved
+C:2283678-61 | 2021-09-16 | Votação das Emendas de Plenário ao Projeto de Lei de Conversão com parecer pela rejeição, ressalvados os destaques. | Sim 92 Não 293 | resultado: rejected
+C:2283678-64 | 2021-09-16 | Votação do DTQ 5: PSOL: Destaque para votação em separado do art. 32, §1°, inciso III, da Lei nº 12.712, de 30 de agosto de 2012, na redação do art. 1° do Projeto de Lei de Conversão à Medida Provisória nº 1.052, de 2021, para sua supressão. (art. 161, I). | Sim 256 Não 101 | resultado: ?
+C:2283678-69 | 2021-09-16 | Votação do DTQ 14: PT: destaque, com vistas à rejeição, do inciso II do Artigo 34-B da Lei 12.712/2012, na redação dada pelo Artigo 1º do PLV oferecido à MPV 1.052/2021. (art. 161, I). | Sim 275 Não 107 | resultado: ?
+C:2283678-72 | 2021-09-16 | Votação do DTQ 8: PT: destaque, com vistas à rejeição, do inciso VII do Artigo 34-B da Lei 12.712/2012, na redação dada pelo Artigo 1º do PLV oferecido à MPV 1.052/2021. (art. 161, I). | Sim 295 Não 110 | resultado: ?
+C:2283678-77 | 2021-09-16 | Votação do DTQ 6: PT: destaque, com vistas à rejeição, do inciso XII do Artigo 34-B da Lei 12.712/2012, na redação dada pelo Artigo 1º do PLV oferecido à MPV 1.052/2021. (art. 161, I). | Sim 281 Não 110 | resultado: ?
+C:2283678-84 | 2021-09-16 | Votação do DTQ 4: NOVO: Destaque para votação em separado do Art. 8º do PLV apresentado à MPV 1052/21, com vista à supressão. (art. 161, I). | Sim 258 Não 129 | resultado: ?
+
+## C:2284931 | PL 4909/2020 | ementa: Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para dispor sobre a modalidade de educação bilíngue de surdos.
+   voto principal do projeto: C:2287293-9 (2021-06-17): "" — Sim 379, Não 12
+C:2287293-9 | 2021-06-17 |  | Sim 379 Não 12 | resultado: approved
+C:2284931-73 | 2021-07-13 | Votação em turno único. | Sim 408 Não 19 | resultado: approved
+
+## C:2285694 | PDL 228/2021 | ementa: Aprova o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo do Estado de Israel sobre Cooperação em Questões Relacionadas à Defesa, assinado em Jerusalém, em 31 de março de 2019.
+   voto principal do projeto: C:2285694-50 (2021-12-09): "" — Sim 36, Não 226
+C:2285694-50 | 2021-12-09 |  | Sim 36 Não 226 | resultado: rejected
+C:2285694-55 | 2021-12-09 |  | Sim 20 Não 266 | resultado: rejected
+C:2285694-58 | 2021-12-09 | Votação em turno único. | Sim 300 Não 60 | resultado: approved
+
+## C:2285889 | PL 2058/2021 | ementa: Altera a Lei nº 14.151, de 12 de maio de 2021, para disciplinar as atividades de teletrabalho, trabalho remoto ou outra forma de trabalho a distância de empregadas gestantes. NOVA EMENTA: Altera a Lei nº 14.151, de 12 de maio de 2021, para disciplinar o afastamento da empregada gestante, inclusive a doméstica, não imunizada contra o coronavírus SARS-Cov-2 das atividades de trab
+   voto principal do projeto: C:2290114-13 (2021-07-15): "" — Sim 334, Não 103
+C:2290114-13 | 2021-07-15 |  | Sim 334 Não 103 | resultado: approved
+C:2285889-103 | 2021-10-06 | Votação do DTQ 18: PT: destaque da redação dada ao §3º do artigo 1º da Lei 14.151/2021 pelo artigo 1º da Emenda de Plenário n. 1, apresentada ao Substitutivo oferecido ao PL 2.058/2021. (art. 161, II). | Sim 112 Não 251 | resultado: rejected
+C:2285889-105 | 2021-10-06 | Votação do DTQ 21: PSOL: Destaque para votação em separado, com vistas à rejeição, do inciso III do §3° do artigo 1° da Lei nº 14.151/2021, e, por decorrência, dos parágrafos 6º e 7°, conforme redação dada pelo artigo 2º da Subemenda Substitutiva Global apresentada ao PL 2.058/2021 (art. 161, I). | Sim 282 Não 108 | resultado: ?
+C:2285889-119 | 2021-10-06 | Votação do DTQ 19: PSB: Destaque para Votação em Separado do § 7º do art. 1º da Lei 14.151/21, na redação dada pelo art. 2º da Subemenda Substitutiva Global apresentada ao PL 2058/2021. (art. 161, I). | Sim 263 Não 116 | resultado: ?
+C:2285889-126 | 2021-10-06 | Votação do DTQ 10: PT: Destaque do Artigo 3º da Emenda de Plenário n. 1, apresentada ao Substitutivo oferecido ao PL 2.058/2021. (art. 161, II). | Sim 123 Não 267 | resultado: rejected
+C:2285889-60 | 2021-10-06 |  | Sim 121 Não 318 | resultado: rejected
+C:2285889-72 | 2021-10-06 |  | Sim 107 Não 300 | resultado: rejected
+C:2285889-88 | 2021-10-06 |  | Sim 105 Não 285 | resultado: rejected
+C:2285889-91 | 2021-10-06 | Votação em turno único. | Sim 296 Não 121 | resultado: approved
+C:2285889-95 | 2021-10-06 | Votação do DTQ 20: PCdoB: Destaque do caput do art. 1 contido no art. 2 do substitutivo apresentado ao PL 2058/2021 e por consequência o inciso II, inserido no parágrafo 3º do art. 1° da Lei nº 14.151, de 12 de maio de 2021, contido no art. 2 do substitutivo apresentado ao PL 2058/2021. (com vistas a supressão) (art. 161, I). | Sim 272 Não 108 | resultado: ?
+C:2285889-176 | 2022-02-16 |  | Sim 113 Não 288 | resultado: rejected
+C:2285889-187 | 2022-02-16 |  | Sim 115 Não 286 | resultado: rejected
+C:2285889-192 | 2022-02-16 |  | Sim 106 Não 267 | resultado: rejected
+C:2285889-195 | 2022-02-16 | Votação, em turno único, da Emenda do Senado Federal, com parecer pela rejeição, ressalvados os destaques. | Sim 121 Não 235 | resultado: rejected
+C:2285889-198 | 2022-02-16 | Votação do DTQ 2. PSOL: Destaque para votação em separado do 3º do art. 1º da Lei nº 14.151, de 12 de maio de 2021, constante do art. 2º do Projeto de Lei 2.058, de 2021, nos termos do item 1 da Emenda Únicia do Senado Federal, e, por decorrência dos §§ 6º e 7º do art. 1 da Lei n 14.151, de 12 de maio de 2021, constantes do artigo 2º do Projeto, nos termos do item 2 da Emenda Única do Senado Federal, para fins de aprovação (art. 161, II). | Sim 128 Não 255 | resultado: rejected
+C:2285889-201 | 2022-02-16 | Votação do DTQ 4: PCdoB: Destaque para votação em Separado da expressão: "Suprima-se o parágrafo 7º o art. 1º Lei nº 14.151, de 12 de maio de 2021, nos termos do art. 2º do Projeto", constante do item 2 da Emenda do Senado ao PL 2058/ para fins de sua aprovação (art. , II). | Sim 116 Não 258 | resultado: rejected
+C:2285889-205 | 2022-02-16 | Votação do DTQ 3: PT: Destaque, com vistas à aprovação, do item 3 constante da Emenda do Senado Federal apresentada ao PL 2.058/2021 (art. 161, II). | Sim 115 Não 244 | resultado: rejected
+
+## C:2286806 | PDL 233/2021 | ementa: Aprova o Acordo para Cooperação em Ciência e Tecnologia entre o Governo da República Federativa do Brasil e o Governo do Estado de Israel, assinado em Jerusalém, em 31 de março de 2019
+   voto principal do projeto: C:2286806-66 (2022-03-24): "" — Sim 64, Não 297
+C:2286806-66 | 2022-03-24 |  | Sim 64 Não 297 | resultado: rejected
+C:2286806-71 | 2022-03-24 |  | Sim 68 Não 321 | resultado: rejected
+C:2286806-73 | 2022-03-24 | Votação em turno único. | Sim 424 Não 10 | resultado: approved
+
+## C:2286993 | PL 5516/2019 | ementa: Institui a Sociedade Anônima do Futebol e dispõe sobre normas de constituição, governança, controle e transparência, meios de financiamento da atividade futebolística, tratamento dos passivos das entidades de práticas desportivas e regime tributário específico; e altera as Leis nºs 9.615, de 24 de março de 1998, e 10.406, de 10 de janeiro de 2002 (Código Civil).
+   voto principal do projeto: C:2286993-44 (2021-07-14): "Votação em turno único." — Sim 429, Não 7
+C:2286993-44 | 2021-07-14 | Votação em turno único. | Sim 429 Não 7 | resultado: approved
+
+## C:2286996 | PL 1674/2021 | ementa: Cria o Certificado de Imunização e Segurança Sanitária (CSS).
+   voto principal do projeto: C:2288734-8 (2021-07-06): "" — Sim 232, Não 232
+C:2288734-8 | 2021-07-06 |  | Sim 232 Não 232 | resultado: rejected
+
+## C:2287304 | PL 2213/2021 | ementa: Altera a Lei nº 7.210, de 11 de julho de 1984 - Lei de Execução Penal, para estabelecer como condição necessária para a progressão ao regime aberto e da concessão do benefício da saída temporária a aplicação do exame criminológico.
+   voto principal do projeto: C:2287777-8 (2021-06-22): "" — Sim 372, Não 75
+C:2287777-8 | 2021-06-22 |  | Sim 372 Não 75 | resultado: approved
+
+## C:2288319 | PL 2112/2021 | ementa: Altera a Lei nº 14.124, de 10 de março de 2021, para determinar a inclusão, como grupo prioritário no Plano Nacional de Operacionalização da Vacinação contra a Covid-19, de gestantes, puérperas e lactantes, bem como de crianças e adolescentes com deficiência permanente ou com comorbidades, além daquelas privadas de liberdade.
+   voto principal do projeto: C:2288534-8 (2021-07-06): "" — Sim 428, Não 8
+C:2288534-8 | 2021-07-06 |  | Sim 428 Não 8 | resultado: approved
+
+## C:2288387 | PL 2336/2021 | ementa: Altera a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto. NOVA EMENTA Altera a Lei nº 9.615, de 24 de março de 1998, para modificar as regras relativas ao direito de arena sobre o espetáculo desportivo.
+   voto principal do projeto: C:2289537-9 (2021-07-06): "" — Sim 387, Não 2
+C:2289537-9 | 2021-07-06 |  | Sim 387 Não 2 | resultado: approved
+C:2288387-63 | 2021-07-14 |  | Sim 13 Não 342 | resultado: rejected
+C:2288387-76 | 2021-07-14 | Votação em turno único. | Sim 432 Não 17 | resultado: approved
+C:2288387-82 | 2021-07-14 | Votação do DTQ 1: NOVO: destaque para a votação em separado do artigo 1º do Substitutivo apresentado ao PL 2336/21, com vistas à sua supressão. (art. 161, I) | Sim 309 Não 20 | resultado: ?
+C:2288387-93 | 2021-07-14 | Votação do DTQ 2: PCdoB: Emenda de Plenário n.8 (art. 161, II) | Sim 90 Não 334 | resultado: rejected
+C:2288387-95 | 2021-07-14 | Votação do DTQ 4: PT: Emenda de Plenário n. 7 (art. 161, II) | Sim 69 Não 346 | resultado: rejected

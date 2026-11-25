@@ -1,0 +1,52 @@
+{
+  "name": "poder-em-xeque",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "derive": "tsx scripts/build-derived.ts",
+    "ingest:camara": "tsx scripts/ingest-camara.ts",
+    "ingest:senado": "tsx scripts/ingest-senado.ts",
+    "tags:export": "tsx scripts/export-bills.ts",
+    "tags:import": "tsx scripts/import-tags.ts",
+    "tags:pt": "tsx scripts/import-translations.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "update": "tsx scripts/update.ts",
+    "enrich:bills": "tsx scripts/enrich-bills.ts",
+    "tags:export:r2": "tsx scripts/export-r2.ts",
+    "tags:export:blind": "tsx scripts/export-blind.ts",
+    "tags:import:blind": "tsx scripts/import-blind.ts",
+    "tags:compare": "tsx scripts/compare-tags.ts",
+    "tags:pesados": "tsx scripts/pesados.ts",
+    "history": "tsx scripts/ingest-historico.ts",
+    "sync:exercicio": "tsx scripts/sync-exercicio.ts",
+    "history:mandatos": "tsx scripts/ingest-mandatos.ts",
+    "history:presenca": "tsx scripts/ingest-presenca.ts",
+    "history:atividade": "tsx scripts/ingest-atividade.ts",
+    "history:discursos": "tsx scripts/ingest-discursos.ts",
+    "db:slim": "tsx scripts/slim-db.ts",
+    "tags:export:hist": "tsx scripts/export-historico.ts"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "recharts": "^3.11.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "4.3.3",
+    "@types/node": "^24.19.2",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.6",
+    "tailwindcss": "4.3.3",
+    "tsx": "^4.23.15",
+    "typescript": "^5",
+    "vitest": "^5.1.1"
+  }
+}

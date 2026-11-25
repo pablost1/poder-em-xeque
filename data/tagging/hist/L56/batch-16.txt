@@ -1,0 +1,96 @@
+## C:2251926 | MPV 961/2020 | ementa: Autoriza pagamentos antecipados nas licitações e nos contratos, adequa os limites de dispensa de licitação e amplia o uso do Regime Diferenciado de Contratações Públicas - RDC durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020 NOVA EMENTA: Autoriza pagamentos antecipados nas licitações e nos contratos realizados no âmbito da
+C:2251926-55 | 2020-09-01 | Votação do DTQ 1: PT: Destaque, com vistas à supressão, do vocábulo “alienações”, contido no inciso III do artigo 1º do PLV apresentado à MPV 961/20. (art. 161, I) | Sim 262 Não 121 | resultado: ?
+
+## C:2251961 | PL 2474/2020 | ementa: Dispõe sobre cessão de créditos obtidos em sistema de compensação de energia elétrica durante o período de emergência de saúde pública decorrente do coronavírus.
+C:2251961-45 | 2021-03-31 | Votação do DTQ 2: NOVO: Emenda de Plenário n. 3 (art. 161, II) | Sim 274 Não 182 | resultado: approved
+C:2251961-48 | 2021-03-31 | Votação do DTQ 1: PT: Emenda de Plenário n. 1 (art. 161, II) | Sim 177 Não 265 | resultado: rejected
+
+## C:2252589 | PL 2633/2020 | ementa: Altera a Lei n° 11.952, de 25 de junho de 2009, que dispõe sobre a regularização fundiária das ocupações incidentes em terras situadas em áreas da União; a Lei n° 8.666, de 21 de junho de 1993, que institui normas para licitações e contratos da administração pública; a Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos; a fim de ampliar o alcance da
+   voto principal do projeto: C:2253137-15 (2021-07-13): "" — Sim 330, Não 109
+C:2253137-15 | 2021-07-13 |  | Sim 330 Não 109 | resultado: approved
+C:2252589-101 | 2021-08-03 | Votação do DTQ 4: PT: destaque, com vistas à rejeição, do parágrafo 2º do Art. 38 da Lei nº 11.952/2009, na redação proposta pelo Art. 2º do Substitutivo oferecido ao PL 2.633/2020. (art. 161, I). | Sim 292 Não 116 | resultado: ?
+C:2252589-40 | 2021-08-03 |  | Sim 144 Não 196 | resultado: rejected
+C:2252589-46 | 2021-08-03 |  | Sim 123 Não 294 | resultado: rejected
+C:2252589-56 | 2021-08-03 |  | Sim 131 Não 304 | resultado: rejected
+C:2252589-59 | 2021-08-03 | Votação em turno único. | Sim 296 Não 136 | resultado: approved
+C:2252589-62 | 2021-08-03 | Votação do DTQ 3: PT: destaque, com vistas à rejeição, do inciso XII do Art. 2º da Lei nº 11.952/2009, na redação proposta pelo Art. 2º do Substitutivo oferecido ao PL 2.633/2020. (art. 161, I). | Sim 246 Não 119 | resultado: ?
+C:2252589-66 | 2021-08-03 | Votação do DTQ 2: PSOL: destaque para votação em separado do parágrafo 5° do art. 4°-A da Lei n. 11.952, de 25 de junho de 2009, na redação do art. 2° do Substitutivo ao Projeto de Lei n. 2.633, de 2020, para sua supressão. (art. 161, I). | Sim 283 Não 129 | resultado: ?
+C:2252589-68 | 2021-08-03 | Votação do DTQ 12: PSL: Emenda de Plenário 28 (art. 161, II). | Sim 70 Não 332 | resultado: rejected
+C:2252589-70 | 2021-08-03 | Votação do DTQ 13: PSL: Emenda de Plenário 6 (art. 161, II). | Sim 90 Não 304 | resultado: rejected
+C:2252589-76 | 2021-08-03 | Votação do DTQ 5: PT: destaque, com vistas à rejeição, do “caput” do Art. 13 da Lei nº 11.952/2009, na redação proposta pelo Art. 2º do Substitutivo oferecido ao PL 2.633/2020. (art. 161, I). | Sim 284 Não 119 | resultado: ?
+C:2252589-79 | 2021-08-03 | Votação do DTQ 8: PCdoB: Emenda de Plenário n.18 (art. 161, II). | Sim 125 Não 277 | resultado: rejected
+C:2252589-82 | 2021-08-03 | Votação do DTQ 6: PDT: Destaque do § 7º do Art. 15 da Lei nº 11.952/2009, introduzido pelo Art. 2º do PL , com vistas à sua supressão. (art. 161, I). | Sim 232 Não 116 | resultado: ?
+C:2252589-87 | 2021-08-03 | Votação do DTQ 7: PDT: Destaque do § 10. do Art. 15 da Lei nº 11.952/2009, introduzido pelo Art. 2º do PL , com vistas à sua supressão ao PL 2633/20 (art. 161, I). | Sim 304 Não 128 | resultado: ?
+C:2252589-90 | 2021-08-03 | Votação do DTQ 9: PSB: Emenda de Plenário n. 14 (art. 161, II), | Sim 127 Não 259 | resultado: rejected
+
+## C:2252649 | PL 2646/2020 | ementa: Dispõe sobre as debêntures de infraestrutura, altera a Lei nº 9.481, de 13 de agosto de 1997, a Lei nº 11.478, de 29 de maio de 2007, a Lei nº 11.312, de 27 de junho de 2006, a Lei nº 12.431, de 24 de junho de 2011 e a Lei nº 12.712, de 30 de agosto de 2012 e dá outras providências. NOVA EMENTA: Dispõe sobre as debêntures de infraestrutura; altera as Leis nºs 9.481, de 13 de ag
+   voto principal do projeto: C:2252649-63 (2021-07-07): "Votação em turno único." — Sim 412, Não 11
+C:2252649-63 | 2021-07-07 | Votação em turno único. | Sim 412 Não 11 | resultado: approved
+
+## C:2252895 | PL 2735/2020 | ementa: Institui o Programa Extraordinário de Regularização Tributária da Secretaria da Receita Federal do Brasil e da Procuradoria Geral da Fazenda Nacional, em decorrência do estado de calamidade pública pela pandemia de COVID/19 - PERT-COVID/19
+   voto principal do projeto: C:2254441-9 (2020-12-22): "" — Sim 383, Não 36
+C:2254441-9 | 2020-12-22 |  | Sim 383 Não 36 | resultado: approved
+
+## C:2252939 | PL 2750/2020 | ementa: Dispõe sobre licença temporária para operação de emissoras de radiodifusão comunitária que estejam submetidas a medidas disciplinares, de restrição de operação, suspensão ou revogação da autorização. NOVA EMENTA: Dispõe sobre licença temporária para operação de emissoras de radiodifusão comunitária que estejam submetidas a medidas disciplinares de restrição de operação, suspens
+   voto principal do projeto: C:2253453-10 (2021-04-22): "" — Sim 366, Não 37
+C:2253453-10 | 2021-04-22 |  | Sim 366 Não 37 | resultado: approved
+C:2252939-100 | 2021-10-05 | Votação do DTQ 3: PT: Emenda de Plenário n. 1 (art. 161, II). | Sim 120 Não 238 | resultado: rejected
+C:2252939-103 | 2021-10-05 | Votação do DTQ 1: PSOL: destaque para votação em separado do parágrafo único do art. 3º do PL nº 2750 de 2020 (art. 161, I). | Sim 254 Não 124 | resultado: ?
+C:2252939-107 | 2021-10-05 | Votação do DTQ 5: PT: Emenda de Plenário n. 2 (art. 161, II). | Sim 117 Não 249 | resultado: rejected
+C:2252939-112 | 2021-10-05 | Votação do DTQ 2: PCdoB: destaque do art. 7 do PL 2750/2020. (com vistas a sua supressão) (art. 161, I). | Sim 258 Não 129 | resultado: ?
+C:2252939-76 | 2021-10-05 |  | Sim 93 Não 314 | resultado: rejected
+C:2252939-96 | 2021-10-05 | Votação em turno único. | Sim 385 Não 34 | resultado: approved
+
+## C:2253356 | PL 2801/2020 | ementa: Altera a Lei n° 13.982, de 02 de abril de 2020, para estabelecer a natureza alimentar do benefício emergencial; vedando penhora, bloqueio ou desconto que vise o pagamento de dívidas ou prestações, salvo em caso de pensão alimentícia. NOVA EMENTA: Altera a Lei nº 13.982, de 2 de abril de 2020, para estabelecer a natureza alimentar do benefício emergencial e vedar sua penhora ou 
+C:2253356-65 | 2020-07-15 | Votação do Recurso contra parecer terminativo da Comissão de Finanças e Tributação à Emenda de Plenário de nº 3, oferecida ao Projeto de Lei nº 2801, de 2020. | Sim 123 Não 309 | resultado: rejected
+
+## C:2253420 | PL 2809/2020 | ementa: Altera o artigo 1º da Lei nº 13.650, de 11 de abril de 2018. NOVA EMENTA: Altera a Lei nº 13.650, de 11 de abril de 2018, e prorroga até 31 de dezembro de 2020 a suspensão da obrigatoriedade de manutenção das metas quantitativas e qualitativas contratualizadas pelos prestadores de serviço de saúde no âmbito do Sistema Único de Saúde (SUS) estabelecida pelo art. 1º da Lei nº 13.
+   voto principal do projeto: C:2256246-12 (2020-12-21): "" — Sim 294, Não 4
+C:2256246-12 | 2020-12-21 |  | Sim 294 Não 4 | resultado: approved
+
+## C:2253431 | PL 2810/2020 | ementa: Altera o art. 339 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para dar nova redação ao crime de denunciação caluniosa.
+   voto principal do projeto: C:2253458-7 (2020-07-29): "" — Sim 300, Não 10
+C:2253458-7 | 2020-07-29 |  | Sim 300 Não 10 | resultado: approved
+C:2253431-33 | 2020-08-04 |  | Sim 12 Não 412 | resultado: rejected
+
+## C:2253471 | PL 2824/2020 | ementa: Dispõe sobre ações emergenciais destinadas ao setor esportivo, enquanto as medidas de isolamento ou quarentena estiverem vigentes, de acordo com a Lei nº 13.979, de 6 de fevereiro de 2020. NOVA EMENTA: Dispõe sobre ações emergenciais destinadas ao setor esportivo a serem adotadas durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de
+   voto principal do projeto: C:2253471-47 (2020-07-16): "" — Sim 143, Não 278
+C:2253471-47 | 2020-07-16 |  | Sim 143 Não 278 | resultado: rejected
+C:2253471-108 | 2020-09-22 | Votação do DTQ 1: NOVO: Destaque para a votação em separado inciso IV do Art. 7º, constante no Substitutivo do Senado Federal ao Projeto de Lei nº 2824/20, para fins de sua supressão. (art. 161, I) | Sim 176 Não 253 | resultado: ?
+
+## C:2253778 | PLP 137/2020 | ementa: Cria fonte de recursos para o enfrentamento de calamidade pública nacional decorrente de Pandemia da Covid-19 reconhecida pelo Congresso Nacional. NOVA EMENTA: Cria fonte de recursos para o enfrentamento do estado de calamidade pública decorrente da pandemia da Covid-19, reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020; e altera a Lei Complementar nº 156, de 28
+   voto principal do projeto: C:2253778-59 (2020-12-17): "Votação em turno único." — Sim 384, Não 79
+C:2253778-59 | 2020-12-17 | Votação em turno único. | Sim 384 Não 79 | resultado: approved
+C:2253778-63 | 2020-12-17 | Votação das Emendas de Plenário ao Substitutivo, com parecer pela rejeição, ressalvados os Destaques. | Sim 117 Não 306 | resultado: rejected
+C:2253778-67 | 2020-12-17 | Votação do DTQ 8: REPUBLICANOS: Emenda de Plenário nº 4 (art. 161, II). | Sim 40 Não 364 | resultado: rejected
+C:2253778-69 | 2020-12-17 | Votação do DTQ 14: MDB: Emenda de Plenário n. 14 (art. 161, II). | Sim 302 Não 116 | resultado: approved
+C:2253778-73 | 2020-12-17 | Votação do DTQ 6: CIDADANIA: destaque para a votação em separado do inciso IX, do art. 1º do Substitutivo do relator ao Projeto de Lei Complementar nº 137/2020 (art. 161, I). | Sim 295 Não 104 | resultado: ?
+C:2253778-79 | 2020-12-17 | Votação do DTQ 11: PT: Emenda de Plenário n. 1 (art. 161, II). | Sim 129 Não 279 | resultado: rejected
+C:2253778-86 | 2020-12-17 | Votação do DTQ 1: PSOL: Destaque para votação em separado do art. 1º, inciso XVII, do Substitutivo oferecido ao PLP nº 137 de 2020, com vistas a sua supressão. (art. 161, I). | Sim 287 Não 121 | resultado: ?
+C:2253778-89 | 2020-12-17 | Votação do DTQ 4: PT: Destaque, com vistas à rejeição, do inciso XX do artigo 1º do Substitutivo oferecido ao PLP 137/2020 (art. 161, I). | Sim 292 Não 58 | resultado: ?
+C:2253778-93 | 2020-12-17 | DTQ 5: PCdoB: Emenda de Plenário n. 9. | Sim 23 Não 336 | resultado: rejected
+C:2253778-117 | 2020-12-18 | Votação do DTQ 9: PDT: Emenda de Plenário n 5 (art. 161, II) | Sim 167 Não 300 | resultado: rejected
+C:2253778-118 | 2020-12-18 | Votação do DTQ 10: Bloco PL : Destaque para votação em separado do §1º do art. 4º-A da Lei Complementar nº 156/16, acrescido pelo art. 3º do Substitutivo apresentado ao PLP nº 137/20 (art. 161, I) | Sim 17 Não 341 | resultado: ?
+C:2253778-120 | 2020-12-18 | Votação do DTQ 13: PDT: Destaque para votação em separado do art. 4° do substitutivo oferecido ao PLP 137/20, com o intuito de sua supressão. (art. 161, I) | Sim 1 Não 358 | resultado: ?
+
+## C:2253827 | MPV 971/2020 | ementa: Aumenta a remuneração da Polícia Militar, do Corpo de Bombeiros Militar e da Polícia Civil do Distrito Federal e da Polícia Militar e do Corpo de Bombeiros Militar dos Extintos Territórios Federais e altera as regras de cessão da Polícia Militar, do Corpo de Bombeiros Militar e da Polícia Civil do Distrito Federal NOVA EMENTA: Altera as Leis nºs 9.264, de 7 de fevereiro de 1996
+   voto principal do projeto: C:2253827-32 (2020-09-21): "" — Sim 23, Não 364
+C:2253827-32 | 2020-09-21 |  | Sim 23 Não 364 | resultado: rejected
+
+## C:2254253 | MPV 975/2020 | ementa: Institui o Programa Emergencial de Acesso a Crédito e altera a Lei nº 12.087, de 11 de novembro de 2009, e a Lei nº 13.999, de 18 de maio de 2020.
+   voto principal do projeto: C:2254253-51 (2020-07-09): "Votação preliminar em turno único." — Sim 362, Não 1
+C:2254253-51 | 2020-07-09 | Votação preliminar em turno único. | Sim 362 Não 1 | resultado: approved
+C:2254253-62 | 2020-07-09 | Votação do DTQ 2: PT: Destaque, com vistas à rejeição, da expressão "superior a R$ 360.000,00 (trezentos e sessenta mil reais) e", constante do artigo 3º do PLV oferecido à MPV 975/2020. (161, I). | Sim 316 Não 144 | resultado: ?
+C:2254253-67 | 2020-07-09 | Votação do DTQ 6: PT: Destaque da Emenda de Plenário n. 9, referente à MPV 975/2020. (161, II). | Sim 125 Não 327 | resultado: rejected
+
+## C:2254287 | PLP 150/2020 | ementa: Altera a Lei Complementar n° 173, de 27 de maio de 2020, que estabelece o Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19).
+   voto principal do projeto: C:2254287-56 (2021-12-16): "Votação em turno único." — Sim 359, Não 17
+C:2254287-56 | 2021-12-16 | Votação em turno único. | Sim 359 Não 17 | resultado: approved
+C:2254287-60 | 2021-12-16 | Votação do DTQ 3: PSOL: Destaque para votação em separado da expressão “da área de saúde e da segurança pública”, constante do §7° do art. 8° da Lei Complementar n° 173, de 27 de maio de 2020, na redação dada pelo art. 2° do Lei Complementar n. 150/20, para fins de supressão. (art. 161, I) | Sim 309 Não 99 | resultado: ?
+C:2254287-63 | 2021-12-16 | Votação do DTQ 1: PT: destaque da expressão “assistência social”, contida na Emenda de Plenário n. 1, para inclusão no § 7º do Art. 8° da Lei Complementar 173/2020, na redação oferecida pelo Art. 2º do PLP 150/2020. (art. 161, II) | Sim 124 Não 228 | resultado: rejected
+C:2254287-66 | 2021-12-16 | Votação do DTQ 2: PT: destaque da expressão “educação”, contida na Emenda de Plenário n. 2, para inclusão no § 7º do Art. 8° da Lei Complementar 173/2020, na redação oferecida pelo Art. 2º do PLP 150/2020. (art. 161, II) | Sim 125 Não 187 | resultado: rejected
+
+## C:2255096 | MPV 980/2020 | ementa: Altera a Lei nº 13.844, de 18 de junho de 2019, para criar o Ministério da Ciência, Tecnologia e Inovações e o Ministério das Comunicações.
+   voto principal do projeto: C:2255096-29 (2020-09-21): "" — Sim 128, Não 316
+C:2255096-29 | 2020-09-21 |  | Sim 128 Não 316 | resultado: rejected
+C:2255096-53 | 2020-09-21 | Votação do DTQ 9: PDT: Emenda de Comissão n° 4 (art. 161, II). | Sim 128 Não 295 | resultado: rejected

@@ -1,0 +1,160 @@
+## C:2579832 | PL 5582/2025 | Altera a Lei nº 12.850, de 2 de agosto de 2013, o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, o Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal, a Lei nº 8.072, de 25 de julho de 1990, a Lei nº 7.960, de 21 de dezembro de 1989, e a Lei 
+C:2579832-105 | 2025-11-18 | Votação do DTQ 21 (NOVO): Destaque de Emenda de Plenário n. 25 (161, II). | approved
+C:2579832-61 | 2025-11-18 | Votação do DTQ 6 (Fdr PSOL-REDE): Destaque de Preferência para o texto original do PL 5.582 de 2025 (161, IV). | rejected
+C:2579832-62 | 2025-11-18 | Votação em turno único. | approved
+C:2579832-95 | 2025-11-18 | Votação do DTQ 25 (Fdr PT-PCdoB-PV): Destaque de Emenda de Plenário n. 33. (161, II) | rejected
+C:2579832-96 | 2025-11-18 | Votação do DTQ 24 (Fdr PT-PCdoB-PV): Destaque para Votação em Separado do Capítulo IV do substitutivo, apresentado ao PL 5582/2025. (161, I) | ?
+C:2579832-99 | 2025-11-18 | Votação do DTQ 11 (Fdr PT-PCdoB-PV): Destaque de Preferência para o art. 2º, constante no texto original do PL n. 5582/2025. (161, IV) | rejected
+
+## C:2580259 | PLP 230/2025 | Altera a Lei Complementar nº 101, de 4 de maio de 2000, para vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações, e a Lei nº 9.998, de 17 de agosto de 2000, para os fins que especifica.
+C:2580259-24 | 2026-08-12 | Votação em turno único. | approved
+
+## C:2581700 | MPV 1323/2025 | Altera a Lei nº 10.779, de 25 de novembro de 2003, que dispõe sobre a concessão do benefício de seguro-desemprego, durante o período de defeso, ao pescador profissional que exerce a atividade pesqueira de forma artesanal.
+C:2581700-31 | 2026-04-07 | Votação do DTQ 1 (NOVO): Destaque para Votação em Separado das expressões "ou entidade representativa da pesca artesanal credenciada", contida no inci | ?
+
+## C:259094 | PEC 293/2004 | Altera o Sistema Tributário Nacional e dá outras providências. (Desmembramento da PEC nº 255/04, devendo os arts. 3º, 8º e 9º, serem renumerados para 3º, 4º e 5º; e os arts. 146, IV, 150, VI e, 153, § 4º, IV, 158, parágrafo único, I, II, 171-A e parágrafo único, 203, parágrafo ún
+C:259094-134 | 2023-12-15 | Votação do DTQ 17: Bloco UNIÃO (de Líderes - Dr. Luizinho; José Guimarães; Zeca Dirceu; Felipe Carreras; Hugo Motta; Elmar Nascimento; André Figueired | approved
+C:259094-136 | 2023-12-15 | Votação, em primeiro turno, da Proposta de Emenda à Constituição nº 45, de 2019. | approved
+C:259094-140 | 2023-12-15 | Votação do DTQ 4: PL (Altineu Côrtes): destaque para votação em separado do(a) inciso II, do parágrafo 6º, do artigo 153, constante no artigo 1º da PE | ?
+C:259094-143 | 2023-12-15 | Votação do DTQ 16: Bloco Fdr PSOL-REDE (Guilherme Boulos): Destaque para Votação em Separado, com vistas a supressão, da expressão "caso em que a alíq | ?
+C:259094-146 | 2023-12-15 | Votação do DTQ 21: Bloco UNIÃO (PSB - Pedro Campos): destaque para votação em separado do(a) inciso VI, § 6º, do Art. 156-A do texto aprovado pelo Sen | ?
+C:259094-149 | 2023-12-15 | Votação do DTQ 8: PL (Altineu Côrtes): Destaque para votação em separado do Inciso I, do artigo 156-B, constante no artigo 1º da PEC 45/2019 apresenta | ?
+C:259094-151 | 2023-12-15 | Votação do DTQ 5: PL (Altineu Côrtes): Destaque para votação em separado do artigo 131, contido no artigo 2º da PEC 45/2019 (art. 161, I) | ?
+C:259094-166 | 2023-12-15 | Votação do DTQ 15: Bloco MDB (MDB): Destaque para votação em separado do § 18 do artigo 37 da Constituição, acrescido pelo artigo 3º do Substitutivo d | ?
+C:259094-172 | 2023-12-15 | Votação do DTQ 20: Bloco MDB (Republicanos - Hugo Motta): Destaque para Votação em Separado do inciso II do § 1º do Art. 19 do texto do relator à PEC  | ?
+C:259094-176 | 2023-12-15 | Votação do DTQ 18: Bloco MDB (Pode - Fábio Macedo): Destaque para votação em separado do § 3° do art. 19 do texto apresentado pelo Relator, apresentad | ?
+C:259094-179 | 2023-12-15 | Votação do DTQ 19: Bloco MDB (Republicanos - Hugo Motta): Destaque para Votação em Separado do §4º do Art.19 do texto do relator à PEC 45/2019, apensa | ?
+C:259094-181 | 2023-12-15 | Votação do DTQ 19: Bloco MDB (Republicanos - Hugo Motta): Destaque para Votação em Separado do §4º do Art.19 do texto do relator à PEC 45/2019, apensa | approved
+C:259094-187 | 2023-12-15 | Votação do DTQ 19: Bloco MDB (Republicanos - Hugo Motta): Destaque para Votação em Separado do §4º do Art.19 do texto do relator à PEC 45/2019, apensa | rejected
+C:259094-190 | 2023-12-15 | Votação em segundo turno. | approved
+C:259094-193 | 2023-12-15 | Votação do DTQ 25: PL (2º turno): Destaque para Votação em Separado da expressão "extração", contida no inciso VIII do artigo 153, e, por consequência | ?
+C:259094-199 | 2023-12-15 | Votação do DTQ 29: PL (2º turno): Destaque para Votação em Separado do inciso II, do parágrafo 6º, do artigo 153, constante no artigo 1º da PEC 45/201 | ?
+
+## C:2595686 | PRC 86/2025 | Declara a perda do mandato do Deputado GLAUBER BRAGA. por procedimento incompatível com o decoro parlamentar.
+C:2595686-29 | 2025-12-10 | Votação do DTQ 4 (Fdr PSOL-REDE): Destaque de Preferência da Emenda de Plenário n. 1, apresentada ao PRC 86 de 2025. (161, IV) | approved
+C:2595686-31 | 2025-12-10 | Votação da Emenda de Plenário nº 1 ao PRC 86/2025. | approved
+
+## C:2595984 | PL 6359/2025 | Dispõe sobre a criação de duas varas federais no Estado do Amazonas e de seis varas federais no Estado de Mato Grosso do Sul.
+C:2595984-34 | 2026-03-25 | Votação em turno único. | approved
+
+## C:2596663 | PL 6415/2025 | Institui a Política Nacional de Assistência Jurídica Obrigatória às Vítimas em Situação de Vulnerabilidade – PNAJOV, dispõe sobre a prestação de assistência jurídica às vítimas, altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e dá outras providê
+C:2596663-47 | 2026-03-11 | Votação do DTQ 5 (Fdr PSOL-REDE): Destaque para Votação em Separado do Art. 12 do substitutivo, apresentado ao PL 6415/2025 (161, I). | ?
+
+## C:2600838 | PL 278/2026 | Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.
+C:2600838-46 | 2026-02-24 | Votação do DTQ 10 (Fdr PSOL-REDE): Destaque da Emenda de Plenário n. 68 (161, II). | rejected
+
+## C:2601040 | PLP 14/2026 | Dispõe sobre a redução de alíquotas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a indústria química e petroquímica, e altera a Lei nº 11.196, de 21 de novembro de 2005, e a Lei nº 10.865, de 30 de abril de 2004.
+C:2601040-31 | 2026-02-10 | Votação em turno único. | approved
+
+## C:2601990 | PLP 21/2026 | Institui o Regime Especial de Tributação para Associações Desportivas (RETAD), para unificar a apuração de tributos federais incidentes sobre as receitas de associações civis desportivas sem fins lucrativos, e altera a Lei nº 14.193, de 6 de agosto de 2021
+C:2601990-42 | 2026-05-13 | Votação em turno único. | approved
+
+## C:2603342 | MSC 112/2026 | Acordo sobre a 15ª Reunião da Conferência das Partes da Convenção sobre a Conservação das Espécies Migratórias de Animais Silvestres, assinado em Nairóbi, Quênia, em 21 de dezembro de 2025
+C:2603342-42 | 2026-02-25 | Votação em turno único. | approved
+
+## C:2606313 | PLP 41/2026 | Dispõe sobre o Sistema Nacional de Enfrentamento da Violência contra Meninas e Mulheres e a destinação de recursos às ações de enfrentamento ao feminicídio e de garantia da vida de meninas e mulheres.
+C:2606313-36 | 2026-07-07 | Votação em turno único. | approved
+
+## C:2610975 | MPV 1343/2026 | Altera a Lei nº 13.703, de 8 de agosto de 2018, para criar a obrigatoriedade de cadastramento da operação de transporte e a geração do Código Identificador da Operação de Transporte - CIOT, e para dispor sobre medidas administrativas para o cumprimento da Política Nacional de Pis
+C:2610975-23 | 2026-06-17 | Votação do DTQ 2 (UNIÃO, PP, PSD, REPUBLICANOS, MDB, Federação PSDB CIDADANIA, PODE): Destaque da Emenda n. 102, apresentada à MPV 1343/2026. (161, II | rejected
+
+## C:2611313 | PLP 74/2026 | Dispõe sobre regras relativas a benefícios tributários e despesas obrigatórias no exercício de 2026.
+C:2611313-31 | 2026-09-03 | Votação em turno único. | approved
+
+## C:2611717 | PLP 77/2026 | Dispõe sobre regras relativas a benefícios tributários e despesas obrigatórias no exercício de 2026.
+C:2611717-33 | 2026-03-25 | Votação em turno único. | approved
+C:2611717-38 | 2026-03-25 | Votação do DTQ 1 (NOVO): Destaque para Votação em Separado do art. 1° do PLP 77/2026, com fins de supressão (161, I). | ?
+
+## C:2611992 | PLP 80/2026 | Altera a Lei nº 14.301, de 7 de janeiro de 2022, para prorrogar o prazo de vigência da não incidência do Adicional ao Frete para Renovação da Marinha Mercante (AFRMM) prevista no art. 17 da Lei nº 9.432, de 8 de janeiro de 1997, nas navegações de cabotagem, interior fluvial e lac
+C:2611992-24 | 2026-08-12 | Votação em turno único. | approved
+
+## C:2613731 | PL 1625/2026 | Altera a Lei nº 8.137, de 27 de dezembro de 1990, para tipificar a conduta de elevar, sem justa causa, o preço dos bens de utilidade pública de que trata o art. 1º, § 1º, da Lei nº 9.847, de 26 de outubro de 1999, e dá outras providências.
+C:2613731-47 | 2026-05-20 | Votação do DTQ 2 (PL): Destaque de Emenda de Plenário n. 2. (161, II). | rejected
+C:2613731-65 | 2026-05-20 | Votação do DTQ 2 (PL): Destaque de Emenda de Plenário n. 2. (161, II). | approved
+
+## C:2618177 | PLP 114/2026 | Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.
+C:2618177-71 | 2026-08-12 | Votação em turno único. | approved
+C:2618177-73 | 2026-08-12 | Votação das Emendas de Plenário ao Substitutivo, com parecer pela rejeição. | rejected
+C:2618177-82 | 2026-08-12 | Votação do DTQ 1 (NOVO): Destaque de Emenda de Plenário n. 1 (161, II). | rejected
+
+## C:2635476 | PLP 186/2026 | Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para dispor sobre o limite de receita bruta anual e o número de empregados do Microempreendedor Individual.
+C:2635476-36 | 2026-10-14 | Votação em turno único. | approved
+
+## C:2645346 | PDL 995/2026 | Escolhe o Senhor Rodrigo Otávio Soares Pacheco para o cargo de Ministro do Tribunal de Contas da União, nos termos do inciso II do § 2º do art. 73 da Constituição Federal, do inciso II do art. 105 da Lei nº 8.443, de 16 de julho de 1992, e do art. 2º do Decreto Legislativo nº 6, 
+C:2645346-18 | 2026-09-02 | Votação secreta em turno único. | approved
+
+## C:264726 | PL 2876/2025 | Dá nova redação ao art. 15 da Lei nº 10.826, de 22 de dezembro de 2003, que "Dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas-Sinarm, define crimes e dá outras providências."
+C:264726-144 | 2025-06-11 | Votação em turno único. | approved
+C:264726-148 | 2025-06-11 | Votação do DTQ 7 (PL, Federação Brasil da Esperança - Fe Brasil, UNIÃO, PP, PSD, REPUBLICANOS, MDB, PDT, Federação PSDB CIDADANIA, PSB, PODE): Destaqu | ?
+C:264726-157 | 2025-06-11 | Votação do DTQ 5 (NOVO): Destaque para Votação em Separado do §2º do art. 16 da Lei 10.826 de 2003 acrescentado pelo art. 2º do substitutivo, apresent | ?
+
+## C:2655570 | PLP 299/2026 | Altera a Lei Complementar nº?200, de 30 de agosto de 2023, a Lei Complementar nº?176, de 29 de dezembro de 2020, a Lei Complementar nº?235, de 27 de agosto de 2026, a Lei Complementar nº?224, de 26 de dezembro de 2025, a Lei nº?11.540, de 12 de novembro de 2007, e a Lei nº?9.796,
+C:2655570-39 | 2026-11-23 | Votação em turno único. | approved
+C:2655570-41 | 2026-11-23 | Votação das Emendas de Plenário, com parecer pela rejeição. | rejected
+C:2655570-44 | 2026-11-23 | Votação do DTQ 1 (Fdr PSOL-REDE): Destaque para Votação em Separado do §5° do Art. 5° da Lei Complementar n° 200 de 2023, que consta do Art 1°, aprese | ?
+C:2655570-47 | 2026-11-23 | Votação do DTQ 9 (PL): Destaque de Emenda de Plenário nº 23, apresentada ao PLP 299/2026 (161, II). | rejected
+C:2655570-50 | 2026-11-23 | Votação do DTQ 7 (PL): Destaque de Emenda de Plenário nº 38, apresentada ao PLP 299/2026 (161, II). | rejected
+C:2655570-53 | 2026-11-23 | Votação do DTQ 4 (AVANTE): Destaque para Votação em Separado do art. 6º-F, que consta no art. 1º do PLP 299/2026 (161, I). | ?
+C:2655570-57 | 2026-11-23 | Votação do DTQ 8 (PL): Destaque para Votação em Separado do art. 2º do Projeto de Lei Complementar nº 299, de 2026, com vistas à sua supressão (161, I | ?
+C:2655570-60 | 2026-11-23 | Votação do DTQ 10 (PL): Destaque para Votação em Separado do art. 6º do Projeto de Lei Complementar nº 299, de 2026, com vistas à sua supressão, apres | ?
+
+## C:345311 | PL 490/2007 | Altera a Lei n° 6.001, de 19 de dezembro de 1973, que dispõe sobre o Estatuto do Índio. NOVA EMENTA: Regulamenta o art. 231 da Constituição Federal, para dispor sobre o reconhecimento, a demarcação, o uso e a gestão de terras indígenas; e altera as Leis nºs 11.460, de 21 de março
+C:345311-270 | 2023-05-30 | Votação em turno único. | approved
+C:345311-276 | 2023-05-30 | Votação do DTQ 3: Bloco Fdr PSOL-REDE (PSOL): Destaque para Votação em Separado do art. 4º do Substitutivo adotado pela CCJC. (art. 161, I) | ?
+C:345311-279 | 2023-05-30 | Votação do DTQ 4: Bloco UNIÃO (PDT): Destaque para Votação em Separado do § 4º do Artigo 16 do Substitutivo da CCJC. (art. 161, I) | ?
+
+## C:347421 | PEC 31/2007 | Altera o Sistema Tributário Nacional, unifica a legislação do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação, dentre outras providências.
+C:347421-192 | 2024-12-18 | Votação do DTQ 3 (UNIÃO, PP, Federação PSDB CIDADANIA, PDT, AVANTE, SOLIDARIEDADE, PRD): Destaque de Preferência para a Emenda Aglutinativa nº 1. (161 | approved
+C:347421-198 | 2024-12-19 | Continuação da votação em primeiro turno. | rejected
+C:347421-200 | 2024-12-19 | Votação, em primeiro turno, da Emenda Aglutinativa Substitutiva nº 1 à Proposta de Emenda à Constituição nº 31, de 2007, ressalvados os destaques. | approved
+C:347421-202 | 2024-12-19 | Votação do DTQ 10 (PL): Destaque para Votação em Separado do parágrafo único do artigo 203 constante da Emenda Aglutinativa, apresentada à PEC 31/2007 | ?
+C:347421-205 | 2024-12-19 | Votação do DTQ 4 (Fdr PSOL-REDE): Destaque para Votação em Separado do inciso XIV do artigo 212-A da CF, alterado pelo art 1º da Emenda Aglutinativa n | ?
+C:347421-221 | 2024-12-19 | Votação em segundo turno. | approved
+C:347421-224 | 2024-12-19 | Votação do DTQ 11 (Fdr PSOL-REDE): Destaque para Votação em Separado do(a) §4° do artigo 212-A da Constituição Federal, alterado pelo art 1º, apresent | ?
+
+## C:374450 | PL 5807/2025 | Inclui inciso VIII na Lei dos Crimes Hediondos, Lei nº 8.072, de 25 de julho 1990, classificando como crime hediondo a adulteração de alimentos como especifica.
+C:374450-132 | 2025-10-28 | Votação do DTQ 2 (NOVO): Destaque para Votação em Separado do Art. 7° do Substitutivo com fins de supressão, apresentado ao PL 2307/2007 (161, I). | ?
+
+## C:408349 | PL 3935/2008 | Acrescenta arts. 473-A a 473-C à Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para regulamentar a licença-paternidade a que se refere o inciso XIX do art. 7º da Constituição Federal.
+C:408349-216 | 2025-11-04 | Votação do DTQ 3 (AVANTE, SOLIDARIEDADE, PRD): Destaque para Votação em Separado da expressão "desde que comprovado o nexo com o parto" do § 8º do art | ?
+
+## C:480184 | PL 7452/2010 | Altera a Lei nº 8.987, de 1995, que "dispõe sobre o regime de concessão e permissão da prestação de serviços públicos previstos no art. 175 da Constituição Federal, e dá outras providências", para dispor sobre os serviços de pagamento automático de pedágios.
+C:480184-129 | 2024-11-27 | Votação do DTQ 1 (MDB, PSD, REPUBLICANOS, PODE): Emenda de Plenário nº 1 (161, II). | approved
+
+## C:541855 | PLP 164/2012 | Altera a Lei Complementar nº 101, de 4 de maio de 2000, para excluir do limite das despesas com pessoal encargos e contribuições devidos às entidades de previdência. NOVA EMENTA: Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para definir
+C:541855-97 | 2024-08-28 | Votação em turno único. | approved
+
+## C:545304 | PL 3899/2012 | Institui a Política Nacional de Estímulo à Produção e ao Consumo Sustentáveis.
+C:545304-132 | 2025-10-29 | Votação do DTQ 17 (PSB): Destaque de Preferência para o PL 1874/2022 apensando ao PL 3899/2012. (161, IV) | rejected
+C:545304-134 | 2025-10-29 | Votação em turno único. | approved
+C:545304-154 | 2025-10-29 | Votação do DTQ 8 (NOVO): Destaque para Votação em Separado do Art.27 do substitutivo apresentado pelo relator, apresentado ao PL 3899/2012. (161, I) | ?
+
+## C:565397 | PL 5010/2013 | Dispõe sobre o controle de material genético animal e sobre a obtenção e o fornecimento de clones de animais domésticos destinados à produção de animais domésticos de interesse zootécnico e dá outras providências.
+C:565397-185 | 2024-10-16 | Votação do DTQ 2 (Fdr PT-PCdoB-PV): Emenda de Plenário nº 1. (161, II). | rejected
+
+## C:575585 | PL 5496/2013 | Acrescenta artigos à Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre o contrato de trabalho por prazo determinado para admissão de jovens entre 16 (dezesseis) e 24 (vinte e quatro) anos de idade que não tenham 
+C:575585-92 | 2023-11-21 | Votação em turno único. | approved
+C:575585-99 | 2023-11-21 | Votação do DTQ 2: Bloco Fdr PT-PCdoB-PV: Destaque para Votação em Separado do(a) Art. 441-G do Substitutivo da relatora (redução da alíquota patronal  | ?
+
+## C:589982 | PL 6240/2013 | Acrescenta art. 149-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de desaparecimento forçado de pessoa, e acrescenta inciso VIII ao art. 1º da Lei nº 8.072, de 25 de julho de 1990, para considerar esse crime hediondo.
+C:589982-124 | 2026-03-02 | Votação da Emenda de Plenário ao Substitutivo, com parecer pela rejeição. | rejected
+C:589982-126 | 2026-03-02 | Votação do DTQ 2 (PL): Destaque para Votação em Separado do §10 do artigo 148-A do Código Penal, acrescido pelo artigo 2º do Substitutivo, para fins d | ?
+C:589982-129 | 2026-03-02 | Votação do DTQ 3 (PL): Destaque para Votação em Separado do §13 do artigo 148-A do Código Penal, acrescido pelo artigo 2º do Substitutivo, para fins d | ?
+
+## C:604557 | PL 6969/2013 | Institui a Política Nacional para a Conservação e o Uso Sustentável do Bioma Marinho Brasileiro (PNCMar) e dá outras providências.
+C:604557-191 | 2025-05-27 | Votação em turno único. | approved
+C:604557-205 | 2025-05-27 | Votação do DTQ 5 (NOVO): Destaque para Votação em Separado do inciso XVIII, do art. 5º do susbtitutivo, apresentado ao PL 6969/2013 (161, I). | ?
+
+## C:622019 | PL 7906/2014 | Cria cargos de Juiz do Trabalho Substituto no Tribunal Regional do Trabalho da 3ª Região, Minas Gerais e dá outras providências.
+C:622019-72 | 2025-06-11 | Votação da Emenda da Comissão de Finanças e Tributação com parecer pela aprovação, ressalvados os destaques. | approved
+C:622019-73 | 2025-06-11 | Votação da Emenda da Comissão de Finanças e Tributação com parecer pela aprovação, ressalvados os destaques. | approved
+C:622019-76 | 2025-06-11 | Votação do DTQ 3 (PL, Federação Brasil da Esperança - Fe Brasil, UNIÃO, PP, PSD, REPUBLICANOS, MDB, PDT, Federação PSDB CIDADANIA, PSB, PODE): Destaqu | ?
+C:622019-81 | 2025-06-11 | Votação do DTQ 4 (NOVO): Destaque para Votação em Separado art. 4º, apresentado ao PL 7906/2014 (161, I). | ?
+C:622019-83 | 2025-06-11 | Votação da Redação Final. | approved
+
+## C:947810 | PL 424/2015 | Acrescenta o Inciso XXXII ao art. 24 da Lei nº 8.666, de 21 de junho de 1993, e altera o art. 3º da Lei nº 10.972, de 2 de dezembro de 2004, permitindo a dispensa de licitação para aquisição de hemoderivados pelo Sistema Único de Saúde - SUS.
+C:947810-85 | 2026-06-17 | Votação do DTQ 1 (NOVO): Destaque para Votação em Separado da expressão “pública”, constante após a palavra “instituição”, no inciso XII do art. 3º da | ?
+
+## S:121883 | PEC 81/2015 | Altera o art. 24 da Constituição Federal, para incluir no rol das competências da União, dos Estados e do Distrito Federal legislar concorrentemente sobre proteção ao idoso.
+S:6928 | 2025-05-20 | Votação nominal da Proposta de Emenda à Constituição nº 81, de 2015, nos termos do parecer (1º Turno). | approved
+S:6929 | 2025-05-20 | Votação nominal da Proposta de Emenda à Constituição nº 81, de 2015 (2º Turno). | approved

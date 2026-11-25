@@ -1,0 +1,92 @@
+## C:373327 | PEC 182/2007 | ementa: Altera os arts. 17, 46 e 55 da Constituição Federal, para assegurar aos partidos políticos a titularidade dos mandatos parlamentares e estabelecer a perda dos mandatos dos membros do Poder Legislativo e do Poder Executivo que se desfiliarem dos partidos pelos quais forem eleitos.
+   voto principal do projeto: C:373327-143 (2015-05-26): "Votação do artigo 1º do Substitutivo oferecido pelo Relator da Comissão Especial (artigos 29, I e 45, caput e §§3º e 4º, da Constituição Federal)." — Sim 210, Não 267
+C:373327-129 | 2015-05-26 | Votação da Emenda Aglutinativa nº 4. | Sim 21 Não 402 | resultado: rejected
+C:373327-136 | 2015-05-26 | Votação da Emenda Aglutinativa nº 2. | Sim 99 Não 369 | resultado: rejected
+C:373327-143 | 2015-05-26 | Votação do artigo 1º do Substitutivo oferecido pelo Relator da Comissão Especial (artigos 29, I e 45, caput e §§3º e 4º, da Constituição Federal). | Sim 210 Não 267 | resultado: rejected
+C:373327-157 | 2015-05-26 | Votação da Emenda Aglutinativa nº 22. | Sim 264 Não 207 | resultado: rejected
+C:373327-170 | 2015-05-27 | Votação da Emenda Aglutinativa nº 10. | Sim 164 Não 240 | resultado: rejected
+C:373327-174 | 2015-05-27 | Votação da Emenda Aglutinativa nº 10. | Sim 56 Não 343 | resultado: rejected
+C:373327-179 | 2015-05-27 | Votação da Emenda Aglutinativa nº 28. | Sim 330 Não 141 | resultado: approved
+C:373327-190 | 2015-05-27 | Votação do art. 3º do Substitutivo oferecido pelo Relator da Comissão Especial (Fim da reeleição). | Sim 452 Não 19 | resultado: approved
+C:373327-211 | 2015-05-28 | Votação do art. 1º da Proposta de Emenda à Constituição nº 14/2015, apensada, objeto do Destaque para votação em separado da bancada do PSDB - DTQ 18. | Sim 206 Não 236 | resultado: rejected
+C:373327-219 | 2015-05-28 | Votação do artigo 5º do Substitutivo oferecido pelo Relator da Comissão Especial. | Sim 369 Não 39 | resultado: approved
+C:373327-237 | 2015-06-10 | Votação do art. 8º do Substitutivo oferecido pelo Relator da Comissão Especial (Voto Facultativo). | Sim 134 Não 311 | resultado: rejected
+C:373327-245 | 2015-06-10 | Votação da Emenda Aglutinativa nº 48 (Tempo de Mandato e Coincidência Escalonada das Eleições). | Sim 348 Não 110 | resultado: approved
+C:373327-253 | 2015-06-10 | Votação da Emenda Aglutinativa nº 54 (Coincidência das Eleições). | Sim 220 Não 225 | resultado: rejected
+C:373327-262 | 2015-06-10 | Votação da Emenda Aglutinativa nº 53 (Tempo de Mandato de Prefeito) | Sim 419 Não 8 | resultado: approved
+C:373327-276 | 2015-06-11 | Votação da Emenda nº 1 apresentada na Comissão Especial, objeto do destaque da bancada do SD (Limite mínimo de idade) - DTQ 16. | Sim 337 Não 73 | resultado: approved
+C:373327-278 | 2015-06-11 | Votação do art. 10 do Substitutivo oferecido pelo Relator da Comissão Especial (Limite mínimo de idade). | Sim 363 Não 48 | resultado: approved
+C:373327-281 | 2015-06-11 | Votação do art. 7º do Substitutivo oferecido pelo Relator da Comissão Especial, com a alteração proposta em Complementação de Voto (Posse do Presidente e dos Governadores). | Sim 386 Não 10 | resultado: approved
+C:373327-299 | 2015-06-16 | Votação da Emenda Aglutinativa nº 57 (Cota para Mulheres). | Sim 293 Não 101 | resultado: rejected
+C:373327-312 | 2015-06-16 | Votação da Emenda Aglutinativa nº 60 (Fidelidade Partidária, Iniciativa Popular, Atos Normativos do TSE, Voto Impresso e Mandato das Mesas da Câmara dos Deputados e do Senado Federal). | Sim 433 Não 7 | resultado: approved
+C:373327-325 | 2015-06-16 | Votação do art. 14 do Substitutivo oferecido pelo Relator da Comissão Especial (Federação Partidária). | Sim 157 Não 277 | resultado: rejected
+C:373327-331 | 2015-06-16 | Votação da Emenda nº 8 apresentada na Comissão Especial, objeto do destaque da bancada do PPS - DTQ 3. (Perda de Mandato em virtude de investidura em cargo político do Poder Executivo). | Sim 60 Não 357 | resultado: rejected
+C:373327-337 | 2015-06-16 | Votação da Emenda Aglutinativa nº 56 (Senador Vitalício e Voto em Trânsito). | Sim 0 Não 404 | resultado: rejected
+C:373327-347 | 2015-06-16 | Votação do inciso III do § 8º oferecido ao art. 14 da Constituição Federal, constante do art. 1º da PEC nº 7/2015, apensada, com o objetivo de inseri-lo no do Substitutivo apresentado à PEC nº 182/07, objeto do destaque da bancada do PR - DTQ 25 (Elegibilidade/Direitos Políticos de Militares). | Sim 392 Não 43 | resultado: approved
+C:373327-357 | 2015-06-17 | Votação da Emenda Aglutinativa nº 29 (Exceção à Perda de Mandato - "Janela"). | Sim 317 Não 139 | resultado: approved
+C:373327-364 | 2015-06-17 | Votação da Emenda nº 7 apresentada na Comissão Especial, objeto do destaque da bancada do PSD - DTQ 30 (Registro de Proposta Eleitoral). | Sim 89 Não 230 | resultado: rejected
+C:373327-368 | 2015-06-17 | Votação da Emenda Aglutinativa nº 59 (Candidaturas Simultâneas). | Sim 4 Não 334 | resultado: rejected
+C:373327-387 | 2015-07-07 | Votação em segundo turno. | Sim 420 Não 30 | resultado: approved
+C:373327-398 | 2015-07-15 | Votação da expressão "Presidente da República" constante do § 5º do art. 14 da Constituição Federal, alterado pelo art. 2º da Proposta de Emenda à Constituição nº 182/2007, objeto do Destaque para votação em separado da bancada do DEM - DTQ 2 (Fim da Reeleição). | Sim 410 Não 2 | resultado: approved
+C:373327-401 | 2015-07-15 | Votação do art. 3º da Proposta de Emenda à Constituição nº 182/2007, objeto do Destaque para votação em separado da bancada do Bloco Parlamentar PMDB, PP, PTB, PSC, PHS, PEN - DTQ 3 (Tempo de Mandato). | Sim 296 Não 154 | resultado: rejected
+C:373327-403 | 2015-07-15 | Votação do art. 6º da Proposta de Emenda à Constituição nº 182/2007, objeto do Destaque para votação em separado da bancada do Bloco Parlamentar PMDB, PP, PTB, PSC, PHS, PEN - DTQ 4 (Data da Posse). | Sim 68 Não 363 | resultado: rejected
+C:373327-414 | 2015-08-04 | Votação da alínea "d" do inciso VI do § 3º do art. 14 da Constituição Federal, constante do art. 7º da Proposta de Emenda à Constituição nº182/2007, objeto do Destaque para votação em separado da bancada do PR - DTQ 12 (Limite Mínimo de Idade). | Sim 412 Não 16 | resultado: approved
+
+## C:388449 | PL 3131/2008 | ementa: Altera os arts. 61, 121, 129 e 147 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, e o art. 2º da Lei nº 8.072, de 25 de julho de 1990 - Lei dos Crimes Hediondos, para prever como qualificadora e circunstância que agrava a pena a hipótese de a vítima ou de o autor ser agente do Estado, no exercício de cargo ou função pública ou em decorrência da mesma.
+   voto principal do projeto: C:388449-106 (2015-03-26): "Votação em turno único." — Sim 341, Não 3
+C:388449-106 | 2015-03-26 | Votação em turno único. | Sim 341 Não 3 | resultado: approved
+C:388449-116 | 2015-03-26 | Votação do art. 3º da Subemenda Substitutiva Global, objeto do Destaque para votação em separado da bancada do PPS. | Sim 215 Não 100 | resultado: approved
+
+## C:412728 | PL 34/2015 | ementa: Altera e acresce dispositivos à Lei nº 11.105, de 24 de março de 2005. NOVA EMENTA: Altera a Lei nº 11.105, de 24 de março de 2005.
+C:412728-125 | 2015-04-28 | Votação da Subemenda Substitutiva Global oferecida pelo Relator da Comissão de Desenvolvimento Econômico, Indústria e Comércio ao Projeto de Lei nº 4.148 de 2008. | Sim 320 Não 135 | resultado: approved
+
+## C:459448 | PL 6401/2009 | ementa: Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre infração relacionada ao transporte de criança em motocicleta.
+   voto principal do projeto: C:1734344-6 (2015-09-22): "" — Sim 226, Não 151
+C:1734344-6 | 2015-09-22 |  | Sim 226 Não 151 | resultado: rejected
+
+## C:463155 | PEC 443/2009 | ementa: Fixa parâmetros para a remuneração dos advogados públicos.
+   voto principal do projeto: C:463155-339 (2015-08-06): "" — Sim 445, Não 16
+C:463155-332 | 2015-08-05 | Votação do destaque de preferência da bancada do DEM, para votação da Emenda Aglutinativa nº 16 sobre o Substitutivo adotado pela Comissão Especial - DTQ 20. | Sim 267 Não 180 | resultado: approved
+C:463155-334 | 2015-08-05 | Votação da Emenda Aglutinativa nº 16, resultante da fusão das Emendas nºs 2 e 4 com o texto do Substitutivo apresentado à Proposta de Emenda à Constituição nº 443 de 2009. | Sim 247 Não 203 | resultado: rejected
+C:463155-339 | 2015-08-06 |  | Sim 445 Não 16 | resultado: approved
+C:463155-361 | 2015-08-11 | Votação do inciso XXII do art. 37 e do § 2º-A do art. 131, constantes dos arts. 1º e 2º, respectivamente, da Emenda nº 4/2011 apresentada na Comissão Especial à Proposta de Emenda à Constituição nº 443/2009, para sua inclusão no texto final, objeto do Destaque da bancada do PPS - DTQ 7. | Sim 269 Não 185 | resultado: rejected
+
+## C:465207 | PL 6697/2009 | ementa: Altera a Lei n° 11.415, de 15 de dezembro de 2006, que dispõe sobre as Carreiras dos Servidores do Ministério Público da União, fixa os valores de sua remuneração e dá outras providências. NOVA EMENTA: Dispõe sobre as carreiras dos servidores do Ministério Público da União e as carreiras dos servidores do Conselho Nacional do Ministério Público; fixa valores de sua remuneração;
+   voto principal do projeto: C:533082-25 (2016-05-03): "" — Sim 433, Não 8
+C:533082-25 | 2016-05-03 |  | Sim 433 Não 8 | resultado: approved
+
+## C:493624 | PLP 22/2011 | ementa: Exclui da apuração da receita bruta os valores relativos à venda do "pão-do-dia", assim entendido os pães, panhocas, broas, pão francês, e demais produtos de panificação feitos a partir de farináceos.
+   voto principal do projeto: C:2174273-7 (2018-05-29): "" — Sim 379, Não 0
+C:2174273-7 | 2018-05-29 |  | Sim 379 Não 0 | resultado: approved
+
+## C:50794 | PL 6699/2002 | ementa: Modifica dispositivo do Código Penal, e dá outras providências.
+   voto principal do projeto: C:2137715-10 (2017-12-13): "" — Sim 293, Não 7
+C:2137715-10 | 2017-12-13 |  | Sim 293 Não 7 | resultado: approved
+
+## C:518068 | PL 2177/2011 | ementa: Institui o Código Nacional de Ciência,Tecnologia e Inovação.
+   voto principal do projeto: C:962435-6 (2015-03-05): "" — Sim 315, Não 1
+C:962435-6 | 2015-03-05 |  | Sim 315 Não 1 | resultado: approved
+
+## C:522126 | PL 2431/2011 | ementa: Proíbe a Agência Nacional de Vigilância Sanitária de vetar a produção e comercialização dos anorexígenos: sibutramina, anfepramona, femproporex e mazindol. NOVA EMENTA: Autoriza a produção, a comercialização e o consumo, sob prescrição médica, dos anorexígenos sibutramina, anfepramona, femproporex e mazindol.
+   voto principal do projeto: C:2083183-7 (2016-06-14): "" — Sim 316, Não 89
+C:2083183-7 | 2016-06-14 |  | Sim 316 Não 89 | resultado: approved
+
+## C:524870 | PLP 100/2011 | ementa: Altera o §1º do art. 2º da Lei Complementar nº 130, de 17 de abril de 2009, que "Dispõe sobre o Sistema Nacional de Crédito Cooperativo e revoga dispositivos das Leis nº 4.595, de 31 de dezembro de 1964, e 5.764, de 16 de dezembro de 1971." NOVA EMENTA: Altera o art. 2º da Lei Complementar nº 130, de 17 de abril de 2009, que dispõe sobre o Sistema Nacional de Crédito Cooperativ
+   voto principal do projeto: C:2124707-9 (2017-05-16): "" — Sim 345, Não 8
+C:2124707-9 | 2017-05-16 |  | Sim 345 Não 8 | resultado: approved
+
+## C:526536 | PLP 106/2011 | ementa: Acrescenta novos dispositivos à Lei Complementar nº 123, de 14 de dezembro de 2006, que "Institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte", com o objetivo de autorizar a constituição de sociedade de garantia solidária, e dá outras providências. NOVA EMENTA: Acrescenta dispositivos à Lei Complementar n° 123, de 14 de dezembro de 2006, que institui o Est
+C:526536-104 | 2015-08-26 | Votação da Emenda Substitutiva Global de Plenário nº 2, ao Projeto de Lei Complementar nº 106 de 2011. | Sim 445 Não 0 | resultado: approved
+
+## C:533836 | PL 3111/2012 | ementa: Torna obrigatória a existência de ambulância de resgate e de profissional da área da saúde nos postos de fiscalização da Polícia Rodoviária Federal
+   voto principal do projeto: C:1050847-25 (2015-08-25): "" — Sim 23, Não 330
+C:1050847-25 | 2015-08-25 |  | Sim 23 Não 330 | resultado: rejected
+
+## C:542102 | PL 3734/2012 | ementa: Disciplina a organização e o funcionamento dos órgãos responsáveis pela segurança pública, nos termos do § 7º do art. 144 da Constituição, institui o Sistema Único de Segurança Pública - SUSP, dispõe sobre a segurança cidadã, e dá outras providências. NOVA EMENTA: Disciplina a organização e o funcionamento dos órgãos responsáveis pela segurança pública, nos termos do § 7° do ar
+   voto principal do projeto: C:2169217-6 (2018-03-14): "" — Sim 343, Não 8
+C:2169217-6 | 2018-03-14 |  | Sim 343 Não 8 | resultado: approved
+C:542102-150 | 2018-04-11 | Votação do destaque da bancada do PT, que solicita preferência para votação da Emenda de Plenário nº 17, apresentada ao PL 3734/12 - DTQ 14. | Sim 12 Não 247 | resultado: rejected
+C:542102-160 | 2018-04-11 | Votação da Emenda nº 9, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 6. | Sim 17 Não 250 | resultado: rejected
+C:542102-163 | 2018-04-11 | Votação da Emenda nº 15, objeto do destaque para votação em separado da bancada do PSD - DTQ 12. | Sim 78 Não 234 | resultado: rejected
+C:542102-169 | 2018-04-11 | Votação do inc. XIV, do §2º, do art. 9º, do substitutivo oferecido ao PL 3734/12, com vistas à sua supressão, objeto do destaque para votação em separado da bancada do PSOL - DTQ 10. | Sim 263 Não 8 | resultado: approved
+C:542102-184 | 2018-04-11 | Votação da Redação Final. | Sim 268 Não 2 | resultado: approved

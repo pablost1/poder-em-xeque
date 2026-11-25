@@ -1,0 +1,444 @@
+{
+ "votes": [
+  {
+   "sv": "C:2187087-39",
+   "e": 0,
+   "p": 0.3,
+   "proc": false,
+   "c": 0.25,
+   "why": "Texto de regras sobre partidos e fundo partidário; efeito sobre privilégios incerto."
+  },
+  {
+   "sv": "C:2187087-53",
+   "e": 0,
+   "p": 0.3,
+   "proc": false,
+   "c": 0.25,
+   "why": "Texto de regras sobre partidos e fundo partidário; efeito sobre privilégios incerto."
+  },
+  {
+   "sv": "C:2187087-60",
+   "e": 0,
+   "p": 0,
+   "proc": true,
+   "c": 0.5,
+   "why": "Moção processual (admissibilidade, preferência ou ordem de votação)."
+  },
+  {
+   "sv": "C:2187087-67",
+   "e": 0,
+   "p": 0.3,
+   "proc": false,
+   "c": 0.25,
+   "why": "Texto de regras sobre partidos e fundo partidário; efeito sobre privilégios incerto."
+  },
+  {
+   "sv": "C:2187087-99",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2187087-144",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2187087-155",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2187087-162",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2187087-169",
+   "e": 0,
+   "p": 0.3,
+   "proc": false,
+   "c": 0.25,
+   "why": "Texto de regras sobre partidos e fundo partidário; efeito sobre privilégios incerto."
+  },
+  {
+   "sv": "C:2187087-172",
+   "e": 0,
+   "p": 0.3,
+   "proc": false,
+   "c": 0.25,
+   "why": "Texto de regras sobre partidos e fundo partidário; efeito sobre privilégios incerto."
+  },
+  {
+   "sv": "C:2187087-174",
+   "e": 0,
+   "p": 0.3,
+   "proc": false,
+   "c": 0.3,
+   "why": "Sim rejeita supressões do Senado, mantendo regras mais favoráveis a partidos."
+  },
+  {
+   "sv": "C:2187087-179",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2187087-182",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2187087-185",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2187087-189",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2187087-192",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2187087-194",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2187087-196",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2188301-38",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2188301-41",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2188301-45",
+   "e": 0,
+   "p": 0,
+   "proc": true,
+   "c": 0.5,
+   "why": "Votação preliminar de admissibilidade da MPV."
+  },
+  {
+   "sv": "C:2188301-50",
+   "e": 0,
+   "p": 0,
+   "proc": true,
+   "c": 0.5,
+   "why": "Moção processual (admissibilidade, preferência ou ordem de votação)."
+  },
+  {
+   "sv": "C:2188301-57",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2188301-59",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Transfere a Junta Comercial do DF; tema administrativo."
+  },
+  {
+   "sv": "C:2188301-62",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2188301-65",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2320527-8",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.5,
+   "why": "Símbolo do autismo em placas de prioridade; tema social."
+  },
+  {
+   "sv": "C:2189858-42",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2189858-45",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2189858-49",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2189858-53",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2189858-73",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190190-68",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-37",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-40",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-47",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-50",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-54",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-57",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-60",
+   "e": 0,
+   "p": 0,
+   "proc": true,
+   "c": 0.5,
+   "why": "Votação preliminar de admissibilidade da MPV."
+  },
+  {
+   "sv": "C:2190237-103",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-105",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-108",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-111",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-114",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-117",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-66",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-69",
+   "e": 0,
+   "p": 0,
+   "proc": true,
+   "c": 0.5,
+   "why": "Votação preliminar de admissibilidade da MPV."
+  },
+  {
+   "sv": "C:2190237-72",
+   "e": 0,
+   "p": 0,
+   "proc": true,
+   "c": 0.5,
+   "why": "Moção processual (admissibilidade, preferência ou ordem de votação)."
+  },
+  {
+   "sv": "C:2190237-80",
+   "e": 0.2,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Aprova regularização ambiental rural (PRA/CAR); tema ambiental, efeito econômico leve."
+  },
+  {
+   "sv": "C:2190237-82",
+   "e": 0,
+   "p": 0,
+   "proc": true,
+   "c": 0.5,
+   "why": "Moção processual (admissibilidade, preferência ou ordem de votação)."
+  },
+  {
+   "sv": "C:2190237-86",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-94",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-97",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2190237-99",
+   "e": 0,
+   "p": 0,
+   "proc": true,
+   "c": 0.5,
+   "why": "Moção processual (admissibilidade, preferência ou ordem de votação)."
+  }
+ ]
+}

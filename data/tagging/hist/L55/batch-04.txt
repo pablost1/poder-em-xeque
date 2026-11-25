@@ -1,0 +1,93 @@
+## C:2084401 | MPV 726/2016 | ementa: Altera e revoga dispositivos da Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios. NOVA EMENTA: Altera as Leis nºs 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, e 11.890, de 24 de dezembro de 2008, e revoga a Medida Provisória nº 717, de 16 de março de
+   voto principal do projeto: C:2084401-59 (2016-08-29): "Votação preliminar em turno único." — Sim 269, Não 13
+C:2084401-59 | 2016-08-29 | Votação preliminar em turno único. | Sim 269 Não 13 | resultado: approved
+
+## C:2084402 | MPV 727/2016 | ementa: Cria o Programa de Parcerias de Investimentos - PPI e da outras providências
+C:2084402-66 | 2016-08-30 | Votação da Emenda nº 99, objeto do destaque para votação em separado da bancada do PDT - DTQ 5. | Sim 22 Não 240 | resultado: rejected
+
+## C:2085656 | RCP 23/2016 | ementa: Requer a criação de Comissão Parlamentar de Inquérito para apurar as irregularidades nas concessões de benefícios fiscais concedidos por aplicação da Lei nº 8.313, de 23 de dezembro de 1991, que instituiu o Programa Nacional de Apoio à Cultura (Pronac) e deu outras providências.
+   voto principal do projeto: C:2123066-5 (2017-02-15): "" — Sim 258, Não 78
+C:2123066-5 | 2017-02-15 |  | Sim 258 Não 78 | resultado: approved
+
+## C:2087377 | PEC 233/2016 | ementa: Altera o art. 100 da Constituição Federal, para dispor sobre o regime de pagamento de débitos públicos decorrentes de condenações judiciais; e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias, para instituir regime especial de pagamento para os casos em mora.
+   voto principal do projeto: C:2087377-58 (2016-11-30): "Votação em primeiro turno." — Sim 355, Não 0
+C:2087377-58 | 2016-11-30 | Votação em primeiro turno. | Sim 355 Não 0 | resultado: approved
+C:2087377-70 | 2016-11-30 | Votação em segundo turno. | Sim 359 Não 0 | resultado: approved
+
+## C:2088280 | PL 5587/2016 | ementa: Altera a redação dos incisos VIII e X do artigo 4º e do artigo 12 na Lei 12.587, de 03 de janeiro de 2012 e acrescenta o art. 12-C na mesma Lei. Altera o artigo 1º da Lei 13.103, de 02 de março de 2015. NOVA EMENTA: Altera a Lei nº 12.587, de 3 de janeiro de 2012, para regulamentar o transporte remunerado privado individual de passageiros.
+C:2088280-73 | 2017-04-04 | Votação do art. 2º da Emenda Substitutiva nº1, apresentada ao PL 5587/16, em substituição ao art. 2º do substitutivo do relator apresentado ao PL 5587/16, objeto do destaque para votação em separado da bancada do PT- DTQ 2. | Sim 226 Não 182 | resultado: approved
+C:2088280-79 | 2017-04-04 | Votação do art. 12-D, da Lei nº 12.587/12, alterado pelo art. 3º da Emenda Substitutiva nº 1 apresentada ao PL 5587/16, em substituição ao art. 11-B acrescentado à Lei nº 12.587/12 pelo art. 3º do substitutivo apresentado ao PL 5587/16, objeto do destaque para votação em separado da bancada do PT- DTQ 4. | Sim 215 Não 163 | resultado: approved
+C:2088280-111 | 2018-02-28 | Votação da Emenda nº 1 do Senado Federal, com Parecer pela rejeição. | Sim 29 Não 283 | resultado: rejected
+C:2088280-114 | 2018-02-28 | Votação da Emenda nº 2 do Senado Federal, objeto do destaque para votação em separado da bancada do PT - DTQ 4. | Sim 227 Não 166 | resultado: approved
+
+## C:2088351 | PEC 241/2016 | ementa: Altera o Ato das Disposições Constitucionais Transitórias, para instituir o Novo Regime Fiscal.
+C:2088351-226 | 2016-10-10 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 13 Não 313 | resultado: rejected
+C:2088351-235 | 2016-10-10 | Votação, em primeiro turno, do Substitutivo adotado pela Comissão Especial à Proposta de Emenda à Constituição nº 241 de 2016, ressalvados os destaques. | Sim 366 Não 111 | resultado: approved
+C:2088351-253 | 2016-10-10 | Votação da Emenda Aglutinativa n° 5 (tendo como suporte o substitutivo apresentado pela Comissão Especial à Proposta de Emenda à Constituição n° 241, de 2016, e as Emendas n°s 15 e 21). | Sim 26 Não 300 | resultado: rejected
+C:2088351-256 | 2016-10-10 | Votação da Emenda Aglutinativa n° 6 (tendo como suporte o substitutivo apresentado pela Comissão Especial à Proposta de Emenda à Constituição n° 241, de 2016, e as Emendas n°s 8 e 19). | Sim 90 Não 327 | resultado: rejected
+C:2088351-260 | 2016-10-10 | Votação do artigo 102 do Ato das Disposições Constitucionais Transitórias, constante no artigo 1º do Substitutivo apresentado à Proposta de Emenda à Constituição nº 241, de 2016, objeto do destaque para votação em separado da bancada do PT - DTQ 5. | Sim 357 Não 98 | resultado: approved
+C:2088351-268 | 2016-10-10 | Votação da Emenda nº 15, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 12. | Sim 85 Não 314 | resultado: rejected
+C:2088351-271 | 2016-10-10 | Votação da Emenda nº 19, objeto do destaque para votação em separado da bancada do PT - DTQ 4. | Sim 103 Não 303 | resultado: rejected
+C:2088351-274 | 2016-10-10 | Votação do artigo 104 do Ato das Disposições Constitucionais Transitórias, constante no artigo 1º do Substitutivo apresentado à Proposta de Emenda à Constituição nº 241, de 2016, objeto do destaque para votação em separado da bancada do PSOL - DTQ 7. | Sim 353 Não 17 | resultado: approved
+C:2088351-278 | 2016-10-10 | Votação da Emenda nº 21, objeto do destaque para votação em separado da bancada do PT - DTQ 3. | Sim 84 Não 281 | resultado: rejected
+C:2088351-324 | 2016-10-25 | Votação, em segundo turno, da Proposta de Emenda à Constituição nº 241 de 2016, ressalvados os destaques. | Sim 359 Não 116 | resultado: approved
+C:2088351-329 | 2016-10-25 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 27 Não 320 | resultado: rejected
+C:2088351-333 | 2016-10-25 | Votação do inciso I do artigo 102 do Ato das Disposições Constitucionais Transitórias, alterado pelo artigo 1º da Proposta de Emenda à Constituição n° 241, de 2016, objeto do destaque para votação em separado da bancada do PT- DTQ 15. | Sim 346 Não 20 | resultado: approved
+C:2088351-336 | 2016-10-25 | Votação do Inciso IV, do §6º, do art. 102 do Ato das Disposições Constitucionais Transitórias, alterado pelo artigo 1º da Proposta de Emenda à Constituição n° 241, de 2016, objeto do destaque para votação em separado da bancada do PDT - DTQ 7. | Sim 340 Não 25 | resultado: approved
+C:2088351-339 | 2016-10-25 | Votação da expressão "a partir do décimo exercício da vigência do Novo Regime Fiscal", constante do novo artigo 103, nos termos do artigo 1º da Proposta de Emenda à Constituição n° 241, de 2016, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 1. | Sim 332 Não 64 | resultado: approved
+C:2088351-342 | 2016-10-25 | Votação do parágrafo único do art. 103 do Ato das Disposições Constitucionais Transitórias, alterado pelo artigo 1º da Proposta de Emenda à Constituição n° 241, de 2016, objeto do destaque para votação em separado da bancada do PT - DTQ 10. | Sim 335 Não 30 | resultado: approved
+C:2088351-345 | 2016-10-25 | Votação do artigo 104 do Ato das Disposições Constitucionais Transitórias, inserido pelo artigo 1º da Proposta de Emenda à Constituição n° 241, de 2016, objeto do destaque para votação em separado da bancada do PSOL - DTQ 8. | Sim 332 Não 29 | resultado: approved
+C:2088351-348 | 2016-10-25 | Votação do artigo 105 do Ato das Disposições Constitucionais Transitórias, alterado pelo artigo 1º da Proposta de Emenda à Constituição n° 241, de 2016, objeto do destaque para votação em separado da bancada do PT - DTQ 11. | Sim 325 Não 89 | resultado: approved
+
+## C:2090548 | PRC 159/2016 | ementa: Acrescenta o art. 25-A na Resolução n. 20, de 1971, para autorizar a prestação de assistência médica, de emergência e de ambulatório, inclusive perícia, pelo Departamento Médico da Câmara dos Deputados, mediante celebração de convênios e acordos de cooperação técnica.
+   voto principal do projeto: C:2093451-19 (2017-02-08): "" — Sim 227, Não 75
+C:2093451-19 | 2017-02-08 |  | Sim 227 Não 75 | resultado: rejected
+
+## C:2090691 | PL 5768/2016 | ementa: Altera o Decreto-lei nº 1.001, de 21 de outubro de 1969, Código Penal Militar.
+   voto principal do projeto: C:2090722-6 (2016-07-06): "" — Sim 346, Não 28
+C:2090722-6 | 2016-07-06 |  | Sim 346 Não 28 | resultado: approved
+
+## C:2092189 | PL 5850/2016 | ementa: Altera a Lei nº 8.069, de 13 de julho de 1990, que "Dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências". NOVA EMENTA: Dispõe sobre adoção e altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a Lei nº 10.406, de 10 de jane
+   voto principal do projeto: C:2120382-10 (2017-02-15): "" — Sim 274, Não 15
+C:2120382-10 | 2017-02-15 |  | Sim 274 Não 15 | resultado: approved
+
+## C:2092382 | MPV 742/2016 | ementa: Dispõe sobre a flexibilização do horário de transmissão do programa oficial de informações dos Poderes da República, durante a realização dos Jogos Olímpicos e Paralímpicos Rio 2016. NOVA EMENTA: Altera a Lei nº 4.117, de 27 de agosto de 1962, para dispor sobre o horário de retransmissão obrigatória do programa oficial dos Poderes da República pelas emissoras de radiodifusão so
+   voto principal do projeto: C:2092382-40 (2016-11-08): "Votação preliminar em turno único." — Sim 232, Não 26
+C:2092382-40 | 2016-11-08 | Votação preliminar em turno único. | Sim 232 Não 26 | resultado: approved
+C:2092382-69 | 2016-11-08 | Votação da Emenda Aglutinativa Substitutiva Global nº 1, resultante da fusão do Projeto de Lei de Conversão nº 31, de 2016, e a Emenda nº 3, apresentada à Medida Provisória nº 742, de 2016. | Sim 242 Não 112 | resultado: approved
+C:2092382-82 | 2016-11-09 | Votação do artigo 2º do Projeto de Lei de Conversão nº 31, de 2016, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 1. | Sim 243 Não 50 | resultado: approved
+C:2092382-87 | 2016-11-09 | Votação do §5º do artigo 38 da Lei nº 4.117 de 1962, na redação dada pelo artigo 2º do Projeto de Lei de Conversão nº 31 de 2016, objeto do destaque para votação em separado da bancada do PT - DTQ 4. | Sim 251 Não 22 | resultado: approved
+
+## C:2095541 | RCP 26/2016 | ementa: Requer-se, nos termos do § 3° do art. 58 da Constituição Federal, combinado com o art. 35 do Regimento Interno da Câmara dos Deputados, a criação de Comissão Parlamentar de Inquérito destinada a investigar fatos relativos à Fundação Nacional do Índio (FUNAI) e ao Instituto Nacional de Colonização e Reforma Agrária (INCRA) nos termos que especifica.
+   voto principal do projeto: C:2125012-7 (2017-03-23): "" — Sim 236, Não 34
+C:2125012-7 | 2017-03-23 |  | Sim 236 Não 34 | resultado: approved
+
+## C:2110829 | MPV 744/2016 | ementa: Altera a Lei nº 11.652, de 7 de abril de 2008, que institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta e autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação - EBC. NOVA EMENTA: Altera a Lei nº 11.652, de 7 de abril de 2008, que "Institui os princípios 
+C:2110829-59 | 2016-12-14 | Votação da Emenda nº 4, objeto do destaque para votação em separado da bancada do PDT - DTQ 4. | Sim 79 Não 210 | resultado: rejected
+C:2110829-65 | 2016-12-14 | Votação do artigo 15 e, por decorrência, artigos 16 e 17, contidos no Projeto de Lei de Conversão nº 35 de 2016, apresentado à Medida Provisória nº 744 de 2016, objeto do destaque para votação em separado da bancada do PT - DTQ 9. | Sim 196 Não 92 | resultado: approved
+C:2110829-68 | 2016-12-14 | Votação da Emenda nº 11, objeto do destaque para votação em separado da bancada do PT - DTQ 1. | Sim 85 Não 193 | resultado: rejected
+
+## C:2112064 | MPV 745/2016 | ementa: Autoriza o Banco Central do Brasil a adquirir papel moeda e moeda metálica fabricados fora do País por fornecedor estrangeiro.
+C:2112064-71 | 2016-12-07 | Votação do Artigo 1º da Emenda nº 20, objeto do destaque para votação em separado da bancada do Bloco Parlamentar PP, PTB e PSC - DTQ 4. | Sim 119 Não 188 | resultado: rejected
+
+## C:2112490 | MPV 746/2016 | ementa: Institui a Política de Fomento à Implementação de Escolas de Ensino Médio em Tempo Integral, altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e a Lei nº 11.494 de 20 de junho 2007, que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação, e dá outras prov
+   voto principal do projeto: C:2112490-66 (2016-12-07): "Votação, quanto ao mérito, em turno único." — Sim 263, Não 106
+C:2112490-66 | 2016-12-07 | Votação, quanto ao mérito, em turno único. | Sim 263 Não 106 | resultado: approved
+C:2112490-105 | 2016-12-13 | Votação do §11 e seus incisos, do artigo 36 da Lei 9.394 de 1996, com redação dada pelo artigo 4 do Projeto de Lei de Conversão nº 34 de 2016, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 4. | Sim 229 Não 124 | resultado: approved
+C:2112490-107 | 2016-12-13 | Votação da Emenda nº 16, apresentada à Medida Provisória nº 746 de 2016, para que conste no artigo 4º do Projeto de Lei de Conversão nº 34 de 2016, objeto do destaque para votação em separado da bancada do PSOL- DTQ 5. | Sim 148 Não 208 | resultado: rejected
+C:2112490-110 | 2016-12-13 | Votação da Emenda nº 24, objeto do destaque para votação em separado da bancada do DEM- DTQ 26. | Sim 324 Não 5 | resultado: approved
+C:2112490-118 | 2016-12-13 | Votação do inciso IV do artigo 61 da Lei 9.394, constante do artigo 6 do Projeto de Lei de Conversão nº 34 de 2016, objeto do destaque para votação em separado da bancada do PT- DTQ 9. | Sim 190 Não 86 | resultado: approved
+C:2112490-124 | 2016-12-13 | Votação da Emenda nº 183, objeto do destaque para votação em separado da bancada do PDT- DTQ 6. | Sim 112 Não 230 | resultado: rejected
+C:2112490-92 | 2016-12-13 | Votação do § 2º do artigo 5º da Emenda nº 547, com vistas à sua inclusão após o § 1º do artigo 24, constante do artigo 1º do Projeto de Lei de Conversão nº 34 de 2016, apresentado à Medida Provisória nº 746 de 2016, objeto do destaque para votação em separado da bancada do PT - DTQ 11. | Sim 121 Não 192 | resultado: rejected
+C:2112490-95 | 2016-12-13 | Votação da Emenda nº 22, objeto do destaque para votação em separado da bancada do Bloco Parlamentar PTN, PTdoB e PSL- DTQ 23. | Sim 120 Não 171 | resultado: rejected
+
+## C:2112586 | MPV 747/2016 | ementa: Altera a Leiº 5.785, de 23 de junho de 1972, para dispor sobre o processo de renovação do prazo das concessões e permissões dos serviços de radiodifusão. NOVA EMENTA: Altera as Leis nºs 5.785, de 23 de junho de 1972, 9.612, de 19 de fevereiro de 1998, 4.117, de 27 de agosto de 1962, 6.615, de 16 de dezembro de 1978, para dispor sobre o processo de renovação do prazo das concess
+C:2112586-40 | 2017-02-21 | Votação da Emenda Aglutinativa n° 1. | Sim 160 Não 184 | resultado: rejected
+C:2112586-54 | 2017-02-21 | Votação do § 3º do art. 33 da Lei n° 4.117/69, constante do art. 5º do PLV apresentado à MPV n° 747/2016, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 6. | Sim 274 Não 84 | resultado: approved
+
+## C:2116055 | PL 6427/2016 | ementa: Altera a Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social, e institui o Bônus Especial de Desempenho Institucional por Perícia Médica em Benefícios por Incapacidade.
+   voto principal do projeto: C:2116257-9 (2016-11-22): "" — Sim 300, Não 16
+C:2116257-9 | 2016-11-22 |  | Sim 300 Não 16 | resultado: approved
+
+## C:2116870 | MPV 751/2016 | ementa: Cria o Programa Cartão Reforma e dá outras providências.
+C:2116870-47 | 2017-03-28 | Votação da Emenda nº 34, objeto do destaque para votação em separado da bancada do PT - DTQ 1. | Sim 245 Não 179 | resultado: approved

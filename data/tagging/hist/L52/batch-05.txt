@@ -1,0 +1,118 @@
+## S:41052 | PEC 64/1999 | ementa: Acrescenta parágrafo ao art. 57 e dá nova redação ao inciso XI do art. 84 da Constituição Federal (dispõe sobre as atribuições do Presidente da República).
+S:3203 | 2005-02-23 | Proposta de Emenda à Constituição nº 64, de 1999. (1º Turno). | Sim 67 Não 0 | resultado: approved
+S:3224 | 2005-02-23 | Emenda nº 1 - CCJ à PEC 64, de 1999 (1º Turno). | Sim 50 Não 12 | resultado: approved
+
+## S:43565 | PLS 78/2000 | ementa: Regulamenta o inciso I do § 1º do artigo 43 da Constituição Federal, e dá outras providências. (Estabelece referencial orientando a ação da União para alcançar o objetivo de um desenvolvimento harmônico das diversas regiões do País).
+   voto principal do projeto: S:125 (2003-04-23): "Projeto de Lei do Senado nº 78, de 2000 - Complementar." — Sim 58, Não 1
+S:125 | 2003-04-23 | Projeto de Lei do Senado nº 78, de 2000 - Complementar. | Sim 58 Não 1 | resultado: approved
+S:126 | 2003-04-23 | Emendas nºs 1 e 2, da CCJ ao Projeto de Lei do Senado nº 78, de 2000 - Complementar. | Sim 55 Não 1 | resultado: approved
+
+## S:44289 | PEC 22/2000 | ementa: Altera disposições da Constituição Federal, tornando de execução obrigatória a programação constante da lei orçamentária anual.
+S:3979 | 2006-07-11 | Votação em 1º Turno da Proposta de Emenda à Constituição nº 22, de 2000. | Sim 56 Não 1 | resultado: approved
+S:3980 | 2006-07-11 | Votação das Subemendas às Emendas nºs 1 a 3 - Plenário, à Proposta de Emenda à Constituição nº 22, de 2000 (1º Turno)3 | Sim 54 Não 0 | resultado: approved
+S:3981 | 2006-07-11 | Votação da Emenda nº 4 - Plenário, à Proposta de Emenda à Constituição nº 22, de 2000 (1º Turno). | Sim 51 Não 1 | resultado: approved
+S:3996 | 2006-08-02 | Votação da Proposta de Emenda à Constituição nº 22, de 2000 (2º Turno). | Sim 55 Não 0 | resultado: approved
+
+## S:44577 | PEC 29/2000 | ementa: Introduz modificações na estrutura do Poder Judiciário. (Volume - XV)
+S:2754 | 2004-07-07 | Emenda nº 240-CCJ à Proposta de Emenda à Constituição nº 29, de 2000, em 1º turno. (texto que vai à promulgação) | Sim 62 Não 2 | resultado: approved
+S:2755 | 2004-07-07 | Emenda nº 240-CCJ à Proposta de Emenda à Constituição nº 29, de 2000, em 1º turno. (texto que retorna à Câmara dos Deputados) | Sim 62 Não 1 | resultado: approved
+S:3008 | 2004-11-16 | Inciso I do parágrafo único do artigo 104 da Emenda nº 240-CCJ à Proposta de Emenda à Constituição nº 29, de 2000. | Sim 54 Não 0 | resultado: approved
+
+## S:44798 | PEC 31/2000 | ementa: Acrescenta inciso XVIII-A ao art. 7º da Constituição Federal, para beneficiar, com licença-maternidade, as mulheres que adotarem crianças.
+   voto principal do projeto: S:3866 (2005-08-30): "Emanda nº 1-CCJ à PEC nº 31 de 2000 (1º turmo)" — Sim 62, Não 0
+S:3663 | 2005-06-01 | Proposta de Emenda a Constiuição nº 31, de 2000 (1ª turno) | Sim 56 Não 0 | resultado: approved
+S:3866 | 2005-08-30 | Emanda nº 1-CCJ à PEC nº 31 de 2000 (1º turmo) | Sim 62 Não 0 | resultado: approved
+S:3904 | 2006-01-17 | Altera os incisos XVIII e XIX do art. 7º da constistuição federal, para conceder licença- maternidade e lincença paternidade em casos de adoção. | Sim 57 Não 1 | resultado: approved
+
+## S:45191 | PEC 38/2000 | ementa: Dá nova redação ao § 2º do art. 55 da Constituição Federal, para exigir voto ostensivo no caso de perda de mandato de Deputado e Senador nas hipóteses dos incisos I, II e VI do caput do mesmo artigo.
+S:21 | 2003-03-13 | Substitutivo à Proposta de Emenda à Constituição nº 38, de 2000. | Sim 30 Não 39 | resultado: rejected
+
+## S:45393 | PEC 40/2000 | ementa: Dispõe sobre a obrigatoriedade e gratuidade da educação infantil para crianças de zero a seis anos de idade.
+   voto principal do projeto: S:3425 (2005-04-26): "Dispõe sobre a Obrigatoriedade e Gratuidade da Educação Infantil para crianças de zero a seis anos de idade." — Sim 66, Não 0
+S:3425 | 2005-04-26 | Dispõe sobre a Obrigatoriedade e Gratuidade da Educação Infantil para crianças de zero a seis anos de idade. | Sim 66 Não 0 | resultado: approved
+S:3426 | 2005-04-26 | Emenda nº 1 à PEC nº 40, de 2000 (1º turno). | Sim 65 Não 0 | resultado: approved
+S:3429 | 2005-04-26 | Dispõe sobre a obrigatoriedade e Gratuidade da Educação Infantil para crianças de zero a seis anos de idade) | Sim 61 Não 0 | resultado: approved
+
+## S:46674 | PEC 1/2001 | ementa: Determina a fixação de limites para gastos com a publicidade de obras governamentais.
+S:121 | 2003-04-23 | Substitutivo à Proposta de Emenda à Constituição nº 1, de 2001. (2º Turno). | Sim 60 Não 2 | resultado: approved
+
+## S:47868 | PEC 21/2001 | ementa: Altera a redação do artigo 6º da Constituição Federal (São direitos sociais, a educação, a saúde, a alimentação, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados).
+S:23 | 2003-03-13 | Proposta de Emenda à Constituição nº 21, de 2001 (1º Turno). | Sim 58 Não 1 | resultado: approved
+S:104 | 2003-04-22 | Proposta de Emenda à Constituição nº 21, de 2001. 2º Turno. | Sim 56 Não 0 | resultado: approved
+
+## S:48576 | PEC 39/2001 | ementa: Acrescenta § 5º ao artigo 73 da Constituição Federal, criando a Procuradoria do Tribunal de Contas da União.
+S:2143 | 2003-10-28 | Substitutivo à Proposta de Emenda à Constituição n° 39, de 2001 (primeiro turno). | Sim 50 Não 3 | resultado: approved
+S:2438 | 2003-12-03 | Proposta de Emenda à Cosntituição nº 39 de 2001 (2º turno). | Sim 66 Não 0 | resultado: approved
+S:2439 | 2003-12-03 | Emenda nº 1, de Plenário, à Proposta de Emenda à Constituição nº 39 de 2001. | Sim 62 Não 0 | resultado: approved
+
+## S:49506 | PEC 2/2002 | ementa: Altera o § 5º do artigo 212 da Constituição Federal (destinação do salário-educação).
+S:63 | 2003-03-25 | Proposta de Emenda à Constituição nº 2, de 2002. 2º Turno. | Sim 68 Não 0 | resultado: approved
+
+## S:50122 | PEC 16/2002 | ementa: Altera o inciso I do artigo 159 da Constituição Federal. (Destina o percentual de 0,5% (cinco décimos por cento) da arrecadação dos impostos sobre renda e sobre produtos industrializados para aplicação pelas Instituições Federais de Ensino Superior da Amazônia Legal).
+S:446 | 2003-05-27 | Proposta de Emenda à Constituição nº 16, de 2002. (2º turno) | Sim 69 Não 1 | resultado: approved
+
+## S:50765 | PLC 70/2002 | ementa: Altera a lista de serviços anexa do Decreto-Lei nº 406, de 31 de dezembro de 1968, com a redação dada pela Lei Complementar nº 56, de 15 de dezembro de 1987.
+   voto principal do projeto: S:2437 (2003-12-03): "Substitutivo ao Projeto de Lei da Câmara nº 70 de 2002 - Complementar." — Sim 67, Não 4
+S:2437 | 2003-12-03 | Substitutivo ao Projeto de Lei da Câmara nº 70 de 2002 - Complementar. | Sim 67 Não 4 | resultado: approved
+S:2423 | 2003-12-04 | Expressão "para os serviços constantes do item 9.04 da lista de serviços anexa a esta Lei", constante do inico I do art. 8º do Substitutivo do Projeto de Lei da Câmara nº 70 de 2002 - Complementar. | Sim 45 Não 9 | resultado: approved
+S:2424 | 2003-12-04 | Inciso II do art. 8º do Substitutivo ao Projeto de Lei da Câmara nº 70 de 2002 - Complementar. | Sim 4 Não 54 | resultado: rejected
+S:2445 | 2003-12-09 | Substitutivo ao Projeto de Lei da Câmara nº 70, de 2002 - Complementar. | Sim 64 Não 2 | resultado: approved
+S:2446 | 2003-12-09 | Emendas nºs 2, 3, 8, 9 e 12, de Plenário, de parecer favorável, ao Substitutivo ao Projeto de Lei da Câmara nº 70 de 2002 - Complementar. | Sim 64 Não 1 | resultado: approved
+S:2447 | 2003-12-09 | Subemendas nºs 5, 14, 15, 16, de Plenário, ao Substitutivo ao Projeto de Lei da Câmara nº 70, de 2002 - Complementar. | Sim 67 Não 0 | resultado: approved
+S:2448 | 2003-12-09 | Subemenda à Emenda nº 6, de Plenário, ao Substitutivo ao Projeto de Lei da Câmara nº 70, de 2002 - Complementar. | Sim 64 Não 0 | resultado: approved
+S:2449 | 2003-12-09 | Subemenda à Emenda nº 7, de Plenário, ao Substitutivo ao Projeto de Lei da Câmara nº 70, de 2002 - Complementar. | Sim 57 Não 0 | resultado: approved
+
+## S:50831 | PLS 184/2002 | ementa: Regulamenta o § 4º do artigo 18 da Constituição Federal, dispondo sobre o período de criação, incorporação, fusão e desmembramento de Municípios.
+   voto principal do projeto: S:201 (2003-05-07): "Projeto de Lei do Senado nº 184, de 2002 - Complementar." — Sim 62, Não 2
+S:201 | 2003-05-07 | Projeto de Lei do Senado nº 184, de 2002 - Complementar. | Sim 62 Não 2 | resultado: approved
+
+## S:50867 | PEC 29/2002 | ementa: Inclui § 8º no artigo 60 do Ato das Disposições Constitucionais Transitórias com a finalidade de ampliar a vigência do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério (Fundef).
+   voto principal do projeto: S:3907 (2006-01-25): "Substitutivo à PEC nº 29, de 2002 (2º Turno)" — Sim 53, Não 0
+S:3873 | 2005-08-31 | Emenda nº 1-CCJ (Substitutivo), à PEC nº 29 de 2005 (1º Turno) | Sim 57 Não 0 | resultado: approved
+S:3907 | 2006-01-25 | Substitutivo à PEC nº 29, de 2002 (2º Turno) | Sim 53 Não 0 | resultado: approved
+
+## S:53378 | PLC 102/2002 | ementa: Dispõe sobre a linguagem inclusiva na legislação e documentos oficiais.
+   voto principal do projeto: S:3004 (2004-11-16): "Substitutivo ao Projeto de Lei da Câmara nº 102, de 2002 - Complementar." — Sim 53, Não 0
+S:3004 | 2004-11-16 | Substitutivo ao Projeto de Lei da Câmara nº 102, de 2002 - Complementar. | Sim 53 Não 0 | resultado: approved
+
+## S:54486 | MPV 107/2003 | ementa: Altera dispositivos das Leis nºs 10637, de 30 de dezembro de 2002, e 9317, de 05 de dezembro de 1996, e dá outras providências. (Dispõe sobre a não cumulatividade na cobrança da contribuição para os Programas de Integração Social (PIS) e de Formação do Patrimônio do Servidor Público (PASEP); e sobre o Regime Tributário das Microempresas e das Empresas de Pequeno Porte). .
+   voto principal do projeto: S:381 (2003-05-21): "Art. 22, destacado, do Projeto de Lei de Conversão nº 11, de 2003." — Sim 31, Não 25
+S:381 | 2003-05-21 | Art. 22, destacado, do Projeto de Lei de Conversão nº 11, de 2003. | Sim 31 Não 25 | resultado: approved
+
+## S:54790 | PEC 1/2003 | ementa: Altera o § 3º do artigo 100 da Constituição Federal, para determinar que os pagamentos de obrigações devidas aos idosos sejam feitos em espécie e excluídos da obrigatoriedade de expedição de precatórios.
+S:3225 | 2005-02-23 | Emenda nº 1 - CCJ à PEC 1, de 2003 (1º Turno). | Sim 64 Não 0 | resultado: approved
+
+## S:55711 | PRS 9/2003 | ementa: Altera o critério de determinação da receita corrente líquida constante das Resoluções nº 40, de 2001, e o nº 43, de 2001.
+   voto principal do projeto: S:2303 (2003-11-06): "Substitutivo ao Projeto de Resolução do Senado." — Sim 44, Não 0
+S:2303 | 2003-11-06 | Substitutivo ao Projeto de Resolução do Senado. | Sim 44 Não 0 | resultado: approved
+
+## S:56008 | PEC 7/2003 | ementa: Altera a redação da alínea b e acrescenta alínea c ao inciso XXIII do artigo 21, e altera a redação do inciso V do artigo 177 da Constituição Federal. (Dispõe sobre a autorização da produção, comercialização e utilização de radioisótopos de meia-vida igual ou inferior a duas horas para pesquisa, usos médicos, agrícolas e industriais).
+S:2049 | 2003-10-21 | Proposta de Emenda à Constituição nº 07, de 2003. (1º turno) | Sim 61 Não 0 | resultado: approved
+S:2050 | 2003-10-21 | Emenda nº 01, de parecer favorável, à Proposta de Emenda à Constituição nº 07, de 2003. | Sim 58 Não 1 | resultado: approved
+S:2277 | 2003-11-05 | Proposta de Emenda à Constituição nº 7, de 2003 (2º turno). | Sim 62 Não 0 | resultado: approved
+
+## S:56066 | PEC 9/2003 | ementa: Adiciona um parágrafo ao artigo 183 da Constituição Federal, aumentando o tamanho máximo do lote objeto de usucapião especial urbano em cidades com menos de 300.000 (trezentos mil habitantes).
+   voto principal do projeto: S:3908 (2006-01-25): "Substitutivo à PEC nº 9 de 2003 (2º Turno)" — Sim 51, Não 0
+S:3427 | 2005-04-26 | Emenda n º 1 CCJ (SUBSTITUTIVO) à PEC nª 9, de 2003 | Sim 62 Não 0 | resultado: approved
+S:3908 | 2006-01-25 | Substitutivo à PEC nº 9 de 2003 (2º Turno) | Sim 51 Não 0 | resultado: approved
+
+## S:56188 | MPV 114/2003 | ementa: Dispõe sobre a repactuação e o alongamento de dívidas oriundas de operações de crédito rural contratadas sob a égide do Programa Especial de Crédito para a Reforma Agrária - PROCERA, do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF, ou de outras fontes de recursos, por agricultores familiares, mini e pequenos agricultores, suas associações e cooperativas,
+   voto principal do projeto: S:581 (2003-06-11): "Projeto de Lei de Conversão nº 17, de 2003." — Sim 59, Não 1
+S:581 | 2003-06-11 | Projeto de Lei de Conversão nº 17, de 2003. | Sim 59 Não 1 | resultado: approved
+
+## S:56303 | MPV 116/2003 | ementa: Dispõe sobre o salário mínimo a partir de 1º de abril de 2003, e dá outras providências.
+   voto principal do projeto: S:587 (2003-06-12): "Decisão da Presidência sobre encaminhamento de votação. (Em face de Recurso ao Plenário)" — Sim 20, Não 27
+S:587 | 2003-06-12 | Decisão da Presidência sobre encaminhamento de votação. (Em face de Recurso ao Plenário) | Sim 20 Não 27 | resultado: rejected
+S:747 | 2003-06-24 | Emenda nº 1 à Medida Provisória nº 116, de 2003. (PLV 18/2003) | Sim 21 Não 32 | resultado: rejected
+S:748 | 2003-06-24 | Emenda nº 2 à Medida Provisória nº 116, de 2003. (PLV 18/2003) | Sim 22 Não 32 | resultado: rejected
+
+## S:56318 | PEC 12/2003 | ementa: Altera os artigos 21 e 22 da Constituição Federal, para definir a competência da União no ordenamento do Sistema Nacional de Meteorologia e Climatologia.
+S:3900 | 2005-11-23 | Emenda nº 1 CCJ ,Substituriva a Pec nº 12 de 2003, (1º Turno) | Sim 54 Não 0 | resultado: approved
+S:3999 | 2006-08-02 | Votação do Substitutivo à Proposta de Emenda à Constituição nº 12, de 2003 (2º Turno). | Sim 51 Não 1 | resultado: approved
+
+## S:56382 | MPV 118/2003 | ementa: Altera a Lei nº 9294, de 15 de julho de 1996, que dispõe sobre as restrições ao uso e à propaganda de produtos fumígeros, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, nos termos do § 4º do artigo 220 da Constituição Federal.
+S:749 | 2003-06-24 | Emenda nº 8 à Medida Provisória nº 118, de 2003. (PLV 20/2003) | Sim 16 Não 41 | resultado: rejected
+
+## S:56700 | PLS 130/2003 | ementa: Acrescenta dispositivos à Lei Complementar nº 101, de 4 de maio de 2000, que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências, a fim de determinar a disponibilização, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira da União, dos Estados, do Distrito Federal e dos Municípios.
+   voto principal do projeto: S:2963 (2004-11-10): "Substitutivo ao Projeto de Lei do Senado nº 130, de 2003 - Complementar." — Sim 59, Não 0
+S:2963 | 2004-11-10 | Substitutivo ao Projeto de Lei do Senado nº 130, de 2003 - Complementar. | Sim 59 Não 0 | resultado: approved

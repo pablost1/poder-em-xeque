@@ -1,0 +1,70 @@
+## C:2242887 | MPV 944/2020 | ementa: Institui o Programa Emergencial de Suporte a Empregos. NOVA EMENTA: Institui o Programa Emergencial de Suporte a Empregos; altera as Leis nºs 9.430, de 27 de dezembro de 1996, e 13.999, de 18 de maio de 2020; e dá outras providências.
+C:2242887-57 | 2020-06-25 | Votação do DTQ 12: PT: Destaque da Emenda de Comissão n. 106, apresentada à MPV 944/2020 (161, II). | Sim 97 Não 319 | resultado: rejected
+C:2242887-64 | 2020-06-25 | Votação do DTQ 18: PSOL: Destaque para votação da Emenda de Plenário nº 15, oferecida à MPV nº 944 de 2020. (161, II) | Sim 116 Não 329 | resultado: rejected
+C:2242887-67 | 2020-06-25 | Votação do DTQ 10: PCdoB: Destaque da expressão "superior a R$360.000,00 (trezentos e sessenta mil reais) e" do caput do Art. 2 do PLV apresentado à MP 944/20 com vistas a sua supressão (161,I) | Sim 295 Não 134 | resultado: ?
+C:2242887-100 | 2020-06-30 | Votação do DTQ 6: Cidadania: destaque para votação em separado da expressão “já incluído o prazo de carência de que trata o inciso II do caput deste artigo”, constante do inciso III do Art. 6º do Projeto de Lei de Conversão. (161, I) | Sim 258 Não 162 | resultado: ?
+C:2242887-109 | 2020-06-30 | Votação do DTQ 4: PSB: Destaque da emenda de plenário nº 12, apresentada à MP 944/20. (161, II) | Sim 190 Não 273 | resultado: rejected
+C:2242887-82 | 2020-06-30 | Votação do DTQ 8: Bloco PP: destaque para votação da Emenda de Plenário nº 8, apresentada à MP 944/2020. (161, II) | Sim 84 Não 331 | resultado: rejected
+C:2242887-95 | 2020-06-30 | Votação do DTQ 11: PT: Destaque da Emenda de Comissão n. 10, apresentada à MPV 944/2020. (161, II) | Sim 113 Não 331 | resultado: rejected
+C:2242887-152 | 2020-07-29 | Votação da Emenda do Senado Federal nº 2 ao Projeto de Lei de Conversão nº 20, de 2020, com parecer pela rejeição, ressalvados os destaques. | Sim 157 Não 288 | resultado: rejected
+
+## C:2242888 | MPV 945/2020 | ementa: Dispõe sobre medidas temporárias em resposta à pandemia decorrente da covid-19 no âmbito do setor portuário e sobre a cessão de pátios sob administração militar. NOVA EMENTA: Dispõe sobre medidas temporárias para enfrentamento da pandemia da Covid-19 no âmbito do setor portuário, sobre a cessão de pátios da administração pública e sobre o custeio das despesas com serviços de es
+   voto principal do projeto: C:2242888-38 (2020-07-29): "" — Sim 56, Não 346
+C:2242888-100 | 2020-07-29 | Votação do DTQ 11: PT: destaque, com vistas à rejeição, do parágrafo 7º do art. 3 do PLV à MPV 945/2020. (art. 161, I) | Sim 295 Não 134 | resultado: ?
+C:2242888-105 | 2020-07-29 | Votação do DTQ 8: PSB: Emenda de Comissão nº 96. (art. 161, II) | Sim 149 Não 270 | resultado: rejected
+C:2242888-108 | 2020-07-29 | Votação do DTQ 2: PSOL: Destaque para votação em separado do art. 4º do PLV . (art. 161, I) | Sim 276 Não 137 | resultado: ?
+C:2242888-111 | 2020-07-29 | Votação do DTQ 3: PCdoB: Destaque para votação em separado do Art. 6 do PLV apresentado à MP 945/20. (com vistas a sua supressão) (art. 161, I) | Sim 274 Não 131 | resultado: ?
+C:2242888-114 | 2020-07-29 | Votação do DTQ 12: PT: destaque, com vistas à rejeição, do art. 13 do PLV à MPV 945/2020. (art. 161, I) | Sim 269 Não 118 | resultado: ?
+C:2242888-115 | 2020-07-29 | Votação do DTQ 9: PDT: Destaque para votação em separado do art. 12 do PLV apresentado à MP 945/20 com a finalidade de suprimi-lo. (art. 161, I) | Sim 259 Não 128 | resultado: ?
+C:2242888-38 | 2020-07-29 |  | Sim 56 Não 346 | resultado: rejected
+C:2242888-48 | 2020-07-29 |  | Sim 81 Não 325 | resultado: rejected
+C:2242888-56 | 2020-07-29 |  | Sim 81 Não 345 | resultado: rejected
+C:2242888-60 | 2020-07-29 |  | Sim 82 Não 330 | resultado: rejected
+C:2242888-66 | 2020-07-29 | Votação preliminar em turno único. | Sim 351 Não 79 | resultado: approved
+C:2242888-67 | 2020-07-29 | Votação preliminar em turno único. | Sim 354 Não 76 | resultado: approved
+C:2242888-71 | 2020-07-29 | Votação, quanto ao mérito, em turno único. | Sim 408 Não 67 | resultado: approved
+C:2242888-78 | 2020-07-29 | Votação do DTQ 16: CIDADANIA: destaque para votação em separado do inciso IV do art. 2º da Medida Provisória nº 945, de 2020 para que ele prevaleça sobre o mesmo dispositivo do PLV. (art. 161, IV) | Sim 148 Não 293 | resultado: rejected
+C:2242888-93 | 2020-07-29 | Continuação da votação em turno único. | Sim 4 Não 314 | resultado: rejected
+C:2242888-95 | 2020-07-29 | Votação do DTQ 13: PT: destaque do “caput” do art. 3º da Emenda de Plenário nº 6, com vistas à substituição do “caput” do art. 3º do PLV apresentado à MPV 945/2020. (art. 161, II) | Sim 126 Não 282 | resultado: rejected
+
+## C:2243079 | PL 1561/2020 | ementa: Institui a "Loteria da Saúde", como nova modalidade de loteria de prognósticos numéricos, com destinação dos recursos do produto de sua arrecadação para o Sistema Único de Saúde - SUS e, excepcionalmente, para as ações de prevenção, contenção, combate e mitigação dos efeitos da Pandemia do Novo Coronavírus (Covid-19), enquanto durarem os efeitos do Estado de Calamidade Pública,
+   voto principal do projeto: C:2243079-117 (2022-06-14): "" — Sim 25, Não 235
+C:2243079-81 | 2021-05-05 | Votação do DTQ 5: PDT: Emenda de Plenário nº 9 (art. 161, II) | Sim 185 Não 233 | resultado: rejected
+C:2243079-117 | 2022-06-14 |  | Sim 25 Não 235 | resultado: rejected
+C:2243079-126 | 2022-06-14 |  | Sim 9 Não 249 | resultado: rejected
+C:2243079-131 | 2022-06-14 |  | Sim 110 Não 236 | resultado: rejected
+C:2243079-156 | 2022-08-30 | Votação, em turno único, do Substitutivo do Senado Federal ao Projeto de Lei nº 1.561-B, de 2020. | Sim 93 Não 300 | resultado: rejected
+C:2243079-161 | 2022-08-30 | Votação em turno único. | Sim 267 Não 94 | resultado: approved
+C:2243079-162 | 2022-08-30 | Votação do DTQ 13: PT: Destaque do Artigo 2º do Substitutivo do Senado Federal apresentado ao PL 1.561/2020, com vistas à sua rejeição. (art. 161, I) | Sim 237 Não 93 | resultado: ?
+C:2243079-167 | 2022-08-30 | Votação do DTQ 12: PT: Destaque do §1º do Artigo 2º do Substitutivo do Senado Federal apresentado ao PL 1.561/2020, com vistas à sua rejeição. (art. 161, I) | Sim 221 Não 76 | resultado: ?
+C:2243079-168 | 2022-08-30 | Votação do DTQ 11: PT: destaque do Artigo 3º do Substitutivo do Senado Federal apresentado ao PL 1.561/2020, com vistas à sua rejeição e ao consequente restabelecimento do Artigo 4º do texto aprovado pela Câmara dos Deputados. (art. 161, I) | Sim 214 Não 104 | resultado: ?
+
+## C:2243108 | PL 1581/2020 | ementa: Regulamenta o acordo direto para pagamento com desconto ou parcelado de precatórios federais, com a destinação dos descontos obtidos pela União ao enfrentamento da situação de emergência de saúde pública de importância internacional relacionada ao coronavírus (Covid-19), ou ao pagamento de dívidas contraídas pela União para fazer frente a tal situação emergencial. NOVA EMENTA: 
+C:2243108-76 | 2020-07-15 | Votação do DTQ 2: Bloco PP: Destaque para votação da Emenda de Plenário nº 1, apresentada ao PL 1581/20. | Sim 345 Não 125 | resultado: approved
+
+## C:2244243 | MPV 946/2020 | ementa: Extingue o Fundo PIS-Pasep, instituído pela Lei Complementar nº 26, de 11 de setembro de 1975, transfere o seu patrimônio para o Fundo de Garantia do Tempo de Serviço, e dá outras providências. NOVA EMENTA: Extingue o Fundo do Programa de Integração Social e do Programa de Formação do Patrimônio do Servidor Público (Fundo PIS-Pasep), instituído pela Lei Complementar nº 26, de 1
+   voto principal do projeto: C:2244243-105 (2020-08-04): "" — Sim 294, Não 148
+C:2244243-62 | 2020-07-29 | Votação do DTQ 10: PCdoB: Destaque do art. 5º da MPV 946/20, com vistas à sua supressão. (art. 161, I) | Sim 180 Não 142 | resultado: ?
+C:2244243-71 | 2020-07-29 | Votação do DTQ 15: PSDB: Emenda de Comissão nº 140. (art. 161, II) | Sim 99 Não 201 | resultado: rejected
+C:2244243-105 | 2020-08-04 |  | Sim 294 Não 148 | resultado: approved
+
+## C:2244773 | REQ 615/2020 | ementa: Requeremos a Vossa Excelência, nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, URGÊNCIA para apreciação do PL n° 1.581 de 2020, que Regulamenta o acordo direto para pagamento com desconto ou parcelado de precatórios federais, com a destinação dos descontos obtidos pela União ao enfrentamento da situação de emergência de saúde pública de importância internac
+   voto principal do projeto: C:2244773-6 (2020-06-09): "" — Sim 304, Não 100
+C:2244773-6 | 2020-06-09 |  | Sim 304 Não 100 | resultado: approved
+
+## C:2245010 | PL 1721/2020 | ementa: Dispõe sobre a suspensão de cobrança de financiamentos de veículos automotores contratados pelo FAT-Taxista, enquanto perdurar a vigência do Estado de Calamidade Pública estabelecido pelo Decreto Legislativo nº 6, de 20/03/2020.
+   voto principal do projeto: C:2251922-8 (2020-08-13): "" — Sim 301, Não 137
+C:2251922-8 | 2020-08-13 |  | Sim 301 Não 137 | resultado: approved
+
+## C:2246357 | MPV 948/2020 | ementa: Dispõe sobre o cancelamento de serviços, de reservas e de eventos dos setores de turismo e cultura em razão do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e da emergência de saúde pública de importância internacional decorrente do coronavírus ( covid19 ). NOVA EMENTA: Dispõe sobre o adiamento e o cancelamento de serviços, de r
+C:2246357-57 | 2020-07-29 | Votação do DTQ 3: PSOL: Emenda de Plenário nº 11. (art. 161, II) | Sim 153 Não 269 | resultado: rejected
+
+## C:2246359 | MPV 950/2020 | ementa: Dispõe sobre medidas temporárias emergenciais destinadas ao setor elétrico para enfrentamento do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e da emergência de saúde pública de importância internacional decorrente da pandemia de coronavírus (covid-19).
+   voto principal do projeto: C:2246359-31 (2020-08-05): "" — Sim 244, Não 232
+C:2246359-31 | 2020-08-05 |  | Sim 244 Não 232 | resultado: approved
+
+## C:2247564 | PL 1179/2020 | ementa: Dispõe sobre o Regime Jurídico Emergencial e Transitório das relações jurídicas de Direito Privado (RJET) no período da pandemia do coronavírus (Covid- 19). NOVA EMENTA: Institui normas de caráter transitório e emergencial para a regulação de relações jurídicas de direito privado em virtude da pandemia da Covid-19; e altera a Lei nº 13.709, de 14 de agosto de 2018
+C:2247564-60 | 2020-05-14 | Votação do DTQ 2: NOVO: destaque para votação em separado da expressão "inclusive nas áreas de propriedade exclusiva dos condôminos", constante do inciso II, do art. 11 do Substitutivo do PL 1179/2020, com vistas à sua supressão. (161, I). | Sim 253 Não 210 | resultado: ?
+
+## C:2247980 | PL 1826/2020 | ementa: Autoriza o Poder Executivo a criar o programa de benefícios - Programa Apoio aos profissionais de saúde trabalhadores do combate ao CIVID (PAPS-COVID), destinado aos profissionais de saúde que estejam trabalhando nas atividades de saúde ligadas ao combate à pandemia Covid-19 pelo SUS. NOVA EMENTA: Dispõe sobre compensação financeira a ser paga pela União aos profissionais e tra
+C:2247980-114 | 2020-07-14 | Votação das Emendas do Senado Federal de nºs 1 e 2, com parecer pela aprovação. | Sim 272 Não 185 | resultado: approved

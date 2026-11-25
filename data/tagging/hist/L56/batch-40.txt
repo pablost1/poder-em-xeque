@@ -1,0 +1,143 @@
+## C:946475 | PL 5028/2019 | ementa: Institui a Política Nacional de Pagamento por Serviços Ambientais e dá outras providências. NOVA EMENTA: Institui a Política Nacional de Pagamento por Serviços Ambientais; e altera as Leis nºs 8.212, de 24 de julho de 1991, 8.629, de 25 de fevereiro de 1993, e 6.015, de 31 de dezembro de 1973, para adequá-las à nova política.
+   voto principal do projeto: C:946475-111 (2020-12-21): "" — Sim 6, Não 257
+C:946475-111 | 2020-12-21 |  | Sim 6 Não 257 | resultado: rejected
+C:946475-127 | 2020-12-21 |  | Sim 0 Não 254 | resultado: rejected
+C:946475-129 | 2020-12-21 |  | Sim 0 Não 292 | resultado: rejected
+C:946475-131 | 2020-12-21 | Votação em turno único. | Sim 298 Não 2 | resultado: approved
+C:946475-138 | 2020-12-21 | Votação do DTQ 1: PSOL: Destaque para votação em separado do parágrafo único do Art. 21 do substitutivo do Senado Federal apresentado ao PL n° 5028 de 2019, para sua supressão. (art. 161, I). | Sim 2 Não 269 | resultado: ?
+
+## C:946494 | PEC 2/2015 | ementa: Altera o art. 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária que especifica. NOVA EMENTA: Altera os arts. 165 e 166 da Constituição Federal, parar tornar obrigatória a execução da programação orçamentária que especifica.
+   voto principal do projeto: C:946494-64 (2019-03-26): "Votação em primeiro turno." — Sim 448, Não 3
+C:946494-64 | 2019-03-26 | Votação em primeiro turno. | Sim 448 Não 3 | resultado: approved
+C:946494-67 | 2019-03-26 | Votação do parágrafo 11, do art. 165, constante do art. 1º do Substitutivo da Comissão Especial à PEC 2/2015, com vistas a sua supressão, objeto do destaque para votação em separado do Bloco Parlamentar PSL, PR, PP, PSD, MDB, PSDB, DEM, PTB, PSC, PMN - DTQ 1. | Sim 5 Não 389 | resultado: ?
+C:946494-68 | 2019-03-26 | Votação da expressão "nos termos de lei complementar", constante do parágrafo 13, do art. 165, com a redação dada no art. 1º do Substitutivo da Comissão Especial à PEC 2/2015, com vistas a sua supressão, objeto do destaque para votação em separado do Bloco Parlamentar PSL, PR, PP, PSD, MDB, PSDB, DEM, PTB, PSC, PMN PSL - DTQ 2. | Sim 2 Não 436 | resultado: ?
+C:946494-75 | 2019-03-26 | Votação das Emendas de Redação de nºs 1 a 4. | Sim 392 Não 1 | resultado: approved
+C:946494-77 | 2019-03-26 | Votação em segundo turno. | Sim 453 Não 6 | resultado: approved
+
+## C:946625 | PL 349/2015 | ementa: Dispõe sobre o combate à violência e à discriminação político-eleitorais contra a mulher. NOVA EMENTA: Estabelece normas para prevenir, sancionar e combater a violência política contra a mulher; e altera as Leis nºs 4.737, de 15 de julho de 1965 (Código Eleitoral), 9.096, de 19 de setembro de 1995, e 9.504, de 30 de setembro de 1997.
+C:946625-101 | 2020-12-10 | Votação do DTQ 2: PSOL: Emenda de Plenário nº 2. (art. 161, II) | Sim 132 Não 308 | resultado: rejected
+
+## S:104540 | PLS 47/2012 | ementa: Altera as Leis nº 11.340, de 7 de agosto de 2006, e nº 10.741, de 1º de outubro de 2003, para garantir à mulher idosa vítima de violência prioridade no atendimento policial e aplicação da Lei Maria da Penha.
+   voto principal do projeto: S:6508 (2022-03-08): "Votação nominal" — Sim 78, Não 0
+S:6508 | 2022-03-08 | Votação nominal | Sim 78 Não 0 | resultado: approved
+
+## S:111929 | PLC 8/2013 | ementa: Altera a Lei nº 9.277, de 10 de maio de 1996, para dispor sobre a cobrança de pedágio.
+S:6293 | 2021-03-10 | Votação nominal da Emenda 4, destacada. | Sim 31 Não 40 | resultado: rejected
+
+## S:116081 | PLS 26/2014 | ementa: Altera o art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001, para extinguir o sigilo bancário nas operações ativas de instituições oficiais de crédito que tenham como contraparte Estados estrangeiros.
+S:5967 | 2019-06-12 | PLS nº 26, de 2014 - Complementar, com as Emendas nos termos dos Pareceres | Sim 54 Não 0 | resultado: approved
+
+## S:117839 | PLS 188/2014 | ementa: Acrescenta inciso IV ao § 3º do art. 198 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional, para permitir a divulgação, por parte da Fazenda Pública, dos beneficiários de renúncia de receita.
+S:5961 | 2019-05-21 | Emenda nº 1 - CAE ao Projeto de Lei do Senado nº 188, de 2014 - Complementar | Sim 73 Não 0 | resultado: approved
+
+## S:118042 | PEC 19/2014 | ementa: Altera o caput do art. 5º da Constituição Federal para incluir o direito à acessibilidade e à mobilidade entre os direitos individuais e coletivos.
+S:6051 | 2019-10-30 | Votação nominal da Proposta de Emenda à Constituição nº 19, de 2014, com a Emenda nº 1-CCJ, de redação, nos termos do Parecer (1º Turno) | Sim 56 Não 0 | resultado: approved
+S:6409 | 2021-09-28 | Votação nominal da Proposta de Emenda à Constituição nº 19 de 2014 (2º Turno). | Sim 71 Não 0 | resultado: approved
+
+## S:119590 | PLS 5/2015 | ementa: Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para alterar o enquadramento no Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional) das atividades de prestação de serviço de representação comercial e demais atividades de intermediação de negócios e serviços de terceiros.
+   voto principal do projeto: S:6624 (2022-07-06): "Votação nominal do Projeto de Lei do Senado nº 5, de 2015 - Complementar, nos termos dos Pareceres." — Sim 70, Não 1
+S:6624 | 2022-07-06 | Votação nominal do Projeto de Lei do Senado nº 5, de 2015 - Complementar, nos termos dos Pareceres. | Sim 70 Não 1 | resultado: approved
+
+## S:121353 | PEC 61/2015 | ementa: Altera o art. 166 da Constituição Federal, para autorizar a apresentação de emendas ao projeto de lei do orçamento anual diretamente ao Fundo de Participação dos Estados e do Distrito Federal e ao Fundo de Participação dos Municípios.
+S:5955 | 2019-04-09 | Emenda nº 6-Plen (Substitutivo) à Proposta de Emenda à Constituição nº 61, de 2015 (1º Turno) | Sim 62 Não 4 | resultado: approved
+S:5956 | 2019-04-09 | Proposta de Emenda à Constituição nº 61, de 2015 (2º Turno) | Sim 62 Não 3 | resultado: approved
+
+## S:122909 | PLC 113/2015 | ementa: Acrescenta dispositivos à Lei Complementar n° 123, de 14 de dezembro de 2006, que institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte, com o objetivo de autorizar a constituição de sociedade de garantia solidária, e dá outras providências.
+   voto principal do projeto: S:6035 (2019-10-09): "Altera o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte para instituir a sociedade de garantia solidária, e dá outras providências." — Sim 55, Não 0
+S:6035 | 2019-10-09 | Altera o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte para instituir a sociedade de garantia solidária, e dá outras providências. | Sim 55 Não 0 | resultado: approved
+
+## S:123903 | PEC 141/2015 | ementa: Acrescenta § 3º ao art. 42 da Constituição Federal, que dispõe sobre os militares dos Estados, do Distrito Federal e dos Territórios.
+S:5951 | 2019-04-02 | PEC nº 141, de 2015, com as Emendas nºs 1 e 2 - CCJ (redação), no termos do Parecer (1º Turno) | Sim 64 Não 1 | resultado: ?
+S:5952 | 2019-04-03 | Proposta de Emenda à Constituição nº 141, de 2015 (2º Turno) | Sim 67 Não 0 | resultado: ?
+
+## S:124513 | PLS 796/2015 | ementa: Altera a redação do art. 1º da Lei Complementar nº 146, de 25 de junho de 2014, para estender a estabilidade provisória no emprego para as empregadas adotantes ou que venham a obter a guarda judicial para fins de adoção.
+   voto principal do projeto: S:6075 (2020-02-11): "Estende a estabilidade provisória no emprego para as empregadas adotantes ou que venham a obter a guarda judicial para fins de adoção." — Sim 69, Não 1
+S:6075 | 2020-02-11 | Estende a estabilidade provisória no emprego para as empregadas adotantes ou que venham a obter a guarda judicial para fins de adoção. | Sim 69 Não 1 | resultado: approved
+
+## S:127414 | PEC 57/2016 | ementa: Altera os arts. 30, 37, 146, 150, 179 e 195 da Constituição Federal para prever que lei complementar conceituará pequeno Município, poderá disciplinar os princípios da Administração Pública e as normas gerais aplicáveis ao processo administrativo fiscal, à substituição tributária, à moralidade tributária, à eficiência tributária e à vedação de confisco, e ao estabelecimento do 
+S:5960 | 2019-05-07 | PEC nº 57, de 2016, com as Emendas nºs 1 a 6 - CCJ, nos termos do Parecer (1º Turno) | Sim 68 Não 0 | resultado: approved
+
+## S:128035 | PEC 2/2017 | ementa: Altera o § 1º do art. 31 e o art. 75 da Constituição Federal para estabelecer os Tribunais de Contas como órgãos permanentes e essenciais ao controle externo da administração pública.
+S:6660 | 2022-12-06 | Votação nomina da Proposta de Emenda à Constituição nº 2, de 2017, e Emenda nº 2 (2º Turno). | Sim 73 Não 1 | resultado: approved
+
+## S:128403 | PEC 10/2017 | ementa: Acrescenta § 1º ao art. 105 da Constituição Federal e renumera o atual parágrafo único.
+S:6427 | 2021-11-03 | Votação nominal da Emenda nº 4 - PLEN (Substitutivo) à Proposta de Emenda à Constituição nº 10, de 2017 (1º Turno). | Sim 69 Não 0 | resultado: approved
+S:6428 | 2021-11-03 | Votação nominal da Proposta de Emenda à Constituição nº 10, de 2017 (2º Turno). | Sim 70 Não 0 | resultado: approved
+
+## S:128634 | PLC 27/2017 | ementa: Estabelece medidas de combate à impunidade, à corrupção; altera os Decretos-Leis nºs 2.848, de 7 de dezembro de 1940 – Código Penal, e 3.689, de 3 de outubro de 1941 –Código de Processo Penal; as Leis nºs 4.717, de 29 de junho de 1965, 4.737, de 15 de julho de 1965, 8.072, de 25 de julho de 1990, 8.112, de 11 de dezembro de 1990, 8.429, de 2 de junho de 1992, 8.906, de 4 de jul
+S:5980 | 2019-06-26 | Projeto de Lei da Câmara nº 27, de 2017 e Emendas nos termos dos Pareceres, ressalvados os destaques | Sim 48 Não 24 | resultado: approved
+
+## S:129807 | PEC 25/2017 | ementa: Altera os arts. 7º, 23, 24, 37, 40, 201, 203, 208, 227 e 244 da Constituição Federal para incorporar-lhes a nomenclatura “pessoa com deficiência”, utilizada pela Convenção Internacional sobre o Direito das Pessoas com Deficiência.
+   voto principal do projeto: S:5946 (2019-03-12): "Altera os arts. 7º, 23, 24, 37, 40, 201, 203, 208, 227 e 244 da Constituição Federal para incorporar-lhes a nomenclatura “pessoa com deficiência”, utilizada pel" — Sim 70, Não 0
+S:5946 | 2019-03-12 | Altera os arts. 7º, 23, 24, 37, 40, 201, 203, 208, 227 e 244 da Constituição Federal para incorporar-lhes a nomenclatura “pessoa com deficiência”, utilizada pela Convenção Internacional sobre o Direito das Pessoas com Deficiência. | Sim 70 Não 0 | resultado: approved
+S:5948 | 2019-03-19 | Proposta de Emenda à Constituição nº 25, de 2017 (2º turno) | Sim 67 Não 0 | resultado: approved
+
+## S:129887 | PEC 26/2017 | ementa: Acrescenta o art. 75-A à Constituição Federal, para dispor sobre a criação de um sistema de avaliação de políticas públicas.
+S:5965 | 2019-06-04 | PEC nº 26, de 2017, com a Emenda nº 1 - CCJ, nos termos do Parecer (1º Turno) | Sim 55 Não 0 | resultado: approved
+
+## S:130029 | PLS 224/2017 | ementa: Altera a Lei nº 10.826, de 22 de dezembro de 2003, para autorizar a aquisição de uma arma de fogo de uso permitido por residentes em áreas rurais.
+S:5982 | 2019-06-26 | PLS nº 224, de 2017, com a Emenda nº 1 - CCJ, nos termos do Parecer, ressalvado o destaque | Sim 38 Não 4 | resultado: approved
+
+## S:130919 | PEC 31/2017 | ementa: Dá nova redação aos arts. 103 e 109, para dispor sobre a legitimidade do Defensor Público-Geral Federal para a ação direta de inconstitucionalidade, a ação declaratória de constitucionalidade e o incidente de deslocamento de competência para a Justiça Federal.
+S:5958 | 2019-04-23 | Proposta de Emenda à Constituição nº 31, de 2017 (2º Turno) | Sim 68 Não 0 | resultado: approved
+S:5959 | 2019-04-23 | PEC nº 31, de 2017, com as Emendas nºs 1 e 2 - CCJ (redação), nos termos do Parecer (1º Turno) | Sim 66 Não 0 | resultado: approved
+
+## S:131284 | PLC 115/2017 | ementa: Dispõe sobre a impenhorabilidade de bens de hospitais filantrópicos e Santas Casas de Misericórdia.
+   voto principal do projeto: S:6518 (2022-03-30): "Votação nominal do Projeto de Lei da Câmara nº 115, de 2017, nos termos do Parecer." — Sim 70, Não 0
+S:6518 | 2022-03-30 | Votação nominal do Projeto de Lei da Câmara nº 115, de 2017, nos termos do Parecer. | Sim 70 Não 0 | resultado: approved
+
+## S:131720 | PLC 148/2017 | ementa: Altera o art. 2º da Lei Complementar nº 125, de 3 de janeiro de 2007, para incluir os Municípios do Vale do Rio Doce, Estado de Minas Gerais, e Municípios do Estado do Espírito Santo na área de atuação da Superintendência do Desenvolvimento do Nordeste (Sudene).
+   voto principal do projeto: S:6324 (2021-05-27): "Votação nominal do Projeto de Lei da Câmara nº 148, de 2017 - Complementar, nos termos do Parecer." — Sim 57, Não 9
+S:6324 | 2021-05-27 | Votação nominal do Projeto de Lei da Câmara nº 148, de 2017 - Complementar, nos termos do Parecer. | Sim 57 Não 9 | resultado: approved
+
+## S:132208 | PEC 4/2018 | ementa: Inclui, na Constituição Federal, o acesso à água potável entre os direitos e garantias fundamentais.
+   voto principal do projeto: S:6297 (2021-03-31): "(Inclui, na Constituição Federal, o acesso à água potável entre os direitos e garantias fundamentais.)" — Sim 75, Não 0
+S:6297 | 2021-03-31 | (Inclui, na Constituição Federal, o acesso à água potável entre os direitos e garantias fundamentais.) | Sim 75 Não 0 | resultado: approved
+S:6298 | 2021-03-31 | (Inclui, na Constituição Federal, o acesso à água potável entre os direitos e garantias fundamentais.) | Sim 72 Não 0 | resultado: approved
+
+## S:132847 | PLS 163/2018 | ementa: Altera a Lei Complementar nº 156, de 28 de dezembro de 2016, que estabelece o Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal; e altera a Lei Complementar no 148, de 25 de novembro de 2014, a Lei no 9.496, de 11 de setembro de 1997, a Medida Provisória no 2.192-70, de 24 de agosto de 2001, a Lei no 8.727, de 5 de novembro de 1993,
+S:5968 | 2019-06-12 | Emenda nº 3 - CAE (Substitutivo) ao Projeto de Lei do Senado nº 163, de 2018 - Complementar | Sim 65 Não 0 | resultado: approved
+
+## S:133057 | PLS 206/2018 | ementa: Regulamenta a instalação de Comitês de Prevenção e Solução de Disputas em contratos administrativos continuados celebrados pela União.
+   voto principal do projeto: S:6338 (2021-06-29): "Votação nominal" — Sim 69, Não 5
+S:6338 | 2021-06-29 | Votação nominal | Sim 69 Não 5 | resultado: approved
+
+## S:133306 | PEC 6/2018 | ementa: Altera o art. 12 da Constituição Federal, para suprimir a perda de nacionalidade brasileira em razão da mera naturalização, incluir a exceção para situações de apatridia, e acrescentar a possibilidade de a pessoa requerer a perda da própria nacionalidade.
+   voto principal do projeto: S:6328 (2021-06-15): "Votação nominal, em 1º Turno" — Sim 76, Não 0
+S:6328 | 2021-06-15 | Votação nominal, em 1º Turno | Sim 76 Não 0 | resultado: approved
+S:6329 | 2021-06-15 | Votação nominal, em 2º Turno. | Sim 73 Não 0 | resultado: approved
+
+## S:134465 | PLC 102/2018 | ementa: Altera a Lei nº 12.513, de 26 de outubro de 2011, para permitir a execução do Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec) às instituições públicas prestadoras oficiais dos serviços de assistência técnica e extensão rural associadas à Associação Brasileira das Entidades Estaduais de Assistência Técnica e Extensão Rural (Asbraer).
+   voto principal do projeto: S:6621 (2022-06-28): "Votação nominal do Projeto de Lei da Câmara nº 102, de 2018, nos termos do Parecer." — Sim 70, Não 0
+S:6621 | 2022-06-28 | Votação nominal do Projeto de Lei da Câmara nº 102, de 2018, nos termos do Parecer. | Sim 70 Não 0 | resultado: approved
+
+## S:134583 | PLC 115/2018 | ementa: Altera o art. 9º da Lei nº 9.964, de 10 de abril de 2000, que instituiu o Programa de Recuperação Fiscal (Refis), para proibir a exclusão de pessoas jurídicas adimplentes e de boa-fé do Refis nas condições que especifica.
+   voto principal do projeto: S:5995 (2019-08-07): "Projeto de Lei da Câmara nº 115, de 2018" — Sim 46, Não 21
+S:5995 | 2019-08-07 | Projeto de Lei da Câmara nº 115, de 2018 | Sim 46 Não 21 | resultado: approved
+
+## S:134910 | PLC 135/2018 | ementa: Dispõe sobre a Empresa Simples de Crédito (ESC); altera as Leis nºs 9.613, de 3 de março de 1998, e 9.249, de 26 de dezembro de 1995, e a Lei Complementar nº 123, de 14 de dezembro de 2006, para regulamentar a ESC e o Inova Simples.
+S:5949 | 2019-03-19 | PLC nº 135, de 2018 - Complementar, com as Emendas nºs 1 a 3-CAE (de redação), nos termos do Parecer | Sim 62 Não 1 | resultado: approved
+
+## S:135064 | MPV 870/2019 | ementa: Estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios.
+   voto principal do projeto: S:5962 (2019-05-28): "Estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios." — Sim 70, Não 4
+S:5962 | 2019-05-28 | Estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios. | Sim 70 Não 4 | resultado: approved
+
+## S:135079 | MPV 871/2019 | ementa: Institui o Programa Especial para Análise de Benefícios com Indícios de Irregularidade, o Programa de Revisão de Benefícios por Incapacidade, o Bônus de Desempenho Institucional por Análise de Benefícios com Indícios de Irregularidade do Monitoramento Operacional de Benefícios e o Bônus de Desempenho Institucional por Perícia Médica em Benefícios por Incapacidade, e dá outras p
+   voto principal do projeto: S:5964 (2019-06-03): "Institui o Programa Especial para Análise de Benefícios com Indícios de Irregularidade, o Programa de Revisão de Benefícios por Incapacidade, o Bônus de Desempe" — Sim 55, Não 12
+S:5964 | 2019-06-03 | Institui o Programa Especial para Análise de Benefícios com Indícios de Irregularidade, o Programa de Revisão de Benefícios por Incapacidade, o Bônus de Desempenho Institucional por Análise de Benefícios com Indícios de Irregularidade do Monitoramento Operacional de Benefícios e o Bônus de Desempenho Institucional por Perícia Médica em Benefícios por Incapacidade, e dá outras providências. | Sim 55 Não 12 | resultado: approved
+
+## S:135147 | PLP 19/2019 | ementa: Dispõe sobre nomeação e demissão do Presidente e diretores do Banco Central do Brasil.
+S:6248 | 2020-11-03 | Votação da Emenda nº 18 - PLEN (Substitutivo) do Relator ao PLP nº 19, de 2019, ressalvado o destaque. | Sim 56 Não 12 | resultado: approved
+S:6249 | 2020-11-03 | Votação da Emenda nº 12 - PLEN ao Projeto de Lei Complementar nº 19, de 2019, destacada. | Sim 12 Não 50 | resultado: approved
+
+## S:135527 | PDL 50/2019 | ementa: Aprova o texto do Protocolo Adicional ao Tratado de Amizade, Cooperação e Consulta entre a República Federativa do Brasil e a República Portuguesa, que Cria o Prêmio Monteiro Lobato de Literatura para a Infância e a Juventude, assinado em Salvador, em 5 de maio de 2017.
+   voto principal do projeto: S:6309 (2021-04-28): "Votação nominal do PDL 50/2019." — Sim 76, Não 0
+S:6309 | 2021-04-28 | Votação nominal do PDL 50/2019. | Sim 76 Não 0 | resultado: approved
+
+## S:135594 | PEC 17/2019 | ementa: Acrescenta o inciso XII-A, ao art. 5º, e o inciso XXX, ao art. 22, da Constituição Federal para incluir a proteção de dados pessoais entre os direitos fundamentais do cidadão e fixar a competência privativa da União para legislar sobre a matéria.
+S:5984 | 2019-07-02 | PEC nº 17, de 2019, com a Emenda nº 1 - CCJ (Redação), nos termos do Parecer (1º Turno) | Sim 65 Não 0 | resultado: approved
+S:5985 | 2019-07-02 | Proposta de Emenda à Constituição nº 17, de 2019 (2º Turno) | Sim 62 Não 0 | resultado: approved
+
+## S:135603 | PLP 54/2019 (Substitutivo-CD) | ementa: Altera a Lei Complementar nº 105, de 10 de janeiro de 2001, e a Lei n° 12.414, de 9 de junho de 2011, para dispor sobre os cadastros positivos de crédito e regular a responsabilidade civil dos operadores.
+   voto principal do projeto: S:5947 (2019-03-13): "Altera a Lei Complementar nº 105, de 10 de janeiro de 2001, e a Lei n° 12.414, de 9 de junho de 2011, para dispor sobre os cadastros positivos de crédito e regu" — Sim 66, Não 5
+S:5947 | 2019-03-13 | Altera a Lei Complementar nº 105, de 10 de janeiro de 2001, e a Lei n° 12.414, de 9 de junho de 2011, para dispor sobre os cadastros positivos de crédito e regular a responsabilidade civil dos operadores. | Sim 66 Não 5 | resultado: ?

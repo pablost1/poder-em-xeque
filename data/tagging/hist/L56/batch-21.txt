@@ -1,0 +1,81 @@
+## C:2267686 | MPV 1017/2020 | ementa: Define as diretrizes para a quitação e para a renegociação das dívidas relativas às debêntures emitidas por empresas esubscritas pelos fundos de investimentos regionais e para odesinvestimento, a liquidação e a extinção dos fundos.
+   voto principal do projeto: C:2267686-44 (2021-04-27): "" — Sim 120, Não 311
+C:2267686-44 | 2021-04-27 |  | Sim 120 Não 311 | resultado: rejected
+C:2267686-52 | 2021-04-27 | Votação do DTQ 4: PDT: Destaque de preferência para que o texto original da MPV 1017/20 seja apreciado em detrimento do PLV oferecido pelo Relator. (art. 161, IV) | Sim 127 Não 304 | resultado: rejected
+C:2267686-106 | 2021-05-20 |  | Sim 15 Não 301 | resultado: rejected
+C:2267686-112 | 2021-05-20 |  | Sim 17 Não 335 | resultado: rejected
+C:2267686-117 | 2021-05-20 |  | Sim 73 Não 321 | resultado: rejected
+C:2267686-119 | 2021-05-20 | Votação em turno único. | Sim 291 Não 102 | resultado: approved
+C:2267686-123 | 2021-05-20 | Votação do DTQ 1: PT: Emenda do Senado Federal n. 1 (art. 161, II) | Sim 309 Não 108 | resultado: approved
+C:2267686-126 | 2021-05-20 | Votação do DTQ 2: PT: Emenda do Senado Federal n. 2 (art. 161, II) | Sim 339 Não 98 | resultado: approved
+C:2267686-129 | 2021-05-20 | Votação do DTQ 3: PT: Emenda do Senado Federal n. 3 (art. 161, II) | Sim 343 Não 91 | resultado: approved
+C:2267686-131 | 2021-05-20 | Votação da Redação Final. | Sim 350 Não 83 | resultado: approved
+
+## C:2267745 | PL 5595/2020 | ementa: Dispõe sobre o reconhecimento da Educação Básica e de Ensino Superior, em formato presencial, como serviços e atividades essenciais. NOVA EMENTA Reconhece a educação básica e a educação superior, em formato presencial, como serviços e atividades essenciais e estabelece diretrizes para o retorno seguro às aulas presenciais.
+   voto principal do projeto: C:2274464-8 (2021-04-13): "" — Sim 307, Não 131
+C:2274464-8 | 2021-04-13 |  | Sim 307 Não 131 | resultado: approved
+C:2267745-104 | 2021-04-20 | Votação em turno único do Substitutivo ao PL nº 5595/20, adotado pela Relatora da Comissão de Educação. | Sim 276 Não 164 | resultado: approved
+C:2267745-52 | 2021-04-20 |  | Sim 130 Não 279 | resultado: rejected
+C:2267745-65 | 2021-04-20 |  | Sim 111 Não 310 | resultado: rejected
+C:2267745-68 | 2021-04-20 |  | Sim 46 Não 302 | resultado: rejected
+C:2267745-74 | 2021-04-20 |  | Sim 259 Não 19 | resultado: approved
+C:2267745-89 | 2021-04-20 | Votação em turno único. | Sim 22 Não 290 | resultado: rejected
+C:2267745-94 | 2021-04-20 | Votação em turno único. | Sim 38 Não 305 | resultado: rejected
+C:2267745-99 | 2021-04-20 | Votação do DTQ 11: PT - destaque para que a Emenda de Plenário n. 11, apresentada ao PL 5.595/2020, seja votada com preferência em relação ao texto com precedência regimental | Sim 138 Não 307 | resultado: rejected
+
+## C:2267811 | MPV 1018/2020 | ementa: Altera a Lei nº 5.070, de 7 de julho de 1966, para dispor sobre o valor da Taxa de Fiscalização de Instalação, a Lei nº 11.652, de 7 de abril de 2008, para dispor sobre o valor da Contribuição para o Fomento da Radiodifusão Pública, e a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, para dispor sobre o valor da Contribuição para o Desenvolvimento da Indústria Cinematog
+   voto principal do projeto: C:2267811-28 (2021-05-20): "" — Sim 77, Não 269
+C:2267811-28 | 2021-05-20 |  | Sim 77 Não 269 | resultado: rejected
+C:2267811-35 | 2021-05-20 |  | Sim 100 Não 303 | resultado: rejected
+C:2267811-46 | 2021-05-20 |  | Sim 124 Não 291 | resultado: rejected
+C:2267811-50 | 2021-05-20 | Votação preliminar em turno único. | Sim 399 Não 35 | resultado: approved
+C:2267811-51 | 2021-05-20 | Votação preliminar em turno único. | Sim 302 Não 59 | resultado: approved
+C:2267811-54 | 2021-05-20 | Votação do DTQ 5: PT: Destaque de preferência para votação do texto original da MPV 1.018/2021, em detrimento do texto com precedência regimental. (art. 161, IV) | Sim 116 Não 306 | resultado: rejected
+C:2267811-58 | 2021-05-20 | Votação, quanto ao mérito, em turno único. | Sim 325 Não 109 | resultado: approved
+C:2267811-61 | 2021-05-20 | Votação das Emendas de Plenário de nºs 1 a 6, com parecer pela rejeição, ressalvados os destaques | Sim 112 Não 303 | resultado: rejected
+C:2267811-64 | 2021-05-20 | Votação do DTQ 1: PSB: Emenda de Comissão nº 6. (art. 161, II) | Sim 116 Não 309 | resultado: rejected
+C:2267811-66 | 2021-05-20 | Votação do DTQ 3: PCdoB: Destaque do art. 6º do PLV apresentado à MPV 1.018/2021, com vistas a sua supressão. (art. 161, I) | Sim 274 Não 170 | resultado: ?
+C:2267811-73 | 2021-05-20 | Votação do DTQ 7: PT: Emenda de Plenário nº 2 (art. 161, II) | Sim 125 Não 317 | resultado: rejected
+C:2267811-76 | 2021-05-20 | Votação do DTQ 6: PT: Destaque, com vistas à rejeição, do artigo 8º do PLV oferecido à MPV 1018/2020. (art. 161, I) | Sim 311 Não 126 | resultado: ?
+C:2267811-79 | 2021-05-20 | Votação do DTQ 9: CIDADANIA: Destaque para votação em separado do art. 9º do PLV apresentado à MPV 1018/2020, com vistas à sua supressão. (art. 161, I) | Sim 254 Não 214 | resultado: ?
+C:2267811-124 | 2021-05-26 | Votação, quanto ao mérito, em turno único. | Sim 158 Não 273 | resultado: rejected
+
+## C:2268029 | PL 5638/2020 | ementa: Dispõe sobre ações emergenciais destinadas ao setor de eventos decorrentes dos efeitos de combate à pandemia da COVID-19. NOVA EMENTA: Dispõe sobre ações emergenciais e temporárias destinadas ao setor de eventos para compensar os efeitos decorrentes das medidas de combate à pandemia da Covid-19; institui o Programa Emergencial de Retomada do Setor de Eventos (Perse) e o Program
+C:2268029-104 | 2021-03-03 | Votação do DTQ 10: PSB: Emenda de Plenário 7 (art. 161, II) | Sim 178 Não 259 | resultado: rejected
+
+## C:2268069 | PL 3819/2020 | ementa: Altera a Lei nº 10.233, de 5 de junho de 2001, para estabelecer critérios de outorga mediante autorização para o transporte rodoviário interestadual e internacional de passageiros; e dá outras providências.
+   voto principal do projeto: C:2270117-9 (2021-05-26): "" — Sim 269, Não 137
+C:2270117-9 | 2021-05-26 |  | Sim 269 Não 137 | resultado: approved
+C:2268069-50 | 2021-12-15 |  | Sim 45 Não 370 | resultado: rejected
+C:2268069-69 | 2021-12-15 | Votação em turno único. | Sim 394 Não 45 | resultado: approved
+C:2268069-73 | 2021-12-15 | Votação das Emendas de Plenário ao Substitutivo, com parecer pela rejeição. | Sim 64 Não 220 | resultado: rejected
+
+## C:2268414 | MPV 1021/2020 | ementa: Dispõe sobre o valor do salário mínimo a vigorar a partir de 1º de janeiro de 2021.
+   voto principal do projeto: C:2268414-39 (2021-05-26): "Votação preliminar em turno único." — Sim 322, Não 110
+C:2268414-39 | 2021-05-26 | Votação preliminar em turno único. | Sim 322 Não 110 | resultado: approved
+C:2268414-55 | 2021-05-26 | Votação do DTQ 2: PT: Emenda de Comissão n. 17 (art. 161, II). | Sim 125 Não 325 | resultado: rejected
+
+## C:2268416 | MPV 1023/2020 | ementa: Altera a Lei nº 8.742, de 7 de dezembro de 1993, para dispor sobre o benefício de prestação continuada. NOVA EMENTA: Altera a Lei nº 8.742, de 7 de dezembro de 1993, para estabelecer o critério de renda familiar per capita para acesso ao benefício de prestação continuada, estipular parâmetros adicionais de caracterização da situação de miserabilidade e de vulnerabilidade social
+C:2268416-39 | 2021-05-26 | Votação do DTQ 1: PCdoB: emenda de comissão n.50 (art. 161, II) | Sim 110 Não 255 | resultado: rejected
+C:2268416-43 | 2021-05-26 | Votação do DTQ 2: PT: Destaque, com vistas à rejeição, do §5º do art. 21 da Lei 8.742/1993, na redação do art 1º do PLV à MPV 1023/2021. (art. 161, I) | Sim 258 Não 85 | resultado: ?
+
+## C:2268417 | MPV 1024/2020 | ementa: Altera a Lei nº 14.034, de 5 de agosto de 2020, para prorrogar o prazo de vigência de medidas emergenciais para a aviação civil brasileira em razão da pandemia da covid-19.
+   voto principal do projeto: C:2268417-30 (2021-05-25): "" — Sim 100, Não 335
+C:2268417-30 | 2021-05-25 |  | Sim 100 Não 335 | resultado: rejected
+C:2268417-35 | 2021-05-25 |  | Sim 105 Não 348 | resultado: rejected
+C:2268417-49 | 2021-05-25 |  | Sim 74 Não 345 | resultado: rejected
+C:2268417-52 | 2021-05-25 | Votação preliminar em turno único. | Sim 266 Não 2 | resultado: approved
+C:2268417-54 | 2021-05-25 | Votação preliminar em turno único. | Sim 413 Não 2 | resultado: approved
+C:2268417-57 | 2021-05-25 | Votação do DTQ 10: NOVO: destaque para a votação do texto original da MPV 1024/20 em preferência ao PLV apresentado pelo relator. | Sim 121 Não 323 | resultado: rejected
+C:2268417-63 | 2021-05-25 | Votação do DTQ 8: PT: Emenda de Plenário n. 3 (art. 161, II). | Sim 113 Não 300 | resultado: rejected
+C:2268417-71 | 2021-05-25 | Votação do DTQ 9: PCdoB: emenda de plenário nº 2 (art. 161, II). | Sim 133 Não 324 | resultado: rejected
+C:2268417-74 | 2021-05-25 | Votação do DTQ 4: PSOL: Destaque para votação em separado do art. 3º do PLV apresentado à MPV nº 1024/2020, com vistas a sua rejeição. (art. 161, I). | Sim 319 Não 142 | resultado: ?
+C:2268417-77 | 2021-05-25 | Votação do DTQ 1: PDT: Destaque para votação em separado do art. 4º do PLV. (art. 161, I). | Sim 296 Não 135 | resultado: ?
+C:2268417-80 | 2021-05-25 | Votação do DTQ 5: Bloco PSL (PSDB): Emenda de Comissão nº 2 (art. 161, II). | Sim 52 Não 368 | resultado: rejected
+
+## C:2268619 | MPV 1027/2021 | ementa: Dispõe sobre o estabelecimento de barreiras sanitárias protetivas de áreas indígenas.
+C:2268619-48 | 2021-05-27 | Votação do DTQ 1: PSB: Emenda de Comissão n. 52 (art. 161, II) | Sim 144 Não 314 | resultado: rejected
+
+## C:2268646 | PL 27/2021 | ementa: Cria uma nova hipótese de dano qualificado para o caso em que a coisa destruída, inutilizada ou deteriorada for vacina, insumo ou qualquer outro bem destinado ao enfrentamento de emergência de saúde pública.
+   voto principal do projeto: C:2269049-8 (2021-02-09): "" — Sim 418, Não 4
+C:2269049-8 | 2021-02-09 |  | Sim 418 Não 4 | resultado: approved

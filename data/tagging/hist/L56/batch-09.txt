@@ -1,0 +1,89 @@
+## C:2209381 | PL 3723/2019 | ementa: Altera a Lei nº 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas - Sinarm e define crimes. NOVA EMENTA: Altera a Lei nº 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas (Sinarm) e de
+   voto principal do projeto: C:2209381-70 (2019-10-29): "" — Sim 31, Não 234
+C:2209381-70 | 2019-10-29 |  | Sim 31 Não 234 | resultado: rejected
+C:2209381-77 | 2019-10-30 |  | Sim 19 Não 240 | resultado: rejected
+C:2209381-100 | 2019-11-05 | Votação em turno único. | Sim 283 Não 140 | resultado: approved
+C:2209381-85 | 2019-11-05 | Votação em turno único. | Sim 31 Não 228 | resultado: rejected
+C:2209381-92 | 2019-11-05 | Votação em turno único. | Sim 17 Não 263 | resultado: rejected
+C:2209381-95 | 2019-11-05 | Votação em turno único. | Sim 14 Não 258 | resultado: rejected
+
+## C:2210523 | PL 3715/2019 | ementa: Altera a Lei nº 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), para determinar que, em área rural, para fins de posse de arma de fogo, considera-se residência ou domicílio toda a extensão do respectivo imóvel.
+   voto principal do projeto: C:2215293-9 (2019-08-20): "" — Sim 331, Não 55
+C:2215293-9 | 2019-08-20 |  | Sim 331 Não 55 | resultado: approved
+C:2210523-26 | 2019-08-21 |  | Sim 5 Não 254 | resultado: rejected
+C:2210523-35 | 2019-08-21 |  | Sim 12 Não 253 | resultado: rejected
+C:2210523-43 | 2019-08-21 |  | Sim 21 Não 325 | resultado: rejected
+C:2210523-47 | 2019-08-21 |  | Sim 299 Não 8 | resultado: approved
+C:2210523-59 | 2019-08-21 |  | Sim 3 Não 302 | resultado: rejected
+C:2210523-62 | 2019-08-21 |  | Sim 5 Não 300 | resultado: rejected
+C:2210523-66 | 2019-08-21 |  | Sim 6 Não 321 | resultado: rejected
+C:2210523-70 | 2019-08-21 | Votação em turno único. | Sim 320 Não 61 | resultado: approved
+
+## C:2210757 | PEC 17/2019 | ementa: Altera a Constituição Federal para incluir a proteção de dados pessoais entre os direitos e garantias fundamentais e para fixar a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais.
+   voto principal do projeto: C:2210757-104 (2021-08-31): "Votação em segundo turno." — Sim 436, Não 4
+C:2210757-104 | 2021-08-31 | Votação em segundo turno. | Sim 436 Não 4 | resultado: approved
+C:2210757-93 | 2021-08-31 | Votação em primeiro turno. | Sim 439 Não 1 | resultado: approved
+C:2210757-96 | 2021-08-31 | Votação do DTQ 1: NOVO: Destaque para votação em separado da expressão ", que disporá sobre a criação de um órgão regulador independente" constante do artigo 2º do substitutivo da PEC 17/2019, e por decorrência do artigo 4º do Substitutivo da PEC 17/2019, com vista a sua supressão. (art. 161, I) | Sim 165 Não 266 | resultado: ?
+
+## C:2212362 | PL 4121/2019 | ementa: Estabelece os limites de gastos de campanha para as eleições de 2020 e dá outras providências. NOVA EMENTA: Altera a Lei nº 9.504, de 30 de setembro de 1997, a fim de estabelecer os limites de gastos de campanha para as eleições municipais.
+C:2212362-47 | 2019-10-01 | Votação do DTQ 3: PSL: Destaque da Emenda de Plenário n. 2 apresentada ao PL 4.121/2019. | Sim 253 Não 135 | resultado: approved
+
+## C:2212910 | PL 598/2019 | ementa: Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para incluir conteúdo sobre a prevenção da violência contra a mulher nos currículos da educação básica. NOVA EMENTA: Institui a Semana Escolar de Combate à Violência contra a Mulher.
+   voto principal do projeto: C:2273740-9 (2021-03-18): "" — Sim 405, Não 16
+C:2273740-9 | 2021-03-18 |  | Sim 405 Não 16 | resultado: approved
+
+## C:2212949 | MPV 889/2019 | ementa: Altera a Lei Complementar nº 26, de 11 de setembro de 1975, para dispor sobre a possibilidade de movimentação das contas do Programa de Integração Social - PIS e do Programa de Formação do Patrimônio do Servidor Público - Pasep, e a Lei nº 8.036, de 11 de maio de 1990, para instituir a modalidade de saque-aniversário no Fundo de Garantia do Tempo de Serviço - FGTS, e dá outras 
+C:2212949-38 | 2019-11-06 | Votação do DTQ 1: PDT: Destaque para votação em separado do inciso XV, do art. 5º da Lei 8036/90, alterado pelo art. 2º do PLV apresentado à MPV 889/19 (161,I). | Sim 273 Não 121 | resultado: ?
+C:2212949-45 | 2019-11-06 | Votação do DTQ 6: PT: Emenda 86 (161, II). | Sim 150 Não 239 | resultado: rejected
+C:2212949-49 | 2019-11-06 | Votação do DTQ 2: PDT: Destaque para votação em separado do §3º, do art. 20-D da Lei 8036/90, alterado pelo art. 2º do PLV apresentado à MPV 889/19 (161,I). | Sim 205 Não 193 | resultado: ?
+
+## C:2213191 | MPV 890/2019 | ementa: Institui o Programa Médicos pelo Brasil, no âmbito da atenção primária à saúde no Sistema Único de Saúde, e autoriza o Poder Executivo federal a instituir serviço social autônomo denominado Agência para o Desenvolvimento da Atenção Primária à Saúde. NOVA EMENTA: Institui o Programa Médicos pelo Brasil, no âmbito da atenção primária à saúde no Sistema Único de Saúde (SUS), e aut
+   voto principal do projeto: C:2213191-40 (2019-11-26): "" — Sim 2, Não 276
+C:2213191-106 | 2019-11-26 | Votação do DTQ 9: PT: Emenda n. 306. | Sim 111 Não 278 | resultado: rejected
+C:2213191-40 | 2019-11-26 |  | Sim 2 Não 276 | resultado: rejected
+C:2213191-48 | 2019-11-26 |  | Sim 31 Não 364 | resultado: rejected
+C:2213191-53 | 2019-11-26 | Votação em turno único. | Sim 7 Não 296 | resultado: rejected
+C:2213191-60 | 2019-11-26 | Votação do DTQ 19: PSOL: Destaque para votação da Emenda 116 apresentada à MPV 890/2019, com preferência sobre o PLV 25/2019. | Sim 103 Não 303 | resultado: rejected
+C:2213191-62 | 2019-11-26 | Votação, quanto ao mérito, em turno único. | Sim 391 Não 6 | resultado: approved
+C:2213191-67 | 2019-11-26 | Votação do DTQ 14: PCdoB: Destaque do art. 1º da Emenda 50 para substituir o art. 1º do PLV apresentado à MPV 890/2019 e por consequência a alteração devida ao art. 6º do PLV. | Sim 103 Não 288 | resultado: rejected
+C:2213191-68 | 2019-11-26 | Votação do DTQ 22: PDT: Emenda 159. | Sim 116 Não 276 | resultado: rejected
+C:2213191-73 | 2019-11-26 | Votação do DTQ 5: PSL: Destaque para votação em separado do art. 35 do PLV 25/2019, apresentado à MPV 890/2019, para suprimi-lo. | Sim 197 Não 168 | resultado: ?
+C:2213191-81 | 2019-11-26 | Votação do DTQ 2: DEM: Destaque para votação em separado do art. 36 do PLV apresentado à MPV 890/2019 com o objetivo de sua supressão. | Sim 82 Não 295 | resultado: ?
+
+## C:2214203 | PL 4348/2019 | ementa: Altera a Lei n. 11.952, de 25 de junho de 2009, no seu Art. 40-A. NOVA EMENTA: Altera o art. 40-A da Lei nº 11.952, de 25 de junho de 2009.
+   voto principal do projeto: C:2215381-8 (2019-10-30): "" — Sim 325, Não 18
+C:2215381-8 | 2019-10-30 |  | Sim 325 Não 18 | resultado: approved
+
+## C:2216376 | PL 4606/2019 | ementa: Veda qualquer alteração, edição, supressão, adição ou adaptação aos textos dos livros da Bíblia Sagrada, mantendo a inviolabilidade de capítulos e versículos proibindo modificar o texto sagrado garantindo a pregação do seu conteúdo em todo territorio nacional. NOVA EMENTA: Veda qualquer alteração, adaptação, edição, supressão ou adição nos textos da Bíblia Sagrada, para manter 
+   voto principal do projeto: C:2319532-14 (2022-05-04): "" — Sim 358, Não 32
+C:2319532-14 | 2022-05-04 |  | Sim 358 Não 32 | resultado: approved
+
+## C:2216799 | PDL 523/2019 | ementa: Aprova o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América Sobre Salvaguardas Tecnológicas Relacionadas à Participação dos Estados Unidos da América em Lançamentos a partir do Centro Espacial de Alcântara, assinado em Washington, em 18 de março de 2019.
+   voto principal do projeto: C:2216799-23 (2019-10-16): "" — Sim 7, Não 251
+C:2216799-23 | 2019-10-16 |  | Sim 7 Não 251 | resultado: rejected
+C:2216799-30 | 2019-10-16 |  | Sim 47 Não 271 | resultado: rejected
+C:2216799-34 | 2019-10-16 |  | Sim 275 Não 13 | resultado: approved
+C:2216799-41 | 2019-10-22 | Votação em turno único. | Sim 4 Não 266 | resultado: rejected
+C:2216799-67 | 2019-10-22 | Votação da Emenda de Plenário nº 1, com parecer pela rejeição, resalvados os destaques. | Sim 103 Não 320 | resultado: rejected
+C:2216799-71 | 2019-10-22 | Votação em turno único. | Sim 329 Não 86 | resultado: approved
+
+## C:2217142 | MSC 369/2019 | ementa: Texto do Sexagésimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica Nº 35 (ACE-35), que incorpora ao referido Acordo o Acordo de Livre Comércio (ALC) entre o Brasil e o Chile, assinado em Santiago, em 21 de novembro de 2018.
+   voto principal do projeto: C:2260781-10 (2021-03-03): "" — Sim 339, Não 124
+C:2260781-10 | 2021-03-03 |  | Sim 339 Não 124 | resultado: approved
+C:2217142-68 | 2021-06-30 |  | Sim 86 Não 223 | resultado: rejected
+C:2217142-73 | 2021-06-30 |  | Sim 113 Não 303 | resultado: rejected
+C:2217142-86 | 2021-06-30 |  | Sim 125 Não 327 | resultado: rejected
+C:2217142-88 | 2021-06-30 | Votação em turno único. | Sim 310 Não 118 | resultado: approved
+
+## C:2218250 | PL 4805/2019 | ementa: Altera a Lei n. 8.248, de 23 de outubro de 1991, e dispõe sobre a capacitação e competitividade do setor de informática e automação para estabelecer o tratamento tributário aplicável às empresas desse setor e dá outras providências. NOVA EMENTA: Dispõe sobre a política industrial para o setor de tecnologias da informação e comunicação e para o setor de semicondutores e altera a
+   voto principal do projeto: C:2226336-8 (2019-10-30): "" — Sim 327, Não 4
+C:2226336-8 | 2019-10-30 |  | Sim 327 Não 4 | resultado: approved
+C:2218250-71 | 2019-11-27 | Votação do DTQ 1: DEM: Emenda de Plenário nº 1 (161, II) | Sim 175 Não 196 | resultado: rejected
+
+## C:2219393 | PDL 614/2019 | ementa: Ficam sustados os efeitos da Portaria nº 547, de 31 de agosto de 2019, editada pela Secretaria Especial de Comércio Exterior e Assuntos Internacionais do Ministério da Economia.
+   voto principal do projeto: C:2219406-6 (2019-09-10): "" — Sim 319, Não 101
+C:2219406-6 | 2019-09-10 |  | Sim 319 Não 101 | resultado: approved
+
+## C:2220292 | PEC 135/2019 | ementa: Acrescenta o § 12 ao art. 14, da Constituição Federal, dispondo que, na votação e apuração de eleições, plebiscitos e referendos, seja obrigatória a expedição de cédulas físicas, conferíveis pelo eleitor, a serem depositadas em urnas indevassáveis, para fins de auditoria.
+   voto principal do projeto: C:2220292-229 (2021-08-10): "Votação em primeiro turno." — Sim 229, Não 218
+C:2220292-229 | 2021-08-10 | Votação em primeiro turno. | Sim 229 Não 218 | resultado: rejected

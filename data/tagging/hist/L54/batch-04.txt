@@ -1,0 +1,121 @@
+## C:559275 | MPV 586/2012 | ementa: Dispõe sobre o apoio técnico e financeiro da União aos entes federados no âmbito do Pacto Nacional pela Alfabetização na Idade Certa, e dá outras providências. NOVA EMENTA: Dispõe sobre o apoio técnico e financeiro da União aos entes federados no âmbito do Pacto Nacional pela Alfabetização na Idade Certa e altera as Leis nºs 5.537, de 21 de novembro de 1968, 8.405, de 9 de jane
+C:559275-42 | 2013-02-26 | Votação da Emenda nº 52, objeto do Destaque para votação em separado da bancada do PSDB. | Sim 119 Não 226 | resultado: rejected
+C:559275-63 | 2013-02-26 | Votação da Emenda nº 44, objeto do Destaque para votação em separado da bancada do DEM. | Sim 209 Não 191 | resultado: approved
+
+## C:559465 | MPV 587/2012 | ementa: Autoriza para a safra 2011/2012 o pagamento de valor adicional ao Benefício Garantia - Safra, de que trata a Lei nº 10.420, de 10 de abril de 2002, e amplia para o ano de 2012 o Auxílio Emergencial Financeiro, de que trata a Lei nº 10.954, de 29 de setembro de 2004. NOVA EMENTA: Autoriza para a safra 2011/2012 o pagamento de valor adicional ao Benefício Garantia-Safra, de que t
+C:559465-38 | 2013-03-19 | Votação do art. 9º do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PT. | Sim 209 Não 217 | resultado: rejected
+
+## C:559706 | MPV 589/2012 | ementa: Dispõe sobre o parcelamento de débitos junto à Fazenda Nacional relativos às contribuições previdenciárias de responsabilidade dos Estados, do Distrito Federal e dos Municípios. NOVA EMENTA: Dispõe sobre o parcelamento de débitos com a Fazenda Nacional relativos às contribuições previdenciárias de responsabilidade dos Estados, do Distrito Federal e dos Municípios; altera as Lei
+C:559706-41 | 2013-04-09 | Votação da expressão "no prazo de até 48 horas" do § 2º do artigo 8º do Projeto de Lei de Conversão, objeto do destaque para votação em separado da Bancada do PMDB. | Sim 120 Não 278 | resultado: rejected
+
+## C:562466 | MPV 593/2012 | ementa: Altera a Lei nº 12.513, de 26 de outubro de 2011, que institui o Programa Nacional de Acesso ao Ensino Técnico e Emprego - Pronatec, para ampliar o rol de beneficiários e ofertantes da Bolsa-Formação Estudante; e dá outras providências. NOVA EMENTA: Altera as Leis nºs 12.513, de 26 de outubro de 2011, para ampliar o rol de beneficiários e ofertantes da Bolsa-Formação Estudante,
+C:562466-47 | 2013-05-08 | Votação do art. 5º do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PDT. | Sim 154 Não 237 | resultado: rejected
+
+## C:562615 | MPV 595/2012 | ementa: Dispõe sobre a exploração direta e indireta, pela União, de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários, e dá outras providências. NOVA EMENTA: Dispõe sobre a exploração direta e indireta pela União de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários; altera as Leis nºs 5.025, de 
+C:562615-106 | 2013-05-14 | Votação da Emenda Aglutinativa nº 12 apresentada ao Projeto de Lei de Conversão nº 9/2013. | Sim 178 Não 233 | resultado: rejected
+C:562615-129 | 2013-05-14 | Votação da Emenda Aglutinativa nº 8 apresentada ao Projeto de Lei de Conversão nº 9/2013. | Sim 86 Não 203 | resultado: rejected
+C:562615-141 | 2013-05-14 | Votação da Emenda nº 576, objeto do Destaque para votação em separado da bancada do DEM. | Sim 155 Não 174 | resultado: rejected
+C:562615-154 | 2013-05-14 | Votação da expressão "vedada a exclusão de área" do caput do art. 15 do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do DEM. | Sim 94 Não 210 | resultado: approved
+C:562615-93 | 2013-05-14 | Votação da Emenda Aglutinativa nº 4 apresentada ao Projeto de Lei de Conversão nº 9/2013. | Sim 172 Não 210 | resultado: rejected
+C:562615-213 | 2013-05-15 | Votação da expressão "nos portos organizados" do caput do art. 40 do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PDT. | Sim 227 Não 79 | resultado: approved
+C:562615-233 | 2013-05-15 | Votação da Emenda Aglutinativa nº 30 apresentada ao Projeto de Lei de Conversão nº 9/2013. | Sim 266 Não 23 | resultado: approved
+C:562615-244 | 2013-05-15 | Votação do art. 58 do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PP. | Sim 273 Não 3 | resultado: approved
+C:562615-268 | 2013-05-15 | Votação do parágrafo único do art. 59 do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do Bloco PR, PTdoB, PRP, PHS, PTC, PSL, PRTB. | Sim 153 Não 111 | resultado: approved
+C:562615-281 | 2013-05-15 | Votação do art. 63 do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PSDB. | Sim 268 Não 11 | resultado: approved
+C:562615-291 | 2013-05-15 | Votação do inciso I do art. 75 do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PMDB. | Sim 247 Não 8 | resultado: approved
+
+## C:564113 | PL 4904/2012 | ementa: Dispõe sobre a remuneração das Carreiras de Auditoria da Receita Federal do Brasil e Auditoria-Fiscal do Trabalho, de que trata a Lei nº 10.910, de 15 de julho de 2004; das Carreiras do Banco Central do Brasil, de que trata a Lei nº 9.650, de 27 de maio de 1998; do Plano de Carreiras e Cargos da Susep e do Plano de Carreiras e Cargos da CVM, de que trata a Lei nº 11.890, de 24 
+C:564113-45 | 2013-03-20 | Votação da Emenda nº 1, objeto do Destaque para votação em separado da bancada do PSD. | Sim 192 Não 179 | resultado: approved
+
+## C:564453 | MPV 597/2012 | ementa: Dá nova redação ao § 5º do art. 3º da Lei nº 10.101, de 19 de dezembro de 2000, e dá outras providências. NOVA EMENTA: Altera dispositivos das Leis n°s 10.101, de 19 de dezembro de 2000, que dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa, e 9.250, de 26 de dezembro de 1995, que altera a legislação do imposto de renda das pessoas físicas.
+C:564453-52 | 2013-05-21 | Votação da terceira linha: "DE 6.000,01 A 9.000,00 7,5% 450,00", constante do Anexo referido no § 5º do art. 3º da Lei nº 10.101/2000, nos termos das alterações propostas pelo art. 1º do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PSDB. | Sim 272 Não 87 | resultado: rejected
+
+## C:564520 | MPV 600/2012 | ementa: Altera a Lei nº 12.409, de 25 de maio de 2011; a Medida Provisória nº 581, de 20 de setembro de 2012, que dispõe sobre o Fundo de Desenvolvimento do Centro-Oeste - FDCO; constitui fonte adicional de recursos para ampliação de limites operacionais da Caixa Econômica Federal; altera as Leis nº 12.462, de 4 de agosto de 2011, e nº 8.399, de 7 de janeiro de 1992; altera a Medida Pr
+C:564520-44 | 2013-05-21 | Votação do § 1º do art. 63-A da Lei n. 12.462/11, constante do art. 5º do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PDT. | Sim 256 Não 126 | resultado: rejected
+
+## C:564521 | MPV 601/2012 | ementa: Altera as Leis nº 12.546, de 14 de dezembro de 2011, para prorrogar o Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras - Reintegra, e para desonerar a folha de pagamentos dos setores da construção civil e varejista; nº 11.774, de 17 de setembro de 2008, que reduz as alíquotas das contribuições de que tratam os incisos I e III do caput do art.
+C:564521-63 | 2013-05-28 | Votação da Emenda nº 45, objeto do Destaque para votação em separado da bancada do DEM. | Sim 47 Não 223 | resultado: rejected
+
+## C:564522 | MPV 602/2012 | ementa: Autoriza a prorrogação de contratos por tempo determinado no âmbito do Centro Gestor e Operacional do Sistema de Proteção da Amazônia - Censipam e do Fundo Nacional de Desenvolvimento da Educação - FNDE, e dá outras providências. NOVA EMENTA: Autoriza a prorrogação de contratos por tempo determinado no âmbito do Centro Gestor e Operacional do Sistema de Proteção da Amazônia - C
+   voto principal do projeto: C:564522-34 (2013-04-23): "Votação preliminar em turno único." — Sim 314, Não 11
+C:564522-34 | 2013-04-23 | Votação preliminar em turno único. | Sim 314 Não 11 | resultado: approved
+
+## C:564525 | PLP 238/2013 | ementa: Dispõe sobre o quórum de aprovação de convênio que conceda remissão dos créditos tributários constituídos em decorrência de benefícios, incentivos fiscais ou financeiros instituídos em desacordo com a deliberação prevista no art. 155, § 2º, inciso XII, alínea "g", da Constituição, e para a reinstituição dos referidos benefícios nos termos da legislação aplicável; altera a Lei C
+   voto principal do projeto: C:583408-9 (2013-07-10): "" — Sim 332, Não 4
+C:583408-9 | 2013-07-10 |  | Sim 332 Não 4 | resultado: approved
+C:564525-125 | 2013-10-23 | Votação da Subemenda Substitutiva Global apresentada pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques. | Sim 334 Não 9 | resultado: approved
+C:564525-133 | 2013-10-23 | Votação da Emenda Aglutinativa nº 2, resultante da fusão da Emenda de Plenário nº 17 com texto do Substitutivo da Comissão de Finanças e Tributação. | Sim 64 Não 246 | resultado: rejected
+C:564525-136 | 2013-10-23 | Votação da Emenda Aglutinativa nº 1, resultante da fusão da Emenda de Plenário nº 17 com texto do Substitutivo da Comissão de Finanças e Tributação. | Sim 264 Não 111 | resultado: approved
+C:564525-142 | 2013-10-23 | Votação da Emenda de Plenário nº 14, objeto do Destaque da bancada do PSD. | Sim 111 Não 223 | resultado: rejected
+C:564525-145 | 2013-10-23 | Votação da Emenda de Plenário nº 16, objeto do Destaque da bancada do PSB. | Sim 87 Não 256 | resultado: rejected
+
+## C:564547 | REP 17/2012 | ementa: Representa ao Conselho de Ética e Decoro Parlamentar contra o Deputado CARLOS ALBERTO LERÉIA (PSDB/GO), por procedimento atentatório ao decoro parlamentar.
+   voto principal do projeto: C:564547-55 (2014-04-23): "Votação em turno único." — Sim 353, Não 26
+C:564547-55 | 2014-04-23 | Votação em turno único. | Sim 353 Não 26 | resultado: approved
+
+## C:566047 | MPV 608/2013 | ementa: Dispõe sobre crédito presumido apurado com base em créditos decorrentes de diferenças temporárias oriundos de provisões para créditos de liquidação duvidosa nas condições que estabelece e dispõe sobre os títulos de crédito e instrumentos emitidos por instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, para composição de seu patri
+C:566047-41 | 2013-06-12 | Votação da Emenda nº 7, objeto do Destaque para votação em separado da bancada do PPS. | Sim 65 Não 211 | resultado: rejected
+
+## C:566891 | MPV 609/2013 | ementa: Reduz a zero as alíquotas da Contribuição para o PIS/PASEP, da COFINS, da Contribuição para o PIS/PASEP-Importação e da COFINS-Importação incidentes sobre a receita decorrente da venda no mercado interno e sobre a importação de produtos que compõem a cesta básica, e dá outras providências. NOVA EMENTA: Reduz a zero as alíquotas da Contribuição para o PIS/Pasep, da Cofins, da Co
+C:566891-38 | 2013-06-11 | Votação da Emenda nº 7, objeto do Destaque para votação em separado da bancada do PSD. | Sim 108 Não 213 | resultado: rejected
+C:566891-57 | 2013-06-11 | Votação do art. 14 do PLV, objeto do Destaque para votação em separado da bancada do PSDB. | Sim 161 Não 189 | resultado: rejected
+C:566891-66 | 2013-06-11 | Votação da Emenda nº 52, objeto do Destaque para votação em separado da bancada do DEM. | Sim 85 Não 199 | resultado: rejected
+
+## C:567197 | PEC 247/2013 | ementa: Altera o "Capítulo IV - Das Funções Essenciais à Justiça" do "Título IV - Da Organização dos Poderes" e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias da Constituição Federal.
+   voto principal do projeto: C:567197-86 (2014-02-19): "Votação em primeiro turno." — Sim 392, Não 0
+C:567197-86 | 2014-02-19 | Votação em primeiro turno. | Sim 392 Não 0 | resultado: approved
+C:567197-98 | 2014-03-12 | Votação em segundo turno. | Sim 424 Não 1 | resultado: approved
+
+## C:568421 | PRC 178/2013 | ementa: Dispõe sobre a estrutura temporária da Liderança do Partido Social Democrático - PSD, e dá outras providências.
+   voto principal do projeto: C:568515-5 (2013-03-20): "" — Sim 356, Não 14
+C:568515-5 | 2013-03-20 |  | Sim 356 Não 14 | resultado: approved
+
+## C:573508 | PLP 266/2013 | ementa: Altera a Lei Complementar nº 62, de 28 de dezembro de 1989, a Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), e a Lei nº 8.443, de 16 de julho de 1992 (Lei Orgânica do Tribunal de Contas da União), para dispor sobre os critérios de rateio do Fundo de Participação dos Estados e do Distrito Federal (FPE); e revoga dispositivos da Lei nº 5.172, de 25 de outubr
+   voto principal do projeto: C:573508-51 (2013-06-12): "Votação do Projeto de Lei Complementar nº 266 de 2013." — Sim 218, Não 115
+C:573508-47 | 2013-06-12 | Votação do destaque de preferência da bancada do PSB, para votação da Emenda Substitutiva de Plenário nº 3. | Sim 214 Não 135 | resultado: approved
+C:573508-49 | 2013-06-12 | Votação da Emenda Substitutiva de Plenário nº 3, com parecer pela rejeição. | Sim 234 Não 101 | resultado: rejected
+C:573508-51 | 2013-06-12 | Votação do Projeto de Lei Complementar nº 266 de 2013. | Sim 218 Não 115 | resultado: rejected
+
+## C:580163 | MPV 619/2013 | ementa: Autoriza a Companhia Nacional de Abastecimento a contratar o Banco do Brasil S.A. ou suas subsidiárias para atuar na gestão e na fiscalização de obras e serviços de engenharia relacionados à modernização, construção, ampliação ou reforma de armazéns destinados às atividades de guarda e conservação de produtos agropecuários; altera as Leis nº 8.212, de 24 de julho de 1991 e nº 8
+C:580163-51 | 2013-09-25 | Votação do art. 2º do Projeto de Lei de Conversão e, em decorrência, os seus parágrafos 1º, 2º, 3º, 4º e 5º; objeto do Destaque para votação em separado da bancada do DEM. | Sim 201 Não 89 | resultado: approved
+C:580163-59 | 2013-09-25 | Votação do art. 22 do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PT. | Sim 213 Não 155 | resultado: approved
+
+## C:580951 | MPV 620/2013 | ementa: Altera a Lei nº 12.793, de 2 de abril de 2013, para dispor sobre o financiamento de bens de consumo duráveis a beneficiários do Programa Minha Casa Minha Vida, constitui fonte adicional de recursos para a Caixa Econômica Federal, altera a Lei nº 12.741, de 8 de dezembro de 2012, que dispõe sobre as medidas de esclarecimento ao consumidor, para prever prazo de aplicação das sanç
+C:580951-61 | 2013-09-10 | Votação do inciso II do art. 18-A da Lei nº 9.615/98, constante do art. 19 do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PMDB. | Sim 323 Não 41 | resultado: approved
+
+## C:581700 | PLP 288/2013 | ementa: Altera a Lei Complementar n° 62, de 28 de dezembro de 1989, a Lei n° 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), e a Lei n° 8.443, de 16 de julho de 1992 (Lei Orgânica do Tribunal de Contas da União), para dispor sobre os critérios de rateio do Fundo de Participação dos Estados e do Distrito Federal (FPE); e revoga dispositivos da Lei n° 5.172, de 25 de outubr
+   voto principal do projeto: C:581700-32 (2013-06-25): "Votação em turno único." — Sim 341, Não 1
+C:581700-32 | 2013-06-25 | Votação em turno único. | Sim 341 Não 1 | resultado: approved
+C:581700-34 | 2013-06-25 | Votação em turno único. | Sim 228 Não 134 | resultado: rejected
+C:581700-35 | 2013-06-25 | Votação em turno único. | Sim 344 Não 13 | resultado: approved
+
+## C:58213 | PEC 556/2002 | ementa: Dá nova redação ao art. 54 do Ato das Disposições Constitucionais Transitórias, da Constituição Federal.
+   voto principal do projeto: C:58213-106 (2013-11-05): "Votação em segundo turno." — Sim 347, Não 4
+C:58213-100 | 2013-11-05 | Votação, em primeiro turno, da Proposta de Emenda à Constituição nº 346 de 2013, apensada. | Sim 371 Não 4 | resultado: approved
+C:58213-106 | 2013-11-05 | Votação em segundo turno. | Sim 347 Não 4 | resultado: approved
+
+## C:582292 | REP 20/2013 | ementa: Representa em face do Deputado Natan Donadon, em razão de condenação criminal transitada em julgado.
+   voto principal do projeto: C:582292-52 (2013-08-28): "Votação secreta em turno único." — Sim 0, Não 0
+C:582292-52 | 2013-08-28 | Votação secreta em turno único. | Sim 0 Não 0 | resultado: rejected
+
+## C:582341 | PL 5844/2013 | ementa: Destina recursos do Fundo de Garantia do Tempo de Serviço (FGTS) para o financiamento de subvenção econômica nos financiamentos a pessoas físicas beneficiárias do Programa Minha Casa Minha Vida (PMCMV).
+   voto principal do projeto: C:582605-6 (2013-07-02): "" — Sim 150, Não 237
+C:582605-6 | 2013-07-02 |  | Sim 150 Não 237 | resultado: rejected
+
+## C:584020 | MPV 621/2013 | ementa: Institui o Programa Mais Médicos e dá outras providências. NOVA EMENTA: Institui o Programa Mais Médicos; altera as Leis nºs 8.745, de 9 de dezembro de 1993, e 6.932, de 7 de julho de 1981; e dá outras providências.
+C:584020-124 | 2013-10-09 | Votação da Emenda nº 285, objeto do Destaque da bancada do PDT. | Sim 134 Não 224 | resultado: rejected
+C:584020-132 | 2013-10-09 | Votação da Emenda nº 21, objeto do Destaque da bancada do PMDB. | Sim 46 Não 308 | resultado: rejected
+C:584020-99 | 2013-10-09 | Votação do art. 6º e, em decorrência, do art. 7º do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PSD. | Sim 193 Não 75 | resultado: approved
+
+## C:584279 | REQ 8196/2013 | ementa: Requeremos, nos termos regimentais da Câmara dos Deputados, a aprovação de Moção de Repúdio ao governo dos Estados Unidos em razão das atividades da National Security Agency (NSA) no País, as quais violam direito de empresas e cidadãos brasileiros e atentam contra a soberania nacional.
+   voto principal do projeto: C:584279-5 (2013-07-09): "" — Sim 292, Não 86
+C:584279-5 | 2013-07-09 |  | Sim 292 Não 86 | resultado: approved
+
+## C:584824 | PL 5943/2013 | ementa: Dispõe sobre o exercício da profissão de motorista, altera a Consolidação das Leis do Trabalho (CLT) no que se refere ao empregado, e a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro) bem como a Lei nº 11.442 de 5 de janeiro de 2007 (Empresas e transportadores autônomos de carga), para regular e disciplinar a jornada de trabalho e o tempo de direção do m
+   voto principal do projeto: C:586949-8 (2014-04-22): "" — Sim 307, Não 16
+C:586949-8 | 2014-04-22 |  | Sim 307 Não 16 | resultado: approved
+
+## C:586251 | PEC 290/2013 | ementa: Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação
+   voto principal do projeto: C:586251-72 (2014-03-25): "Votação em primeiro turno." — Sim 399, Não 1
+C:586251-72 | 2014-03-25 | Votação em primeiro turno. | Sim 399 Não 1 | resultado: approved
+C:586251-93 | 2014-04-23 | Votação em segundo turno. | Sim 354 Não 0 | resultado: approved

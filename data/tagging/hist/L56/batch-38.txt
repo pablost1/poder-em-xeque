@@ -1,0 +1,92 @@
+## C:352989 | PL 1162/2007 | ementa: Disciplina a prevenção de acidentes em piscinas, e dá outras providências.
+   voto principal do projeto: C:352989-160 (2022-03-22): "" — Sim 8, Não 379
+C:352989-160 | 2022-03-22 |  | Sim 8 Não 379 | resultado: rejected
+C:352989-165 | 2022-03-22 |  | Sim 5 Não 296 | resultado: rejected
+C:352989-170 | 2022-03-22 | Votação da ementa e dos artigos 1º, 2º, 3º, 4º, 5º, 6º e 7º; do caput do artigo 8º; dos incisos IV e V e o §1º do artigo 8º, dos artigos 9º, 10 e 11 do Substitutivo do Senado Federal, com parecer pela aprovação, ressalvados os destaques. | Sim 444 Não 4 | resultado: approved
+
+## C:358126 | PL 1481/2007 | ementa: Altera a Lei nº 9.394, de 20 de dezembro de 1996, e a Lei nº 9.998, de 17 de agosto de 2000, para dispor sobre o acesso a redes digitais de informação em estabelecimentos de ensino. NOVA EMENTA: Altera as Leis nºs 9.472, de 16 de julho de 1997, e 9.998, de 17 de agosto de 2000, para dispor sobre a finalidade, a destinação dos recursos, a administração e os objetivos do Fundo de
+   voto principal do projeto: C:358126-146 (2019-12-09): "" — Sim 5, Não 251
+C:358126-146 | 2019-12-09 |  | Sim 5 Não 251 | resultado: rejected
+C:358126-152 | 2019-12-09 | Votação em turno único. | Sim 1 Não 328 | resultado: rejected
+
+## C:405482 | PL 3776/2008 | ementa: Altera a Lei nº 11.738, de 16 de julho de 2008, que regulamenta a alínea "e" do inciso III do caput do art. 60 do Ato das Disposições Constitucionais Transitórias, para instituir o piso salarial profissional nacional para os profissionais do magistério público da educação básica.
+   voto principal do projeto: C:532363-24 (2021-08-17): "" — Sim 145, Não 274
+C:532363-24 | 2021-08-17 |  | Sim 145 Não 274 | resultado: rejected
+C:532363-27 | 2021-08-17 | Votação em turno único. | Sim 225 Não 222 | resultado: approved
+
+## C:459323 | PL 1558/2021 | ementa: Acrescenta § 3º ao art. 401 da Consolidação das Leis do Trabalho, a fim de estabelecer multa para combater a diferença de remuneração verificada entre homens e mulheres no Brasil.
+   voto principal do projeto: C:2279545-9 (2021-04-29): "" — Sim 390, Não 19
+C:2279545-9 | 2021-04-29 |  | Sim 390 Não 19 | resultado: approved
+
+## C:46249 | PL 6299/2002 | ementa: Altera os arts 3º e 9º da Lei nº 7.802, de 11 de julho de 1989, que dispõe sobre a pesquisa, a experimentação, a produção, a embalagem e rotulagem, o transporte, o armazenamento, a comercialização, a propaganda comercial, a utilização, a importação, a exportação, o destino final dos resíduos e embalagens, o registro, a classificação, o controle, a inspeção e a fiscalização de a
+   voto principal do projeto: C:2312874-9 (2022-02-09): "" — Sim 327, Não 71
+C:2312874-9 | 2022-02-09 |  | Sim 327 Não 71 | resultado: approved
+C:46249-294 | 2022-02-09 |  | Sim 63 Não 295 | resultado: rejected
+C:46249-297 | 2022-02-09 | Votação em turno único. | Sim 301 Não 150 | resultado: approved
+C:46249-305 | 2022-02-09 | Votação do DTQ 1: PT: Destaque do § 1º do Art. 3° do Substitutivo oferecido ao PL 6.299/2002. (art. 161, I) | Sim 271 Não 128 | resultado: ?
+C:46249-312 | 2022-02-09 | Votação do DTQ 2: PT: Destaque do §6º do Art. 3° do Substitutivo oferecido ao PL 6.299/2002. (art. 161, I) | Sim 272 Não 125 | resultado: ?
+C:46249-313 | 2022-02-09 | Votação do DTQ 4: PT: destaque do §9 do Art. 3 do Substitutivo oferecido ao PL 6.299/2002 (art. 161, I) | Sim 266 Não 126 | resultado: ?
+C:46249-316 | 2022-02-09 | Votação do DTQ 6: PSB: Emenda de Plenário nº 8 (art. 161, III). | Sim 127 Não 256 | resultado: rejected
+C:46249-319 | 2022-02-09 | Votação do DTQ 9: PSOL: destqque do art. 4º do substitutivo apresentado ao PL 6299/2002, para fins de supressão (art. 161, I). | Sim 264 Não 133 | resultado: ?
+C:46249-325 | 2022-02-09 | Votação do DTQ 7: PSB: Emenda de Plenário nº 9 (161, II). | Sim 140 Não 276 | resultado: rejected
+
+## C:484645 | PEC 517/2010 | ementa: Dá nova redação às alíneas "b" e "c" do inciso XXIII do art. 21 da Constituição Federal, para autorizar a produção, a comercialização e a utilização de radioisótopos para a pesquisa e uso médicos.
+   voto principal do projeto: C:484645-141 (2022-03-23): "" — Sim 117, Não 328
+C:484645-141 | 2022-03-23 |  | Sim 117 Não 328 | resultado: rejected
+C:484645-146 | 2022-03-23 |  | Sim 113 Não 346 | resultado: rejected
+C:484645-149 | 2022-03-23 | Votação em primeiro turno. | Sim 363 Não 112 | resultado: approved
+C:484645-152 | 2022-03-23 | Votação do DTQ 2: PT: destaque, com vistas à rejeição, da alínea b, do inciso XXIII, do art. 21, da PEC 517/2010. (art. 161, I) | Sim 331 Não 117 | resultado: ?
+C:2318583-7 | 2022-04-05 |  | Sim 110 Não 269 | resultado: rejected
+C:484645-160 | 2022-04-05 | Continuação da votação em primeiro turno. | Sim 38 Não 264 | resultado: rejected
+C:484645-163 | 2022-04-05 | Votação do DTQ 3: PT: destaque, com vistas à rejeição, da alínea c, do inciso XXIII, do art. 21, da PEC 517/2010. (art. 161, I). | Sim 337 Não 119 | resultado: ?
+C:484645-166 | 2022-04-05 | Votação do DTQ 1: PSOL: Destaque para votação em separado da expressão “a produção,”, constante da alínea “c” do inciso XXIII do art. 21 da Constituição Federal, na redação do art. 1° da Proposta de Emenda à Constituição n. 517/2010, para fins de supressão. (art. 161, I). | Sim 320 Não 118 | resultado: ?
+C:484645-169 | 2022-04-05 | Votação do DTQ 4: PT: destaque, com vistas à rejeição, do artigo 2º da PEC 517/2010 (art. 161, I). | Sim 321 Não 110 | resultado: ?
+C:484645-180 | 2022-04-05 | Votação do DTQ 4: PT: destaque, com vistas à rejeição, do artigo 2º da PEC 517/2010 (art. 161, I). | Sim 116 Não 322 | resultado: rejected
+C:484645-183 | 2022-04-05 | Votação em segundo turno. | Sim 334 Não 116 | resultado: approved
+C:484645-186 | 2022-04-05 | Votação do DTQ 1: PT (2º turno): destaque, com vistas à rejeição, da alínea b, do inciso XXIII, do art. 21, da PEC 517/2010 (segundo turno). (art. 161, I) | Sim 327 Não 117 | resultado: ?
+C:484645-188 | 2022-04-05 | Votação do DTQ 2: PT (2º turno): destaque, com vistas à rejeição, da alínea c, do inciso XXIII, do art. 21, da PEC 517/2010 (segundo turno). (art. 161, I). | Sim 327 Não 112 | resultado: ?
+C:484645-192 | 2022-04-05 | Votação do DTQ 4: PSOL (2º turno): destaque para votação em separado da expressão “a produção,”, constante da alínea “c” do inciso XXIII do art. 21 da Constituição Federal, na redação do art. 1° da Proposta de Emenda à Constituição n. 517/2010, para fins de supressão (segundo turno). (art. 161, I) | Sim 326 Não 117 | resultado: ?
+
+## C:491042 | PL 96/2011 | ementa: Altera o § 4º e acrescenta os §§ 5º e 6º ao art. 33 da Lei nº 9.504, de 30 de setembro de 1997, para majorar a multa e ampliar o conceito de pesquisa fraudulenta, além de estabelecer novas sanções.
+   voto principal do projeto: C:622828-9 (2022-10-18): "" — Sim 295, Não 120
+C:622828-9 | 2022-10-18 |  | Sim 295 Não 120 | resultado: approved
+
+## C:498347 | PL 886/2021 | ementa: Altera a Lei nº 9.277, de 10 de maio de 1996, para dispor sobre a cobrança de pedágio. NOVA EMENTA: Altera as Leis nºs 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), e 10.233, de 5 de junho de 2001, para estabelecer condições para a implementação da cobrança pelo uso de rodovias por meio de sistemas de livre passagem.
+   voto principal do projeto: C:498347-156 (2021-05-06): "Votação, em turno único, do Substitutivo do Senado Federal ao Projeto de Lei nº 1.023-D, de 2011." — Sim 276, Não 90
+C:498347-156 | 2021-05-06 | Votação, em turno único, do Substitutivo do Senado Federal ao Projeto de Lei nº 1.023-D, de 2011. | Sim 276 Não 90 | resultado: approved
+
+## C:500843 | PEC 22/2011 | ementa: Acrescenta parágrafos ao art. 198 da Constituição Federal, dispondo sobre a responsabilidade financeira da União, co-responsável pelo SUS, na política remuneratória e na valorização dos profissionais que exercem atividades de agente comunitário de saúde e de agente de combate às endemias. NOVA EMENTA: Acrescenta os §§ 7º, 8º, 9º, 10 e 11 ao art. 198 da Constituição Federal, par
+   voto principal do projeto: C:500843-157 (2022-03-23): "Votação em primeiro turno." — Sim 438, Não 9
+C:500843-155 | 2022-03-23 | Votação do DTQ 1: PCdoB: Destaque de preferência para o projeto original da PEC 22/2011 (art. 161, IV) | Sim 443 Não 12 | resultado: approved
+C:500843-157 | 2022-03-23 | Votação em primeiro turno. | Sim 438 Não 9 | resultado: approved
+C:500843-160 | 2022-03-23 | Votação das emendas de comissão, com parecer pela rejeição. | Sim 8 Não 396 | resultado: rejected
+C:500843-165 | 2022-03-23 | Votação do DTQ 4: NOVO: destaque para votação em separado do §8º do artigo 198 da Constituição Federal, alterado pelo art. 1º do Substitutivo adotado pela Comissão Especial à PEC 22/11, com vistas à sua supressão. (REDIRECIONADO PARA O §11, ART. 198 ALTERADO PELO ART. 1º DA PROPOSTA ORIGINAL) (art. 161, I) | Sim 396 Não 42 | resultado: ?
+C:500843-172 | 2022-03-23 | Votação em segundo turno. | Sim 450 Não 12 | resultado: approved
+
+## C:508965 | PEC 39/2011 | ementa: Revoga o inciso VII do art. 20 da Constituição e o § 3º do art. 49 do Ato das Disposições Constitucionais Transitórias, para extinguir o instituto do terreno de marinha e seus acrescidos e para dispor sobre a propriedade desses imóveis.
+   voto principal do projeto: C:2315020-6 (2022-02-22): "" — Sim 311, Não 102
+C:2315020-6 | 2022-02-22 |  | Sim 311 Não 102 | resultado: approved
+C:508965-135 | 2022-02-22 |  | Sim 92 Não 332 | resultado: rejected
+C:508965-141 | 2022-02-22 |  | Sim 91 Não 326 | resultado: rejected
+C:508965-143 | 2022-02-22 | Votação em primeiro turno. | Sim 377 Não 93 | resultado: approved
+C:508965-147 | 2022-02-22 | Votação do DTQ 3: PSol: Destaque para votação em separado do inciso IV do art. 2º do substitutivo apresentado à Proposta de Emenda à Constituição nº 39/2011, para fins de supressão (art. 161, I). | Sim 340 Não 125 | resultado: ?
+C:508965-150 | 2022-02-22 | Votação do DTQ 4: PT: Destaque, com vistas à rejeição, do inciso V do art. 2º do Substitutivo oferecido à PEC 39/2011 (art. 161, I). | Sim 336 Não 124 | resultado: ?
+C:508965-153 | 2022-02-22 | Votação do DTQ 1: PT: Destaque, com vistas à rejeição, do parágrafo único do art. 4º do Substitutivo oferecido à PEC 39/2011 (art. 161, I). | Sim 346 Não 125 | resultado: ?
+C:508965-156 | 2022-02-22 | Votação da Emenda de Redação nº 1. | Sim 387 Não 32 | resultado: approved
+C:508965-161 | 2022-02-22 | Votação da Emenda de Redação nº 1. | Sim 311 Não 102 | resultado: approved
+C:508965-164 | 2022-02-22 | Votação em segundo turno. | Sim 389 Não 91 | resultado: approved
+C:508965-166 | 2022-02-22 | Votação do DTQ 1: PSol: Destaque para votação em separado do inciso IV do art. 2º do substitutivo apresentado à Proposta de Emenda à Constituição nº 39/2011, para fins de supressão (art. 161, I). | Sim 347 Não 126 | resultado: ?
+
+## C:510329 | PL 1685/2011 | ementa: Autoriza transferência, a título de contribuição de capital, mediante celebração de convênios entre a União e as Associações de Proteção e Assistência aos Condenados - APACs, em atenção ao disposto no §6º do art. 12 da Lei nº 4.320, de 17 de março de 1964. NOVA EMENTA: Autoriza transferência de capital, a título de contribuição, mediante celebração de convênios entre a União e 
+   voto principal do projeto: C:2214151-11 (2019-09-10): "" — Sim 329, Não 11
+C:2214151-11 | 2019-09-10 |  | Sim 329 Não 11 | resultado: approved
+
+## C:51185 | PL 6764/2002 | ementa: Acrescenta o Título XII, que trata dos crimes contra o Estado Democrático de Direito, à Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, e dá outras providências.
+   voto principal do projeto: C:2275355-10 (2021-04-20): "" — Sim 386, Não 57
+C:2275355-10 | 2021-04-20 |  | Sim 386 Não 57 | resultado: approved
+
+## C:516111 | PEC 70/2011 | ementa: Altera o procedimento de apreciação das medidas provisórias pelo Congresso Nacional.
+   voto principal do projeto: C:516111-267 (2019-06-05): "Votação em segundo turno." — Sim 351, Não 0
+C:516111-259 | 2019-06-05 | EMA 1: Bloco PP: Votação da Emenda Aglutinativa nº 1. | Sim 394 Não 0 | resultado: approved
+C:516111-261 | 2019-06-05 | Votação da Emenda de Redação nº 1. | Sim 339 Não 0 | resultado: approved
+C:516111-267 | 2019-06-05 | Votação em segundo turno. | Sim 351 Não 0 | resultado: approved

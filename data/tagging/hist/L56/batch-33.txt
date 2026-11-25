@@ -1,0 +1,82 @@
+## C:2312948 | PLP 211/2021 | ementa: Limita a tributação de bens essenciais, com fulcro na Dignidade da Pessoa Humana, fundamento da República Federativa do Brasil e na garantia dos objetivos fundamentais, dispostos no art. 3º da Constituição Federal.
+   voto principal do projeto: C:2312948-43 (2022-05-25): "" — Sim 104, Não 247
+C:2312948-113 | 2022-05-25 | Votação do DTQ 16: PT: Emenda de Plenário nº 7, apresentada ao PLP 18/2022 (art. 161, II). | Sim 131 Não 238 | resultado: rejected
+C:2312948-116 | 2022-05-25 | Votação do DTQ 1: PDT: Emenda de Plenário nº 1 apresentada ao PLP 18/22 (art. 161, II). | Sim 98 Não 263 | resultado: rejected
+C:2312948-118 | 2022-05-25 | Votação da Emenda de Redação nº 1. | Sim 354 Não 4 | resultado: approved
+C:2312948-43 | 2022-05-25 |  | Sim 104 Não 247 | resultado: rejected
+C:2312948-57 | 2022-05-25 |  | Sim 113 Não 263 | resultado: rejected
+C:2312948-71 | 2022-05-25 |  | Sim 77 Não 298 | resultado: rejected
+C:2312948-74 | 2022-05-25 | Votação em turno único. | Sim 403 Não 10 | resultado: approved
+C:2312948-77 | 2022-05-25 | Votação das Emendas de Plenário ao Substitutivo com parecer pela rejeição, ressalvados os destaques. | Sim 116 Não 273 | resultado: rejected
+C:2312948-80 | 2022-05-25 | Votação do DTQ 18: PCdoB: Emenda de Plenário nº 11 apresentada ao PLP 211/21 (art. 161, II). | Sim 124 Não 239 | resultado: rejected
+C:2312948-83 | 2022-05-25 | Votação do DTQ 19: PSB: emenda de plenário nº 8 apresentada ao PLP 18/2022 (apensado ao PLP 211/2021). (art. 161, II). | Sim 131 Não 215 | resultado: rejected
+C:2312948-89 | 2022-05-25 | Votação do DTQ 2: PSOL: Emenda de Plenário nº 2 apresentada ao PLP 211/21 (art. 161, II). | Sim 123 Não 248 | resultado: rejected
+C:2312948-92 | 2022-05-25 | Votação do DTQ 20: MDB: Emenda de Plenário 13, ao PLP 211/21 (art. 161, II). | Sim 229 Não 165 | resultado: rejected
+C:2312948-93 | 2022-05-25 | Votação do DTQ 10: PT: Emenda de Plenário nº 10 apresentada ao PLP 211/21 (art. 161, II). | Sim 117 Não 257 | resultado: rejected
+C:2312948-96 | 2022-05-25 | Votação do DTQ 11: PT: Emenda de Plenário nº 7 apresentada ao PLP 211/21 (art. 161, II). | Sim 102 Não 251 | resultado: rejected
+
+## C:2313170 | MPV 1080/2021 | ementa: Altera a Lei Complementar nº 89, de 18 de fevereiro de 1997, que institui o Fundo para Aparelhamento e Operacionalização das Atividades fim da Polícia Federal - FUNAPOL, e dá outras providências. NOVA EMENTA: Altera a Lei Complementar nº 89, de 18 de fevereiro de 1997, que institui o Fundo para Aparelhamento e Operacionalização das Atividades-fim da Polícia Federal (Funapol)
+   voto principal do projeto: C:2313170-43 (2022-05-11): "" — Sim 11, Não 343
+C:2313170-43 | 2022-05-11 |  | Sim 11 Não 343 | resultado: rejected
+
+## C:2313396 | PL 4576/2021 | ementa: Dispõe sobre a Associação de Representação de Municípios. NOVA EMENTA: Dispõe sobre a Associação de Representação de Municípios; e altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).
+   voto principal do projeto: C:2313396-56 (2022-04-27): "Votação em turno único." — Sim 384, Não 5
+C:2313396-56 | 2022-04-27 | Votação em turno único. | Sim 384 Não 5 | resultado: approved
+
+## C:2313545 | MPV 1081/2021 | ementa: Autoriza o Poder Executivo federal a doar imunizantes contra a covid-19 a outros países em caráter de cooperação humanitária internacional.
+   voto principal do projeto: C:2313545-34 (2022-05-03): "Votação, quanto ao mérito, em turno único." — Sim 342, Não 2
+C:2313545-34 | 2022-05-03 | Votação, quanto ao mérito, em turno único. | Sim 342 Não 2 | resultado: approved
+C:2313545-40 | 2022-05-03 | Votação do DTQ 1: PT: Emenda de Comissão n. 5 (art. 161, II). | Sim 127 Não 225 | resultado: rejected
+C:2313545-43 | 2022-05-03 | Votação do DTQ 2: PDT: Emenda de Plenário nº 1 (art. 161, II). | Sim 125 Não 228 | resultado: rejected
+
+## C:2313729 | MPV 1085/2021 | ementa: Dispõe sobre o Sistema Eletrônico dos Registros Públicos SERP , de que trata o art. 37 da Lei nº 11.977, de 7 de julho de 2009, e altera a Lei nº 4.591, de 16 de dezembro de 1964, a Lei nº 6.015, de 31 de dezembro de 1973, a Lei nº 6.766, de 19 de dezembro de 1979, a Lei nº 8.935, de 18 de novembro de 1994, a Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, a Lei nº 11.9
+   voto principal do projeto: C:2313729-44 (2022-05-05): "Votação, quanto ao mérito, em turno único." — Sim 259, Não 64
+C:2313729-44 | 2022-05-05 | Votação, quanto ao mérito, em turno único. | Sim 259 Não 64 | resultado: approved
+C:2313729-50 | 2022-05-05 | Votação do DTQ 11: PSOL: Destaque para votação em separado do art. 3°, inciso VII, alínea ‘b”, da Medida Provisória n. 1.085, de 2021, para fins de sua supressão (art. 161, I). | Sim 213 Não 78 | resultado: ?
+C:2313729-60 | 2022-05-05 | Votação do DTQ 6: PT: Emenda de Comissão nº 19 (art. 161, II). | Sim 79 Não 224 | resultado: rejected
+C:2313729-71 | 2022-05-05 | Votação do DTQ 5: PT: Emenda de Comissão nº 21 (art. 161, II). | Sim 83 Não 217 | resultado: rejected
+C:2313729-92 | 2022-05-31 | Votação das Emendas do Senado Federal à Medida Provisória, com parecer pela aprovação. | Sim 366 Não 8 | resultado: approved
+
+## C:2313734 | MPV 1089/2021 | ementa: Altera a Lei nº 6.009, de 26 de dezembro de 1973, a Lei nº 7.565, de 19 de dezembro de 1986, e a Lei nº 11.182, de 27 de setembro de 2005, para dispor sobre o transporte aéreo. NOVA EMENTA: Altera as Leis nºs 6.009, de 26 de dezembro de 1973, 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), 13.448, de 5 de junho de 2017, 11.182, de 27 de setembro de 2005, 9.
+   voto principal do projeto: C:2313734-37 (2022-04-26): "" — Sim 21, Não 254
+C:2313734-37 | 2022-04-26 |  | Sim 21 Não 254 | resultado: rejected
+C:2313734-42 | 2022-04-26 |  | Sim 12 Não 254 | resultado: rejected
+C:2313734-53 | 2022-04-26 |  | Sim 6 Não 279 | resultado: rejected
+C:2313734-59 | 2022-04-26 | Votação, quanto ao mérito, em turno único. | Sim 294 Não 90 | resultado: approved
+C:2313734-62 | 2022-04-26 | Votação do DTQ 11: PP: Emenda de Plenário nº 6 (art. 161, II). | Sim 205 Não 177 | resultado: approved
+C:2313734-65 | 2022-04-26 | Votação do DTQ 1: PSOL: Destaque para votação em separado do art. 49 da Lei nº 11.182, de 27 de setembro de 2005, na redação dada pelo art. 4° do PLV, para fins de sua supressão. (art. 161, I). | Sim 269 Não 90 | resultado: ?
+C:2313734-70 | 2022-04-26 | Votação do DTQ 7: PT: destaque, com vistas à rejeição, do art. 9 do PLV apresentado à MPV 1.089/2021. (art. 161, I). | Sim 254 Não 82 | resultado: ?
+C:2313734-73 | 2022-04-26 | Votação do DTQ 10: PCdoB: Emenda de Plenário nº 4 (art. 161, II). | Sim 273 Não 148 | resultado: approved
+C:2313734-76 | 2022-04-26 | Votação do DTQ 5: PT: destaque, com vistas à rejeição, da alínea "e" do inciso III do art. 11 do PLV apresentado à MPV 1.089/2021. (art. 161, I). | Sim 299 Não 92 | resultado: ?
+C:2313734-83 | 2022-04-26 | Votação do DTQ 6: PT: destaque, com vistas à rejeição, da alínea "k" do inciso III do art. 11 do PLV apresentado à MPV 1.089/2021 (art. 161, I). | Sim 278 Não 81 | resultado: ?
+C:2313734-116 | 2022-05-24 | Votação do DTQ 1: PSOL (Sileg DTQ 12): Emenda do Senado Federal nº 1, apresentada à Medida Provisória n. 1.089, de 2021, para fins de sua rejeição (art. 161, II). | Sim 231 Não 77 | resultado: approved
+C:2313734-120 | 2022-05-24 | Votação do DTQ 2: PCdoB (Sileg DTQ 13): Emenda do Senado Federal n. 2 apresentada ao MP1089/21. (com vistas a sua rejeição) (art. 161, II). | Sim 266 Não 82 | resultado: approved
+
+## C:2313735 | MPV 1090/2021 | ementa: Estabelece os requisitos e as condições para realização das transações resolutivas de litígio relativas à cobrança de créditos do Fundo de Financiamento Estudantil - Fies e altera a Lei nº 10.260, de 12 de julho de 2001, a Lei nº 10.522, de 19 de julho de 2002, e a Lei nº 12.087, de 11 de novembro de 2009 NOVA EMENTA: Altera as Leis nºs 10.260, de 12 de julho de 2001, 10.522, d
+   voto principal do projeto: C:2313735-47 (2022-05-17): "Votação, quanto ao mérito, em turno único." — Sim 405, Não 9
+C:2313735-47 | 2022-05-17 | Votação, quanto ao mérito, em turno único. | Sim 405 Não 9 | resultado: approved
+C:2313735-50 | 2022-05-17 | Votação do DTQ 16: NOVO: destaque para votação em separado do §3º do art. 5º da MPV 1090/21, com vistas a substituição do mesmo dispositivo do PLV apresentado à MPV 1090/21. (art. 161, I). | Sim 24 Não 369 | resultado: rejected
+C:2313735-55 | 2022-05-17 | Votação do DTQ 12: UNIÃO: Emenda de Comissão nº 48 (art. 161, II). | Sim 262 Não 141 | resultado: approved
+C:2313735-56 | 2022-05-17 | Votação do DTQ 11: UNIÃO: Emenda de Comissão nº 74 (art. 161, II). | Sim 150 Não 215 | resultado: rejected
+C:2313735-59 | 2022-05-17 | Votação do DTQ 6: PCdoB: destaque da expressão “que estejam cadastrados no CadÚnico ou que tenham sido beneficiários do Auxílio Emergencial 2021,” contido no inciso II, do §4, art 5º-A inserido no art. 7 do PLV apresentado à MP 1090/2021 com vistas a sua supressão (art. 161, I). | Sim 262 Não 141 | resultado: ?
+C:2313735-62 | 2022-05-17 | Votação do DTQ 7: PT: destaque, com vistas à rejeição, do artigo 10 do PLV apresentado à MPV1090/2021. (art. 161, I). | Sim 262 Não 141 | resultado: ?
+C:2313735-75 | 2022-05-17 | Votação do DTQ 5: PDT: destaque para votação em separado do Art.12-A da Lei 13.988/2020 na redação dada pelo Art. 10 do PLV (art. 161, I). | Sim 30 Não 342 | resultado: ?
+C:2313735-78 | 2022-05-17 | Votação do DTQ 17: PSOL: destaque para votação em separado do Capítulo V do Projeto de Lei de Conversão apresentado à Medida Provisória n. 1.090, de 2021, para fins de sua supressão. (art. 161, I). | Sim 260 Não 123 | resultado: ?
+C:2313735-80 | 2022-05-17 | Votação do DTQ 13: PT: destaque, com vistas à rejeição, da expressão “ou virtual” constante do §2º do art. 3º da Lei 10.861/2004, alterado pelo art. 11 do PLV apresentado à MPV 1090/2021. (art. 161, I). | Sim 270 Não 120 | resultado: ?
+
+## C:2313736 | MPV 1091/2021 | ementa: Dispõe sobre o valor do salário mínimo a vigorar a partir de 1º de janeiro de 2022.
+   voto principal do projeto: C:2313736-41 (2022-05-24): "Votação, quanto ao mérito, em turno único." — Sim 355, Não 0
+C:2313736-41 | 2022-05-24 | Votação, quanto ao mérito, em turno único. | Sim 355 Não 0 | resultado: approved
+C:2313736-46 | 2022-05-24 | Votação do DTQ 6: PT: Emenda de Comissão n. 7 (art. 161, II). | Sim 120 Não 226 | resultado: rejected
+C:2313736-54 | 2022-05-24 | Votação do DTQ 7: PT: Emenda de Plenário n. 6 (art. 161, II). | Sim 126 Não 222 | resultado: rejected
+
+## C:2313738 | MPV 1093/2021 | ementa: Altera a Lei nº 8.212, de 24 de julho de 1991, para dispor sobre a divulgação do resultado financeiro do Regime Geral de Previdência Social NOVA EMENTA: Altera a Lei nº 8.212, de 24 de julho de 1991, para dispor sobre a divulgação do resultado financeiro do Regime Geral de Previdência Social; e revoga dispositivos da Lei nº 12.546, de 14 de dezembro de 2011.
+   voto principal do projeto: C:2313738-33 (2022-05-24): "" — Sim 78, Não 256
+C:2313738-33 | 2022-05-24 |  | Sim 78 Não 256 | resultado: rejected
+C:2313738-41 | 2022-05-24 | Votação, quanto ao mérito, em turno único. | Sim 346 Não 9 | resultado: approved
+C:2313738-48 | 2022-05-24 | Votação do DTQ 1: PCdoB: Destaque para votação em separado do Art. 2º da MP 1.093/2021, para fins de supressão. (art. 161, I). | Sim 257 Não 87 | resultado: ?
+
+## C:2313739 | MPV 1094/2021 | ementa: Altera a Lei nº 11.371, de 28 de novembro de 2006, para dispor sobre a redução na alíquota do imposto sobre a renda incidente sobre as operações que menciona.
+   voto principal do projeto: C:2313739-33 (2022-05-04): "Votação, quanto ao mérito, em turno único." — Sim 408, Não 20
+C:2313739-33 | 2022-05-04 | Votação, quanto ao mérito, em turno único. | Sim 408 Não 20 | resultado: approved
+C:2313739-36 | 2022-05-04 | Votação do DTQ 1: PT: Emenda de Comissão n 3 (art. 161, II). | Sim 158 Não 244 | resultado: rejected

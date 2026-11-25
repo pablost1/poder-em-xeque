@@ -1,0 +1,75 @@
+## C:2222884 | MPV 897/2019 | ementa: Institui o Fundo de Aval Fraterno, dispõe sobre o patrimônio de afetação de propriedades rurais, a Cédula Imobiliária Rural, a escrituração de títulos de crédito e a concessão de subvenção econômica para empresas cerealistas, e dá outras providências. NOVA EMENTA:Institui o Fundo Garantidor Solidário (FGS); dispõe sobre o patrimônio rural em afetação, a Cédula Imobiliária Rural
+   voto principal do projeto: C:2222884-39 (2020-02-11): "" — Sim 5, Não 255
+C:2222884-39 | 2020-02-11 |  | Sim 5 Não 255 | resultado: rejected
+C:2222884-43 | 2020-02-11 |  | Sim 3 Não 320 | resultado: rejected
+C:2222884-47 | 2020-02-11 | Votação preliminar em turno único. | Sim 293 Não 2 | resultado: approved
+C:2222884-48 | 2020-02-11 | Votação preliminar em turno único. | Sim 318 Não 2 | resultado: approved
+C:2222884-54 | 2020-02-11 | Continuação da votação em turno único. | Sim 4 Não 349 | resultado: rejected
+C:2222884-57 | 2020-02-11 | Votação do DTQ 1: PT: Destaque de preferência para a MPV 897/2019 (161, IV). | Sim 29 Não 272 | resultado: rejected
+C:2222884-59 | 2020-02-11 | Votação da admissibilidade do destaque simples. | Sim 4 Não 305 | resultado: rejected
+C:2222884-62 | 2020-02-11 | Votação, quanto ao mérito, em turno único. | Sim 329 Não 58 | resultado: approved
+C:2222884-67 | 2020-02-17 | Continuação da votação em turno único. | Sim 2 Não 279 | resultado: rejected
+C:2222884-70 | 2020-02-17 | Votação do DTQ 15: PCdoB: Destaque do art. 28 do PLV apresentado à MPV 897/2019 (161, I). | Sim 271 Não 67 | resultado: ?
+C:2222884-73 | 2020-02-17 | Votação do DTQ 3: PT: Destaque do § 1º do artigo 1º da Lei n. 8.427/1992, na redação dada pelo artigo 41 do PLV n. 30/2019, apresentado à MPV n. 897/2019 (161, I). | Sim 315 Não 53 | resultado: ?
+C:2222884-104 | 2020-02-18 | Votação do DTQ 2: PT: Destaque do inciso VII do art. 64, do PLV n. 30/2019, apresentado à MPV n. 897/2019 (161, I). | Sim 303 Não 98 | resultado: ?
+C:2222884-77 | 2020-02-18 | Continuação da votação em turno único. | Sim 4 Não 292 | resultado: rejected
+C:2222884-80 | 2020-02-18 | Votação do DTQ 16: Democratas: Destaque para votação em separado do art. 18 constante do art. 42 do PLV apresentado à MP 897/2019 com o objetivo de suprimí-lo (161, I). | Sim 29 Não 288 | resultado: ?
+C:2222884-83 | 2020-02-18 | Votação do DTQ 14: PSOL: Destaque para votação em separado do art. 47 do PLV apresentado à MPV n. 897/2019, para sua supressão (161, I). | Sim 256 Não 15 | resultado: ?
+C:2222884-86 | 2020-02-18 | Votação do DTQ 8: PSD: Destaque para votação do art. 55 do PLV à MPV 897/2019, com vistas à sua supressão (161, V). | Sim 20 Não 243 | resultado: ?
+C:2222884-88 | 2020-02-18 | Votação do DTQ 5: Democratas: Emenda 78 (161, II). | Sim 259 Não 27 | resultado: approved
+C:2222884-98 | 2020-02-18 | Continuação da votação em turno único. | Sim 3 Não 334 | resultado: rejected
+
+## C:2223951 | PL 5385/2019 | ementa: Altera o art. 311 do Decreto-lei n° 2.848, de 7 de dezembro de 1940 - Código Penal, para dispor sobre adulteração de sinal identificador de veículo. NOVA EMENTA: Altera o art. 311 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para criminalizar a conduta de quem adultera sinal identificador de veículo não categorizado como automotor.
+   voto principal do projeto: C:2224574-5 (2019-10-16): "" — Sim 335, Não 1
+C:2224574-5 | 2019-10-16 |  | Sim 335 Não 1 | resultado: approved
+
+## C:2224067 | PL 5387/2019 | ementa: Dispõe sobre o mercado de câmbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no País e a prestação de informações ao Banco Central do Brasil.
+   voto principal do projeto: C:2258717-9 (2020-12-08): "" — Sim 296, Não 105
+C:2258717-9 | 2020-12-08 |  | Sim 296 Não 105 | resultado: approved
+C:2224067-44 | 2020-12-22 |  | Sim 106 Não 346 | resultado: rejected
+C:2224067-58 | 2020-12-22 |  | Sim 6 Não 259 | resultado: rejected
+C:2224067-81 | 2021-02-10 | Continuação da votação em turno único. | Sim 102 Não 285 | resultado: rejected
+C:2224067-84 | 2021-02-10 | Votação do DTQ 1: PT: destaque da Emenda de Plenário n. 1 (art. 161, II). | Sim 7 Não 290 | resultado: rejected
+C:2224067-87 | 2021-02-10 | Votação do DTQ 4: PDT: Destaque para votação em separado do Inciso IX do art 5° do pl 5387/2019, para que o mesmo seja suprimido. (art. 161, I) | Sim 301 Não 12 | resultado: ?
+C:2224067-90 | 2021-02-10 | Votação do DTQ 6: PT: Destaque, com vistas à rejeição, do art. 15 do Substitutivo oferecido ao PL n° 5.387/2019. (art. 161, I) | Sim 297 Não 12 | resultado: ?
+C:2224067-92 | 2021-02-10 | Votação do DTQ 8: PT: Destaque, com vistas à rejeição, do art. 26 do Substitutivo oferecido ao PL n° 5.387/2019. (art. 161, I) | Sim 306 Não 10 | resultado: ?
+
+## C:2224225 | PLP 232/2019 | ementa: Dispõe sobre a transposição e a transferência de saldos financeiros, provenientes de repasses federais, nos Fundos de Saúde dos Estados, do Distrito Federal e dos Municípios.
+   voto principal do projeto: C:2224225-63 (2020-03-31): "Votação em turno único." — Sim 484, Não 2
+C:2224225-63 | 2020-03-31 | Votação em turno único. | Sim 484 Não 2 | resultado: approved
+
+## C:2224532 | PEC 162/2019 | ementa: Altera a redação do inciso VIII-A do artigo 93 da Constituição Federal, para permitir a permuta entre juízes de direito no âmbito de tribunais de justiça de diferentes unidades da federação. NOVA EMENTA: Altera a redação do inciso VIII-A do caput do art. 93 da Constituição Federal, para permitir a permuta entre juízes de direito vinculados a diferentes tribunais.
+   voto principal do projeto: C:2224532-74 (2022-03-09): "Votação em primeiro turno." — Sim 372, Não 4
+C:2224532-74 | 2022-03-09 | Votação em primeiro turno. | Sim 372 Não 4 | resultado: approved
+C:2224532-83 | 2022-03-09 | Votação em segundo turno. | Sim 415 Não 3 | resultado: approved
+
+## C:2224754 | PL 5478/2019 | ementa: Estabelece critérios de distribuição dos valores arrecadados com os leilões dos volumes excedentes ao limite a que se refere o § 20 do art. 10 da Lei na 12.276, de 30 de junho de 2010 e dá outras providências. NOVA EMENTA: Estabelece critérios de distribuição dos valores arrecadados com os leilões dos volumes excedentes ao limite a que se refere o § 2º do art. 1º da Lei nº 12.2
+   voto principal do projeto: C:2224760-5 (2019-10-09): "" — Sim 336, Não 9
+C:2224760-5 | 2019-10-09 |  | Sim 336 Não 9 | resultado: approved
+
+## C:2224755 | PL 5479/2019 | ementa: Altera a Lei n. 4.117, de 27 de agosto de 1962, para dispor sobre a transferência, comercialização e cessão do tempo de programação para a produção independente.
+   voto principal do projeto: C:2297552-15 (2022-05-31): "" — Sim 77, Não 187
+C:2297552-15 | 2022-05-31 |  | Sim 77 Não 187 | resultado: rejected
+
+## C:2227917 | PL 5815/2019 | ementa: Prorroga o prazo para utilização do Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica (RECINE) e os benefícios fiscais previstos nos arts. 1º e 1º-A da Lei nº 8.685, de 20 de julho de 1993, e no art. 44 da Medida Provisória nº 2.228-1, de 6 de setembro de 2001.
+   voto principal do projeto: C:2227917-37 (2019-12-04): "" — Sim 31, Não 234
+C:2227917-37 | 2019-12-04 |  | Sim 31 Não 234 | resultado: rejected
+C:2227917-42 | 2019-12-04 | Votação em turno único. | Sim 290 Não 65 | resultado: approved
+
+## C:2228151 | PL 5829/2019 | ementa: Art. 1º O art. 26 da Lei nº 9.427, de 26 de dezembro de 1996, passa a vigorar com as seguintes redações. NOVA EMENTA: Institui o marco legal da microgeração e minigeração distribuída, o Sistema de Compensação de Energia Elétrica (SCEE) e o Programa de Energia Renovável Social (PERS); altera as Leis nºs 10.848, de 15 de março de 2004, e 9.427, de 26 de dezembro de 1996; e dá out
+   voto principal do projeto: C:2265440-8 (2020-12-08): "" — Sim 374, Não 42
+C:2265440-8 | 2020-12-08 |  | Sim 374 Não 42 | resultado: approved
+C:2228151-115 | 2021-08-18 | Votação em turno único. | Sim 476 Não 3 | resultado: approved
+C:2228151-134 | 2021-08-18 | Votação do DTQ 8: PSOL: Emenda de Plenário n. 1 (art. 161, II). | Sim 150 Não 309 | resultado: rejected
+
+## C:2228665 | PLP 223/2019 | ementa: Altera a Lei Complementar nº 87, de 13 de setembro de 1996 (Lei Kandir), para prorrogar prazos em relação à apropriação dos créditos do imposto estadual sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação (ICMS).
+   voto principal do projeto: C:2228665-48 (2019-12-16): "Votação em turno único." — Sim 337, Não 49
+C:2228665-48 | 2019-12-16 | Votação em turno único. | Sim 337 Não 49 | resultado: approved
+
+## C:2228978 | PL 5919/2019 | ementa: Dispõe sobre a criação do Tribunal Regional Federal da 6ª Região e dá outras providências. NOVA EMENTA: Dispõe sobre a criação do Tribunal Regional Federal da 6º Região; altera a Lei nº 11.798, de 29 de outubro de 2008; e dá outras providências.
+   voto principal do projeto: C:2228978-53 (2020-08-25): "" — Sim 50, Não 400
+C:2228978-53 | 2020-08-25 |  | Sim 50 Não 400 | resultado: rejected
+
+## C:2229142 | PDL 28/2019 | ementa: Exclui da Área Indígena São Marcos a área urbana da sede do Município de Pacaraima (RR).
+   voto principal do projeto: C:2229813-5 (2019-11-19): "" — Sim 290, Não 10
+C:2229813-5 | 2019-11-19 |  | Sim 290 Não 10 | resultado: approved

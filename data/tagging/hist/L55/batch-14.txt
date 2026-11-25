@@ -1,0 +1,145 @@
+## S:123060 | PLC 125/2015 | ementa: Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para reorganizar e simplificar a metodologia de apuração do imposto devido por optantes do Simples Nacional; altera as Leis nºs 9.613, de 3 de março de 1998, e 12.512, de 14 de outubro de 2011; revoga dispositivo da Lei nº 8.212, de 24 de julho de 1991; e dá outras providências.
+S:5571 | 2016-06-21 | Votação nominal da Emenda nº 31 - Substitutivo. | Sim 64 Não 0 | resultado: approved
+S:5572 | 2016-06-21 | Votação nominal da Emenda nº 10-Plen. | Sim 47 Não 8 | resultado: approved
+S:5575 | 2016-06-22 | Votação nominal do destaque do art. 12 da Lei nº 123/2006. | Sim 44 Não 0 | resultado: approved
+S:5576 | 2016-06-22 | Votação nominal do destaque ao art. 18 da Lei nº 123/2006. | Sim 44 Não 0 | resultado: approved
+S:5578 | 2016-06-28 | Votação nominal do Substitutivo ao PLC nº 125/2015 com emendas de parecer favorável (Turno Suplementar). | Sim 58 Não 0 | resultado: approved
+
+## S:123103 | PDS 347/2015 | ementa: Aprova o texto do Tratado de Marraqueche para Facilitar o Acesso a Obras Publicadas às Pessoas Cegas, com Deficiência Visual ou com outras Dificuldades para Ter Acesso ao Texto Impresso, concluído no âmbito da Organização Mundial da Propriedade Internacional (OMPI), celebrado em Marraqueche, em 28 de Junho 2013.
+   voto principal do projeto: S:5495 (2015-11-24): "Votação Nominal - 1o turno (Tratado de Marraqueche)." — Sim 56, Não 0
+S:5495 | 2015-11-24 | Votação Nominal - 1o turno (Tratado de Marraqueche). | Sim 56 Não 0 | resultado: approved
+S:5496 | 2015-11-24 | Votação Nominal - 2o turno (Tratado de Marraqueche). | Sim 50 Não 0 | resultado: approved
+
+## S:123221 | SCD 15/2015 | ementa: Substitutivo da Câmara dos Deputados ao Projeto de Lei Complementar nº 366-B de 2013, do Senado Federal (PLS 386/2012 na Casa de origem), que altera a Lei Complementar nº 116, de 31 de julho de 2003, que dispõe sobre o Imposto sobre Serviços de Qualquer Natureza; a Lei nº 8.429, de 2 de junho de 1992 (Lei de Improbidade Administrativa); e a Lei Complementar nº 63, de 11 de jane
+   voto principal do projeto: S:5669 (2016-12-14): "Votação nominal do SCD 15/2015, que dispõe sobre critérios e prazos de crédito das parcelas do produto da arrecadação de impostos de competência dos Estados, e " — Sim 63, Não 3
+S:5669 | 2016-12-14 | Votação nominal do SCD 15/2015, que dispõe sobre critérios e prazos de crédito das parcelas do produto da arrecadação de impostos de competência dos Estados, e de transferências por estes recebidas, pertencentes aos Municípios. | Sim 63 Não 3 | resultado: approved
+
+## S:123245 | MPV 692/2015 | ementa: Altera a Lei nº 8.981, de 20 de janeiro de 1995, para dispor acerca da incidência de imposto sobre a renda na hipótese de ganho de capital em decorrência da alienação de bens e direitos de qualquer natureza, e a Medida Provisória nº 685, de 21 de julho de 2015, que institui o Programa de Redução de Litígios Tributários - PRORELIT.
+   voto principal do projeto: S:5523 (2016-02-23): "Votação nominal do Projeto de Lei de Conversão nº 27, de 2015 (Proveniente da MPV nº 692/2015), que dispõe acerca do importo sobre o ganho de capital no caso de" — Sim 56, Não 11
+S:5523 | 2016-02-23 | Votação nominal do Projeto de Lei de Conversão nº 27, de 2015 (Proveniente da MPV nº 692/2015), que dispõe acerca do importo sobre o ganho de capital no caso de alienação de bens e direitos de qualquer natureza, e possibilitar a tributação de empresas coligadas no exterior como empresas controladas. | Sim 56 Não 11 | resultado: approved
+
+## S:123298 | PEC 128/2015 | ementa: Altera a redação do art. 167 da Constituição Federal.
+S:5516 | 2016-02-16 | Votação Nominal da Proposta de Emenda à Constituição nº 128/2015, (1º turno) e Emenda nº 01, que altera o artigo 167 da Constituição Federal. | Sim 65 Não 1 | resultado: ?
+S:5520 | 2016-02-17 | Votação Nominal da Emenda nº 3 à PEC nº 128, de 2015. | Sim 42 Não 25 | resultado: approved
+S:5521 | 2016-02-17 | Votação Nominal da Emenda nº 4, nos termos da Subemenda do Relator, à PEC nº 128, de 2015. | Sim 62 Não 1 | resultado: approved
+S:5522 | 2016-02-17 | Votação Nominal em 2º turno da PEC nº 128, de 2015, com Emenda de Redação. "Altera a CF para estabelecer que a União não imporá ou transferirá qualquer encargo ou prestação de serviços aos Estados, DF ou Municípios sem a previsão de repasses financeiros para seu custeio". | Sim 57 Não 0 | resultado: approved
+
+## S:123432 | MPV 693/2015 | ementa: Altera a Lei nº 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016, e altera a Lei nº 10.593, de 6 de dezembro de 2002, para dispor sobre o porte de arma de fogo institucional pelos servidores integrantes da Carreira de Auditoria da Receita Federal do Brasil.
+   voto principal do projeto: S:5529 (2016-03-08): "Votação Nominal - PLV nº 2, de 2016, que dispôe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos e Paraolímpicos de 2016, e pro" — Sim 47, Não 10
+S:5529 | 2016-03-08 | Votação Nominal - PLV nº 2, de 2016, que dispôe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos e Paraolímpicos de 2016, e prorrogar a isenção de tributos na importação de equipamentos e materiais esportivos. | Sim 47 Não 10 | resultado: approved
+
+## S:123466 | MPV 695/2015 | ementa: Autoriza o Banco do Brasil S.A. e a Caixa Econômica Federal a adquirirem participação nos termos e condições previstos no art. 2º da Lei nº 11.908, de 3 de março de 2009, e dá outras providências.
+   voto principal do projeto: S:5528 (2016-03-02): "Votação nominal dos Pressupostos de Relevância e Urgência que autoriza o BB e CEF adquirir participação em instituições financeiras; autoriza a Lotex a explorar" — Sim 45, Não 21
+S:5528 | 2016-03-02 | Votação nominal dos Pressupostos de Relevância e Urgência que autoriza o BB e CEF adquirir participação em instituições financeiras; autoriza a Lotex a explorar os eventos de grande porte, as datas nacionais , etc, para aumentar a atividade comercial do produto. | Sim 45 Não 21 | resultado: ?
+
+## S:123551 | PEC 133/2015 | ementa: Acrescenta § 1º-A ao art. 156 da Constituição Federal para prever a não incidência sobre templos de qualquer culto do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU), ainda que as entidades abrangidas pela imunidade tributária sejam apenas locatárias do bem imóvel.
+   voto principal do projeto: S:5541 (2016-03-22): "Votação nominal da PEC 133/2015, em segundo turno - Altera a Constituição Federal para estabelecer que o IPTU não incide sobre templos de qualquer culto, ainda " — Sim 55, Não 0
+S:5541 | 2016-03-22 | Votação nominal da PEC 133/2015, em segundo turno - Altera a Constituição Federal para estabelecer que o IPTU não incide sobre templos de qualquer culto, ainda que sejam apenas locatários do bem imóvel. | Sim 55 Não 0 | resultado: approved
+
+## S:123715 | PLC 167/2015 | ementa: Altera a Lei Complementar n° 123, de 14 de dezembro de 2006.
+   voto principal do projeto: S:5547 (2016-03-29): "Votação nominal do PLC nº 167/2015, referente a permissão para que o microempresário possa utilizar sua residência como sede da empresa." — Sim 59, Não 0
+S:5547 | 2016-03-29 | Votação nominal do PLC nº 167/2015, referente a permissão para que o microempresário possa utilizar sua residência como sede da empresa. | Sim 59 Não 0 | resultado: approved
+S:5548 | 2016-03-29 | Votação nominal da Emenda nº 2-Plen ao PLC 167/2015. | Sim 3 Não 47 | resultado: rejected
+
+## S:123909 | PEC 143/2015 | ementa: Acrescenta os arts. 101 e 102 ao Ato das Disposições Constitucionais Transitórias para instituir a desvinculação de receitas dos Estados, do Distrito Federal e dos Municípios.
+S:5554 | 2016-04-13 | Votação nominal da Emenda nº 1 - CCJ (Substitutivo) com alteração proposta pelo relator à PEC 143/2015, em primeiro turno. Acrescenta os artigos 101 e 102 ao Ato das Disposições Constitucionais Transitórias para instituir a desvinculação de receitas dos Estados, do Distrito Federal e dos Municípios. | Sim 53 Não 17 | resultado: approved
+
+## S:124027 | PLC 186/2015 | ementa: Dispõe sobre o Regime Especial de Regularização Cambial e Tributária de recursos, bens ou direitos de origem lícita, não declarados ou declarados incorretamente, remetidos, mantidos no exterior ou repatriados por residentes ou domiciliados no País, e dá outras providências.
+S:5513 | 2015-12-15 | Votação Nominal da Redação Final do PLC 186/2015, que dispõe sobre Regime Especial de Regularização Cambial e Tributária de recursos, bens ou direitos de origem lícita, não declarados ou declarados incorretamente e dá outras providências. | Sim 41 Não 27 | resultado: approved
+
+## S:124116 | PRS 55/2015 | ementa: Fixa alíquota máxima para cobrança do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) incidente nas operações internas com querosene de aviação.
+S:5802 | 2017-11-29 | Votação das Emendas nº 9 - CI (Subst.) e nº 10 - PLEN ao PRS 55/2015, nos termos dos pareceres. | Sim 43 Não 17 | resultado: ?
+
+## S:124207 | OFS 88/2015 | ementa: Encaminha ao Senado Federal, nos termos do § 2º do art. 53 da Constituição Federal, os autos da prisão do Senador Delcídio do Amaral.
+   voto principal do projeto: S:5500 (2015-11-25): "Votação Nominal - Recurso da Decisão da Presidência em Questão de Ordem referente ao Ofício S nº 88, de 2015." — Sim 20, Não 52
+S:5501 | 2015-11-25 | Votação Nominal - Decisão do STF - OFS 88/2015. | Sim 59 Não 13 | resultado: approved
+
+## S:124219 | PEC 152/2015 | ementa: Institui novo regime especial de pagamento de precatórios no Ato das Disposições Constitucionais Transitórias.
+   voto principal do projeto: S:5553 (2016-04-13): "Votação nominal da PEC 152/2015, segundo turno, que institui novo regime especial de pagamento de precatórios no Ato das Disposições Constituicionais Transitóri" — Sim 54, Não 0
+S:5552 | 2016-04-13 | Votação nominal da PEC 152/2015, com Emenda n º 1-Plen, em primeiro turno, que institui novo regime especial de pagamento de precatórios no Ato das Disposições Constituicionais Transitórias. | Sim 60 Não 0 | resultado: approved
+S:5553 | 2016-04-13 | Votação nominal da PEC 152/2015, segundo turno, que institui novo regime especial de pagamento de precatórios no Ato das Disposições Constituicionais Transitórias. | Sim 54 Não 0 | resultado: approved
+
+## S:124476 | PEC 159/2015 | ementa: Altera o art. 100 da Constituição Federal, dispondo sobre o regime de pagamento de débitos públicos decorrentes de condenações judiciais; e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento para os casos em mora.
+   voto principal do projeto: S:5562 (2016-06-01): "Votação nominal, em 1º turno, da PEC 159/2015, que altera o artigo 100 da CF e o ADCT, instituindo regime especial de pagamento de débitos públicos decorrentes " — Sim 51, Não 14
+S:5562 | 2016-06-01 | Votação nominal, em 1º turno, da PEC 159/2015, que altera o artigo 100 da CF e o ADCT, instituindo regime especial de pagamento de débitos públicos decorrentes de condenações judiciais (precatórios), para os casos em mora. | Sim 51 Não 14 | resultado: ?
+S:5566 | 2016-06-07 | Votação nominal, em segundo turno, que altera o artigo 100 da CF e o ADCT, instituindo regime especial de pagamento de débitos públicos decorrentes de condenações judiciais (precatórios), para os casos em mora. | Sim 57 Não 9 | resultado: approved
+
+## S:124815 | PEC 3/2016 | ementa: Altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, para prever a inclusão, em quadro, em extinção, da administração pública federal, da pessoa que haja mantido vínculo ou relação de trabalho, empregatícia, estatutária ou funcional, com o Estado ou o ex-Território do Amapá ou o de Roraima, na fase de instalação dessas unidades federadas, sem prejuízo das dem
+   voto principal do projeto: S:5539 (2016-03-16): "Votação nominal em 2º turno da PEC nº 3/2016." — Sim 53, Não 5
+S:5538 | 2016-03-16 | Votação nominal em 1º turno da PEC nº 3/2016, nos termos da Emenda nº 4-CCJ (substitutivo) com adequação e Emenda nº 6 de parecer favorável. | Sim 59 Não 5 | resultado: approved
+S:5539 | 2016-03-16 | Votação nominal em 2º turno da PEC nº 3/2016. | Sim 53 Não 5 | resultado: approved
+
+## S:125429 | PEC 14/2016 | ementa: Cria as polícias penitenciárias federal, estaduais e distrital.
+   voto principal do projeto: S:5782 (2017-10-24): "Votação da PEC nº 14, de 2016 (2º Turno), que cria as polícias penitenciárias federais, estaduais e distrital." — Sim 62, Não 0
+S:5761 | 2017-09-13 | Votação da Emenda nº 1 - CCJ (Substitutivo) à PEC nº 14, de 2016 (1º Turno). | Sim 63 Não 0 | resultado: ?
+S:5782 | 2017-10-24 | Votação da PEC nº 14, de 2016 (2º Turno), que cria as polícias penitenciárias federais, estaduais e distrital. | Sim 62 Não 0 | resultado: approved
+
+## S:125567 | DEN 1/2016 | ementa: Denúncia por crime de responsabilidade, em desfavor da Presidente da República, Dilma Vana Rousseff, por suposta abertura de créditos suplementares por decretos presidenciais, sem autorização do Congresso Nacional (Constituição Federal, art. 85, VI e art. 167, V; e Lei nº 1.079, de 1950, art.10, item 4 e art. 11, item II); e da contratação ilegal de operações de crédito (Lei nº
+   voto principal do projeto: S:5560 (2016-05-11): "Votação do Parecer em Plenário que conclui pela admissibilidade da denúncia, com a consequente instauração do processo de impeachment, com os votos contrários q" — Sim 55, Não 22
+S:5560 | 2016-05-11 | Votação do Parecer em Plenário que conclui pela admissibilidade da denúncia, com a consequente instauração do processo de impeachment, com os votos contrários que menciona. | Sim 55 Não 22 | resultado: ?
+S:5597 | 2016-08-09 | Votação Preliminares arguidas pela defesa (itens 2.1.3 a 2.1.5 do parecer, destacado). | Sim 59 Não 21 | resultado: ?
+S:5598 | 2016-08-09 | Votação nominal Parecer nº 726-2016, da Comissão Especial constituída para instruir a Denúncia nº 1, de 2016, por suposto crime de responsabilidade atribuído à Presidente da República, Sra. Dilma Roussef, que conclui pela procedência das acusações. | Sim 59 Não 21 | resultado: approved
+S:5599 | 2016-08-09 | Votação nominal Pedaladas Fiscais referente à realização de operações de crédito com instiuição financeira controlada pela União ("pedaladas fiscais"), destacada. | Sim 58 Não 22 | resultado: approved
+S:5600 | 2016-08-09 | Votação nominal Decreto de 27.07.2015 referente à abertura de crédito suplementar sem autorização do Congresso Nacional, por meio de Decreto de 27/07/2015 (Código 14244), no valor de R$ 29.922.832,00, destacada. | Sim 58 Não 22 | resultado: approved
+S:5601 | 2016-08-09 | Votação nominal Decreto de 20.08.2015 referente à abertura de credito suplementar sem autorização do Congresso Nacional, por meio do Decreto de 20/08/2015 (Código 14250), no valor de R$ 600.268.845,00, destacada. | Sim 59 Não 21 | resultado: ?
+
+## S:125708 | PRS 29/2016 | ementa: Decreta a perda do mandato do Senador Delcídio do Amaral Gomez.
+   voto principal do projeto: S:5559 (2016-05-10): "Votação nominal do PRS 29/2016, que dispõe sobre a perda de mandato do Senador Delcídio do Amaral." — Sim 74, Não 0
+S:5559 | 2016-05-10 | Votação nominal do PRS 29/2016, que dispõe sobre a perda de mandato do Senador Delcídio do Amaral. | Sim 74 Não 0 | resultado: approved
+
+## S:125723 | PLS 204/2016 | ementa: Dispõe sobre a cessão de direitos creditórios originados de créditos tributários e não tributários dos entes da Federação.
+S:5820 | 2017-12-13 | Votação da Emenda nº 16 - CAE (Substitutivo) ao Projeto de Lei do Senado nº 204, de 2016 - Complementar. | Sim 43 Não 18 | resultado: ?
+
+## S:125733 | MPV 726/2016 | ementa: Altera e revoga dispositivos da Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios.
+   voto principal do projeto: S:5627 (2016-09-08): "Votação nominal que altera as Leis nºs 10.683, de 2003, que dispõe sobre a organização da Presidência da República e dos MInistérios, 11.890, de 2008, e revoga " — Sim 44, Não 6
+S:5627 | 2016-09-08 | Votação nominal que altera as Leis nºs 10.683, de 2003, que dispõe sobre a organização da Presidência da República e dos MInistérios, 11.890, de 2008, e revoga a Medida Provisória nº 717, de 2016 (proveniente da MP nº 726, de 2016). | Sim 44 Não 6 | resultado: approved
+
+## S:125734 | MPV 727/2016 | ementa: Cria o Programa de Parcerias de Investimentos - PPI e dá outras providências.
+   voto principal do projeto: S:5628 (2016-09-08): "Votação nominal que cria o Programa de Parcerias de Investimentos - PPI; altera a Lei nº 10.683, de 2003, e dá outras providências (proveniente da Medida Provis" — Sim 44, Não 5
+S:5628 | 2016-09-08 | Votação nominal que cria o Programa de Parcerias de Investimentos - PPI; altera a Lei nº 10.683, de 2003, e dá outras providências (proveniente da Medida Provisória nº 727, de 2016). | Sim 44 Não 5 | resultado: approved
+
+## S:125978 | MPV 729/2016 | ementa: Altera a Lei nº 12.722, de 3 de outubro de 2012, que dispõe sobre o apoio financeiro da União aos Municípios e ao Distrito Federal para ampliação da oferta da educação infantil.
+   voto principal do projeto: S:5631 (2016-09-19): "Votação nominal do §5º do art. 4 do PLV nº 26/2016, referente ao apoio financeiro da União aos Municípios e ao Distrito Federal para ampliação da oferta de educ" — Sim 41, Não 7
+S:5631 | 2016-09-19 | Votação nominal do §5º do art. 4 do PLV nº 26/2016, referente ao apoio financeiro da União aos Municípios e ao Distrito Federal para ampliação da oferta de educação infantil, para incluir as crianças beneficiárias do Benefício de Prestação Continuada e as crianças com deficiência e estabelecer novas regras de repasse do apoio financeiro. | Sim 41 Não 7 | resultado: approved
+
+## S:126084 | PLC 27/2016 | ementa: Dispõe sobre o subsídio do Ministro do Supremo Tribunal Federal referido no inciso XV do art. 48 da Constituição Federal, e dá outras providências.
+   voto principal do projeto: S:5926 (2018-11-07): "Dispõe sobre o referido no inciso XV do art. 48 da Constituição Federal, e dá outras providências." — Sim 41, Não 16
+S:5926 | 2018-11-07 | Dispõe sobre o referido no inciso XV do art. 48 da Constituição Federal, e dá outras providências. | Sim 41 Não 16 | resultado: ?
+
+## S:126094 | PEC 31/2016 | ementa: Altera o Ato das Disposições Constitucionais Transitórias para prorrogar a desvinculação de receitas da União e estabelecer a desvinculação de receitas dos Estados, Distrito Federal e Municípios.
+   voto principal do projeto: S:5621 (2016-08-24): "Votação nominal da PEC 31/2016, em primeiro turno que altera o ADCT para prorrogar a desvinculação de receitas da União e estabelecer a desvinculação de receita" — Sim 56, Não 13
+S:5621 | 2016-08-24 | Votação nominal da PEC 31/2016, em primeiro turno que altera o ADCT para prorrogar a desvinculação de receitas da União e estabelecer a desvinculação de receitas, dos Estados, Distrito Federal e Municípios. | Sim 56 Não 13 | resultado: approved
+S:5622 | 2016-08-24 | Votação nominal da PEC nº 31/2016, em 2º turno que altera o ADCT para prorrogar a desvinculação de receitas da União e estabelecer a desvinculação de receitas, dos Estados, Distrito Federal e Municípios. | Sim 54 Não 15 | resultado: ?
+
+## S:126135 | PLS 247/2016 | ementa: Altera a Lei Complementar nº 101, de 4 de maio de 2000, para excetuar ações de segurança pública da aplicação das sanções de suspensão de transferências voluntárias constantes dessa lei.
+   voto principal do projeto: S:5798 (2017-11-28): "Votação que altera a Lei de Responsabilidade Fiscal para executar ações de segurança pública da aplicação das sanções de suspensão de transferências voluntárias" — Sim 60, Não 0
+S:5798 | 2017-11-28 | Votação que altera a Lei de Responsabilidade Fiscal para executar ações de segurança pública da aplicação das sanções de suspensão de transferências voluntárias. | Sim 60 Não 0 | resultado: approved
+
+## S:126236 | MPV 735/2016 | ementa: Altera as Leis nº 5.655, de 20 de maio de 1971, nº 10.438, de 26 de abril de 2002, nº 12.783, de 11 de janeiro de 2013, nº 9.074, de 7 de julho de 1995, e nº 9.491, de 9 de setembro de 1997, e dá outras providências.
+S:5635 | 2016-10-19 | Votação nominal do destaque. | Sim 45 Não 13 | resultado: ?
+
+## S:126409 | MPV 737/2016 | ementa: Altera a Lei no 11.473, de 10 de maio de 2007, que dispõe sobre a cooperação federativa no âmbito da segurança pública.
+   voto principal do projeto: S:5636 (2016-11-01): "Votação nomimal do art. 2º do PLV nº 28/2016." — Sim 45, Não 12
+S:5636 | 2016-11-01 | Votação nomimal do art. 2º do PLV nº 28/2016. | Sim 45 Não 12 | resultado: ?
+
+## S:126414 | PLC 44/2016 | ementa: Altera o Decreto-Lei nº 1.001, de 21 de outubro de 1969 - Código Penal Militar.
+   voto principal do projeto: S:5776 (2017-10-10): "Votação do Projeto de Lei da Câmara nº 44, de 2016, que altera o Código Penal Militar e dispõe sobre os crimes dolosos contra a vida praticados por militares." — Sim 39, Não 8
+S:5776 | 2017-10-10 | Votação do Projeto de Lei da Câmara nº 44, de 2016, que altera o Código Penal Militar e dispõe sobre os crimes dolosos contra a vida praticados por militares. | Sim 39 Não 8 | resultado: ?
+
+## S:126473 | PEC 36/2016 | ementa: Altera os §§ 1º, 2º e 3º, do art. 17 da Constituição Federal e a ele acrescenta os §§ 5º, 6º, 7º e 8º, para autorizar distinções entre partidos políticos, para fins de funcionamento parlamentar, com base no seu desempenho eleitoral.
+   voto principal do projeto: S:5645 (2016-11-09): "Votação nominal do Substitutivo à PEC 36/2016, refderente a autorização de distinções entre partidos políticos, para fins de funcionamento parlamentar, com base" — Sim 58, Não 13
+S:5645 | 2016-11-09 | Votação nominal do Substitutivo à PEC 36/2016, refderente a autorização de distinções entre partidos políticos, para fins de funcionamento parlamentar, com base no seu desempenho eleitoral. | Sim 58 Não 13 | resultado: approved
+S:5649 | 2016-11-23 | Votação nominal que autoriaza distinções entre partidos políticos, para fins de funcionamento parlamentar, com base no seu desempenho eleitoral. | Sim 63 Não 9 | resultado: approved
+
+## S:126817 | PLC 54/2016 | ementa: Estabelece o Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal; e altera a Lei Complementar nº 148, de 25 de novembro de 2014, a Lei nº 9.496, de 11 de setembro de 1997, e a Medida Provisória nº 2.192-70, de 24 de agosto de 2001.
+S:5670 | 2016-12-14 | Votação nominal da Emenda nº 26-Plen (Substitutivo) ao Projeto de Lei da Câmara nº 54, de 2016. | Sim 55 Não 14 | resultado: approved
+S:5671 | 2016-12-14 | Votação nominal do art. 4º do Substitutivo (Emenda nº 26 - PLEN) ao PLC nº 54, de 2016 (Destacado). | Sim 47 Não 18 | resultado: approved
+S:5672 | 2016-12-14 | Votação nominal do art. 15º do Substitutivo (Emenda nº 26 - PLEN) ao PLC nº 54, de 2016 (Destacado). | Sim 52 Não 15 | resultado: approved
+
+## S:126826 | MPV 744/2016 | ementa: Altera a Lei nº 11.652, de 7 de abril de 2008, que institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta e autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação - EBC.
+   voto principal do projeto: S:5679 (2017-02-07): "Votação que altera a Lei nº 11.652, de 2008, para dispor sobre a prestação dos serviços de radiofusão pública e a organização da EBC." — Sim 46, Não 13
+S:5679 | 2017-02-07 | Votação que altera a Lei nº 11.652, de 2008, para dispor sobre a prestação dos serviços de radiofusão pública e a organização da EBC. | Sim 46 Não 13 | resultado: ?
+
+## S:126992 | MPV 746/2016 | ementa: Institui a Política de Fomento à Implementação de Escolas de Ensino Médio em Tempo Integral, altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e a Lei nº 11.494 de 20 de junho 2007, que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação, e dá outras prov
+   voto principal do projeto: S:5683 (2017-02-08): "Altera a LDB; a Lei nº 11.494/2007 (Fundo de Manutenção e Desenvolvimento da Educação Básica); a CLT; e o Decreto-Lei nº 236/1967; revoga a Lei nº 11.161/2005; " — Sim 43, Não 13
+S:5683 | 2017-02-08 | Altera a LDB; a Lei nº 11.494/2007 (Fundo de Manutenção e Desenvolvimento da Educação Básica); a CLT; e o Decreto-Lei nº 236/1967; revoga a Lei nº 11.161/2005; e institui a Política de Fomento à Implementação de Escolar de Ensino Médio em Tempo Integral. | Sim 43 Não 13 | resultado: approved

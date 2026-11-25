@@ -1,0 +1,91 @@
+## C:105464 | PL 252/2003 | ementa: Dispõe sobre as normas gerais relativas a concursos públicos.
+C:105464-319 | 2022-08-04 | Votação do DTQ 2: PT: Destaque da expressão “discriminação ilegítima com base em idade, sexo, orientação sexual, estado civil, condição física, deficiência, raça, naturalidade, proveniência ou moradia”, constante do inciso III do artigo 4º do PL 252/2003 para substituição da expressão “discriminação ilegítima de candidatos, com base em aspectos como idade, sexo, estado civil, condição física, deficiência, etnia, naturalidade, proveniência ou local de origem”, constante do §4º do artigo 2º do substitutivo. (art. 161, IV) | Sim 122 Não 246 | resultado: rejected
+C:105464-326 | 2022-08-04 | Votação do DTQ 5: PSB: Emenda de Plenário nº 2 (art. 161, II). | Sim 94 Não 204 | resultado: rejected
+
+## C:1198512 | PEC 15/2015 | ementa: Insere parágrafo único no art. 193; inciso IX, no art. 206 e art. 212-A, todos na Constituição Federal, de forma a tornar o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - Fundeb instrumento permanente de financiamento da educação básica pública, incluir o planejamento na ordem social e inserir novo princípio no rol daqu
+   voto principal do projeto: C:1198512-250 (2020-07-21): "Votação em primeiro turno." — Sim 499, Não 7
+C:1198512-250 | 2020-07-21 | Votação em primeiro turno. | Sim 499 Não 7 | resultado: approved
+C:1198512-254 | 2020-07-21 | Votação do DTQ 2: Bloco PL: Destaque para votação em separado da expressão por 20% dos recursos financeiros provenientes de compensação da União a Estados e Municípios decorrente da desoneração do imposto referido no inciso II do art. 155; constante do inciso II do art. 212-A da Constituição Federal, acrescido pelo art. 7º Substitutivo apresentado à PEC nº 15 de 2015, a fim de suprimir a expressão e, por decorrência, o art. 12 do Substitutivo. (art. 161, I). | Sim 201 Não 267 | resultado: ?
+C:1198512-257 | 2020-07-21 | Votação do DTQ 4: NOVO: Destaque para a votação em separado do inciso XI do artigo 212-A, acrescido pelo artigo 7º do Substitutivo da PEC 15/15, com vistas à sua supressão. (art. 161, I). | Sim 399 Não 19 | resultado: ?
+C:1198512-272 | 2020-07-21 | Votação em segundo turno. | Sim 492 Não 6 | resultado: approved
+C:1198512-279 | 2020-07-21 | Votação do DTQ 1: NOVO: Destaque para a votação em separado do §7º do artigo 5º do texto do 2º turno da PEC 15/15, com vistas à sua supressão. (art. 161, I). | Sim 393 Não 83 | resultado: ?
+
+## C:1215346 | PLP 111/2022 | ementa: Altera a Lei Complementar nº 87, de 13 de setembro de 1996, que dispõe sobre o imposto dos Estados e do Distrito Federal sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, e dá outras providências. (LEI KANDIR) NOVA EMENTA: Altera a Lei Complementar nº 87, de 13 de setembro de 1996 
+   voto principal do projeto: C:2325516-10 (2022-06-07): "" — Sim 371, Não 1
+C:2325516-10 | 2022-06-07 |  | Sim 371 Não 1 | resultado: approved
+C:1215346-62 | 2022-06-08 | Votação em turno único. | Sim 405 Não 1 | resultado: approved
+C:1215346-65 | 2022-06-08 | Votação da Emenda de Plenário, com parecer pela rejeição. | Sim 130 Não 268 | resultado: rejected
+
+## C:1278746 | PL 1531/2015 | ementa: Altera a Lei nº 9.029, de 13 de Abril de 1995, e dá outras providências.
+   voto principal do projeto: C:2265599-15 (2020-12-22): "" — Sim 223, Não 217
+C:2265599-15 | 2020-12-22 |  | Sim 223 Não 217 | resultado: rejected
+
+## C:1301128 | PL 4566/2021 | ementa: Tipifica o crime de injúria racial coletiva e torna pública incondicionada a respectiva ação penal. NOVA EMENTA: Altera a Lei nº 7.716, de 5 de janeiro de 1989 (Lei do Crime Racial), e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar como crime de racismo a injúria racial, prever pena de suspensão de direito em caso de racismo praticado no context
+   voto principal do projeto: C:1301128-43 (2021-11-30): "Votação em turno único." — Sim 358, Não 17
+C:1301128-43 | 2021-11-30 | Votação em turno único. | Sim 358 Não 17 | resultado: approved
+
+## C:1301482 | PL 2801/2022 | ementa: Inclui no rol de Crimes Hediondos os Crimes de Pedofilia. NOVA EMENTA: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), as Leis nºs 7.210, de 11 de julho de 1984 (Lei de Execução Penal), 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para aumentar a pena dos crimes contra a
+   voto principal do projeto: C:1301482-127 (2022-10-19): "" — Sim 135, Não 224
+C:1301482-127 | 2022-10-19 |  | Sim 135 Não 224 | resultado: rejected
+C:1301482-142 | 2022-11-09 | Votação em turno único. | Sim 393 Não 1 | resultado: approved
+
+## C:15460 | PL 2234/2022 | ementa: Revoga os dispositivos legais que menciona , referentes à prática do " jogo do bicho " NOVA EMENTA: Dispõe sobre a exploração de jogos e apostas em todo o território nacional; altera a Lei nº 7.291, de 19 de dezembro de 1984; e revoga o Decreto-Lei nº 9.215, de 30 de abril de 1946, e dispositivos do Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais), e
+   voto principal do projeto: C:2114626-17 (2021-12-16): "" — Sim 293, Não 138
+C:2114626-17 | 2021-12-16 |  | Sim 293 Não 138 | resultado: approved
+C:15460-156 | 2022-02-23 |  | Sim 211 Não 243 | resultado: rejected
+C:15460-165 | 2022-02-23 | Votação em turno único. | Sim 246 Não 202 | resultado: approved
+C:15460-170 | 2022-02-24 | Votação do DTQ 13: PSOL: Emenda de Plenário n. 37 (art. 161, II). | Sim 162 Não 224 | resultado: rejected
+C:15460-173 | 2022-02-24 | Votação do DTQ 18: NOVO: Destaque para votação em separado do art. 53 da Subemenda Substitutiva apresentada ao PL 442/1991, com vistas à sua supressão. (art. 161, I). | Sim 355 Não 36 | resultado: ?
+C:15460-176 | 2022-02-24 | Votação do DTQ 6: PT: Emenda de Plenário n. 6 (art. 161, II). | Sim 129 Não 265 | resultado: rejected
+C:15460-179 | 2022-02-24 | Votação do DTQ 14: PCdoB: Destaque para votação em separado a expressão “sem a incidência de quaisquer outras contribuições ou impostos sobre o faturamento, a renda ou o lucro decorrentes da exploração de jogos e apostas,” contida no caput do Art. 102 do substitutivo do parecer às emendas de plenário apresentado ao PL 442/1991, com vistas à sua supressão. (art. 161, I). | Sim 234 Não 175 | resultado: ?
+C:15460-184 | 2022-02-24 | Votação do DTQ 7: PT: Emenda de Plenário n. 7 (art. 161, II). | Sim 166 Não 255 | resultado: rejected
+C:15460-200 | 2022-02-24 | Votação do DTQ 12: PL: Emenda de Plenário nº 11 (art. 161, II) | Sim 166 Não 240 | resultado: rejected
+C:15460-201 | 2022-02-24 | Votação do DTQ 17: PATRIOTA: Destaque de bancada para votação em separado do art. 7º da Lei n. 7291/1984, e por decorrência do art. 8º do citado dispositivo, ou outros que vierem a substituí-los, na redação dada pelo art. 118 da Subemenda Substitutiva apresentada no PRLE 2, com vistas à supressão dos dispositivos. (art. 161, I) | Sim 323 Não 48 | resultado: ?
+
+## C:1555470 | PL 4401/2021 | ementa: Dispõe sobre a inclusão das moedas virtuais e programas de milhagem aéreas na definição de "arranjos de pagamento" sob a supervisão do Banco Central NOVA EMENTA: Dispõe sobre diretrizes a serem observadas na prestação de serviços de ativos virtuais e na regulamentação das prestadoras de serviços de ativos virtuais; altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código
+   voto principal do projeto: C:1555470-234 (2021-12-08): "" — Sim 40, Não 308
+C:1555470-234 | 2021-12-08 |  | Sim 40 Não 308 | resultado: rejected
+C:1555470-319 | 2022-11-29 | Votação do DTQ 8: PSDB: destaque para votação em separado do art. 13 do Substitutivo do Senado Federal, apresentado ao PL 4.401, de 2021, com vistas à manutenção do texto. (art. 161, I). | Sim 152 Não 213 | resultado: ?
+
+## C:1594134 | PL 2416/2015 | ementa: Dispõe sobre norma geral acerca da gravação em vídeo das ações policiais NOVA EMENTA: Altera a Lei nº 13.060, de 22 de dezembro de 2014, para disciplinar a gravação em vídeo das ações policiais
+   voto principal do projeto: C:2226269-18 (2021-11-24): "" — Sim 72, Não 334
+C:2226269-18 | 2021-11-24 |  | Sim 72 Não 334 | resultado: rejected
+
+## C:1594917 | PL 2522/2015 | ementa: Altera a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos), e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para instituir as federações de partidos políticos.
+   voto principal do projeto: C:2286125-7 (2021-06-09): "" — Sim 429, Não 18
+C:2286125-7 | 2021-06-09 |  | Sim 429 Não 18 | resultado: approved
+C:1594917-39 | 2021-08-12 | Votação em turno único. | Sim 304 Não 119 | resultado: approved
+
+## C:16526 | PL 1292/1995 | ementa: Altera a lei nº 8.666, de 21 de junho de 1993, que regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá outras providências. NOVA EMENTA: Estabelece normas gerais de licitação e contratação para as administrações públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federa
+   voto principal do projeto: C:16526-506 (2019-06-17): "Votação em turno único." — Sim 2, Não 254
+C:16526-506 | 2019-06-17 | Votação em turno único. | Sim 2 Não 254 | resultado: rejected
+C:16526-556 | 2019-09-11 | Votação do DTQ 9: NOVO: Destaque para votação em separado do art. 25 do substitutivo (ou artigo equivalente de eventual subemenda substitutiva), apresentado ao PL 1292/95 (161,I). | Sim 298 Não 82 | resultado: ?
+C:16526-572 | 2019-09-11 | Votação do DTQ 21: PCdoB: Emenda nº 48 (161,II) | Sim 130 Não 219 | resultado: rejected
+C:16526-580 | 2019-09-11 | Votação do DTQ 15: PSD: Emenda nº 36 (161,II). | Sim 134 Não 273 | resultado: rejected
+C:16526-582 | 2019-09-11 | Votação do DTQ 13: PRB: Emenda nº 3 (161,II). | Sim 232 Não 137 | resultado: approved
+C:16526-596 | 2019-09-17 | Votação do DTQ 27: PDT: Destaque para votação em separado da expressão "... em percentual equivalente a até 30% (trinta porcento) do valor inicial do contrato", constante do art. 97 da Subemenda Substitutiva Global ao PL 1292/1995 (161, I). | Sim 268 Não 108 | resultado: ?
+
+## C:1672576 | PL 1829/2019 | ementa: Modifica o artigo 181 da Lei nº 7.565, de 19 de dezembro de 1986. NOVA EMENTA: Altera as Leis nºs 7.064, de 6 de dezembro de 1982, 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), 11.771, de 17 de setembro de 2008 (Lei Geral do Turismo), 12.462, de 4 de agosto de 2011, 13.097, de 19 de janeiro de 2015, e 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com 
+   palavras-chave: Alteração, Código Brasileiro de Aeronáutica, aumento, participação, capital estrangeiro, empresa aérea, aviação civil.
+   voto principal do projeto: C:1672576-101 (2019-03-19): "" — Sim 40, Não 317
+C:1672576-101 | 2019-03-19 |  | Sim 40 Não 317 | resultado: rejected
+C:1672576-109 | 2019-03-19 |  | Sim 338 Não 65 | resultado: approved
+C:1672576-97 | 2019-03-19 |  | Sim 45 Não 308 | resultado: rejected
+C:1672576-120 | 2019-03-20 | Votação em turno único. | Sim 17 Não 269 | resultado: rejected
+C:1672576-124 | 2019-03-20 | Votação em turno único. | Sim 26 Não 234 | resultado: rejected
+C:1672576-128 | 2019-03-20 | Votação em turno único. | Sim 24 Não 322 | resultado: rejected
+C:1672576-133 | 2019-03-20 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 36 Não 342 | resultado: rejected
+C:1672576-136 | 2019-03-20 | Votação em turno único. | Sim 329 Não 44 | resultado: approved
+C:1672576-141 | 2019-03-20 | Votação da expressão " brasileiros mediante contrato de trabalho regido pela legislação brasileira, ressalvada a possibilidade de no máximo 1/3 (um terço) de comissários estrangeiros" alterado pelo §3º do art. 156, constante da Lei 7565/86, constante do art. 2º da Subemenda Substitutiva Global ao PL2724/15, objeto do destaque para votação em separado da bancada do NOVO - DTQ 31. | Sim 301 Não 115 | resultado: ?
+C:1672576-147 | 2019-03-20 | Continuação da votação em turno único. | Sim 42 Não 333 | resultado: rejected
+C:1672576-150 | 2019-03-20 | Votação da Emenda nº 17, objeto do destaque para votação em separado da bancada do PT - DTQ 23. | Sim 158 Não 246 | resultado: rejected
+C:1672576-153 | 2019-03-20 | Votação da Emenda nº 3, objeto do destaque para votação em separado do Bloco Parlamentar PDT, SOLIDARIEDADE, PODE, PCdoB, PROS, AVANTE, PV - DTQ 28. | Sim 89 Não 305 | resultado: rejected
+C:1672576-171 | 2019-03-26 | Votação da Emenda nº 15, objeto do destaque para votação em separado a do Bloco Parlamentar PSL, PR, PP, PSD, MDB, PSDB, DEM, PTB, PSC, PMN Bloco PSL - DTQ 35. | Sim 191 Não 221 | resultado: rejected
+C:1672576-177 | 2019-03-26 | Votação da expressão "...estabelecidos na legislação e regulamentação exclusivamente federal, cujos termos prevalecerão sobre quaisquer regras estaduais e ou municipais sobre o mesmo tema" constante do art. 27, §7º da Lei 11771/08 inserido no art 4º da Subemenda, objeto do destaque para votação em separado da bancada do PPS - DTQ 33. | Sim 3 Não 414 | resultado: ?
+C:1672576-193 | 2019-03-26 | Votação da expressão "181" constante do inciso III, do art. 10 do Substitutivo oferecido ao PL 2724/15, com vistas a sua supressão, objeto do destaque para votação em separado da bancada do PSOL - DTQ 15. | Sim 310 Não 132 | resultado: ?
+
+## C:1701050 | PEC 122/2015 | ementa: Acrescenta §§ 6º e 7º ao art. 167 da Constituição Federal, para proibir a imposição e a transferência, por lei, de qualquer encargo financeiro decorrente da prestação de serviço público para a União, os Estados, o Distrito Federal e os Municípios, bem como para proibir a criação ou o aumento de despesa que não conste da lei orçamentária anual ou do projeto de lei orçamentária a
+   voto principal do projeto: C:1701050-124 (2022-07-14): "Votação em primeiro turno." — Sim 383, Não 27
+C:1701050-124 | 2022-07-14 | Votação em primeiro turno. | Sim 383 Não 27 | resultado: approved
+C:1701050-129 | 2022-07-14 | Votação do DTQ 2: REPUBLICANOS: destaque para votação em separado do § 8º do art. 167 (REDIRECIONADO) da Proposta de Emenda à Constituição nº 122/2015. (art. 161, I) | Sim 15 Não 346 | resultado: ?
+C:1701050-140 | 2022-07-14 | Votação em segundo turno. | Sim 379 Não 22 | resultado: approved

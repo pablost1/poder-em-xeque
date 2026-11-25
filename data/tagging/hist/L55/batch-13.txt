@@ -1,0 +1,135 @@
+## S:120159 | SCD 5/2015 | ementa: Dispõe sobre o contrato de trabalho doméstico; altera as Leis nº 8.212, de 24 de julho de 1991, nº 8.213, de 24 de julho de 1991, e Lei nº 11.196, de 21 de novembro de 2005; e revoga o inciso I do art. 3º da Lei nº 8.009, de 29 de março de 1990 e a Lei nº 5.859, de 11 de dezembro de 1972.
+   voto principal do projeto: S:5366 (2015-05-06): "Votação de parecer favorável ao SCD Nº 5, de 2015 (COMP)" — Sim 68, Não 0
+S:5366 | 2015-05-06 | Votação de parecer favorável ao SCD Nº 5, de 2015 (COMP) | Sim 68 Não 0 | resultado: approved
+S:5367 | 2015-05-06 | Parágrafo 5º do art. 2º do SCD 5/2015 - Parecer Favorável (COMP). | Sim 39 Não 23 | resultado: ?
+S:5368 | 2015-05-06 | Dispositivos de parecer contrário ao SCD Nº 5, de 2015 (COMP). | Sim 19 Não 42 | resultado: ?
+S:5369 | 2015-05-06 | Parágrafo 9º do art. 2º do SCD 5/2015 - Parecer contrário (COMP). | Sim 60 Não 0 | resultado: ?
+S:5370 | 2015-05-06 | Artigo 17 do SCD Nº 5, de 2015 - Parecer Contrário (Complementar). | Sim 20 Não 41 | resultado: ?
+S:5371 | 2015-05-06 | Artigo 22 do SCD Nº 5, de 2015 - Parecer Contrário (Complementar). | Sim 12 Não 49 | resultado: ?
+
+## S:120179 | PLS 131/2015 | ementa: Altera a Lei nº 12.351, de 22 de dezembro de 2010, que estabelece a participação mínima da Petrobras no consórcio de exploração do pré-sal e a obrigatoriedade de que ela seja responsável pela “condução e execução, direta ou indireta, de todas as atividades de exploração, avaliação, desenvolvimento, produção e desativação das instalações de exploração e produção”.
+   voto principal do projeto: S:5524 (2016-02-23): "Votação nominal do RQS nº 78, de 2016, de extinção da urgência do PLS nº 131 de 2015." — Sim 31, Não 33
+S:5524 | 2016-02-23 | Votação nominal do RQS nº 78, de 2016, de extinção da urgência do PLS nº 131 de 2015. | Sim 31 Não 33 | resultado: rejected
+S:5525 | 2016-02-24 | Votação nominal, em verificação, do substitutivo ao PLS 131/2015. | Sim 40 Não 26 | resultado: ?
+
+## S:120296 | MPV 672/2015 | ementa: Dispõe sobre a política de valorização do salário mínimo para o período de 2016 a 2019.
+S:5420 | 2015-07-08 | Emenda nº 105, apresentada à MPV nº 672/2015 - PLV 9/2015. | Sim 25 Não 34 | resultado: rejected
+
+## S:120300 | PLC 15/2015 | ementa: Altera a Lei Complementar nº 148, de 25 de novembro de 2014.
+   voto principal do projeto: S:5361 (2015-04-28): "Altera a Lei Complementar nº 148, de 25 de novembro de 2014 (indexador da dívida de Estados e Minicípios)." — Sim 73, Não 0
+S:5361 | 2015-04-28 | Altera a Lei Complementar nº 148, de 25 de novembro de 2014 (indexador da dívida de Estados e Minicípios). | Sim 73 Não 0 | resultado: approved
+S:5362 | 2015-04-28 | Emenda nº 7 - Parecer favorável ao PLC 15/2015 (Complementar). | Sim 52 Não 18 | resultado: approved
+S:5363 | 2015-04-28 | Emenda nº 8 nos termos da sub-emenda ao PLC15/2015(Complementar) | Sim 62 Não 9 | resultado: approved
+S:5364 | 2015-04-28 | Emenda nº 1 - Parecer contrário ao PLC 15/2015(Complementar) | Sim 37 Não 24 | resultado: approved
+
+## S:120492 | PLC 23/2015 | ementa: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para estabelecer causa de aumento de pena para o caso de estelionato cometido contra idoso.
+   voto principal do projeto: S:5508 (2015-12-09): "Votação nominal do PLC 23/2015 que altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para estabelecer causa de aumento de pena para o caso" — Sim 51, Não 1
+S:5508 | 2015-12-09 | Votação nominal do PLC 23/2015 que altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para estabelecer causa de aumento de pena para o caso de estelionato cometido contra idoso. | Sim 51 Não 1 | resultado: approved
+
+## S:120554 | PLS 199/2015 | ementa: Dispõe sobre o procedimento para a criação, a incorporação, a fusão e o desmembramento de Municípios, nos termos do § 4º do art. 18 da Constituição Federal; altera a Lei n° 5.172, de 25 de outubro de 1966; e dá outras providências.
+   voto principal do projeto: S:5425 (2015-07-15): "Votação do Projeto de Lei do Senado nº 199, de 2015, que dispõe sobre o procedimento para a criação, a incorporação, a fusão e o desmembramento de Municípios, e" — Sim 57, Não 9
+S:5425 | 2015-07-15 | Votação do Projeto de Lei do Senado nº 199, de 2015, que dispõe sobre o procedimento para a criação, a incorporação, a fusão e o desmembramento de Municípios, e dá outras providências. | Sim 57 Não 9 | resultado: ?
+
+## S:120742 | PEC 48/2015 | ementa: Acrescenta o § 13 ao art. 37 da Constituição Federal para dispor sobre a convalidação de atos administrativos.
+   voto principal do projeto: S:5821 (2017-12-13): "Votação que acrescenta o § 13 ao art. 37 da Constituição Federal para dispor sobre a convalidação de atos administrativos." — Sim 58, Não 1
+S:5821 | 2017-12-13 | Votação que acrescenta o § 13 ao art. 37 da Constituição Federal para dispor sobre a convalidação de atos administrativos. | Sim 58 Não 1 | resultado: approved
+S:5822 | 2017-12-13 | Votação que acrescenta o § 13 ao art. 37 da Constituição Federal para dispor sobre a convalidação de atos administrativos. | Sim 55 Não 1 | resultado: ?
+
+## S:120843 | PLC 26/2015 | ementa: Altera o art. 3º da Lei Complementar nº 79, de 7 de janeiro de 1994, que cria o Fundo Penitenciário Nacional - FUNPEN, e dá outras providências.
+   voto principal do projeto: S:5493 (2015-11-17): "Votação nominal do Projeto de Lei da Câmara nº 26, de 2015 que altera o art. 3º da Lei Complementar nº 79, de 7 de janeiro de 1994, que cria o Fundo Penitenciár" — Sim 73, Não 0
+S:5493 | 2015-11-17 | Votação nominal do Projeto de Lei da Câmara nº 26, de 2015 que altera o art. 3º da Lei Complementar nº 79, de 7 de janeiro de 1994, que cria o Fundo Penitenciário Nacional - FUNPEN, e dá outras providências. | Sim 73 Não 0 | resultado: approved
+
+## S:121072 | PLS 274/2015 | ementa: Dispõe sobre a aposentadoria compulsória, com proventos proporcionais, nos termos do inciso II do § 1o do art. 40 da Constituição Federal.
+   voto principal do projeto: S:5408 (2015-07-01): "Dispõe sobre a aposentadoria compulsória, com proventos proporcionais, nos termos do inciso II do §1º do art. 40 da CF." — Sim 59, Não 5
+S:5408 | 2015-07-01 | Dispõe sobre a aposentadoria compulsória, com proventos proporcionais, nos termos do inciso II do §1º do art. 40 da CF. | Sim 59 Não 5 | resultado: approved
+S:5409 | 2015-07-01 | Emenda nº 1 - CCJ ao PLS nº 274/2015. | Sim 54 Não 1 | resultado: approved
+S:5410 | 2015-07-01 | Emendas 2-3 Plen (parecer contrário) PLS 274/2015. | Sim 8 Não 41 | resultado: ?
+
+## S:121373 | PLC 41/2015 | ementa: Dispõe sobre as Carreiras dos Servidores do Ministério Público da União e das Carreiras dos Servidores do Conselho Nacional do Ministério Público; fixa os valores de sua remuneração; revoga a Lei nº 11.415, de 15 de dezembro de 2006; e dá outras providências.
+S:5452 | 2015-08-25 | Votação Nominal da Emenda nº 1 ao PLC 41, de 2015 (Substitutivo) que dispõe sobre as Carreiras dos Servidores do Ministério Público da União e do Conselho Nacional do Ministério Público; fixa valores de sua remuneração; revoga a Lei 11415/2006 e dá outras providências. | Sim 45 Não 28 | resultado: ?
+
+## S:121426 | PLS 316/2015 | ementa: Altera a Lei Complementar nº 101, de 4 de maio de 2000, para vedar a aplicação de sanções ao Município que ultrapasse o limite para a despesa total com pessoal e para desobrigar o titular do Município de pagar despesas empenhadas no mandato do prefeito anterior, nos casos de perda de recursos que especifica.
+   voto principal do projeto: S:5550 (2016-04-06): "Votação nominal do PLS 316/2015 (Complementar), que veda a aplicação de sanções ao Município que ultrapasse o limite para despesas total com pessoal e desobriga" — Sim 51, Não 2
+S:5550 | 2016-04-06 | Votação nominal do PLS 316/2015 (Complementar), que veda a aplicação de sanções ao Município que ultrapasse o limite para despesas total com pessoal e desobriga o titular do Município de pagar despesas empenhadas no mandato do prefeito anterior. | Sim 51 Não 2 | resultado: approved
+S:5551 | 2016-04-12 | Votação nominal do PLS 316/2015. | Sim 54 Não 1 | resultado: approved
+
+## S:121572 | PLS 333/2015 | ementa: Altera o Decreto-Lei nº 2.848 de 7 de dezembro de 1940 (Código Penal) e as Leis nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e 12.594, de 18 de janeiro de 2012 (SINASE).
+   voto principal do projeto: S:5421 (2015-07-14): "Votação do substitutivo ao Projeto de Lei do Senado nº 333, de 2015." — Sim 43, Não 13
+S:5421 | 2015-07-14 | Votação do substitutivo ao Projeto de Lei do Senado nº 333, de 2015. | Sim 43 Não 13 | resultado: ?
+
+## S:121667 | PLS 350/2015 | ementa: Altera a Lei nº 4.595, de 31 de dezembro de 1964, e a Lei nº 12.529, de 30 de novembro de 2011, para definir, como competência do Conselho Administrativo de Defesa Econômica – Cade, a defesa da concorrência no Sistema Financeiro Nacional, e dá outras providências.
+S:5850 | 2018-04-18 | Votação da Emenda nº 1 - CAE (Substitutivo) ao PLS nº 350, de 2015 (Complementar). | Sim 47 Não 0 | resultado: approved
+
+## S:121704 | PEC 73/2015 | ementa: Altera o art. 103 da Constituição Federal, para permitir que entidade de representação de municípios de âmbito nacional possa propor ação direta de inconstitucionalidade e ação declaratória de constitucionalidade.
+   voto principal do projeto: S:5589 (2016-07-06): "votação nominal em primeiro turno que altera o art. 103 da Constituição Federal, para permitir que a entidade de representação de Municípios de âmbito Nacional " — Sim 63, Não 0
+S:5589 | 2016-07-06 | votação nominal em primeiro turno que altera o art. 103 da Constituição Federal, para permitir que a entidade de representação de Municípios de âmbito Nacional possa propor ação de inconstitucionalidade e ação declaratória de Constitucionalidade. | Sim 63 Não 0 | resultado: ?
+S:5590 | 2016-07-06 | votação nominal em segundo turno que altera o art. 103 da Constituição Federal, para permitir que a entidade de representação de Municípios de âmbito Nacional possa propor ação de inconstitucionalidade e ação declaratória de Constitucionalidade. | Sim 50 Não 0 | resultado: ?
+
+## S:121801 | PEC 77/2015 | ementa: Dá nova redação ao art. 30 da Constituição Federal, para prever prestação de contas simplificadas para os Municípios de menor porte.
+   voto principal do projeto: S:5754 (2017-08-16): "Votação que dá nova redação ao art. 30 da Constituição Federal, para prever prestação de contas simplificadas para os Municípios de menor porte." — Sim 63, Não 0
+S:5754 | 2017-08-16 | Votação que dá nova redação ao art. 30 da Constituição Federal, para prever prestação de contas simplificadas para os Municípios de menor porte. | Sim 63 Não 0 | resultado: approved
+S:5764 | 2017-09-19 | Votação que dá nova redação ao art. 30 da Constituição Federal, para prever prestação de contas simplificadas para os Municípios de menor porte. | Sim 65 Não 0 | resultado: approved
+
+## S:121968 | PLS 389/2015 | ementa: Altera a Lei Complementar nº 101, de 4 de maio de 2000, para vedar o aumento das despesas de pessoal no último ano do mandato, assim como o aumento de despesa com pessoal após o final do mandato do titular do respectivo Poder.
+   voto principal do projeto: S:5620 (2016-08-24): "Votação nominal que altera a Lei Complementar nº 101, de 2000, para vedar o aumento das despesas de pessoal no último ano do mandato e após o final do mandato d" — Sim 56, Não 7
+S:5620 | 2016-08-24 | Votação nominal que altera a Lei Complementar nº 101, de 2000, para vedar o aumento das despesas de pessoal no último ano do mandato e após o final do mandato do titular do respectivo Poder. | Sim 56 Não 7 | resultado: approved
+
+## S:121994 | PEC 83/2015 | ementa: Acrescenta o art. 166-A à Constituição Federal, para dispor sobre a Autoridade Fiscal Independente.
+S:5481 | 2015-10-06 | Votação nominal da Emenda nº 15-CCJ (Substituvivo) | Sim 40 Não 19 | resultado: ?
+
+## S:122009 | PLC 57/2015 | ementa: Altera as Leis nºs 12.546, de 14 de dezembro de 2011, quanto à contribuição previdenciária sobre a receita bruta, 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016, 11.977, de 7 de julho de 2009, e 12.035, de 1º de outubro de 2009; e revoga dispositivos da Lei n
+   voto principal do projeto: S:5451 (2015-08-19): "Votação Nominal sobre matéria que dispõe sobre a contribuição previdenciária sobre a receita bruta, sobre medidas tributárias referentes aos Jogos Olímpicos e P" — Sim 45, Não 27
+S:5451 | 2015-08-19 | Votação Nominal sobre matéria que dispõe sobre a contribuição previdenciária sobre a receita bruta, sobre medidas tributárias referentes aos Jogos Olímpicos e Paraolímpicos de 2016 e sobre a tributação de bebidas frias. | Sim 45 Não 27 | resultado: approved
+
+## S:122031 | PEC 84/2015 | ementa: Acrescenta o § 6º ao art. 167 da Constituição Federal, para proibir a criação, por lei, de encargo financeiro aos Estados, ao Distrito Federal e aos Municípios, decorrente da prestação de serviços públicos, sem a previsão da correspondente transferência de recursos financeiros, nos termos que especifica.
+S:5456 | 2015-08-26 | Votação nominal da Emenda nº 1 (Substitutivo) à PEC 84, de 2015 - 1º turno, que acrescenta o §6º ao art. 167 da Constituição Federal, para proibir a criação, por lei, de encargo financeiro aos Estados, ao Distrito Federal e aos Municípios, decorrente da prestação de serviços públicos, nos termos especificados. | Sim 72 Não 0 | resultado: approved
+S:5457 | 2015-08-26 | Votação nominal da Emenda nº 1 (Substitutivo) à PEC 84, de 2015 - 2º turno, que acrescenta o §6º ao art. 167 da Constituição Federal, para proibir a criação, por lei, de encargos financeiros aos Estados, ao Distrito Federal e aos Municípios, decorrente da prestação de serviços públicos, nos termos especificados. | Sim 68 Não 0 | resultado: approved
+
+## S:122117 | PLS 430/2015 | ementa: Altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), para disciplinar a distribuição de cadeiras entre os partidos políticos na representação proporcional.
+   voto principal do projeto: S:5434 (2015-07-15): "Votação do Projeto de Lei do Senado nº 430, de 2015, que disciplina a distribuição de cadeiras entre os partidos políticos na representação proporcional." — Sim 46, Não 9
+S:5434 | 2015-07-15 | Votação do Projeto de Lei do Senado nº 430, de 2015, que disciplina a distribuição de cadeiras entre os partidos políticos na representação proporcional. | Sim 46 Não 9 | resultado: ?
+
+## S:122307 | PLS 476/2015 | ementa: Altera a Lei Complementar nº 64, de 18 de maio de 1990, para estabelecer nova condição de inelegibilidade de magistrados e membros do Ministério Público.
+   voto principal do projeto: S:5435 (2015-07-15): "Votação do Projeto de Lei do Senado nº 476, de 2015 (complementar), que estabelece nova condição de inelegibilidade de magistrados e membros do Ministério Públi" — Sim 47, Não 9
+S:5435 | 2015-07-15 | Votação do Projeto de Lei do Senado nº 476, de 2015 (complementar), que estabelece nova condição de inelegibilidade de magistrados e membros do Ministério Público. | Sim 47 Não 9 | resultado: ?
+S:5436 | 2015-07-15 | Votação da Emenda nº 1 (Plenário) ao Projeto de Lei do Senado nº 476, de 2015 (complementar), que estabelece nova condição de inelegibilidade de magistrados e membros do Ministério Público. | Sim 3 Não 47 | resultado: ?
+
+## S:122308 | PEC 98/2015 | ementa: Acrescenta artigo ao Ato das Disposições Transitórias da Constituição para reservar vagas para cada gênero na Câmara dos Deputados, nas Assembleias Legislativas, na Câmara Legislativa do Distrito Federal e nas Câmaras Municipais, nas três legislaturas subsequentes.
+S:5453 | 2015-08-25 | Votação Nominal da Proposta de Emenda à Constituição n° 98, de 2015 (1° Turno) que acrescenta artigo ao ADCT para reservar vagas para cada gênero na Câmara dos Deputados, nas Assembléias Legislativas, na Câmara do DF e nas Câmaras Municipais, nas três legislaturas subsequentes. | Sim 65 Não 7 | resultado: approved
+S:5463 | 2015-09-08 | Votação da Proposta de Emenda á Constituição n° 98, de 2015 (2° turno). | Sim 52 Não 5 | resultado: approved
+
+## S:122324 | PEC 99/2015 | ementa: Altera o inciso XVIII do art. 7º da Constituição Federal, para dispor sobre a licença-maternidade em caso de parto prematuro.
+   voto principal do projeto: S:5509 (2015-12-09): "Votação Nominal da PEC 99/2015 (1º turno) que altera o inciso XVIII do art. 7º da Constituição Federal, para dispor sobre a licença-maternidade em caso de parto" — Sim 58, Não 0
+S:5509 | 2015-12-09 | Votação Nominal da PEC 99/2015 (1º turno) que altera o inciso XVIII do art. 7º da Constituição Federal, para dispor sobre a licença-maternidade em caso de parto prematuro. | Sim 58 Não 0 | resultado: approved
+S:5510 | 2015-12-09 | Votação Nominal da PEC 99/2015 (2º turno) que altera o inciso XVIII do art. 7º da Constituição Federal, para dispor sobre a licença-maternidade em caso de parto prematuro. | Sim 61 Não 0 | resultado: approved
+
+## S:122392 | PLC 75/2015 | ementa: Altera as Leis nºs 9.504, de 30 de setembro de 1997, 9.096, de 19 de setembro de 1995, e 4.737, de 15 de julho de 1965 - Código Eleitoral, alterando as instituições político-eleitorais.
+S:5460 | 2015-09-02 | Subemenda do relator às emendas nºs 30, 33, 34, 35, 36, 50, 66, 68, 96, 98, 100, 101, 102, 103, 104, 80, 95, 74, 31 e 75. | Sim 36 Não 31 | resultado: approved
+
+## S:122449 | PLC 80/2015 | ementa: Altera a Lei nº 8.935, de 18 de novembro de 1994 – Lei dos Cartórios, que regulamenta o art. 236 da Constituição Federal, dispondo sobre serviços notariais e de registro.
+   voto principal do projeto: S:5765 (2017-09-19): "Votação que altera a Lei nº 8.935, de 1994 - Lei dos Cartórios, que regulamenta o art. 236 da Constituição Federal, dispondo sobre os serviços notariais e de re" — Sim 24, Não 21
+S:5765 | 2017-09-19 | Votação que altera a Lei nº 8.935, de 1994 - Lei dos Cartórios, que regulamenta o art. 236 da Constituição Federal, dispondo sobre os serviços notariais e de registro (dispõe sobre as remoções estabelecidas em legislação estadual e distrital). | Sim 24 Não 21 | resultado: approved
+
+## S:122646 | PLS 525/2015 | ementa: Acrescenta §14 ao artigo 3º da Lei Complementar n° 63, de 11 de janeiro de 1990, para dispor sobre o cálculo do valor adicionado de energia hidroelétrica para fins de repartição do produto da arrecadação do imposto sobre a circulação de mercadorias e serviços pertencentes aos municípios.
+   voto principal do projeto: S:5471 (2015-09-16): "Votação Nominal que acrescenta § 14 ao art. 3º da Lei Complementar nº 63/1990, para dispor sobre o cálculo do valor adicionado de energia hidroelétrica para fin" — Sim 61, Não 0
+S:5471 | 2015-09-16 | Votação Nominal que acrescenta § 14 ao art. 3º da Lei Complementar nº 63/1990, para dispor sobre o cálculo do valor adicionado de energia hidroelétrica para fins de repartição do produto da arrecadação do ICMS pertencentes aos municípios. | Sim 61 Não 0 | resultado: approved
+
+## S:122739 | MPV 688/2015 | ementa: Dispõe sobre a repactuação do risco hidrológico de geração de energia elétrica, institui a bonificação pela outorga e altera a Lei nº 10.848, de 15 de março de 2004, que dispõe sobre a comercialização de energia elétrica, a Lei nº 12.783, 11 de janeiro de 2013, que dispõe sobre as concessões de energia elétrica, e a Lei nº 9.478, de 6 de agosto de 1997, que institui o Conselho 
+   voto principal do projeto: S:5497 (2015-11-24): "Dispositivos impugnados do PLV 23/2015." — Sim 39, Não 21
+S:5497 | 2015-11-24 | Dispositivos impugnados do PLV 23/2015. | Sim 39 Não 21 | resultado: approved
+S:5499 | 2015-11-24 | Votação nominal do PLV 23, de 2015. | Sim 44 Não 20 | resultado: approved
+
+## S:122759 | PEC 113/2015 | ementa: Reforma as instituições político-eleitorais, alterando os arts. 14, 17, 57 e 61 da Constituição Federal, e cria regras temporárias para vigorar no período de transição para o novo modelo, acrescentando o art. 101 ao Ato das Disposições Constitucionais Transitórias.
+S:5511 | 2015-12-09 | Votação nominal do art. 8º da PEC 113/2015 (1º turno) - É facultado ao detentor de mandato eletivo desligar-se do partido pelo qual foi eleito nos 30 dias seguintes à promulgação desta Emenda à CF, sem prejuízo do mandato, não sendo essa...... | Sim 63 Não 0 | resultado: approved
+S:5512 | 2015-12-09 | Votação nominal do art. 8º da PEC 113/2015 (2º turno) - É facultado ao detentor de mandato eletivo desligar-se do partido pelo qual foi eleito nos 30 dias seguintes à promulgação desta Emenda à CF, sem prejuízo do mandato, não sendo essa...... | Sim 61 Não 0 | resultado: approved
+
+## S:122767 | PLC 102/2015 | ementa: Dá nova redação ao § 1º do art. 1º da Lei Complementar nº 94, de 19 de fevereiro de 1998, que autoriza o Poder Executivo a criar a Região Integrada de Desenvolvimento do Distrito Federal e Entorno - RIDE e instituir o Programa Especial de Desenvolvimento do Entorno do Distrito Federal, e dá outras providências.
+   voto principal do projeto: S:5859 (2018-05-22): "Votação que altera a Lei Complementar nº 94, de 1998, a fim de incluir novos municípios na Região Integrada de Desenvolvimento do Distrito Federal e Entorno - R" — Sim 64, Não 1
+S:5859 | 2018-05-22 | Votação que altera a Lei Complementar nº 94, de 1998, a fim de incluir novos municípios na Região Integrada de Desenvolvimento do Distrito Federal e Entorno - RIDE. | Sim 64 Não 1 | resultado: approved
+
+## S:122772 | PLC 101/2015 | ementa: Regulamenta o disposto no inciso XLIII do art. 5º da Constituição Federal, disciplinando o terrorismo, tratando de disposições investigatórias e processuais e reformulando o conceito de organização terrorista; e altera as Leis nºs 7.960, de 21 de dezembro de 1989, e 12.850, de 2 de agosto de 2013.
+S:5490 | 2015-10-28 | Votação nominal da Emenda nº 15-Plen (Substitutivo), que regulamenta o disposto no inciso XLIII do art. 5º da Constituição Federal, disciplinando o terrorismo, tratando de disposições investigatórias e processuais e reformulando o conceito de organização terrorista. | Sim 34 Não 18 | resultado: approved
+
+## S:122838 | PLS 555/2015 | ementa: Dispõe sobre a responsabilidade das sociedades de economia mista e empresas públicas que especifica, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios, e sobre seu estatuto jurídico.
+S:5536 | 2016-03-15 | Votação nominal da Emenda nº 107 ao PLS nº 555/2015. | Sim 17 Não 42 | resultado: ?
+S:5537 | 2016-03-15 | Votação nominal da Emenda nº 104 ao PLS nº 555/2015. | Sim 25 Não 22 | resultado: ?

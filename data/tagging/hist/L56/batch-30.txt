@@ -1,0 +1,84 @@
+## C:2293449 | PEC 23/2021 | ementa: Altera os art. 100, art. 109, art. 160, art. 166 e art. 167 da Constituição e acrescenta os art. 80-A e art. 101-A no Ato das Disposições Constitucionais Transitórias, e dá outras providências. NOVA EMENTA: Altera os arts. 100, 160 e 167 da Constituição Federal e o Ato das Disposições Constitucionais Transitórias para estabelecer o novo regime de pagamentos de precatórios, modi
+   voto principal do projeto: C:2304142-11 (2021-10-27): "Votação do REQ 2217/2021." — Sim 253, Não 174
+C:2304142-11 | 2021-10-27 | Votação do REQ 2217/2021. | Sim 253 Não 174 | resultado: approved
+C:2304142-8 | 2021-10-27 |  | Sim 163 Não 256 | resultado: rejected
+C:2293449-169 | 2021-11-03 | Votação em primeiro turno. | Sim 148 Não 307 | resultado: rejected
+C:2293449-174 | 2021-11-03 | Votação do DTQ 23: REPUBLICANOS: Destaque de preferência para a Emenda Aglutinativa Substitutiva de Plenário nº 1 apresentada à Proposta de Emenda à Constituição (PEC) º 23/2021 sobre o Substitutivo apresentado à referida PEC. (art. 161, IV) | Sim 307 Não 143 | resultado: approved
+C:2293449-176 | 2021-11-03 | Votação da Emenda Aglutinativa Substitutiva nº 1. | Sim 312 Não 144 | resultado: approved
+C:2293449-187 | 2021-11-09 | Votação do DTQ 3: PT: destaque, com vistas à rejeição, do § 11 do art. 100 da Constituição Federal, na redação dada pelo art. 1º do Substitutivo apresentado à PEC 23/2021. (art. 161, I) | Sim 336 Não 140 | resultado: ?
+C:2293449-188 | 2021-11-09 | Votação do DTQ 14: PSOL: destaque para votação em separado do inciso IV do § 11 do art. 100 da Constituição Federal, na redação dada pelo art. 1º do Substitutivo apresentado à PEC 23/2021, com vistas à sua supressão. (art. 161, I) | Sim 353 Não 126 | resultado: ?
+C:2293449-191 | 2021-11-09 | Votação do DTQ 6: NOVO: Destaque para votação em separado do inciso III do art. 167 da Constituição Federal alterado pelo Art. 1º do Substitutivo apresentado à PEC 23/2021, com vistas à sua supressão. (art. 161, I) | Sim 303 Não 167 | resultado: rejected
+C:2293449-195 | 2021-11-09 | Votação do DTQ 18: PT: destaque, com vistas à rejeição, do §7º do art. 167 da Constituição Federal, na redação dada pelo art. 1º do Substitutivo (art. 161, I) | Sim 342 Não 140 | resultado: ?
+C:2293449-199 | 2021-11-09 | Votação do DTQ 21: MDB: Destaque para Votação em Separado do Inciso II, do § 1º art. 107 do Ato das Disposições Constitucionais Transitórias e, por decorrência, os parágrafos 12 ao 14, do mesmo artigo, todos objeto de modificações constantes do art. 2º do Substitutivo apresentado à Proposta de Emenda à Constituição nº 23 de 2021 e, ainda, por via de consequência, o artigo 4º do Substitutivo para fins de sua supressão (art. 161, I). | Sim 316 Não 174 | resultado: ?
+C:2293449-202 | 2021-11-09 | Votação do DTQ 1: PT: Destaque, com vistas à rejeição, do art. 107-A do Ato das Disposições Constitucionais Transitórias, na redação dada pelo art. 2º do Substitutivo apresentado à PEC 23/2021. (art. 161, I) | Sim 323 Não 165 | resultado: ?
+C:2293449-205 | 2021-11-09 | Votação do DTQ 7: PSB: Destaque para Votação em Separado do art. 5º do Substitutivo oferecido à PEC 23/2021. (art. 161, I) | Sim 338 Não 151 | resultado: ?
+C:2293449-209 | 2021-11-09 | Votação do DTQ 8: PSB: Destaque para Votação em Separado do parágrafo único do art. 6º do Substitutivo oferecido à PEC 23/2021. (art. 161, I) | Sim 323 Não 163 | resultado: ?
+C:2293449-215 | 2021-11-09 | Votação do DTQ 8: PSB: Destaque para Votação em Separado do parágrafo único do art. 6º do Substitutivo oferecido à PEC 23/2021. (art. 161, I) | Sim 140 Não 319 | resultado: rejected
+C:2293449-237 | 2021-11-09 | Votação do DTQ 8: PSB: Destaque para Votação em Separado do parágrafo único do art. 6º do Substitutivo oferecido à PEC 23/2021. (art. 161, I) | Sim 324 Não 147 | resultado: approved
+C:2293449-241 | 2021-11-09 | Votação em segundo turno. | Sim 323 Não 172 | resultado: approved
+C:2293449-244 | 2021-11-09 | Votação do DTQ 4: PSOL: destaque para votação em separado do inciso IV do § 11 do art. 100 da Constituição Federal, na redação dada pelo art. 1º da Redação para o Segundo Turno da PEC 23/2021, com vistas à sua supressão. (art. 161, I) | Sim 363 Não 129 | resultado: ?
+C:2293449-247 | 2021-11-09 | Votação do DTQ 2: PT: destaque, com vistas à rejeição, do §7º do art. 167 da Constituição Federal, na redação dada pelo art. 1º do Substitutivo apresentado à PEC 23/2021. (art. 161, I). | Sim 345 Não 146 | resultado: ?
+C:2293449-250 | 2021-11-09 | Votação do DTQ 6: NOVO: Destaque para votação em separado do Inciso II, do § 1º art. 107 do Ato das Disposições Constitucionais Transitórias e, por decorrência, os parágrafos 12 ao 14, do mesmo artigo, todos objeto de modificações constantes do art. 2º do texto do Segundo Turno da PEC 23/2021 e, ainda, por via de consequência, o artigo 4º do texto do Segundo Turno da PEC 23/2021, com vistas à sua supressão. (art. 161, I). | Sim 319 Não 169 | resultado: ?
+C:2293449-255 | 2021-11-09 | Votação do DTQ 3: PT: destaque, com vistas à rejeição, do art. 107-A do Ato das Disposições Constitucionais Transitórias, na redação dada pelo art. 2º do Substitutivo apresentado à PEC 23/2021. (art. 161, I). | Sim 328 Não 160 | resultado: ?
+C:2306440-6 | 2021-11-09 |  | Sim 311 Não 162 | resultado: approved
+
+## C:2293472 | PLP 116/2021 | ementa: Suspende os prazos para cumprimento de obrigações tributárias acessórias, bem como a tramitação de processos administrativos fiscais nos dias compreendidos entre 20 de dezembro e 20 de janeiro, inclusive.
+   voto principal do projeto: C:2314217-10 (2022-02-15): "" — Sim 393, Não 22
+C:2314217-10 | 2022-02-15 |  | Sim 393 Não 22 | resultado: approved
+
+## C:2293674 | PL 2766/2021 | ementa: Altera a Lei nº 8.078, de 11 de setembro de 1990 e dá outras providências.
+   voto principal do projeto: C:2306916-8 (2021-11-16): "" — Sim 257, Não 102
+C:2306916-8 | 2021-11-16 |  | Sim 257 Não 102 | resultado: approved
+
+## C:2293703 | PEC 18/2021 | ementa: Impõe aos partidos a aplicação de recursos do fundo partidário na promoção e difusão da participação política das mulheres, bem como a aplicação de recursos desse fundo e do fundo de financiamento de campanha e a divisão do tempo de propaganda gratuita no rádio e na televisão no percentual mínimo de 30% (trinta por cento) para candidaturas femininas. NOVA EMENTA: Altera o art. 
+   voto principal do projeto: C:2293703-113 (2022-03-30): "" — Sim 33, Não 338
+C:2293703-113 | 2022-03-30 |  | Sim 33 Não 338 | resultado: rejected
+C:2293703-117 | 2022-03-30 |  | Sim 42 Não 331 | resultado: rejected
+C:2293703-120 | 2022-03-30 | Votação em primeiro turno. | Sim 402 Não 44 | resultado: approved
+C:2293703-122 | 2022-03-30 | Votação da emenda supressiva adotada pela Comissão Especial, ressalvados os destaques. | Sim 402 Não 1 | resultado: approved
+C:2293703-125 | 2022-03-30 | Votação da Emenda de Redação adotada pela Comissão Especial, ressalvados os destaques. | Sim 346 Não 1 | resultado: approved
+C:2293703-129 | 2022-03-30 | Votação do DTQ 1: PSOL: Destaque para votação em separado do art. 3° da Proposta de Emenda à Constituição n. 18/2021, para fins de supressão. (art. 161, I). | Sim 348 Não 44 | resultado: ?
+C:2293703-138 | 2022-03-30 | Votação em segundo turno. | Sim 400 Não 38 | resultado: approved
+
+## C:2293709 | PL 4572/2019 | ementa: Altera a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos), para adequar o dispositivo referente a divulgação partidária à utilização da internet, bem como estabelecer a propaganda partidária paga no rádio e na televisão. NOVA EMENTA: Altera a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos), para dispor sobre a propaganda partidária gratu
+   voto principal do projeto: C:2297227-10 (2021-09-08): "" — Sim 316, Não 96
+C:2297227-10 | 2021-09-08 |  | Sim 316 Não 96 | resultado: approved
+C:2293709-40 | 2021-10-07 |  | Sim 152 Não 253 | resultado: rejected
+C:2293709-45 | 2021-10-07 |  | Sim 137 Não 276 | resultado: rejected
+C:2293709-51 | 2021-10-07 | Votação em turno único. | Sim 270 Não 115 | resultado: approved
+C:2293709-56 | 2021-10-07 | Votação do DTQ 1: PSOL: destaque para votação em separado do artigo 50-E da Lei n. 9096 de 1995, alterado pelo art. 1º do Substitutivo apresentado ao Projeto de Lei nº 4.572 de 2019, com vistas a supressão. (art. 161, I). | Sim 296 Não 69 | resultado: ?
+
+## C:2293710 | PL 783/2021 | ementa: Altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para ajustar a sua redação à vedação constitucional de coligações nas eleições proporcionais; para permitir, nas eleições proporcionais, a participação na distribuição dos lugares apenas dos partidos que tiverem obtido quociente eleitoral; e para rev
+   voto principal do projeto: C:2297849-7 (2021-09-08): "" — Sim 300, Não 149
+C:2297849-7 | 2021-09-08 |  | Sim 300 Não 149 | resultado: approved
+C:2293710-37 | 2021-09-09 | Votação em turno único. | Sim 399 Não 34 | resultado: approved
+
+## C:2293712 | PLP 46/2021 | ementa: Institui o Programa de Reescalonamento do Pagamento de Débitos no Âmbito do Simples Nacional (Relp).
+   voto principal do projeto: C:2293712-45 (2021-12-16): "Votação em turno único." — Sim 382, Não 10
+C:2293712-45 | 2021-12-16 | Votação em turno único. | Sim 382 Não 10 | resultado: approved
+C:2293712-48 | 2021-12-16 | Votação da Emenda de Redação nº 2. | Sim 367 Não 1 | resultado: approved
+
+## C:2293798 | PRC 57/2021 | ementa: Declara a perda de mandato da Deputada FLORDELIS por conduta incompatível com o decoro parlamentar.
+   voto principal do projeto: C:2293798-23 (2021-08-11): "Votação em turno único." — Sim 437, Não 7
+C:2293798-23 | 2021-08-11 | Votação em turno único. | Sim 437 Não 7 | resultado: approved
+
+## C:2293953 | PL 1951/2021 | ementa: Altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos), e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para determinar que, nas eleições proporcionais, cada partido deverá reservar percentual mínimo para candidaturas de cada sexo, bem como para estabelecer reserva de cadeiras para
+   voto principal do projeto: C:2297870-6 (2021-09-08): "" — Sim 302, Não 140
+C:2297870-6 | 2021-09-08 |  | Sim 302 Não 140 | resultado: approved
+
+## C:2294020 | MPV 1063/2021 | ementa: Altera a Lei nº 9.478, de 6 de agosto de 1997, e a Lei nº 9.718, de 27 de novembro de 1998, para dispor sobre as operações de compra e venda de álcool, a comercialização de combustíveis por revendedor varejista e a incidência da Contribuição para o Programa de Integração Social e o Programa de Formação do Patrimônio do Servidor Público - PIS/Pasep e da Contribuição para o Finan
+C:2294020-60 | 2021-11-25 | Votação do DTQ 5: PT: destaque, com vistas à rejeição, do artigo 68-D da Lei nº 9.487/1997, constante do art. 1º da MPV 1.063/2021. (art. 161, I). | Sim 144 Não 196 | resultado: ?
+C:2294020-65 | 2021-11-25 | Votação do DTQ 10: PSOL: Destaque para votação em separado do art. 68- E da Lei n. 9.478, de 1997, na redação dada pelo art. 1° do Projeto de Lei de Conversão apresentado à Medida Provisória nº 1.063, de 2021, para sua supressão. | Sim 227 Não 77 | resultado: ?
+C:2294020-68 | 2021-11-25 | Votação do DTQ 9: NOVO: Emenda de Comissão n. 68 (art. 161, II). | Sim 24 Não 265 | resultado: rejected
+C:2294020-71 | 2021-11-25 | Votação do DTQ 12: CIDADANIA: Emenda de Plenário nº 4 (art. 161, II). | Sim 31 Não 226 | resultado: rejected
+
+## C:2294651 | PLP 123/2021 | ementa: Altera a Lei Complementar nº 156, de 28 de dezembro de 2016, que Estabelece o Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal, e altera a Lei Complementar nº 159, de 19 de maio de 2017, que Institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal.
+   voto principal do projeto: C:2296768-8 (2021-09-21): "" — Sim 385, Não 16
+C:2296768-8 | 2021-09-21 |  | Sim 385 Não 16 | resultado: approved
+C:2294651-25 | 2021-09-30 |  | Sim 14 Não 309 | resultado: rejected
+C:2294651-33 | 2021-09-30 | Votação em turno único. | Sim 372 Não 13 | resultado: approved
+C:2294651-38 | 2021-09-30 | Votação do DTQ 3: NOVO: destaque para a votação em separado da expressão “166” constante da alínea “a” do inciso III do Art. 4º-A da Lei Complementar 156 de 2016, alterado pelo Art. 1º do PLP 123/2021, com vistas à sua supressão. (art. 161, I). | Sim 346 Não 15 | resultado: ?
+
+## C:2297078 | PL 3042/2021 | ementa: Dispõe sobre a prorrogação do prazo de vigência de incentivos do Programa de Apoio ao Desenvolvimento Tecnológico da Indústria de Semicondutores - PADIS, instituído pela Lei nº 11.484, de 31 de maio de 2007, e dá outras providências. NOVA EMENTA: Altera a Lei nº 11.484, de 31 de maio de 2007, para dispor sobre a prorrogação do prazo de vigência de incentivos do Programa de Apoi
+   voto principal do projeto: C:2304733-7 (2021-11-04): "" — Sim 315, Não 10
+C:2304733-7 | 2021-11-04 |  | Sim 315 Não 10 | resultado: approved

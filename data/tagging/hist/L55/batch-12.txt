@@ -1,0 +1,129 @@
+## C:996553 | MPV 670/2015 | ementa: Altera a Lei nº 11.482, de 31 de maio de 2007, para dispor sobre os valores da tabela mensal do Imposto sobre a Renda da Pessoa Física; a Lei nº 7.713, de 22 de dezembro de 1988; e a Lei nº 9.250, de 26 de dezembro de 1995.
+C:996553-34 | 2015-06-17 | Votação da Emenda nº 88, objeto do Destaque para votação da bancada do DEM - DTQ 2. | Sim 170 Não 271 | resultado: rejected
+C:996553-39 | 2015-06-17 | Votação da Emenda nº 76, objeto do Destaque para votação da bancada do PPS - DTQ 3. | Sim 222 Não 199 | resultado: approved
+C:996553-43 | 2015-06-17 | Votação da Emenda nº 16, objeto do Destaque para votação da bancada do PSDB - DTQ 5. | Sim 231 Não 143 | resultado: approved
+
+## S:100330 | PEC 40/2011 | ementa: Altera o art. 17 da Constituição Federal, para permitir coligações eleitorais apenas nas eleições majoritárias.
+S:5331 | 2015-03-10 | Votação da Proposta de Emenda à Constituição nº 40, de 2011 (1º turno) que altera o artigo 17 da Constituição Federal, para emitir coligações eleitorais apenas nas eleições majoritárias. | Sim 61 Não 7 | resultado: ?
+S:5332 | 2015-03-10 | Votação da Emenda nº 1 - Plenário à PEC nº 40, de 2011 (contrário). | Sim 35 Não 27 | resultado: rejected
+S:5333 | 2015-03-10 | Votação das emendas n°s 2 a 4 - Plenário à PEC n° 40, de 2011 (contrário). | Sim 5 Não 54 | resultado: rejected
+S:5340 | 2015-03-24 | Votação da Proposta de Emenda à Constituição nº 40, de 2011 (2º turno) que altera o art. 17 da Constituição Federal, para permitir coligações eleitorais apenas nas eleições majoritárias. | Sim 62 Não 3 | resultado: approved
+
+## S:100405 | PLS 285/2011 | ementa: Altera o art. 191-A da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional e os arts. 57, 70 e 71 da Lei nº 11.101, de 9 de fevereiro de 2005, para deixar de exigir certidões negativas de débitos tributários e facilitar a recuperação judicial das microempresas e empresas de pequeno porte.
+   voto principal do projeto: S:5834 (2018-02-28): "Votação que altera o art. 191-A da Lei nº 5.172, de 25/10/1966 - Código Tributário Nacional e os arts. 57, 70 e 71 da Lei nº 11.101, de 9/2/2005, para deixar de" — Sim 63, Não 0
+S:5834 | 2018-02-28 | Votação que altera o art. 191-A da Lei nº 5.172, de 25/10/1966 - Código Tributário Nacional e os arts. 57, 70 e 71 da Lei nº 11.101, de 9/2/2005, para deixar de exigir certidões negativas de débitos tributários e facilitar a recuperação judicial das microempresas e empresas de pequeno porte. | Sim 63 Não 0 | resultado: ?
+
+## S:101007 | PLS 388/2011 | ementa: Altera a Lei Complementar nº 116, de 31 de julho de 2003, para dispor sobre a base de cálculo do Imposto Sobre Serviços de Qualquer Natureza dos serviços prestados pelas agências de viagens.
+   voto principal do projeto: S:5686 (2017-04-05): "Votação que altera a Lei Complementar nº 116, de 2003, para dispor sobre a base de cálculo do imposto sobre Serviços de Qualquer Natureza dos serviços prestados" — Sim 63, Não 0
+S:5686 | 2017-04-05 | Votação que altera a Lei Complementar nº 116, de 2003, para dispor sobre a base de cálculo do imposto sobre Serviços de Qualquer Natureza dos serviços prestados pelas agências de viagens. | Sim 63 Não 0 | resultado: ?
+
+## S:101011 | PLS 375/2011 | ementa: Altera o parágrafo único do art. 64 da Lei nº 4.320, de 17 de março de 1964, para dispor sobre a obrigatoriedade de documento com código de barras em todos os pagamentos realizados pela União, Estados, Distrito Federal e Municípios.
+   voto principal do projeto: S:5395 (2015-06-16): "Projeto de Lei do Senado nº 375, de 2011 (Compl.), que dispõe sobre a obrigatoriedade de documento com código de barras em todos os pagamentos realizados pela U" — Sim 64, Não 1
+S:5395 | 2015-06-16 | Projeto de Lei do Senado nº 375, de 2011 (Compl.), que dispõe sobre a obrigatoriedade de documento com código de barras em todos os pagamentos realizados pela União, Estados, DF e Municípios. | Sim 64 Não 1 | resultado: ?
+S:5396 | 2015-06-16 | Emenda nº 1 e 2 - CCT e CAE ao PLS 375/2011 (Compl.). | Sim 64 Não 0 | resultado: approved
+
+## S:101237 | PEC 71/2011 | ementa: Altera o § 6º do art. 231 da Constituição Federal e acrescenta art. 67-A ao Ato das Disposições Constitucionais Transitórias, para permitir a indenização de possuidores de títulos dominiais relativos a terras declaradas como indígenas expedidos até o dia 5 de outubro de 1988.
+S:5461 | 2015-09-08 | Votação da Emenda 6/CCJ á PEC 71/2011, com a alteração do Relator (1° Turno - Substitutivo). | Sim 65 Não 0 | resultado: ?
+S:5462 | 2015-09-08 | Votação da Emenda 6/CCJ á PEC 71/2011, com a alteração do Relator (2° Turno - Substitutivo). | Sim 58 Não 0 | resultado: ?
+
+## S:101621 | PLS 477/2011 | ementa: Altera a Lei nº 4.595, de 31 de dezembro de 1964, para que passe a figurar como competência do Banco Central do Brasil a expressão "perseguir a estabilidade do poder de compra da moeda, garantir que o sistema financeiro seja sólido e eficiente e estimular o crescimento econômico e a geração de empregos".
+   voto principal do projeto: S:5514 (2015-12-16): "Votação Nominal que altera a Lei nº 4.595, de 1964, incluindo competência para o Banco Central do Brasil." — Sim 32, Não 31
+S:5514 | 2015-12-16 | Votação Nominal que altera a Lei nº 4.595, de 1964, incluindo competência para o Banco Central do Brasil. | Sim 32 Não 31 | resultado: rejected
+
+## S:105470 | PEC 24/2012 | ementa: Institui o Fundo Nacional de Desenvolvimento da Segurança Pública.
+   voto principal do projeto: S:5806 (2017-12-06): "Votação que institui o Fundo Nacional de Desenvolvimento da Segurança Pública." — Sim 1, Não 56
+S:5805 | 2017-12-06 | Votação da Emenda nº 3 - CCJ (Substitutivo) à PEC nº 24, de 2012 (1º Turno). | Sim 58 Não 1 | resultado: ?
+S:5806 | 2017-12-06 | Votação que institui o Fundo Nacional de Desenvolvimento da Segurança Pública. | Sim 1 Não 56 | resultado: ?
+S:5810 | 2017-12-12 | Votação que institui o Fundo Nacional de Desenvolvimento da Segurança Pública. | Sim 62 Não 0 | resultado: approved
+
+## S:106824 | PEC 43/2012 | ementa: Altera a redação do inciso II do art. 203 da Constituição para acrecentar entre os objetivos da assistência social o amparo à mulher vítima de violência.
+   voto principal do projeto: S:5568 (2016-06-14): "Votação nominal, em primeiro turno, que altera a redação do inciso II do artigo 203 da Constituição Federal para acrescentar entre os objetivos da assistência s" — Sim 62, Não 0
+S:5568 | 2016-06-14 | Votação nominal, em primeiro turno, que altera a redação do inciso II do artigo 203 da Constituição Federal para acrescentar entre os objetivos da assistência social o amparo à mulher vítima de violência. | Sim 62 Não 0 | resultado: approved
+S:5570 | 2016-06-15 | Votação nominal, em segundo turno, altera a redação do inciso II do artigo 203 da Constituição Federal para acrescentar entre os objetivos da assistência social o amparo à mulher vítima de violência. | Sim 63 Não 0 | resultado: ?
+
+## S:111574 | PEC 10/2013 | ementa: Altera os arts. 102, 105, 108 e 125 da Constituição Federal para extinguir o foro especial por prerrogativa de função nos casos de crimes comuns.
+   voto principal do projeto: S:5711 (2017-05-31): "Votação que extingue o foro especial por prerrogativa de função nos casos de crimes comuns." — Sim 69, Não 0
+S:5697 | 2017-04-26 | Substitutivo à Proposta de Emenda à Constituição nº 10, de 2013 (1º Turno). | Sim 75 Não 0 | resultado: approved
+S:5711 | 2017-05-31 | Votação que extingue o foro especial por prerrogativa de função nos casos de crimes comuns. | Sim 69 Não 0 | resultado: ?
+
+## S:112831 | PLS 201/2013 | ementa: Insere parágrafo no art. 19 da Lei Complementar nº 123, de 14 de dezembro de 2006 e altera redação do art. 10 da Lei Complementar nº 87, de 13 de setembro de 1996, para dar às micro e pequenas empresas, nos casos de aquisição de produtos sujeitos à substituição tributária, o direito de pagar ICMS pela alíquota máxima a elas aplicáveis, tendo como base de cálculo o valor real da
+   voto principal do projeto: S:5341 (2015-03-24): "Votação do Projeto de Lei do Senado nº 201, de 2013 (complementar) que altera as leis que especifica, dando às micro e pequenas empresas, nos casos de aquisição" — Sim 57, Não 1
+S:5341 | 2015-03-24 | Votação do Projeto de Lei do Senado nº 201, de 2013 (complementar) que altera as leis que especifica, dando às micro e pequenas empresas, nos casos de aquisição de produtos sujeitos à substituição tributária, o direito de pagar ICMS pela alíquota máxima a elas aplicáveis, tendo como base de cálculo o valor real da operação. | Sim 57 Não 1 | resultado: approved
+
+## S:113104 | PLS 224/2013 | ementa: Dispõe sobre o contrato de trabalho doméstico, e dá outras providências.
+   voto principal do projeto: S:5372 (2015-05-06): "Artigo 45 do Projeto de Lei do Senado nº 224/2013 (isenção da contribuição sindical)" — Sim 1, Não 50
+S:5372 | 2015-05-06 | Artigo 45 do Projeto de Lei do Senado nº 224/2013 (isenção da contribuição sindical) | Sim 1 Não 50 | resultado: ?
+S:5373 | 2015-05-06 | §4º do art. 11-A da Lei 10.593, na forma do art. 44 do PLS 224/2013. | Sim 0 Não 52 | resultado: ?
+
+## S:115593 | PLS 501/2013 | ementa: Altera a Lei Complementar nº 116, de 31 de julho de 2003, para explicitar a incidência do Imposto sobre Serviços no rastreamento e monitoramento de veículos.
+   voto principal do projeto: S:5491 (2015-11-04): "Votação nominal do PLS 501/2013-Complementar, que explicita a incidência do Imposto sobre Serviços no rastreamento e monitoramento de veículos." — Sim 61, Não 1
+S:5491 | 2015-11-04 | Votação nominal do PLS 501/2013-Complementar, que explicita a incidência do Imposto sobre Serviços no rastreamento e monitoramento de veículos. | Sim 61 Não 1 | resultado: approved
+S:5492 | 2015-11-04 | Turno Suplementar - Votação Nominal | Sim 52 Não 0 | resultado: approved
+
+## S:115729 | PEC 74/2013 | ementa: Dá nova redação ao art. 6º da Constituição Federal, para introduzir o transporte como direito social.
+   voto principal do projeto: S:5450 (2015-08-18): "Votação Nominal da PEC nº 74, de 2013, em primeiro turno." — Sim 62, Não 0
+S:5450 | 2015-08-18 | Votação Nominal da PEC nº 74, de 2013, em primeiro turno. | Sim 62 Não 0 | resultado: ?
+S:5465 | 2015-09-09 | Votação da proposta de Emenda á Constituição n°74, de 2013 (2°Turno), que dá nova redação ao art. 6º da Constituição Federal, para introduzir o transporte como direito social. | Sim 64 Não 0 | resultado: approved
+
+## S:115831 | PEC 78/2013 | ementa: Dá nova redação ao art. 42 do Ato das Disposições Constitucionais Transitórias, ampliando o prazo em que a União deverá destinar às Regiões Centro-Oeste e Nordeste percentuais mínimos dos recursos destinados à irrigação.
+   voto principal do projeto: S:5441 (2015-08-04): "Dá nova redação ao art. 42 do ADCT, ampliando o prazo em que a União deverá destinar as Regiões Centro-Oeste e Nordeste percentuais mínimos dos recursos destina" — Sim 66, Não 0
+S:5441 | 2015-08-04 | Dá nova redação ao art. 42 do ADCT, ampliando o prazo em que a União deverá destinar as Regiões Centro-Oeste e Nordeste percentuais mínimos dos recursos destinados à irrigação. | Sim 66 Não 0 | resultado: approved
+S:5449 | 2015-08-18 | Votação nominal da PEC nº 78, de 2013, em segundo turno. | Sim 66 Não 0 | resultado: approved
+
+## S:116074 | PLS 25/2014 | ementa: Acrescenta parágrafos ao art. 3º da Lei Complementar nº 79, 7 de janeiro de 1994, que “cria o Fundo Penitenciário Nacional - FUNPEN e dá outras providências”.
+   voto principal do projeto: S:5833 (2018-02-27): "Votação que acrescenta parágrafos ao art. 3º da Lei Complementar nº 79, de 7 de janeiro de 1994, que "cria o Fundo Penitenciário Nacional - Funpen e dá outras p" — Sim 61, Não 0
+S:5833 | 2018-02-27 | Votação que acrescenta parágrafos ao art. 3º da Lei Complementar nº 79, de 7 de janeiro de 1994, que "cria o Fundo Penitenciário Nacional - Funpen e dá outras providências". | Sim 61 Não 0 | resultado: approved
+
+## S:116962 | PLS 130/2014 | ementa: Convalida os atos normativos de concessão de benefícios fiscais e concede remissão e anistia de créditos tributários referentes ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS).
+S:5343 | 2015-04-07 | Votação da Emenda nº 16 - PLEN ao PLS 130/2014 (SUBS - COMPLEMENTAR) | Sim 63 Não 7 | resultado: approved
+
+## S:117041 | PLS 141/2014 | ementa: Altera o art. 67 da Lei Complementar nº 101, de 4 de maio de 2000, que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências, para ampliar as atribuições do Conselho de Gestão Fiscal e viabilizar a instalação e o funcionamento desse Conselho.
+   voto principal do projeto: S:5504 (2015-12-01): "Votação nominal do PLS 141/2014" — Sim 57, Não 0
+S:5504 | 2015-12-01 | Votação nominal do PLS 141/2014 | Sim 57 Não 0 | resultado: approved
+S:5505 | 2015-12-01 | Votação nominal da Emenda nº 1-CEDN ao PLS 141/2014 | Sim 53 Não 0 | resultado: approved
+S:5506 | 2015-12-01 | Votação nominal do destaque dos incisos IV do art. 67 e I do art. 69 do PLS 141/2014 | Sim 2 Não 51 | resultado: rejected
+
+## S:117839 | PLS 188/2014 | ementa: Acrescenta inciso IV ao § 3º do art. 198 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional, para permitir a divulgação, por parte da Fazenda Pública, dos beneficiários de renúncia de receita.
+   voto principal do projeto: S:5875 (2018-06-12): "Votação que acrescenta inciso IV ao § 3° do art. 198 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional, para permitir a divulgação, por par" — Sim 46, Não 0
+S:5875 | 2018-06-12 | Votação que acrescenta inciso IV ao § 3° do art. 198 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional, para permitir a divulgação, por parte da Fazenda Pública, dos beneficiários de renúncia de receita. | Sim 46 Não 0 | resultado: ?
+
+## S:118418 | PEC 30/2014 | ementa: Acrescenta o art. 27-A, altera o § 3º do art. 32 e acrescenta § 2º ao art. 75, todos da Constituição Federal, bem como insere artigo no Ato das Disposições Constitucionais Transitórias; com o objetivo de fixar limite máximo para as despesas das Assembleias Legislativas dos Estados, da Câmara Legislativa do Distrito Federal e dos Tribunais de Contas dos Estados e do Distrito Fed
+   voto principal do projeto: S:5587 (2016-07-05): "Votação nominal da PEC nº 30/2014 que altera a Constituição Federal com o objetivo de fixar limite máximo para as despesas das Assembleias Legislativas dos Esta" — Sim 58, Não 2
+S:5587 | 2016-07-05 | Votação nominal da PEC nº 30/2014 que altera a Constituição Federal com o objetivo de fixar limite máximo para as despesas das Assembleias Legislativas dos Estados, da Câmara Legislativa do Distrito Federal e dos Tribunais de Contas dos Estados e do Distrito Federal. | Sim 58 Não 2 | resultado: approved
+S:5588 | 2016-07-05 | Votação nominal das Emendas nºs 1-CCJ e 3-Plen que altera a Constituição Federal com o objetivo de fixar limite máximo para as despesas das Assembleias Legislativas dos Estados, da Câmara Legislativa do Distrito Federal e dos Tribunais de Contas dos Estados e do Distrito Federal. | Sim 52 Não 0 | resultado: approved
+S:5591 | 2016-07-12 | Votação nominal da PEC 30/2014 - 2º turno, que altera a Constituição Federal com o objetivo de fixar limite máximo para as despesas das Assembleias Legislativas dos Estados, da Câmara Legislativa do Distrito Federal e dos Tribunais de Contas dos Estados e do Distrito Federal. | Sim 62 Não 2 | resultado: approved
+
+## S:118636 | PLS 277/2014 | ementa: Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para prever que a revisão da base de cálculo do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) e a atualização monetária dos valores que a compõem constituem requisitos essenciais da responsabilidade na gestão fiscal.
+   voto principal do projeto: S:5446 (2015-08-05): "Prevê que a revisão da base de cálculo do IPTU e a atualização monetária dos valores que a compõem constituem requisitos essenciais da responsabilidade na gestã" — Sim 40, Não 16
+S:5446 | 2015-08-05 | Prevê que a revisão da base de cálculo do IPTU e a atualização monetária dos valores que a compõem constituem requisitos essenciais da responsabilidade na gestão fiscal. | Sim 40 Não 16 | resultado: ?
+
+## S:118712 | PEC 33/2014 | ementa: Altera os art. 23 e art. 24 da Constituição Federal para inserir a segurança pública entre as competências comuns da União, dos Estados, do Distrito Federal e dos Municípios.
+   voto principal do projeto: S:5473 (2015-09-16): "Votação Nominal que altera o art. 23 e o art. 24 da Constituição Federal para inserir a segurança pública entre as competências comuns da União, dos Estados, do" — Sim 59, Não 0
+S:5470 | 2015-09-16 | Votação do Substitutivo à Proposta de Emenda à Constituição nº 33, de 2014 (1º Turno). | Sim 55 Não 0 | resultado: approved
+S:5473 | 2015-09-16 | Votação Nominal que altera o art. 23 e o art. 24 da Constituição Federal para inserir a segurança pública entre as competências comuns da União, dos Estados, do Distrito Federal e dos Municípios. | Sim 59 Não 0 | resultado: approved
+
+## S:118736 | MPV 658/2014 | ementa: Altera a Lei nº 13.019, de 31 de julho de 2014, que estabelece o regime jurídico das parcerias voluntárias, envolvendo ou não transferências de recursos financeiros, entre a administração pública e as organizações da sociedade civil, em regime de mútua cooperação, para a consecução de finalidades de interesse público; define diretrizes para a política de fomento e de colaboraçã
+S:5330 | 2015-02-25 | Emendas de parecer favorável à MPV 658/2014. | Sim 0 Não 65 | resultado: ?
+
+## S:119550 | MPV 664/2014 | ementa: Altera as Leis nº 8.213, de 24 de julho de 1991, nº 10.876, de 2 junho de 2004, nº 8.112, de 11 de dezembro de 1990, e a Lei nº 10.666, de 8 de maio de 2003.
+   voto principal do projeto: S:5386 (2015-05-27): "Projeto de Lei de Conversão nº 4/2015, que estabelece novas regras para concessão do auxílio doença e pensão por morte, e dá outras providências." — Sim 50, Não 18
+S:5386 | 2015-05-27 | Projeto de Lei de Conversão nº 4/2015, que estabelece novas regras para concessão do auxílio doença e pensão por morte, e dá outras providências. | Sim 50 Não 18 | resultado: approved
+
+## S:119551 | MPV 665/2014 | ementa: Altera a Lei nº 7.998, de 11 de janeiro de 1990, que regula o Programa do Seguro-Desemprego, o Abono Salarial e institui o Fundo de Amparo ao Trabalhador - FAT, altera a Lei nº 10.779, de 25 de novembro de 2003, que dispõe sobre o seguro desemprego para o pescador artesanal, e dá outras providências.
+   voto principal do projeto: S:5384 (2015-05-26): "Pressupostos de Relevância e Urgência da MP 665/2014." — Sim 37, Não 32
+S:5384 | 2015-05-26 | Pressupostos de Relevância e Urgência da MP 665/2014. | Sim 37 Não 32 | resultado: approved
+S:5385 | 2015-05-26 | Projeto de Lei de Conversão nº 3, de 2015 que altera critérios para a concessão do seguro-desemprego, abono salarial e seguro-defeso. | Sim 39 Não 32 | resultado: approved
+
+## S:119633 | PEC 7/2015 (fase 2) | ementa: Altera o § 2º do art. 155 da Constituição Federal e inclui o art. 99 no Ato das Disposições Constitucionais Transitórias, para tratar da sistemática de cobrança do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação incidente sobre as operações e prestações que destinem bens e
+   voto principal do projeto: S:5354 (2015-04-15): "Altera o § 2º do art. 155 da CF e inclui o art. 99 no ADCT, para tratar da sistemática de cobrança do ICMS incidente sobre as operações e prestações que destine" — Sim 60, Não 0
+S:5354 | 2015-04-15 | Altera o § 2º do art. 155 da CF e inclui o art. 99 no ADCT, para tratar da sistemática de cobrança do ICMS incidente sobre as operações e prestações que destinem bens e serviços a consumidor final localizado em outro Estado (comércio eletrônico). 1º Turno. | Sim 60 Não 0 | resultado: approved
+S:5355 | 2015-04-15 | Altera o § 2º do art. 155 da CF e inclui o art. 99 no ADCT, para tratar da sistemática de cobrança do ICMS incidente sobre as operações e prestações que destinem bens e serviços a consumidor final localizado em outro Estado (comércio eletrônico). 2º Turno. | Sim 60 Não 0 | resultado: approved
+
+## S:119714 | PLC 2/2015 | ementa: Regulamenta o inciso II do §1º e o §4º do art. 225 da Constituição Federal; o art. 1º, alínea “j” do art. 8º, a alínea “c” do art. 10, o art. 15; e os §§3º e 4º do art. 16 da Convenção sobre Diversidade Biológica, promulgada pelo Decreto nº 2.519, de 16 de março de 1998; dispõe sobre o acesso ao patrimônio genético, sobre a proteção e o acesso ao conhecimento tradicional associ
+S:5347 | 2015-04-14 | Emendas 2, 18, 29, 44 e 66 ao PLC 2/2015. | Sim 32 Não 31 | resultado: approved
+S:5348 | 2015-04-14 | Emenda 120 - CMA ao PLC 2/2015. | Sim 30 Não 31 | resultado: rejected
+S:5349 | 2015-04-15 | Emenda 154 - CMA ao Projeto de Lei da Câmara nº 2/2015. | Sim 30 Não 29 | resultado: approved
+S:5350 | 2015-04-15 | Emenda 163 - CMA ao Projeto de Lei da Câmara nº 2/2015. | Sim 32 Não 29 | resultado: approved
+
+## S:119852 | PLS 78/2015 | ementa: Altera a Lei Complementar nº 108, de 29 de maio de 2001, para aprimorar os dispositivos de governança das entidades fechadas de previdência complementar vinculadas à União, aos Estados, ao Distrito Federal e aos Municípios, suas autarquias, fundações, sociedades de economia mista e outras entidades públicas.
+S:5549 | 2016-04-06 | Votação nominal da Emenda nº 6-Plen (Substitutivo) ao PLS 78/2015. | Sim 66 Não 0 | resultado: approved

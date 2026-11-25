@@ -1,0 +1,74 @@
+## C:2255149 | PL 3292/2020 | ementa: Altera a Lei nº 11.947, de 16 de junho de 2009, para estabelecer percentual mínimo para a aquisição de leite sob a forma fluida com recursos do Programa Nacional de Alimentação Escolar (PNAE) na forma que discrimina e dá outras providências. NOVA EMENTA : Altera a Lei nº 11.947, de 16 de junho de 2009, para estabelecer percentual mínimo para a aquisição de leite sob a forma flu
+   voto principal do projeto: C:2270577-9 (2021-03-18): "" — Sim 330, Não 49
+C:2270577-9 | 2021-03-18 |  | Sim 330 Não 49 | resultado: approved
+C:2255149-100 | 2021-05-06 | Votação do DTQ 2: PSOL: destaque para votação em separado do art. 1º do Substitutivo do PL nº 3292 de 2020, para fins de supressão. (art. 161, I) | Sim 255 Não 139 | resultado: ?
+C:2255149-106 | 2021-05-06 | Votação do DTQ 4: PT: destaque, com vistas à rejeição, do artigo 3º do Substitutivo (art. 161, I) | Sim 268 Não 162 | resultado: ?
+C:2255149-115 | 2021-05-06 | Votação do DTQ 3: PT: Destaque, com vistas à rejeição, do artigo 4º do Substitutivo (art. 161, I) | Sim 226 Não 183 | resultado: ?
+C:2255149-120 | 2021-05-06 | Votação do DTQ 6: NOVO: Destaque para a votação em separado do artigo 5º do Substitutivo apresentado ao PL 3292/20, com vistas à sua supressão. (art. 161, I) | Sim 258 Não 144 | resultado: ?
+C:2255149-49 | 2021-05-06 |  | Sim 171 Não 266 | resultado: rejected
+C:2255149-75 | 2021-05-06 |  | Sim 170 Não 229 | resultado: rejected
+C:2255149-80 | 2021-05-06 |  | Sim 166 Não 213 | resultado: rejected
+C:2255149-89 | 2021-05-06 | Continuação da votação em turno único. | Sim 36 Não 246 | resultado: rejected
+C:2255149-92 | 2021-05-06 | Continuação da votação em turno único. | Sim 33 Não 260 | resultado: rejected
+C:2255149-94 | 2021-05-06 | Continuação da votação em turno único. | Sim 243 Não 177 | resultado: approved
+C:2255149-97 | 2021-05-06 | Votação das Emendas de Plenário, com parecer pela rejeição. | Sim 143 Não 179 | resultado: rejected
+
+## C:2255199 | PL 3320/2020 | ementa: Altera a Lei nº 12.485, de 12 de setembro de 2011, para autorizar, em caráter excepcional devido à pandemia do Covid-19, a adaptação das outorgas do Serviço Especial de Televisão por Assinatura - TVA, criado pelo Decreto nº 95.744, de 23 de fevereiro de 1988, para outorgas do serviço de radiodifusão de sons e imagens, nos termos em que especifica. NOVA EMENTA: Estabelece critér
+   voto principal do projeto: C:2255199-44 (2021-10-07): "" — Sim 247, Não 140
+C:2255199-44 | 2021-10-07 |  | Sim 247 Não 140 | resultado: approved
+C:2255199-60 | 2022-03-30 |  | Sim 76 Não 280 | resultado: rejected
+C:2255199-68 | 2022-03-30 |  | Sim 43 Não 244 | resultado: rejected
+C:2255199-78 | 2022-03-30 |  | Sim 44 Não 288 | resultado: rejected
+C:2255199-80 | 2022-03-30 | Votação em turno único. | Sim 273 Não 64 | resultado: approved
+C:2255199-88 | 2022-03-30 | Votação do DTQ 3: PSOL: destaque para votação em separado do art. 4° do substitutivo apresentado ao Projeto de Lei n. 3320/20, para fins de supressão (art. 161, I). | Sim 283 Não 60 | resultado: ?
+
+## C:2255237 | REQ 1575/2020 | ementa: Requer urgência para apreciação e imediata inclusão na Ordem do Dia, no Plenário da Câmara dos Deputados, do Projeto de Lei de nº 3320, de 2020.
+   voto principal do projeto: C:2255237-7 (2020-07-29): "" — Sim 263, Não 212
+C:2255237-7 | 2020-07-29 |  | Sim 263 Não 212 | resultado: approved
+
+## C:2255363 | MPV 983/2020 | ementa: Dispõe sobre as assinaturas eletrônicas em comunicações com entes públicos e em questões de saúde e sobre as licenças de softwares desenvolvidos por entes públicos. NOVA EMENTA: Dispõe sobre o uso das assinaturas eletrônicas em interações com entes públicos, em atos de pessoas jurídicas e em questões de saúde e sobre as licenças de softwares desenvolvidos por entes públicos; e 
+   voto principal do projeto: C:2255363-43 (2020-08-11): "" — Sim 10, Não 434
+C:2255363-43 | 2020-08-11 |  | Sim 10 Não 434 | resultado: rejected
+C:2255363-59 | 2020-08-11 | Votação do DTQ 7: PSB: Destaque da Emenda de Comissão nº 2, referente à MPV 983/20 (art. 161, II). | Sim 210 Não 257 | resultado: rejected
+C:2255363-71 | 2020-08-11 | Votação do DTQ 6: PT: Destaque da Emenda de Plenário nº 8, apresentada à MPV 983/2020. (art. 161, II) | Sim 157 Não 254 | resultado: rejected
+
+## C:2255387 | PL 3364/2020 | ementa: Institui o Regime Especial de Emergência para o Transporte Coletivo Urbano e Metropolitano de Passageiros - Remetup, baseado na redução de tributos incidentes sobre esses serviços e sobre os insumos neles empregados, com o objetivo de proteger o setor das graves consequências econômicas oriundas das paralisações parciais ou totais de serviços de transportes públicos durante a p
+C:2255387-65 | 2020-08-26 | Votação do DTQ 9: PSL - Emenda de plenário nº 2. | Sim 161 Não 289 | resultado: rejected
+C:2255387-98 | 2020-08-26 | Votação do DTQ 12: PT: Emenda de Plenário n. 54. (art. 161, II) | Sim 121 Não 304 | resultado: rejected
+
+## C:2255608 | PL 6330/2019 | ementa: Altera a Lei nº 9.656, de 3 de junho de 1998 (Lei dos Planos de Saúde), para ampliar o acesso a tratamentos antineoplásicos domiciliares de uso oral pelos usuários de planos de assistência à saúde.
+   voto principal do projeto: C:2255608-58 (2021-07-01): "Votação em turno único." — Sim 398, Não 10
+C:2255608-58 | 2021-07-01 | Votação em turno único. | Sim 398 Não 10 | resultado: approved
+
+## C:2256130 | PEC 18/2020 | ementa: Adia, em razão da pandemia do coronavírus (Covid-19), as eleições municipais de outubro de 2020 e os prazos eleitorais respectivos.
+   voto principal do projeto: C:2256130-22 (2020-07-01): "" — Sim 16, Não 466
+C:2256130-22 | 2020-07-01 |  | Sim 16 Não 466 | resultado: rejected
+C:2256130-37 | 2020-07-01 | Votação em primeiro turno. | Sim 402 Não 90 | resultado: approved
+C:2256130-40 | 2020-07-01 | Votação do DTQ 1: Bloco PP - Destaque para Votação em Separado do § 4º do art. 1º da Proposta de Emenda à Constituição nº 18/2020. | Sim 71 Não 389 | resultado: ?
+C:2256130-44 | 2020-07-01 | Votação do DTQ 4: Bloco PP: Destaque para Votação em Separado do Inciso I, do § 6º do art. 1º da Proposta de Emenda à Constituição nº 18/2020. (161,I) | Sim 154 Não 316 | resultado: ?
+C:2256130-46 | 2020-07-01 | Votação do DTQ 3: Bloco PP: Destaque para Votação em Separado do Inciso II e suas alíneas, do § 6º do art. 1º da Proposta de Emenda à Constituição nº 18/2020.(161, I) | Sim 454 Não 3 | resultado: ?
+C:2256130-50 | 2020-07-01 | Votação do DTQ 3: Bloco PP: Destaque para Votação em Separado do Inciso II e suas alíneas, do § 6º do art. 1º da Proposta de Emenda à Constituição nº 18/2020.(161, I) | Sim 442 Não 1 | resultado: approved
+C:2256130-56 | 2020-07-01 | Votação em segundo turno. | Sim 407 Não 70 | resultado: approved
+
+## C:2256542 | MPV 987/2020 | ementa: Altera a Lei nº 9.440, de 14 de março de 1997, que estabelece incentivos fiscais para o desenvolvimento regional. NOVA EMENTA: Altera as Leis nºs 9.440, de 14 de março de 1997, 9.826, de 23 de agosto de 1999, e 7.827, de 27 de setembro de 1989, a fim de prorrogar incentivos fiscais para o desenvolvimento regional, na forma que especifica.
+   voto principal do projeto: C:2256542-32 (2020-09-29): "" — Sim 25, Não 396
+C:2256542-32 | 2020-09-29 |  | Sim 25 Não 396 | resultado: rejected
+C:2256542-68 | 2020-09-29 | Votação do DTQ 6: PSB: Destaque para a votação em separado do art. 3º do PLV apresentado à MPV 987, para sua supressão (art. 161, I). | Sim 338 Não 114 | resultado: ?
+
+## C:2258964 | MPV 993/2020 | ementa: Autoriza a prorrogação de contratos por tempo determinado no âmbito do Instituto Nacional de Colonização e Reforma Agrária - INCRA.
+   voto principal do projeto: C:2258964-34 (2020-11-18): "" — Sim 5, Não 315
+C:2258964-34 | 2020-11-18 |  | Sim 5 Não 315 | resultado: rejected
+C:2258964-42 | 2020-11-18 |  | Sim 3 Não 327 | resultado: rejected
+C:2258964-50 | 2020-11-18 |  | Sim 3 Não 322 | resultado: rejected
+C:2258964-53 | 2020-11-18 |  | Sim 5 Não 303 | resultado: rejected
+C:2258964-56 | 2020-11-18 |  | Sim 4 Não 300 | resultado: rejected
+C:2258964-60 | 2020-11-18 | Votação preliminar em turno único. | Sim 378 Não 3 | resultado: approved
+C:2258964-78 | 2020-11-18 | Votação do DTQ 1: PT: Emenda de Comissão n. 2. (art. 161, II) | Sim 126 Não 310 | resultado: rejected
+
+## C:2259127 | PL 4012/2020 | ementa: Altera a Lei nº 8742, de 07 de dezembro de 1993, que dispõe sobre a organização da Assistência Social e dá outras providências, para incluir competências originárias do Conselho Nacional de Assistência Social.
+   voto principal do projeto: C:2287055-9 (2021-06-16): "" — Sim 395, Não 11
+C:2287055-9 | 2021-06-16 |  | Sim 395 Não 11 | resultado: approved
+
+## C:2259975 | PL 4188/2020 | ementa: Dispõe sobre as Garantias e Direitos Fundamentais ao Livre Exercício da Crença e dos Cultos Religiosos, estabelecidos na Constituição da República Federativa do Brasil.
+   voto principal do projeto: C:2319511-13 (2022-05-11): "" — Sim 334, Não 17
+C:2319511-13 | 2022-05-11 |  | Sim 334 Não 17 | resultado: approved

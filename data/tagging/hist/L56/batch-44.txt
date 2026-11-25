@@ -1,0 +1,167 @@
+## S:143551 | PL 2824/2020 | ementa: Dispõe sobre ações emergenciais destinadas ao setor esportivo a serem adotadas durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020; e altera as Leis nºs 9.615, de 24 de março de 1998, e 13.756, de 12 de dezembro de 2018.
+S:6166 | 2020-08-13 | Votação das Emendas nºs 11 e 15 - PLEN ao Projeto de Lei nº 2.824, de 2020, destacadas. | Sim 51 Não 14 | resultado: approved
+
+## S:143574 | PL 3877/2020 | ementa: Dispõe sobre o acolhimento, pelo Banco Central do Brasil, de depósitos voluntários à vista ou a prazo das instituições financeiras.
+S:6247 | 2020-11-03 | Votação da Emenda nº 3 - PLEN ao Projeto de Lei nº 3.877, de 2020, destacada. | Sim 9 Não 62 | resultado: rejected
+
+## S:143584 | PL 3884/2020 | ementa: Acrescenta o §6º à Lei nº 11.196, de 21 de novembro de 2005, para determinar que o cômputo do prazo estipulado para o contribuinte adquirir novo imóvel residencial e fazer jus à isenção do Imposto de Renda de ganho auferido tenha início apenas após o término da vigência do Decreto Federal de pandemia da Covid-19.
+S:6323 | 2021-05-26 | Votação da Emenda nº 8 - PLEN (Substitutivo) do Relator ao Projeto de Lei nº 3.884, de 2020. | Sim 73 Não 1 | resultado: approved
+
+## S:143597 | PL 3892/2020 | ementa: Autoriza a utilização de recursos oriundos de repasses federais por parte dos Estados, o Distrito Federal e Municípios em ações preventivas e de viabilização do retorno às aulas presenciais em decorrência do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e da emergência de saúde pública de importância internacional decorrente da 
+S:6173 | 2020-09-01 | Votação nominal da Emenda nº 29 - PLEN (Substitutivo) ao Projeto de Lei nº 3.892, de 2020. | Sim 74 Não 0 | resultado: approved
+
+## S:143611 | PEC 26/2020 | ementa: Altera a Constituição Federal para estabelecer critérios de distribuição da cota municipal do Imposto Sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), para disciplinar a disponibilização de dados contábeis pelos entes federados, para tratar do planejamento na ordem social e
+S:6167 | 2020-08-25 | Votação da Proposta de Emenda à Constituição nº 26, de 2020, e Emenda, nos termos do Parecer (1º Turno). | Sim 79 Não 0 | resultado: approved
+S:6169 | 2020-08-25 | Votação da Proposta de Emenda à Constituição nº 26, de 2020 (2º Turno). | Sim 79 Não 0 | resultado: approved
+
+## S:143646 | PLP 195/2020 | ementa: Institui o Programa Nacional de Auxílio às Instituições de Ensino da Educação Básica – PRONAIEEB; altera a Lei nº 14.020, de 6 de julho de 2020, para permitir que instituições de ensino possam suspender os contratos de trabalhos; altera a Lei Complementar 123, de 14 de dezembro de 2006, permitindo a opção excepcional pelo Regime Especial Unificado de Arrecadação de Tributos e C
+   voto principal do projeto: S:6180 (2020-09-09): "Votação do Projeto de Lei Complementar nº 195, de 2020, nos termos do Parecer." — Sim 75, Não 1
+S:6180 | 2020-09-09 | Votação do Projeto de Lei Complementar nº 195, de 2020, nos termos do Parecer. | Sim 75 Não 1 | resultado: approved
+
+## S:143718 | PL 4023/2020 | ementa: Altera a Lei nº 13.979, de 6 de fevereiro de 2020, que dispõe sobre as medidas para enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019, para fixar diretrizes que orientem a distribuição de vacinas contra a covid-19 à população.
+   voto principal do projeto: S:6255 (2020-12-03): "Votação nominal do PL 4023/2020" — Sim 67, Não 0
+S:6255 | 2020-12-03 | Votação nominal do PL 4023/2020 | Sim 67 Não 0 | resultado: approved
+
+## S:144006 | PL 4203/2020 | ementa: Altera a Lei nº 6.088, de 16 de julho de 1974, para incluir as bacias hidrográficas dos estados de Minas Gerais e de Roraima na área de atuação da Companhia de Desenvolvimento do Vale do São Francisco (CODEVASF).
+   voto principal do projeto: S:6254 (2020-12-02): "Votação do Projeto de Lei nº 4.203, de 2020, nos termos do Parecer." — Sim 63, Não 5
+S:6254 | 2020-12-02 | Votação do Projeto de Lei nº 4.203, de 2020, nos termos do Parecer. | Sim 63 Não 5 | resultado: approved
+
+## S:144067 | PEC 29/2020 | ementa: Introduz a renda básica como direito social.
+   voto principal do projeto: S:6433 (2021-11-09): "Votação nominal, em 2º turno." — Sim 63, Não 0
+S:6431 | 2021-11-09 | Votação nominal, em 1º turno, ressalvado o destaque. | Sim 63 Não 0 | resultado: approved
+S:6432 | 2021-11-09 | Votação nominal do Art. 2º da Proposta de Emenda à Constituição nº 29, de 2020, destacado. | Sim 15 Não 46 | resultado: rejected
+S:6433 | 2021-11-09 | Votação nominal, em 2º turno. | Sim 63 Não 0 | resultado: approved
+
+## S:144385 | PL 4373/2020 | ementa: Altera o § 3º art. 140 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, e insere o art. 2º-A à Lei nº 7.716, de 5 de janeiro de 1989, tipificando como crime de racismo a injúria racial.
+   voto principal do projeto: S:6437 (2021-11-18): "Votação nominal do Projeto de Lei nº 4.373, de 2020, nos termos do Parecer." — Sim 63, Não 0
+S:6437 | 2021-11-18 | Votação nominal do Projeto de Lei nº 4.373, de 2020, nos termos do Parecer. | Sim 63 Não 0 | resultado: approved
+
+## S:144416 | PL 3364/2020 | ementa: Dispõe sobre o repasse de recursos a Estados, Distrito Federal e Municípios, em caráter emergencial e em razão do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, com o objetivo de garantir a prestação do serviço de transporte público coletivo de passageiros e de reequilibrar os contratos impactados pelos efeitos da pandemia da Cov
+S:6250 | 2020-11-18 | Votação da Emenda nº 8 - PLEN ao Projeto de Lei nº 3.364, de 2020, destacada. | Sim 25 Não 39 | resultado: rejected
+
+## S:144445 | MPV 998/2020 | ementa: Altera a Lei nº 9.991, de 24 de julho de 2000, a Lei nº 5.655, de 20 de maio de 1971, o Decreto-Lei nº 1.383, de 26 de dezembro de 1974, a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 10.438, de 26 de abril de 2002, a Lei nº 10.848, de 15 de março de 2004, a Lei nº 12.111, de 9 de dezembro de 2009, e a Lei nº 12.783, de 11 de janeiro de 2013, transfere para a União as açõe
+S:6271 | 2021-02-04 | Votação nominal da Emenda nº 216 - PLEN à Medida Provisória nº 998, de 2020, destacada. | Sim 16 Não 54 | resultado: rejected
+
+## S:144510 | PL 4458/2020 | ementa: Altera as Leis nºs 11.101, de 9 de fevereiro de 2005, 10.522, de 19 de julho de 2002, e 8.929, de 22 de agosto de 1994, para atualizar a legislação referente à recuperação judicial, à recuperação extrajudicial e à falência do empresário e da sociedade empresária.
+S:6253 | 2020-11-25 | Votação da Emenda nº 33 - PLEN ao Projeto de Lei nº 4.458, de 2020, destacada. | Sim 20 Não 52 | resultado: rejected
+
+## S:144582 | PL 4476/2020 | ementa: Dispõe sobre as atividades relativas ao transporte de gás natural, de que trata o art. 177 da Constituição Federal, e sobre as atividades de escoamento, tratamento, processamento, estocagem subterrânea, acondicionamento, liquefação, regaseificação e comercialização de gás natural; altera as Leis nºs 9.478, de 6 de agosto de 1997, e 9.847, de 26 de outubro de 1999; e revoga a Le
+   voto principal do projeto: S:6258 (2020-12-10): "Votação do art. 41 do Projeto de Lei nº 4.476, de 2020, destacado." — Sim 33, Não 38
+S:6258 | 2020-12-10 | Votação do art. 41 do Projeto de Lei nº 4.476, de 2020, destacado. | Sim 33 Não 38 | resultado: rejected
+
+## S:144655 | PL 4537/2020 | ementa: Dispõe sobre a criação do serviço de recepção de denúncias ou suspeitas de maus-tratos a idosos, denominado "SOS: maus-tratos contra idosos", nas condições que especifica.
+   voto principal do projeto: S:6223 (2020-10-07): "Votação do Projeto de Lei nº 4.537, de 2020, nos termos do Parecer" — Sim 72, Não 0
+S:6223 | 2020-10-07 | Votação do Projeto de Lei nº 4.537, de 2020, nos termos do Parecer | Sim 72 Não 0 | resultado: approved
+
+## S:144946 | PL 4725/2020 | ementa: Altera a Lei nº 7.210, de 11 de julho de 1984 – Lei de Execução Penal, para prever a possibilidade de remição da pena pela frequência em curso educacional não formal que contribua para a ressocialização do condenado.
+   voto principal do projeto: S:6314 (2021-05-12): "Votação nominal do Projeto de Lei nº 4.725, de 2020, nos termos do Parecer." — Sim 70, Não 3
+S:6314 | 2021-05-12 | Votação nominal do Projeto de Lei nº 4.725, de 2020, nos termos do Parecer. | Sim 70 Não 3 | resultado: approved
+
+## S:145444 | PLP 266/2020 | ementa: Altera a Lei Complementar nº 173, de 2020, que estabelece o Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19) e dá outras disposições.
+   voto principal do projeto: S:6270 (2020-12-16): "Votação do Projeto de Lei Complementar nº 266, de 2020 (Altera a Lei Complementar nº 173, de 2020, que estabelece o Programa Federativo de Enfrentamento ao Coro" — Sim 60, Não 0
+S:6270 | 2020-12-16 | Votação do Projeto de Lei Complementar nº 266, de 2020 (Altera a Lei Complementar nº 173, de 2020, que estabelece o Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19) e dá outras providências.) | Sim 60 Não 0 | resultado: approved
+
+## S:145619 | PL 5307/2020 | ementa: Altera a Lei nº 12.715, de 17 de setembro de 2012, que instituiu o Programa Nacional de Apoio à Atenção Oncológica (PRONON) e o Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência (PRONAS/PCD), para prorrogar a faculdade de dedução do imposto sobre a renda dos valores correspondentes a doações e patrocínios em prol de ações e serviços desses Programas.
+   voto principal do projeto: S:6277 (2021-02-23): "(Altera a Lei nº 12.715, de 17 de setembro de 2012, que instituiu o PRONON e o PRONAS/PCD, para prorrogar a faculdade de dedução do imposto sobre a renda dos va" — Sim 70, Não 5
+S:6277 | 2021-02-23 | (Altera a Lei nº 12.715, de 17 de setembro de 2012, que instituiu o PRONON e o PRONAS/PCD, para prorrogar a faculdade de dedução do imposto sobre a renda dos valores correspondentes a doações e patrocínios em prol de ações e serviços desses Programas.) | Sim 70 Não 5 | resultado: approved
+
+## S:145668 | PDL 510/2020 | ementa: Susta os efeitos da Portaria n° 189, de 10 de novembro de 2020, que estabelece as diretrizes para a seleção das personalidades notáveis negras, nacionais ou estrangeiras, a serem divulgadas no sítio eletrônico da Fundação Cultural Palmares.
+   voto principal do projeto: S:6257 (2020-12-09): "Votação do Projeto de Decreto Legislativo nº 510, de 2020, nos termos do Parecer (Susta os efeitos da Portaria nº 189, de 10 de novembro de 2020, que estabelece" — Sim 69, Não 3
+S:6257 | 2020-12-09 | Votação do Projeto de Decreto Legislativo nº 510, de 2020, nos termos do Parecer (Susta os efeitos da Portaria nº 189, de 10 de novembro de 2020, que estabelece as diretrizes para a seleção das personalidades notáveis negras, nacionais ou estrageiras, a serem divulgadas no sítio eletrônico da Fundação Cultural Palmares.). | Sim 69 Não 3 | resultado: approved
+
+## S:145713 | MPV 1014/2020 | ementa: Dispõe sobre a organização básica da Polícia Civil do Distrito Federal.
+   voto principal do projeto: S:6313 (2021-05-11): "Votação nominal" — Sim 71, Não 0
+S:6313 | 2021-05-11 | Votação nominal | Sim 71 Não 0 | resultado: approved
+
+## S:146009 | PLP 101/2020 | ementa: Estabelece o Programa de Acompanhamento e Transparência Fiscal, o Plano de Promoção do Equilíbrio Fiscal, altera a Lei Complementar nº 101, de 4 de maio de 2000, a Lei Complementar nº 156, de 28 de dezembro de 2016, a Lei Complementar nº 159, de 19 de maio de 2017, a Lei nº 9.496, de 11 de setembro de 1997, a Lei nº 12.348, de 15 de dezembro de 2010, a Lei nº 12.649, de 17 de m
+   voto principal do projeto: S:6265 (2020-12-15): "Votação do Projeto de Lei Complementar nº 101, de 2020, que estabelece o Programa de Acompanhamento e Transparência Fiscal e o Plano de Promoção do Equilíbrio F" — Sim 55, Não 1
+S:6265 | 2020-12-15 | Votação do Projeto de Lei Complementar nº 101, de 2020, que estabelece o Programa de Acompanhamento e Transparência Fiscal e o Plano de Promoção do Equilíbrio Fiscal. | Sim 55 Não 1 | resultado: approved
+
+## S:146040 | PLP 146/2019 | ementa: Institui o marco legal das startups e do empreendedorismo inovador; e altera as Leis nºs 8.212, de 24 de julho de 1991, 7.713, de 22 de dezembro de 1988, 6.404, de 15 de dezembro de 1976, 11.196, de 21 de novembro de 2005, e a Lei Complementar nº 123, de 14 de dezembro de 2006.
+   voto principal do projeto: S:6278 (2021-02-24): "(Institui o marco legal das startups e do empreendedorismo inovador, e dá outras providências.)" — Sim 71, Não 0
+S:6278 | 2021-02-24 | (Institui o marco legal das startups e do empreendedorismo inovador, e dá outras providências.) | Sim 71 Não 0 | resultado: approved
+
+## S:146053 | PDL 562/2020 | ementa: Aprova o texto da Convenção Interamericana contra o Racismo, a Discriminação Racial e Formas Correlatas de Intolerância, adotada na Guatemala, por ocasião da 43ª Sessão Ordinária da Assembleia Geral da Organização dos Estados Americanos, em 5 de junho de 2013.
+   voto principal do projeto: S:6274 (2021-02-10): "Votação em 1º turno" — Sim 71, Não 0
+S:6274 | 2021-02-10 | Votação em 1º turno | Sim 71 Não 0 | resultado: approved
+S:6275 | 2021-02-10 | Votação em 2º turno | Sim 66 Não 0 | resultado: approved
+
+## S:146055 | PL 5575/2020 | ementa: Altera a Lei nº 13.999, de 18 de maio de 2020, que institui o Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe), para o desenvolvimento e o fortalecimento dos pequenos negócios; e altera as Leis nos 13.636, de 20 de março de 2018, 10.735, de 11 de setembro de 2003, e 9.790, de 23 de março de 1999, para permitir o uso desse programa, de forma per
+   voto principal do projeto: S:6292 (2021-03-10): "(Permite o uso do Pronampe de forma permanente, como política oficial de crédito, dando o devido tratamento diferenciado e favorecido às micro e pequenas empres" — Sim 73, Não 0
+S:6292 | 2021-03-10 | (Permite o uso do Pronampe de forma permanente, como política oficial de crédito, dando o devido tratamento diferenciado e favorecido às micro e pequenas empresas, visando consolidar os pequenos negócios como agentes de sustentação, transformação e desenvolvimento da economia nacional.) | Sim 73 Não 0 | resultado: approved
+
+## S:146074 | MPV 1016/2020 | ementa: Dispõe sobre a renegociação extraordinária no âmbito do Fundo Constitucional de Financiamento do Norte, do Fundo Constitucional de Financiamento do Nordeste e do Fundo Constitucional de Financiamento do Centro-Oeste.
+   voto principal do projeto: S:6317 (2021-05-18): "Votação do Projeto de Lei de Conversão nº 4, de 2021 e Pressupostos de Relevância e Urgência da MPV nº 1016/2020." — Sim 75, Não 0
+S:6317 | 2021-05-18 | Votação do Projeto de Lei de Conversão nº 4, de 2021 e Pressupostos de Relevância e Urgência da MPV nº 1016/2020. | Sim 75 Não 0 | resultado: approved
+
+## S:146075 | MPV 1017/2020 | ementa: Define as diretrizes para a quitação e para a renegociação das dívidas relativas às debêntures emitidas por empresas e subscritas pelos fundos de investimentos regionais e para o desinvestimento, a liquidação e a extinção dos fundos.
+   voto principal do projeto: S:6315 (2021-05-13): "Votação nominal" — Sim 72, Não 1
+S:6315 | 2021-05-13 | Votação nominal | Sim 72 Não 1 | resultado: approved
+
+## S:146090 | MPV 1018/2020 | ementa: Altera a Lei nº 5.070, de 7 de julho de 1966, para dispor sobre o valor da Taxa de Fiscalização de Instalação, a Lei nº 11.652, de 7 de abril de 2008, para dispor sobre o valor da Contribuição para o Fomento da Radiodifusão Pública, e a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, para dispor sobre o valor da Contribuição para o Desenvolvimento da Indústria Cinematog
+   voto principal do projeto: S:6320 (2021-05-25): "Votação nominal do Art. 5º do Projeto de Lei de Conversão nº 8, de 2021, destacado." — Sim 41, Não 31
+S:6320 | 2021-05-25 | Votação nominal do Art. 5º do Projeto de Lei de Conversão nº 8, de 2021, destacado. | Sim 41 Não 31 | resultado: rejected
+S:6321 | 2021-05-25 | Votação nominal do Art. 1º, § 1º, da Lei nº 9.998/2000, alterado pelo art. 6º do PLV nº 8, de 2021, destacado. | Sim 36 Não 31 | resultado: rejected
+S:6322 | 2021-05-25 | Votação nominal da Emenda nº 24 - PLEN à Medida Provisória nº 1.018, de 2020, destacada. | Sim 33 Não 31 | resultado: approved
+
+## S:146091 | PL 1369/2019 (Substitutivo-CD) | ementa: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para incluir o art. 147-A, que dispõe sobre o crime de perseguição obsessiva.
+   voto principal do projeto: S:6291 (2021-03-09): "Votação nominal do Substitutivo da Câmara dos Deputados" — Sim 74, Não 0
+S:6291 | 2021-03-09 | Votação nominal do Substitutivo da Câmara dos Deputados | Sim 74 Não 0 | resultado: approved
+
+## S:146093 | PL 123/2019 | ementa: Altera a Lei nº 13.756, de 12 de dezembro de 2018, para destinar recursos do Fundo Nacional de Segurança Pública (FNSP) para ações de enfrentamento da violência contra a mulher.
+   voto principal do projeto: S:6425 (2021-10-27): "Votação nominal do Projeto de Lei nº 123, de 2019, nos termos do Parecer." — Sim 74, Não 0
+S:6425 | 2021-10-27 | Votação nominal do Projeto de Lei nº 123, de 2019, nos termos do Parecer. | Sim 74 Não 0 | resultado: approved
+
+## S:146095 | PL 5613/2020 | ementa: Estabelece normas para prevenir, sancionar e combater a violência política contra a mulher; e altera as Leis nºs 4.737, de 15 de julho de 1965 (Código Eleitoral), 9.096, de 19 de setembro de 1995, e 9.504, de 30 de setembro de 1997.
+   voto principal do projeto: S:6372 (2021-07-13): "Votação nominal" — Sim 73, Não 0
+S:6372 | 2021-07-13 | Votação nominal | Sim 73 Não 0 | resultado: approved
+
+## S:146154 | MPV 1026/2021 | ementa: Dispõe sobre as medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de logística, tecnologia da informação e comunicação, comunicação social e publicitária e treinamentos destinados à vacinação contra a covid-19 e sobre o Plano Nacional de Operacionalização da Vacinação contra a Covid-19.
+   voto principal do projeto: S:6280 (2021-03-02): "(Medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de logística, tecnologia da informação e comunicação, comunicação social e publ" — Sim 73, Não 0
+S:6280 | 2021-03-02 | (Medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de logística, tecnologia da informação e comunicação, comunicação social e publicitária e treinamentos destinados à vacinação contra o covid-19 e sobre o Plano Nacional de Operacionalização da Vacinação.) | Sim 73 Não 0 | resultado: approved
+
+## S:146245 | PL 12/2021 | ementa: Suspende as obrigações da República Federativa do Brasil de implementar ou aplicar as seções 1, 4, 5 e 7 da Parte II do Acordo sobre os Aspectos dos Direitos de Propriedade Intelectual Relacionados ao Comércio (ADPIC) – Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS), adotado pelo Conselho-Geral da Organização Mundial do Comércio, em 6 de dezembro de 
+S:6310 | 2021-04-29 | Votação da Emenda nº 3 - PLEN (Substitutivo) ao Projeto de Lei nº 12, de 2021, nos termos do Parecer (Suspende a obrigação do Brasil de cumprir as seções do Acordo sobre os Aspectos dos Direitos de Propriedade Intelectual Relacionados ao Comércio (TRIPS) que dispõem sobre direito do autor, desenhos industriais, patentes e proteção de informação confidencial, para o combate da Covid-19). | Sim 55 Não 19 | resultado: approved
+
+## S:146270 | PLP 10/2021 | ementa: Altera o art. 5º da Lei Complementar nº 172, de 15 de abril de 2020, para estender, até o final do exercício financeiro de 2021, a autorização concedida aos Estados, ao Distrito Federal e aos Municípios para que eles possam transpor e transferir saldos financeiros remanescentes de exercícios anteriores constantes dos seus respectivos fundos de saúde quando os valores forem prov
+   voto principal do projeto: S:6295 (2021-03-16): "Votação nominal." — Sim 74, Não 0
+S:6295 | 2021-03-16 | Votação nominal. | Sim 74 Não 0 | resultado: approved
+
+## S:146368 | PL 317/2021 | ementa: Dispõe sobre princípios, regras e instrumentos para o Governo Digital e para o aumento da eficiência pública; altera as Leis nºs 7.116, de 29 de agosto de 1983, 13.460, de 26 de junho de 2017, 12.682, de 9 de julho de 2012, e 12.527, de 18 de novembro de 2011; e dá outras providências.
+   voto principal do projeto: S:6279 (2021-02-25): "Votação do Projeto de Lei nº 317, de 2021, nos termos do Parecer." — Sim 73, Não 0
+S:6279 | 2021-02-25 | Votação do Projeto de Lei nº 317, de 2021, nos termos do Parecer. | Sim 73 Não 0 | resultado: approved
+
+## S:146407 | PEC 1/2021 | ementa: Insere art. 175-A na Constituição para determinar que pelo menos 70% dos recursos obtidos com outorgas onerosas de obras e serviços de transportes sejam reinvestidos no próprio setor.
+S:6504 | 2022-02-09 | Votação nominal da Proposta de Emenda à Constituição nº 1, de 2021 (1º Turno) | Sim 65 Não 5 | resultado: approved
+S:6505 | 2022-02-09 | Votação nominal da Proposta de Emenda à Constituição nº 1, de 2021 (2º Turno) | Sim 60 Não 4 | resultado: approved
+
+## S:146486 | MPV 1029/2021 | ementa: Altera a Lei nº 13.475, de 28 de agosto de 2017, que dispõe sobre o exercício da profissão de tripulante de aeronave, denominado aeronauta.
+   voto principal do projeto: S:6325 (2021-06-08): "Votação nominal." — Sim 59, Não 16
+S:6325 | 2021-06-08 | Votação nominal. | Sim 59 Não 16 | resultado: approved
+
+## S:146670 | PL 520/2021 | ementa: Altera a Lei nº 13.895, de 30 de outubro de 2019, que institui a Política Nacional de Prevenção do Diabetes e de Assistência Integral à Pessoa Diabética, para assegurar o atendimento prioritário às pessoas com diabetes mellitus nos serviços públicos e privados de saúde, nos casos que especifica.
+   voto principal do projeto: S:6514 (2022-03-16): "Votação nominal do Projeto de Lei nº 520, de 2021, nos termos do Parecer." — Sim 76, Não 0
+S:6514 | 2022-03-16 | Votação nominal do Projeto de Lei nº 520, de 2021, nos termos do Parecer. | Sim 76 Não 0 | resultado: approved
+
+## S:146740 | MPV 1031/2021 | ementa: Dispõe sobre a desestatização da empresa Centrais Elétricas Brasileiras S.A. - Eletrobras e altera a Lei nº 5.899, de 5 de julho de 1973, a Lei nº 9.991, de 24 de julho de 2000, e a Lei nº 10.438, de 26 de abril de 2002.
+   voto principal do projeto: S:6376 (2021-06-16): "(Pressupostos de relevância e urgência, adequação financeira e orçamentária e pertinência temática da matéria.)" — Sim 44, Não 35
+S:6376 | 2021-06-16 | (Pressupostos de relevância e urgência, adequação financeira e orçamentária e pertinência temática da matéria.) | Sim 44 Não 35 | resultado: approved
+S:6377 | 2021-06-16 | (Dispõe sobre a desestatização da empresa Centrais Elétricas Brasileiras S.A. (Eletrobras); altera as Leis nºs 5.899, de 1973, 9.991, de 2000, 10.438, de 2002, 10.848, de 2004, 13.182, de 2015, e 14.118, de 2021; e revoga dispositivos da Lei nº 3.890-A, de 1961.) | Sim 42 Não 37 | resultado: approved
+S:6378 | 2021-06-16 | Emenda nº 610, destacada. | Sim 35 Não 41 | resultado: rejected
+S:6379 | 2021-06-16 | Emenda nº 618, destacada. | Sim 32 Não 41 | resultado: rejected
+
+## S:146877 | MPV 1033/2021 | ementa: Altera a Lei nº 11.508, de 20 de julho de 2007, que dispõe sobre o regime tributário, cambial e administrativo das Zonas de Processamento de Exportação, para conceder tratamento à produção de oxigênio medicinal empregado em medidas de prevenção, controle e contenção de riscos, danos e agravos à saúde pública relacionados com a covid-19.
+   voto principal do projeto: S:6331 (2021-06-22): "Votação nominal da Medida Provisória" — Sim 52, Não 23
+S:6331 | 2021-06-22 | Votação nominal da Medida Provisória | Sim 52 Não 23 | resultado: approved
+
+## S:147064 | MPV 1034/2021 | ementa: Altera a Lei nº 7.689, de 15 de dezembro de 1988, para majorar a alíquota da Contribuição Social sobre o Lucro Líquido devida pelas pessoas jurídicas do setor financeiro, a Lei nº 8.989, de 24 de fevereiro de 1995, para modificar a concessão da isenção relativa ao Imposto sobre Produtos Industrializados incidente na aquisição de automóveis por pessoa com deficiência, revoga a t
+S:6332 | 2021-06-22 | Votação nominal da Emenda nº 38, destacada. | Sim 30 Não 40 | resultado: rejected
+S:6333 | 2021-06-22 | Votação nominal da Emenda nº 97, destacada. | Sim 38 Não 29 | resultado: approved
+S:6334 | 2021-06-22 | Votação nominal da Emenda nº 88, destacada. | Sim 31 Não 30 | resultado: approved
+S:6335 | 2021-06-22 | Votação nominal conjunta de parte da Emenda nº 91 e da primeira parte da Emenda nº 96, destacadas. | Sim 50 Não 18 | resultado: approved
+
+## S:147211 | PRS 16/2021 | ementa: Disciplina o tratamento a ser dispensado às operações realizadas de acordo com as Leis Complementares nº 156, de 28 de dezembro de 2016, nº 159, de 19 de maio de 2017, e nº 178, de 13 de janeiro de 2021, no que tange às contratações dessas operações e às concessões de garantia pela União previstas nas Resoluções do Senado Federal nos 40 e 43, de 2001, e nº 48, de 2007, bem como
+S:6305 | 2021-04-14 | Votação da Emenda nº 1, destacada. | Sim 25 Não 46 | resultado: rejected
+
+## S:147248 | PL 783/2021 | ementa: Altera a Lei nº 4.737, de 15 de julho de 1965 - Código Eleitoral, para adequar à Emenda Constitucional nº 97, de outubro de 2017 e redefinir o critério das sobras eleitorais.
+S:6373 | 2021-07-14 | (Altera o Código Eleitoral, para adequar à Emenda Constitucional nº 97, de 2017, e redefine o critério das sobras eleitorais.) | Sim 57 Não 14 | resultado: approved

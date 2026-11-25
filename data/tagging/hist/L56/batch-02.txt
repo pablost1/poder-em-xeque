@@ -1,0 +1,117 @@
+## C:1738814 | PEC 142/2015 | ementa: Acrescenta o artigo 101 ao Ato de Disposições Constitucionais Transitórias, para disciplinar as permissões de serviços públicos por prazo indeterminado, anteriores à Constituição Federal de 1988. NOVA EMENTA: Acrescenta o art. 121 ao Ato das Disposições Constitucionais Transitórias, para assegurar prazo de vigência adicional aos instrumentos de permissão lotérica
+   voto principal do projeto: C:1738814-86 (2022-12-15): "Votação em primeiro turno." — Sim 369, Não 16
+C:1738814-86 | 2022-12-15 | Votação em primeiro turno. | Sim 369 Não 16 | resultado: approved
+C:1738814-89 | 2022-12-15 | Votação do DTQ 1: PSD: Destaque para Votação em Separado da expressão "de 50 anos" constante no art. 121 da ADCT, incluído pelo art. 1° do Substitutivo da Comissão Especial à PEC nº 142/2015, com vistas a sua supressão. apresentado ao PEC 142/2015 (art. 161, I). | Sim 8 Não 329 | resultado: ?
+C:1738814-91 | 2022-12-15 | Votação do DTQ 2: PSD: Destaque para Votação em Separado do(a) § 1º do art. 121 da ADCT, incluído pelo art. 1° do Substitutivo da Comissão Especial à PEC nº 142/2015, com vistas a sua supressão. apresentado ao PEC 142/2015 (art. 161, I). | Sim 9 Não 306 | resultado: ?
+C:1738814-99 | 2022-12-15 | Votação em segundo turno. | Sim 349 Não 17 | resultado: approved
+
+## C:18156 | PL 2462/1991 | ementa: Define os crimes contra o Estado Democrático de Direito e a Humanidade NOVA EMENTA: Acrescenta o Título XII na Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), relativo aos crimes contra o Estado Democrático de Direito; e revoga a Lei nº 7.170, de 14 de dezembro de 1983 (Lei de Segurança Nacional), e dispositivo do Decreto-Lei nº 3.688, de 3 de o
+   voto principal do projeto: C:18156-127 (2021-05-04): "" — Sim 62, Não 338
+C:18156-127 | 2021-05-04 |  | Sim 62 Não 338 | resultado: rejected
+C:18156-148 | 2021-05-04 | Votação do DTQ 5: NOVO: Destaque para a votação em separado do Capítulo III do Título XII da Parte Especial do Decreto-lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, alterada pelo art. 2º do Substitutivo apresentado ao PL 2462/91, com vista à sua supressão. (art. 161, I) | Sim 343 Não 75 | resultado: ?
+C:18156-152 | 2021-05-04 | Votação do DTQ 1: Bloco PSL (PSL): destaque da expressão “com o fim de abolir o Estado Democrático de Direito”, constante no art. 359-R do Decreto-Lei nº 2848/1940, inserido pelo art. 2º do substitutivo apresentado pela relatora ao PL 2462/1991, para suprimi-lo. (art. 161, I) | Sim 390 Não 52 | resultado: ?
+C:18156-154 | 2021-05-04 | Votação do DTQ 3: Bloco PSL (PSL): Emenda de Plenário 2 (art. 161, II) | Sim 63 Não 383 | resultado: rejected
+C:18156-156 | 2021-05-04 | Votação do DTQ 4: Bloco PSL (PSL): Emenda de Plenário 3 (art. 161, II) | Sim 53 Não 364 | resultado: rejected
+
+## C:20050 | PL 3688/2000 | ementa: Dispõe sobre a introdução de assistente social no quadro de profissionais de educação em cada escola. NOVA EMENTA: Dispõe sobre a prestação de serviços de psicologia e de serviço social nas redes públicas de educação básica.
+   voto principal do projeto: C:2214811-8 (2019-08-21): "" — Sim 324, Não 43
+C:2214811-8 | 2019-08-21 |  | Sim 324 Não 43 | resultado: approved
+
+## C:20529 | PL 3968/1997 | ementa: Isenta os órgãos públicos e as entidades filantrópicas do pagamento de direitos autorais pelo uso de obras musicais e lítero-musicais em eventos por eles promovidos.
+   voto principal do projeto: C:2258907-9 (2020-08-13): "" — Sim 350, Não 19
+C:2258907-9 | 2020-08-13 |  | Sim 350 Não 19 | resultado: approved
+
+## C:2054465 | PLP 191/2015 | ementa: Altera a Lei Complementar nº 116, de 31 de julho de 2003, para explicitar a incidência do Imposto sobre Serviços de Qualquer Natureza (ISS) sobre o monitoramento e rastreamento de veículos e carga.
+   voto principal do projeto: C:2054465-88 (2021-06-30): "Votação em turno único." — Sim 406, Não 10
+C:2054465-88 | 2021-06-30 | Votação em turno único. | Sim 406 Não 10 | resultado: approved
+
+## C:2075448 | PL 4067/2015 | ementa: Institui o Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Universidades Estrangeiras (Revalida). NOVA EMENTA: Institui o Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira (Revalida).
+   voto principal do projeto: C:2209722-11 (2019-11-20): "" — Sim 358, Não 30
+C:2209722-11 | 2019-11-20 |  | Sim 358 Não 30 | resultado: approved
+C:2075448-116 | 2019-11-26 |  | Sim 1 Não 268 | resultado: rejected
+
+## C:2078693 | PLP 238/2016 | ementa: Altera a Lei Complementar nº 101, de 4 de maio de 2000, para incluir as ações de combate à violência contra a mulher no rol de exceções à suspensão de transferências voluntárias a entes da Federação inadimplentes.
+   voto principal do projeto: C:2078693-87 (2022-03-08): "Votação em turno único." — Sim 419, Não 33
+C:2078693-87 | 2022-03-08 | Votação em turno único. | Sim 419 Não 33 | resultado: approved
+
+## C:2080470 | PEC 200/2016 | ementa: Acrescenta § 1º-A ao art. 156 da Constituição Federal para prever a não incidência sobre templos de qualquer culto do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU), ainda que as entidades abrangidas pela imunidade tributária sejam apenas locatárias do bem imóvel.
+   voto principal do projeto: C:2080470-78 (2021-12-16): "Votação em primeiro turno." — Sim 393, Não 37
+C:2080470-78 | 2021-12-16 | Votação em primeiro turno. | Sim 393 Não 37 | resultado: approved
+C:2080470-86 | 2021-12-16 | Votação em segundo turno. | Sim 376 Não 30 | resultado: approved
+
+## C:2082511 | PL 2191/2022 | ementa: Cria a via societária, e estabelece procedimentos de governança e de natureza tributárias, para modernização do futebol, e dá outras providências. NOVA EMENTA: Dispõe sobre o clube-empresa, o Regime Especial de Tributação de Entidades de Prática Desportiva Profissionais de Futebol (Simples-Fut), as condições especiais para quitação acelerada de débitos das entidades desportivas
+   voto principal do projeto: C:2229812-6 (2019-11-19): "" — Sim 329, Não 12
+C:2229812-6 | 2019-11-19 |  | Sim 329 Não 12 | resultado: approved
+C:2082511-75 | 2019-11-27 | Votação do DTQ 2: PSL: Emenda de Plenário n. 2 (art. 161, II) | Sim 246 Não 94 | resultado: approved
+
+## C:2083376 | PDC 379/2016 | ementa: Aprova o texto do Acordo de Cooperação Educacional entre o Governo da República Federativa do Brasil e o Governo da Federação de São Cristóvão e Névis, assinado em Brasília, em 26 de abril de 2010.
+   voto principal do projeto: C:2083376-47 (2019-02-14): "" — Sim 5, Não 268
+C:2083376-47 | 2019-02-14 |  | Sim 5 Não 268 | resultado: rejected
+C:2083376-58 | 2019-02-21 | Votação em turno único. | Sim 8 Não 276 | resultado: rejected
+
+## C:2111588 | PL 2944/2019 | ementa: Dispõe sobre emolumentos dos serviços notariais e de registros públicos, no âmbito do Distrito Federal e dos Territórios, e dá outras providências. NOVA EMENTA: Dispõe sobre emolumentos dos serviços notariais e de registros públicos no âmbito do Distrito Federal e dos Territórios; revoga disposições do Decreto-Lei nº 115, de 25 de janeiro de 1967; e dá outras providências.
+   voto principal do projeto: C:2219905-7 (2019-09-17): "" — Sim 134, Não 213
+C:2219905-7 | 2019-09-17 |  | Sim 134 Não 213 | resultado: rejected
+
+## C:2122678 | PL 6812/2017 | ementa: Dispõe sobre a tipificação criminal da divulgação ou compartilhamento de informação falsa ou incompleta na rede mundial de computadores e dá outras providências.
+   voto principal do projeto: C:2171314-10 (2022-04-06): "" — Sim 249, Não 207
+C:2171314-10 | 2022-04-06 |  | Sim 249 Não 207 | resultado: rejected
+
+## C:2125189 | PL 7082/2017 | ementa: Dispõe sobre a pesquisa clínica com seres humanos e institui o Sistema Nacional de Ética em Pesquisa Clínica com Seres Humanos. NOVA EMENTA: Dispõe sobre a pesquisa com seres humanos no Brasil.
+   palavras-chave: Diretrizes, pesquisa clínica, análise clínica, pesquisa com seres humanos. _Criação, Sistema Nacional de Ética em Pesquisa com Seres Humanos, Comitê de Ética em Pesquisa 
+   voto principal do projeto: C:2242238-17 (2022-04-18): "" — Sim 272, Não 91
+C:2242238-17 | 2022-04-18 |  | Sim 272 Não 91 | resultado: approved
+
+## C:2136580 | PL 7596/2017 | ementa: Dispõe sobre os crimes de abuso de autoridade e altera a Lei nº 7.960, de 21 de dezembro de 1989, a Lei nº 9.296, de 24 de julho de 1996, a Lei nº 8.069, de 13 de julho de 1990, e a Lei nº 8.906, de 4 de julho de 1994. NOVA EMENTA: Dispõe sobre os crimes de abuso de autoridade; altera a Lei nº 7.960, de 21 de dezembro de 1989, a Lei nº 9.296, de 24 de julho de 1996, a Lei nº 8.
+   voto principal do projeto: C:2215146-4 (2019-08-14): "" — Sim 342, Não 83
+C:2136580-62 | 2019-08-14 | Votação do DTQ 2: PSL: Destaque para votação em separado do art. 4º do PL 7596/17, com vistas a sua supressão (161,I). | Sim 325 Não 133 | resultado: ?
+C:2215146-4 | 2019-08-14 |  | Sim 342 Não 83 | resultado: approved
+
+## C:2140342 | PL 5991/2019 | ementa: Institui a Política Nacional de Desfazimento e Recondicionamento de Equipamentos Eletroeletrônicos, dispõe sobre o Programa Computadores para Inclusão e dá outras providências. NOVA EMENTA: Institui a Política Nacional de Desfazimento e Recondicionamento de Equipamentos Eletroeletrônicos e dispõe sobre o Programa Computadores para Inclusão.
+   voto principal do projeto: C:2163986-7 (2019-10-16): "" — Sim 318, Não 0
+C:2163986-7 | 2019-10-16 |  | Sim 318 Não 0 | resultado: approved
+
+## C:2141142 | PL 7843/2017 | ementa: Institui regras e instrumentos para a eficiência pública. NOVA EMENTA: Dispõe sobre princípios, regras e instrumentos para o Governo Digital e para o aumento da eficiência pública; altera as Leis nºs 7.116, de 29 de agosto de 1983, 13.460, de 26 de junho de 2017, 12.682, de 9 de julho de 2012, e 12.527, de 18 de novembro de 2011; e dá outras providências.
+   voto principal do projeto: C:2164719-7 (2019-10-16): "" — Sim 350, Não 0
+C:2164719-7 | 2019-10-16 |  | Sim 350 Não 0 | resultado: approved
+
+## C:2144995 | PL 400/2019 | ementa: Institui o mês de julho como Mês Nacional de Combate ao Câncer de Cabeça e Pescoço.
+   voto principal do projeto: C:2144995-104 (2022-03-29): "" — Sim 6, Não 335
+C:2144995-104 | 2022-03-29 |  | Sim 6 Não 335 | resultado: rejected
+C:2144995-99 | 2022-03-29 |  | Sim 31 Não 309 | resultado: rejected
+
+## C:2147241 | PL 8240/2017 | ementa: Altera a Lei nº 13.364, de 29 de novembro de 2016, para incluir o laço, bem como as respectivas expressões artísticas e esportivas, como manifestação cultural nacional e elevar essas atividades à condição de bem de natureza imaterial integrante do patrimônio cultural brasileiro e para dispor sobre as modalidades esportivas equestres tradicionais e sobre a proteção ao bem-estar 
+   voto principal do projeto: C:2147241-38 (2019-07-09): "" — Sim 19, Não 346
+C:2147241-38 | 2019-07-09 |  | Sim 19 Não 346 | resultado: rejected
+C:2147241-44 | 2019-07-09 | Votação em turno único. | Sim 17 Não 243 | resultado: rejected
+C:2147241-47 | 2019-07-09 | Votação em turno único. | Sim 15 Não 335 | resultado: rejected
+C:2147241-54 | 2019-07-09 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 20 Não 323 | resultado: rejected
+C:2158536-10 | 2019-07-09 |  | Sim 343 Não 32 | resultado: approved
+C:2147241-66 | 2019-08-20 | Votação do DTQ 6: PT: Destaque da expressão "e esportivas", constante do art. 1º da Lei 13364/16, na redação dada ao art. 2º do PL 8240/17, com vistas a sua supressão (161,I). | Sim 287 Não 41 | resultado: ?
+C:2147241-69 | 2019-08-20 | Votação do DTQ 2: PT: Destaque do §1º do art 1º do PL apensado 6298/16, para que seja incluído onde couber no PL 8240/17 (161,I). | Sim 48 Não 253 | resultado: rejected
+C:2147241-72 | 2019-08-20 | Votação do DTQ 4: PT: Destaque do art. 4º do PL 8240/17, com vistas a sua rejeição (161,1). | Sim 260 Não 37 | resultado: ?
+
+## C:2149785 | PL 8420/2017 | ementa: Dá nova redação à Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social, para alterar a composição do Conselho Nacional de Assistência Social (CNAS). NOVA EMENTA: Altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), para modificar a composição do Conselho Nacional de Assistência Social (CNAS).
+   voto principal do projeto: C:2149785-72 (2021-06-30): "Votação em turno único." — Sim 402, Não 11
+C:2149785-72 | 2021-06-30 | Votação em turno único. | Sim 402 Não 11 | resultado: approved
+
+## C:2158716 | PEC 372/2017 | ementa: Altera o inciso XIV do art. 21, o § 4º do art. 32 e o art. 144 da Constituição Federal para criar as polícias penais federal, estaduais e distrital.
+   voto principal do projeto: C:2158716-139 (2019-11-06): "Votação em segundo turno." — Sim 385, Não 16
+C:2158716-112 | 2019-10-09 | Votação do DTQ 1: PL: Preferência para votação da PEC 372/2017 em relação ao substitutivo da Comissão Especial à PEC 308/2004 (art. 161, IV). | Sim 402 Não 8 | resultado: approved
+C:2158716-139 | 2019-11-06 | Votação em segundo turno. | Sim 385 Não 16 | resultado: approved
+C:2158716-143 | 2019-11-06 | Votação do DTQ 1: PL: Destaque para votação em separado da expressão "além de outras atribuições definidas em lei específica de iniciativa do Poder Executivo" do §5º-A do art. 144, introduzido pelo art. 3º da PEC 372/2017, com vistas s sua supressão (161, I). | Sim 5 Não 378 | resultado: ?
+
+## C:2160860 | PLP 441/2017 | ementa: Altera a Lei Complementar nº 105, de 10 de janeiro de 2001, e a Lei nº 12.414, de 9 de junho de 2011, para dispor sobre os cadastros positivos de crédito e regular a responsabilidade civil dos operadores.
+   voto principal do projeto: C:2160860-173 (2019-02-20): "Continuação da votação em turno único." — Sim 68, Não 236
+C:2160860-165 | 2019-02-19 | Votação das emendas de Plenário de nºs 6 e 8, com Parecer pela rejeição, ressalvados os destaques. | Sim 182 Não 282 | resultado: rejected
+C:2160860-168 | 2019-02-19 | Votação do art. 1º do Substitutivo apresentado ao PLP 441/17, com vistas a sua supressão, objeto do destaque para votação em separado da bancada do PSOL - DTQ 10. | Sim 287 Não 175 | resultado: ?
+C:2160860-173 | 2019-02-20 | Continuação da votação em turno único. | Sim 68 Não 236 | resultado: rejected
+C:2160860-176 | 2019-02-20 | Votação do art. 4º da Lei nº 12.414/11, constante do art. 2º do Substitutivo apresentado ao PLP 441/17, objeto do destaque para votação em separado da bancada do PT - DTQ 6. | Sim 307 Não 160 | resultado: ?
+C:2160860-178 | 2019-02-20 | Votação da Emenda nº 10, objeto do destaque para votação em separado da bancada do PP - DTQ 14. | Sim 7 Não 379 | resultado: rejected
+C:2160860-181 | 2019-02-20 | Votação da Emenda nº 6, objeto do destaque para votação em separado da bancada do PDT - DTQ 7. | Sim 143 Não 271 | resultado: rejected
+C:2160860-184 | 2019-02-20 | Votação do inciso V, constante do art. 5º da Lei 12.414/11 na redação dada pelo art. 2º do Substitutivo apresentado ao PLP 441/17, objeto do destaque para votação em separado da bancada do PT - DTQ 12. | Sim 287 Não 105 | resultado: ?
+C:2160860-187 | 2019-02-20 | Votação do § 7º do art. 12 da Lei nº. 12.414, de 9 de junho de 2011, contida no art. 2º do PLP 441/17, objeto do destaque para votação em separado da bancada do PSB - DTQ 15. | Sim 304 Não 149 | resultado: ?
+C:2160860-190 | 2019-02-20 | Votação do art. 16 da Lei 12.414 de 2011, com redação dada pelo art. 2º do Substitutivo apresentado ao PLP 441/17, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 11. | Sim 306 Não 145 | resultado: ?
+C:2160860-198 | 2019-02-20 | Continuação da votação em turno único. | Sim 34 Não 248 | resultado: rejected
+C:2160860-202 | 2019-02-20 | Votação da Emenda nº 2, objeto do destaque para votação em separado da bancada do PT - DTQ 5. | Sim 140 Não 278 | resultado: rejected
+C:2160860-213 | 2019-02-20 | Votação do inciso III, do art. 3º do PLP 441/17, objeto do destaque para votação em separado da bancada do PSB - DTQ 1. | Sim 267 Não 202 | resultado: ?

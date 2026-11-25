@@ -1,0 +1,60 @@
+## C:2270789 | MPV 1031/2021 | ementa: Dispõe sobre a desestatização da empresa Centrais Elétricas Brasileiras S.A. - Eletrobras e altera a Lei nº 5.899, de 5 de julho de 1973, a Lei nº 9.991, de 24 de julho de 2000, e a Lei nº 10.438, de 26 de abril de 2002. NOVA EMENTA: Dispõe sobre a desestatização da empresa Centrais Elétricas Brasileiras S.A. (Eletrobras); altera as Leis nºs 5.899, de 5 de julho de 1973, 9.991,
+   voto principal do projeto: C:2270789-41 (2021-05-19): "" — Sim 82, Não 310
+C:2270789-100 | 2021-05-19 | Votação do DTQ 5: PSB: Destaque para votação em separado da expressão "à Eletrobras e às suas subsidiárias e", constante do art. 12 do PLV apresentado à Medida Provisória n. 1.031, de 2021. (art. 161, I) | Sim 328 Não 128 | resultado: ?
+C:2270789-103 | 2021-05-19 | Votação do DTQ 1: PSB: Emenda de Comissão nº 369 (art. 161, II) | Sim 133 Não 319 | resultado: rejected
+C:2270789-106 | 2021-05-19 | Votação do DTQ 8: PDT: Emenda de Comissão nº 87 (art. 161, II) | Sim 158 Não 286 | resultado: rejected
+C:2270789-41 | 2021-05-19 |  | Sim 82 Não 310 | resultado: rejected
+C:2270789-48 | 2021-05-19 |  | Sim 68 Não 283 | resultado: rejected
+C:2270789-61 | 2021-05-19 |  | Sim 314 Não 58 | resultado: approved
+C:2270789-62 | 2021-05-19 |  | Sim 123 Não 288 | resultado: rejected
+C:2270789-64 | 2021-05-19 | Votação preliminar em turno único. | Sim 305 Não 167 | resultado: approved
+C:2270789-65 | 2021-05-19 | Votação preliminar em turno único. | Sim 303 Não 168 | resultado: approved
+C:2270789-68 | 2021-05-19 | Votação do DTQ 2: PT: destaque de preferência para que a Emenda de Plenário n. 6, apresentada à MPV 1.031/2021, seja votada em detrimento do texto com precedência regimental. (art. 161, IV) | Sim 158 Não 293 | resultado: rejected
+C:2270789-71 | 2021-05-19 | Votação do DTQ 9: Bloco PSL (MDB): DESTAQUE DE BANCADA PARA PREFERÊNCIA NA VOTAÇÃO do texto original da Medida Provisória nº 1031/2021, em detrimento do respectivo PLV oferecido em Plenário pelo Relator. (art. 161, IV) | Sim 178 Não 271 | resultado: rejected
+C:2270789-73 | 2021-05-19 | Votação, quanto ao mérito, em turno único. | Sim 313 Não 166 | resultado: approved
+C:2270789-76 | 2021-05-19 | Votação do DTQ 15: NOVO: Emenda de Plenário nº 11 (art. 161, II) | Sim 60 Não 406 | resultado: rejected
+C:2270789-85 | 2021-05-19 | Votação do DTQ 14: PT: Emenda de Plenário nº 1 (art. 161, II) | Sim 141 Não 316 | resultado: rejected
+C:2270789-88 | 2021-05-19 | Votação do DTQ 3: PT: destaque, com vistas à supressão, do artigo 2º do PLV oferecido à MPV 1.031/2021. (art. 161, I) | Sim 330 Não 135 | resultado: ?
+C:2270789-91 | 2021-05-19 | Votação do DTQ 7: PDT: Emenda de Comissão nº 85 (art. 161, II) | Sim 140 Não 332 | resultado: rejected
+C:2270789-94 | 2021-05-19 | Votação do DTQ 4: PCdoB: Destaque da expressão "O disposto no art. 7º da Lei nº 9.648, de 27 de maio de 1998, não se aplica aos novos contratos de concessão de geração de energia elétrica de que trata este artigo, sendo que" contida no §2º, IV, do artigo 4º do PLV apresentado à MPV 1.031/2021, com vistas a sua supressão. (art. 161, I) | Sim 345 Não 130 | resultado: ?
+C:2270789-97 | 2021-05-19 | Votação do DTQ 11: PSOL: destaque para votação em separado do art. 12 do substitutivo apresentado pelo relator à MP 1031 de 2021, com fins de supressão. (art. 161, I) | Sim 333 Não 127 | resultado: ?
+C:2270789-144 | 2021-06-21 |  | Sim 168 Não 265 | resultado: rejected
+C:2270789-150 | 2021-06-21 |  | Sim 173 Não 252 | resultado: rejected
+C:2270789-157 | 2021-06-21 | Votação em turno único. | Sim 258 Não 136 | resultado: approved
+C:2270789-158 | 2021-06-21 | Votação em turno único. | Sim 2 Não 394 | resultado: rejected
+C:2270789-169 | 2021-06-21 | Votação do DTQ 2: PT: Emenda do Senado Federal n. 1 (art. 161, II). | Sim 245 Não 174 | resultado: approved
+C:2270789-170 | 2021-06-21 |  | Sim 274 Não 155 | resultado: approved
+C:2270789-176 | 2021-06-21 | Votação do DTQ 18: PCdoB: Destaque do parágrafo sexto contido no artigo primeiro da emenda do senado n. 1 apresentada à MPV 1.031/2021, com vistas a sua rejeição. (art. 161, II). | Sim 273 Não 158 | resultado: approved
+C:2270789-179 | 2021-06-21 | Votação do DTQ 7: NOVO: Emenda do Senado Federal nº 2 (art. 161, II). | Sim 292 Não 151 | resultado: approved
+C:2270789-187 | 2021-06-21 | Votação do DTQ 5: PT: Emenda do Senado Federal n. 8 (art. 161, II). | Sim 162 Não 278 | resultado: rejected
+C:2270789-191 | 2021-06-21 | Votação do DTQ 6: PSOL: Emenda do Senado Federal nº 15 (art. 161, II). | Sim 296 Não 142 | resultado: approved
+C:2270789-194 | 2021-06-21 | Votação do DTQ 16: PT: Emenda do Senado Federal n. 28 (art. 161, II). | Sim 278 Não 172 | resultado: approved
+
+## C:2270800 | PEC 3/2021 | ementa: Altera os arts. 14, 27, 53, 102 e 105 da Constituição Federal, para dispor sobre as prerrogativas parlamentares e dá outras providências.
+   palavras-chave: Alteração, Constituição Federal (1988), Imunidade parlamentar, Imunidade material, Foro privilegiado, Supremo Tribunal Federal (STF), Prerrogativa de poder, Prerrogativa 
+   voto principal do projeto: C:2270800-21 (2021-02-24): "" — Sim 114, Não 373
+C:2270800-21 | 2021-02-24 |  | Sim 114 Não 373 | resultado: rejected
+C:2270800-26 | 2021-02-24 |  | Sim 108 Não 363 | resultado: rejected
+C:2270800-34 | 2021-02-24 | Votação, em turno único, do Parecer de admissibilidade da Proposta de Emenda à Constituição nº 3, de 2021. | Sim 304 Não 154 | resultado: approved
+C:2270800-40 | 2021-02-25 |  | Sim 136 Não 237 | resultado: rejected
+C:2270800-53 | 2021-02-25 |  | Sim 161 Não 296 | resultado: rejected
+C:2270800-61 | 2021-02-25 |  | Sim 305 Não 151 | resultado: approved
+C:2270800-62 | 2021-02-25 |  | Sim 149 Não 307 | resultado: rejected
+C:2270800-68 | 2021-02-25 |  | Sim 150 Não 311 | resultado: rejected
+
+## C:2270894 | PL 591/2021 | ementa: Dispõe sobre a organização e a manutenção do Sistema Nacional de Serviços Postais. NOVA EMENTA: Dispõe sobre o marco regulatório, a organização e a manutenção do Sistema Nacional de Serviços Postais (SNSP); altera as Leis nºs 5.070, de 7 de julho de 1966, 6.538, de 22 de junho de 1978, 9.472, de 16 de julho de 1997, 10.871, de 20 de maio de 2004, 11.890, de 24 de dezembro de 20
+   voto principal do projeto: C:2278141-8 (2021-04-20): "" — Sim 280, Não 165
+C:2278141-8 | 2021-04-20 |  | Sim 280 Não 165 | resultado: approved
+C:2270894-103 | 2021-08-05 | Votação em turno único. | Sim 286 Não 173 | resultado: approved
+C:2270894-111 | 2021-08-05 | Votação do DTQ 6: PSOL: Emenda de Plenário n. 19 (art. 161, II). | Sim 139 Não 259 | resultado: rejected
+C:2270894-114 | 2021-08-05 | Votação do DTQ 2: PT: Destaque, com vistas à rejeição, do inciso II do artigo 12 do Substitutivo oferecido ao PL 591/2021 e, por decorrência, do artigo 28. (art. 161, I). | Sim 264 Não 148 | resultado: ?
+C:2270894-117 | 2021-08-05 | Votação do DTQ 5: PDT: emenda de plenário n° 8. (art. 161, II). | Sim 133 Não 236 | resultado: rejected
+C:2270894-120 | 2021-08-05 | Votação do DTQ 4: PDT: emenda de plenário n° 7. (art. 161, II). | Sim 145 Não 275 | resultado: rejected
+C:2270894-123 | 2021-08-05 | Votação do DTQ 3: PCdoB: Emenda de Plenário n. 6 (art. 161, II). | Sim 157 Não 273 | resultado: rejected
+C:2270894-129 | 2021-08-05 | Votação do DTQ 10: PT: Emenda de Plenário n. 17 (art. 161, II). | Sim 160 Não 263 | resultado: rejected
+C:2270894-132 | 2021-08-05 | Votação do DTQ 13: NOVO: destaque para a votação em separado da expressão “ficam extintos os benefícios tributários de que goza a ECT que não sejam extensíveis às demais empresas que explorem os serviços postais” constante do parágrafo único do artigo 23 do PL 591/21, com vistas à sua inclusão no Substitutivo, onde couber. (art. 161, IV). | Sim 54 Não 353 | resultado: ?
+C:2270894-139 | 2021-08-05 | Votação do DTQ 14: PSB: Emenda de Plenário n. 21. | Sim 159 Não 265 | resultado: rejected
+C:2270894-143 | 2021-08-05 | Votação do DTQ 7: PSB: Emenda de Plenário n. 20 (art. 161, II). | Sim 162 Não 244 | resultado: rejected
+C:2270894-148 | 2021-08-05 | Votação do DTQ 11: PT: Emenda de Plenário n. 22 (art. 161, II). | Sim 147 Não 271 | resultado: rejected
+C:2270894-75 | 2021-08-05 |  | Sim 142 Não 247 | resultado: rejected
+C:2270894-81 | 2021-08-05 |  | Sim 148 Não 279 | resultado: rejected

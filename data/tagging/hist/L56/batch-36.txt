@@ -1,0 +1,88 @@
+## C:2320266 | MPV 1113/2022 | ementa: Altera a Lei nº 8.213, de 24 de julho de 1991, e a Lei nº 13.846, de 18 de junho de 2019, para dispor sobre o fluxo de análise de benefícios previdenciários e assistenciais sob avaliação do Instituto Nacional do Seguro Social, da Perícia Médica Federal e do Conselho de Recursos da Previdência Social. NOVA EMENTA: Altera as Leis nºs 8.213, de 24 de julho de 1991, 8.742, de 7 de 
+   voto principal do projeto: C:2320266-47 (2022-08-02): "Votação, quanto ao mérito, em turno único." — Sim 381, Não 8
+C:2320266-47 | 2022-08-02 | Votação, quanto ao mérito, em turno único. | Sim 381 Não 8 | resultado: approved
+C:2320266-52 | 2022-08-02 | Votação do DTQ 2: PT: Destaque da expressão "auxilio-acidente" que consta no art. 101 da Lei 8213/1991, alterado pelo art. 1º do PLV apresentado à MPV 1.113, de 2022. (art. 161, I) | Sim 200 Não 130 | resultado: ?
+C:2320266-57 | 2022-08-02 | Votação do DTQ 7: PSB: Emenda de Comissão nº 17 (art. 161, II). | Sim 119 Não 251 | resultado: rejected
+C:2320266-59 | 2022-08-02 | Votação do DTQ 8: PCdoB: Emenda de Plenário n. 4 (art. 161, II) | Sim 132 Não 239 | resultado: rejected
+C:2320266-62 | 2022-08-02 | Votação do DTQ 6: PT: Destaque, com vistas à rejeição, do § 6ºA do art. 20 da Lei nº 8.742, de 7 de dezembro de 1993, alterado pelo art. 2º do PLV apresentado à MPV 1.113, de 2022. (art. 161, I) | Sim 286 Não 124 | resultado: ?
+C:2320266-66 | 2022-08-02 | Votação do DTQ 9: REPUBLICANOS: Emenda de Plenário nº 5 (art. 161, II) | Sim 191 Não 207 | resultado: rejected
+C:2320266-69 | 2022-08-02 | Votação do DTQ 5: PT: destaque, com vistas à rejeição, do art. 5º do PLV apresentado à MPV 1.113, de 2022. (art. 161, I) | Sim 296 Não 94 | resultado: ?
+C:2320266-74 | 2022-08-02 | Votação do DTQ 1: PSOL: Emenda de Comissão n. 42 (art. 161, II). | Sim 131 Não 264 | resultado: rejected
+
+## C:2320799 | MPV 1115/2022 | ementa: Altera a Lei nº 7.689, de 15 de dezembro de 1988, que institui a contribuição social sobre o lucro das pessoas jurídicas.
+   voto principal do projeto: C:2320799-49 (2022-08-30): "Votação, quanto ao mérito, em turno único." — Sim 361, Não 14
+C:2320799-49 | 2022-08-30 | Votação, quanto ao mérito, em turno único. | Sim 361 Não 14 | resultado: approved
+C:2320799-54 | 2022-08-30 | Votação do DTQ 2: PT: Emenda de Comissão n. 7 (art. 161, II) | Sim 95 Não 205 | resultado: rejected
+C:2320799-57 | 2022-08-30 | Votação do DTQ 3: PT: Emenda de Comissão n. 6 (art. 161, II) | Sim 136 Não 189 | resultado: rejected
+C:2320799-62 | 2022-08-30 | Votação do DTQ 4: PSOL: Emenda de Plenário nº 1 (art. 161, II). | Sim 101 Não 238 | resultado: rejected
+C:2320799-63 | 2022-08-30 | Votação do DTQ 1: PCdoB: destaque para votação em separado da Expressão: “até 31 de dezembro de 2022”, da redação do caput do Art. 3º da Lei nº 7.689/1988, contida no Art. 1º da MP. (art. 161, I) | Sim 195 Não 89 | resultado: ?
+
+## C:2321689 | MPV 1116/2022 | ementa: Institui o Programa Emprega + Mulheres e Jovens e altera a Lei nº 11.770, de 9 de setembro de 2008, e a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943. NOVA EMENTA:Institui o Programa Emprega + Mulheres; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e as Leis nºs 11.770, de 
+   voto principal do projeto: C:2321689-50 (2022-08-30): "Votação, quanto ao mérito, em turno único." — Sim 395, Não 7
+C:2321689-50 | 2022-08-30 | Votação, quanto ao mérito, em turno único. | Sim 395 Não 7 | resultado: approved
+C:2321689-53 | 2022-08-30 | Votação do DTQ 3: PCdoB: destaque para supressão do parágrafo único do art. 5º do PLV apresentado à MP 1116/2022 (art. 161, I) | Sim 238 Não 100 | resultado: ?
+
+## C:2323322 | MPV 1117/2022 | ementa: Altera a Lei nº 13.703, de 8 de agosto de 2018, que institui a Política Nacional de Pisos Mínimos do Transporte Rodoviário de Cargas.
+   voto principal do projeto: C:2323322-38 (2022-08-30): "Votação, quanto ao mérito, em turno único." — Sim 310, Não 3
+C:2323322-38 | 2022-08-30 | Votação, quanto ao mérito, em turno único. | Sim 310 Não 3 | resultado: approved
+C:2323322-44 | 2022-08-30 | Votação do DTQ 2: PT: Emenda de Comissão n. 5 (art. 161, II) | Sim 82 Não 193 | resultado: rejected
+C:2323322-46 | 2022-08-30 | Votação do DTQ 1: PCdoB: Emenda de Comissão n. 6 (art. 161, II). | Sim 83 Não 212 | resultado: rejected
+C:2323322-49 | 2022-08-30 | Votação do DTQ 3: PSOL: Emenda de Plenário 1 (art. 161, II). | Sim 107 Não 242 | resultado: rejected
+
+## C:2323617 | MPV 1118/2022 | ementa: Altera a Lei Complementar nº 192, de 11 de março de 2022, que define os combustíveis sobre os quais incidirá uma única vez o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, ainda que as operações se iniciem no exterior NOVA EMENTA: Altera a Lei Complementar nº 192,
+C:2323617-49 | 2022-08-31 | Votação do DTQ 10: NOVO: destaque para votação em separado do art. 3° do PLV apresentado pelo relator à 1.118/2022, com fins de sua rejeição. (art. 161, I) | Sim 229 Não 42 | resultado: ?
+C:2323617-56 | 2022-08-31 | Votação do DTQ 1: PSD: Emenda de Plenário nº 1. (art. 161, II) | Sim 89 Não 211 | resultado: rejected
+
+## C:2324900 | MPV 1119/2022 | ementa: Reabre o prazo de opção para o regime de previdência complementar e altera a Lei nº 12.618, de 30 de abril de 2012 NOVA EMENTA: Dispõe sobre a reabertura do prazo de opção para o regime de previdência complementar; e altera as Leis nºs 12.618, de 30 de abril de 2012, e 9.250, de 26 de dezembro de 1995.
+C:2324900-47 | 2022-08-31 | Votação do DTQ 1: PSB: Emenda de Comissão nº 95 (art. 161, II) | Sim 98 Não 208 | resultado: rejected
+C:2324900-48 | 2022-08-31 | Votação do DTQ 4: PSOL: destaque para votação em separado do parágrafo 4° do art. 3° da Lei n. 12.618, de 2012, na redação do art. 2° da Medida Provisória n. 1.119/2022, para fins de supressão. (art. 161, I) | Sim 203 Não 98 | resultado: ?
+C:2324900-52 | 2022-08-31 | Votação do DTQ 2: PCdoB: Destaque para votação em separado do § 8º do Art. 5º da Lei 12.618, de 2012, constante do Art. 2º da Medida Provisória 1.119, de 2022. (art. 161, I) | Sim 190 Não 170 | resultado: ?
+C:2324900-55 | 2022-08-31 | Votação do DTQ 6: PT: destaque, com vistas à rejeição, do art 8º da Lei 12.618/2012, alterado pelo art. 2º da MP 1.119/2022. (art. 161, I) | Sim 204 Não 99 | resultado: ?
+
+## C:2326278 | MPV 1120/2022 | ementa: Transforma Funções Gratificadas em Cargos Comissionados de Direção e Cargos Comissionados de Gerência Executiva destinados à Agência Nacional de Transportes Aquaviários - ANTAQ e altera a Lei nº 10.233, de 5 de junho de 2001
+C:2326278-38 | 2022-10-05 | Votação do DTQ 1: PT: Emenda de plenário nº 1. (art. 161, II) | Sim 92 Não 209 | resultado: rejected
+
+## C:2326450 | PEC 11/2022 | ementa: Institui o piso salarial nacional do enfermeiro, do técnico de enfermagem, do auxiliar de enfermagem e da parteira.
+   voto principal do projeto: C:2326450-85 (2022-07-12): "Votação em primeiro turno." — Sim 425, Não 7
+C:2326450-85 | 2022-07-12 | Votação em primeiro turno. | Sim 425 Não 7 | resultado: approved
+C:2326450-90 | 2022-07-13 | Votação do DTQ 1: NOVO: Destaque para a votação em separado do §13º do art. 198 da Constituição Federal, alterado pelo art. 1º da PEC 11/2022, com vistas à sua supressão. (art. 161, I) | Sim 464 Não 15 | resultado: ?
+C:2326450-98 | 2022-07-13 | Votação em segundo turno. | Sim 473 Não 9 | resultado: approved
+
+## C:2329218 | PEC 15/2022 | ementa: Altera o art. 225 da Constituição Federal para estabelecer diferencial de competitividade para os biocombustíveis. NOVA EMENTA: Altera o art. 225 da Constituição Federal para estabelecer diferencial de competitividade para os biocombustíveis; inclui o art. 120 no Ato das Disposições Constitucionais Transitórias para reconhecer o estado de emergência decorrente da elevação extra
+   voto principal do projeto: C:2329218-126 (2022-07-07): "" — Sim 303, Não 91
+C:2329218-126 | 2022-07-07 |  | Sim 303 Não 91 | resultado: approved
+C:2331629-6 | 2022-07-07 |  | Sim 294 Não 95 | resultado: approved
+C:2329218-133 | 2022-07-12 | Votação em primeiro turno. | Sim 44 Não 225 | resultado: rejected
+C:2329218-135 | 2022-07-12 | Votação em primeiro turno. | Sim 393 Não 14 | resultado: approved
+C:2329218-151 | 2022-07-13 | Continuação da votação em primeiro turno. | Sim 29 Não 356 | resultado: rejected
+C:2329218-153 | 2022-07-13 | Votação do DTQ 6: PT: destaque, com vistas à rejeição, da expressão “o estado de emergência decorrente da”, contida no Artigo 120 do ADCT, na redação dada pelo Artigo 3º do Substitutivo apresentado à PEC 15/2022 e, por decorrência: da expressão “estado de emergência reconhecido”, constante do parágrafo único do mesmo Artigo 120; da expressão “do estado de emergência decorrente”, constante do Artigo 1º do Substitutivo; e da expressão “em decorrência do estado de emergência de que trata o caput do art. 120 do Ato das Disposições Constit | Sim 361 Não 142 | resultado: ?
+C:2329218-156 | 2022-07-13 | Votação do DTQ 7: PT: Destaque, com vistas à rejeição, da expressão “imprevisível” contida no Artigo 120 do ADCT, na redação dada pelo Artigo 3º do Substitutivo apresentado à PEC 15/2022, e, por decorrência, da expressão “imprevisível” constante do Artigo 1º do mesmo Substitutivo. (art. 161, I) | Sim 354 Não 131 | resultado: ?
+C:2329218-159 | 2022-07-13 | Votação do DTQ 10: NOVO: Destaque para a votação em separado do parágrafo único do art. 120 do ADCT acrescentado pelo art. 3º do Substitutivo apresentado à PEC 15/2022, com vistas à sua supressão. (art. 161, I) | Sim 459 Não 24 | resultado: ?
+C:2329218-162 | 2022-07-13 | Votação do DTQ 3: PSB: Destaque para votação em separado da expressão “durante 5 (cinco) meses” contida no inciso I do art. 5º do substitutivo apresentado à PEC 15/2022, para fins de sua supressão. (art. 161, I) | Sim 338 Não 159 | resultado: ?
+C:2329218-165 | 2022-07-13 | Votação do DTQ 2: PSOL: Destaque para votação em separado da expressão “no período de 1º de agosto a 31 de dezembro de 2022”, constante do inciso I do art. 5° do Substitutivo apresentado à Proposta de Emenda à Constituição n. 15, de 2022, para fins de supressão. (art. 161, I) | Sim 333 Não 159 | resultado: ?
+C:2329218-168 | 2022-07-13 | Votação do DTQ 12: PCdoB: destaque para votação em separado da expressão “até o limite de R$ 26.000.000.000,00 (vinte e seis bilhões de reais), incluídos os valores essencialmente necessários para a implementação do benefício”, contida no inciso I do art. 5º do substitutivo apresentado à PEC 15/2022, para fins de sua supressão. (art. 161, I) | Sim 349 Não 137 | resultado: ?
+C:2329218-177 | 2022-07-13 | Votação do DTQ 12: PCdoB: destaque para votação em separado da expressão “até o limite de R$ 26.000.000.000,00 (vinte e seis bilhões de reais), incluídos os valores essencialmente necessários para a implementação do benefício”, contida no inciso I do art. 5º do substitutivo apresentado à PEC 15/2022, para fins de sua supressão. (art. 161, I) | Sim 39 Não 356 | resultado: rejected
+C:2329218-182 | 2022-07-13 | Votação do DTQ 12: PCdoB: destaque para votação em separado da expressão “até o limite de R$ 26.000.000.000,00 (vinte e seis bilhões de reais), incluídos os valores essencialmente necessários para a implementação do benefício”, contida no inciso I do art. 5º do substitutivo apresentado à PEC 15/2022, para fins de sua supressão. (art. 161, I) | Sim 469 Não 17 | resultado: approved
+C:2329218-192 | 2022-07-13 | Votação do DTQ 15: PT (2º turno): Destaque, com vistas à rejeição, da expressão “o estado de emergência decorrente da”, contida no Artigo 120 do ADCT, na redação dada pelo Artigo 3º do substitutivo apresentado à PEC 15/2022 (segundo turno) e, por decorrência: da expressão “estado de emergência reconhecido”, constante do parágrafo único do mesmo Artigo 120; da expressão “do estado de emergência decorrente”, constante do Artigo 1º do Substitutivo; e da expressão “em decorrência do estado de emergência de que trata o caput do art. 120 do | Sim 345 Não 143 | resultado: ?
+C:2329218-195 | 2022-07-13 | Votação do DTQ 21: PSOL: destaque para votação em separado da expressão “durante 5 (cinco) meses”, constante do inciso I do art. 5° do Substitutivo apresentado à Proposta de Emenda à Constituição n. 15, de 2022, para fins de supressão. (art. 161, I) | Sim 344 Não 149 | resultado: ?
+C:2331627-7 | 2022-07-13 |  | Sim 31 Não 356 | resultado: rejected
+C:2331627-9 | 2022-07-13 |  | Sim 337 Não 27 | resultado: approved
+
+## C:2330036 | PL 1742/2022 | ementa: Altera o Decreto-Lei n.º 2.848, de 7 de dezembro de 1940 – Código Penal brasileiro, para prever a perda de cargo, emprego, função pública ou mandato eletivo para os apenados por crimes de violência contra a mulher.
+   voto principal do projeto: C:2330598-8 (2022-07-14): "" — Sim 403, Não 0
+C:2330598-8 | 2022-07-14 |  | Sim 403 Não 0 | resultado: approved
+
+## C:2330227 | MPV 1127/2022 | ementa: Altera a Lei nº 9.636, de 15 de maio de 1998, para modificar a forma de reajuste das receitas patrimoniais da União decorrentes da atualização da planta de valores. NOVA EMENTA: Altera a Lei nº 9.636, de 15 de maio de 1998, para modificar a forma de reajuste das receitas patrimoniais da União decorrentes da atualização da planta de valores e desburocratizar procedimentos de ali
+   voto principal do projeto: C:2330227-41 (2022-10-19): "Votação, quanto ao mérito, em turno único." — Sim 250, Não 77
+C:2330227-38 | 2022-10-19 | Votação do DTQ 1: PT: Destaque para votação preferencial da MPV 1.127/2022 em relação ao PLV a ela apresentado. (art. 161, IV). | Sim 103 Não 231 | resultado: rejected
+C:2330227-41 | 2022-10-19 | Votação, quanto ao mérito, em turno único. | Sim 250 Não 77 | resultado: approved
+C:2330227-45 | 2022-10-19 | Votação do DTQ 2: PT: Destaque, com vistas à rejeição, do Art. 31-A da Lei 9.636/1998, alterada pelo artigo 2º do PLV apresentado à MPV 1.127/2022. (art. 161, I). | Sim 232 Não 91 | resultado: ?
+C:2330227-51 | 2022-10-19 | Votação do DTQ 3: PT: Destaque, com vistas à rejeição, do Art. 4º da Lei 13.240/2015, alterada pelo artigo 5º do PLV apresentado à MPV 1.127/2022. (art. 161, I) | Sim 248 Não 102 | resultado: ?
+
+## C:2331427 | MPV 1128/2022 | ementa: Dispõe sobre o tratamento tributário aplicável às perdas incorridas no recebimento de créditos decorrentes das atividades das instituições financeiras e das demais instituições autorizadas a funcionar pelo Banco Central do Brasil.
+   voto principal do projeto: C:2331427-40 (2022-11-08): "Votação, quanto ao mérito, em turno único." — Sim 289, Não 43
+C:2331427-40 | 2022-11-08 | Votação, quanto ao mérito, em turno único. | Sim 289 Não 43 | resultado: approved
+C:2331427-45 | 2022-11-08 | Votação do DTQ 2: PSD: Emenda de Comissão 10 (art. 161, II) | Sim 106 Não 225 | resultado: rejected
+
+## C:2333803 | MPV 1132/2022 | ementa: Dispõe sobre o percentual máximo aplicado para a contratação de operações de crédito com desconto automático em folha de pagamento. NOVA EMENTA: Dispõe sobre o percentual máximo aplicado para a contratação de operações de crédito com desconto automático em folha de pagamento; altera a Lei nº 14.431, de 3 de agosto de 2022; revoga dispositivos da Lei nº 8.112, de 11 de dezembro 
+C:2333803-50 | 2022-11-22 | Votação do DTQ 5: REPUBLICANOS: Emenda de Comissão 11 (art. 161, II). | Sim 48 Não 221 | resultado: rejected

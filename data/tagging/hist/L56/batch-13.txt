@@ -1,0 +1,87 @@
+## C:2241662 | MPV 927/2020 | ementa: Dispõe sobre as medidas trabalhistas para enfrentamento do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19), e dá outras providências. NOVA EMENTA: Dispõe sobre as medidas trabalhistas para enfrentamento do estado de calamidade públic
+   voto principal do projeto: C:2241662-37 (2020-06-16): "" — Sim 108, Não 296
+C:2241662-37 | 2020-06-16 |  | Sim 108 Não 296 | resultado: rejected
+C:2241662-46 | 2020-06-16 |  | Sim 116 Não 305 | resultado: rejected
+C:2241662-103 | 2020-06-17 | Votação do DTQ 15: PDT: destaque para votação em separado do parágrafo 2° , do artigo 14 do PLV oferecido à MP 927, para sua supressão. (161, I) | Sim 277 Não 141 | resultado: ?
+C:2241662-109 | 2020-06-17 | Votação do DTQ 11: PCdoB: destaque da emenda n.11 de PLENÁRIO apresentada à MP 927/20. (161, II) | Sim 130 Não 287 | resultado: rejected
+C:2241662-117 | 2020-06-17 | Votação do DTQ 16: PT: destaque do § 5º do artigo 15 do PLV à MPV 927. (161, I) | Sim 310 Não 132 | resultado: ?
+C:2241662-118 | 2020-06-17 | Votação do DTQ 8: PT: destaque, com vistas à rejeição, do artigo 17 do PLV apresentado à MPV 927/2020. (161, I) | Sim 304 Não 136 | resultado: ?
+C:2241662-123 | 2020-06-17 | Votação do DTQ 1: PSOL: Destaque para votação em separado do art. 26 e, por decorrência de mérito, do art. 27 da MP nº 927 de 2020, para fins de supressão. (161, I) | Sim 280 Não 134 | resultado: ?
+C:2241662-131 | 2020-06-17 | Votação do DTQ 13: Bloco PP: destaque para votação em separado da EMENDA DE COMISSÃO Nº 323, apresentada a MP 927/2020. (161, II) | Sim 315 Não 135 | resultado: approved
+C:2241662-137 | 2020-06-17 | Votação do DTQ 12: PSB: Destaque para votação em separado do art. 33 do PLV apresentado à MP 927/20, para sua supressão. | Sim 306 Não 138 | resultado: ?
+C:2241662-66 | 2020-06-17 | Votação em turno único. | Sim 90 Não 219 | resultado: rejected
+C:2241662-72 | 2020-06-17 | Votação em turno único. | Sim 99 Não 284 | resultado: rejected
+C:2241662-76 | 2020-06-17 | Votação preliminar em turno único. | Sim 321 Não 120 | resultado: approved
+C:2241662-77 | 2020-06-17 | Votação preliminar em turno único. | Sim 397 Não 54 | resultado: approved
+C:2241662-79 | 2020-06-17 | Votação, quanto ao mérito, em turno único. | Sim 332 Não 132 | resultado: approved
+C:2241662-81 | 2020-06-17 | Votação das Emendas de Plenário de n ºs 1, 4, 5, e 11 ao Projeto de Lei de Conversão, com parecer pela rejeição. | Sim 135 Não 311 | resultado: rejected
+C:2241662-85 | 2020-06-17 | Votação do DTQ 3: PT: destaque, com vistas à rejeição, do parágrafo único do artigo 1º do PLV apresentado à MPV 927/2020. (161, I) | Sim 323 Não 133 | resultado: ?
+C:2241662-90 | 2020-06-17 | Continuação da votação em turno único. | Sim 124 Não 337 | resultado: rejected
+C:2241662-93 | 2020-06-17 | Votação do DTQ 6: Bloco PP: Emenda de Comissão 118 (161, II). | Sim 157 Não 282 | resultado: rejected
+C:2241662-96 | 2020-06-17 | Votação do DTQ 2: PSB: destaque para votação em separado do art. 2º do PLV apresentado à MP 927/20, para sua supressão. (161, I). | Sim 295 Não 155 | resultado: ?
+C:2241662-98 | 2020-06-17 | Votação do DTQ 10: PDT: Destaque da emenda de comissão 384, do Sr. Wolney Queiroz, apresentada à MP 927. | Sim 131 Não 281 | resultado: rejected
+
+## C:2241695 | PL 827/2020 | ementa: Suspende pelo período de 90 (noventa) dias em razão da Pandemia do COVID-19, a execução das ordens de despejo de locações de imóveis residenciais e comerciais e dá outras providências. NOVA EMENTA: Estabelece medidas excepcionais em razão da Emergência em Saúde Pública de Importância Nacional (Espin) decorrente da infecção humana pelo coronavírus SARS-CoV-2, para suspender o cu
+   voto principal do projeto: C:2241695-65 (2021-05-18): "Votação em turno único." — Sim 263, Não 181
+C:2241695-65 | 2021-05-18 | Votação em turno único. | Sim 263 Não 181 | resultado: approved
+C:2241695-100 | 2021-07-14 | Votação da Emenda do Senado Federal ao Projeto de Lei nº 827-A, de 2020, com parecer pela rejeição. | Sim 313 Não 131 | resultado: approved
+
+## C:2241784 | PL 886/2020 | ementa: Dispõe sobre medidas emergenciais de amparo aos agricultores familiares do Brasil para mitigar os impactos socioeconômicos da pandemia do COVID- 19, durante o período de vigor do estado de calamidade pública no país, e dá outras providências.
+   voto principal do projeto: C:2242322-7 (2020-06-09): "" — Sim 397, Não 12
+C:2242322-7 | 2020-06-09 |  | Sim 397 Não 12 | resultado: approved
+
+## C:2242000 | PL 1013/2020 | ementa: Suspende o pagamento do parcelamento de dívidas no âmbito do Programa de Modernização da Gestão e de Responsabilidade Fiscal do Futebol Brasileiro - PROFUT, criado prela Lei nº 13.155, de 4 de agosto de 2015, durante período de emergência de saúde pública de importância internacional relacionada ao coronavírus (Covid-19) NOVA EMENTA: Suspende o pagamento do parcelamento de dívi
+C:2242000-83 | 2020-06-17 | Votação do DTQ 11: PSB: destaque da emenda de plenário nº 3, apresentada ao PL 1013/20. (161, II) | Sim 178 Não 265 | resultado: rejected
+C:2242000-90 | 2020-06-17 | Votação do DTQ 12: NOVO: destaque para a votação em separado do artigo 7º do Substitutivo do PL 1013/2020. (art. 161, I) | Sim 310 Não 125 | resultado: ?
+C:2242000-151 | 2020-12-16 | Votação do DTQ 1: PT: Emenda do Senado Federal nº 1. (art. 161, II) | Sim 170 Não 262 | resultado: rejected
+
+## C:2242140 | PL 1079/2020 | ementa: Dá nova redação aos dispositivos que menciona da Lei n. 10.260, de 12 de julho de 2001, e dá outras providências. NOVA EMENTA: Altera a Lei nº 10.260, de 12 de julho de 2001, para suspender temporariamente as obrigações financeiras dos estudantes beneficiários do Fundo de Financiamento Estudantil (Fies) por 60 (sessenta) dias, contados da data de publicação desta Lei, prorrogáv
+C:2242140-63 | 2020-04-28 | Votação do DTQ 5: PSB: destaque para votação da Emenda nº 13, apresentada ao PL 1079/2020. §§ 6, 7 ART 5-C § 19 ART 15-D § 4º E OUTROS | Sim 190 Não 260 | resultado: rejected
+C:2242140-72 | 2020-04-28 | Votação do DTQ 3: PT: destaque da expressão "Fica o Poder Executivo autorizado a suspender por 6 meses a cobrança das parcelas de amortização das dívidas provenientes do programa FIES no período de restrição à locomoção e ou emergência e ou calamidade provocados pela pandemia Covid-19.", contida na Emenda n. 5, apresentada ao PL 1.079/2020. ONDE COUBER | Sim 154 Não 286 | resultado: rejected
+C:2242140-81 | 2020-04-28 | Votação do DTQ 8: PT: destaque da Emenda n. 20, apresentada ao PL 1.079/2020. 6-B e 6-F. | Sim 246 Não 209 | resultado: approved
+C:2242140-138 | 2020-06-18 | Votação do DTQ 2: PT: destaque do art. 6º-B da Lei nº 10.260/2001, na redação dada pelo art. 1º do Substitutivo do Senado Federal, com vistas à sua rejeição e ao consequente restabelecimento do seu equivalente no texto aprovado pela Câmara dos Deputados. (art. 161, I) | Sim 282 Não 153 | resultado: ?
+
+## C:2242149 | PL 1088/2020 | ementa: Trata da suspensão retroativa e impedimento de novas inscrições nos cadastros de empresas de análises e informações para decisões de crédito enquanto vigente calamidade pública decorrente da pandemia do coronavírus (COVID-19).
+   voto principal do projeto: C:2242282-7 (2020-04-09): "" — Sim 330, Não 25
+C:2242282-7 | 2020-04-09 |  | Sim 330 Não 25 | resultado: approved
+
+## C:2242344 | MIP 1/2020 | ementa: Institui regime extraordinário fiscal, financeiro e de contratações para enfrentamento da calamidade pública nacional decorrente de pandemia internacional e dá outras providências.
+   voto principal do projeto: C:2242344-15 (2020-04-01): "Votação da Minuta de Proposição Legislativa nº 1, de 2020." — Sim 321, Não 14
+C:2242344-15 | 2020-04-01 | Votação da Minuta de Proposição Legislativa nº 1, de 2020. | Sim 321 Não 14 | resultado: approved
+
+## C:2242400 | MPV 932/2020 | ementa: Altera as alíquotas de contribuição aos serviços sociais autônomos que especifica e dá outras providências. NOVA EMENTA: Altera excepcionalmente as alíquotas de contribuição aos serviços sociais autônomos que especifica; e modifica as Leis nºs 5.461, de 25 de junho de 1968, e 8.706, de 14 de setembro de 1993
+C:2242400-83 | 2020-06-16 | Votação do DTQ 6: PSB: Destaque, com vistas à supressão do art. 3º do PLV apresentado à MPV 932/20. (161, I) | Sim 259 Não 177 | resultado: ?
+
+## C:2242413 | MPV 934/2020 | ementa: Estabelece normas excepcionais sobre o ano letivo da educação básica e do ensino superior decorrentes das medidas para enfrentamento da situação de emergência de saúde pública de que trata a Lei nº 13.979, de 6 de fevereiro de 2020. NOVA EMENTA: Estabelece normas educacionais excepcionais a serem adotadas durante o estado de calamidade pública reconhecido pelo Decreto Legislati
+C:2242413-59 | 2020-07-07 | Votação do DTQ 13: PODEMOS: Destaque para votação em separado da Emenda de Plenário nº 18 apresentada à MPV 934/2020 (161, II). | Sim 147 Não 289 | resultado: rejected
+C:2242413-81 | 2020-07-07 | Votação do DTQ 11: PSB: Destaque da emenda de plenário nº 2, apresentada à MPV 934/20 (161, II). | Sim 150 Não 286 | resultado: rejected
+
+## C:2242488 | PL 1304/2020 | ementa: Altera a Lei n° 10.304, de 5 de novembro de 2001, que transfere ao domínio dos Estados de Roraima e do Amapá terras pertencentes à União e a Lei n° 6.634, de 2 de maio de 1979. que dispõe sobre a Faixa de Fronteira , altera o Decreto-lei n° 1.135, de 3 de dezembro de 1970, e dá outras providências. NOVA EMENTA: Altera a Lei nº 10.304, de 5 de novembro de 2001, que transfere ao 
+C:2242488-47 | 2020-04-29 | Votação do DTQ 3: PT: destaque do art. 1º do Substitutivo apresentado ao PL 1304/2020, com vista à sua supressão.. (art. 161, I) | Sim 235 Não 232 | resultado: ?
+C:2242488-56 | 2020-04-29 | Votação do DTQ 1: PT: Emenda de Plenário nº 5 (art. 161, II). subst art. 2º inciso VII L 10304 | Sim 131 Não 337 | resultado: rejected
+
+## C:2242583 | PEC 10/2020 | ementa: Institui regime extraordinário fiscal, financeiro e de contratações para enfrentamento da calamidade pública nacional decorrente de pandemia internacional e dá outras providências.
+   voto principal do projeto: C:2242583-46 (2020-04-03): "" — Sim 12, Não 254
+C:2242583-25 | 2020-04-01 | Votação da admissibilidade das Emendas de nºs 1 a 26. | Sim 341 Não 73 | resultado: approved
+C:2242583-46 | 2020-04-03 |  | Sim 12 Não 254 | resultado: rejected
+C:2242583-51 | 2020-04-03 | Votação em primeiro turno. | Sim 505 Não 2 | resultado: approved
+C:2242583-55 | 2020-04-03 | Votação do DTQ 14: PSOL: destaque para votação em separado do §9º do art. 115 do Ato das Disposições Constitucionais Transitórias, constante do art. 1º do substitutivo apresentado à PEC 10/2020, para sua supressão. (161, I). | Sim 388 Não 71 | resultado: ?
+C:2242583-61 | 2020-04-03 | Votação em segundo turno. | Sim 423 Não 1 | resultado: approved
+C:2242583-63 | 2020-04-03 | Votação do DTQ 1: PSOL: Destaque para votação em separado do § 9º do art. 115 do Ato das Disposições Constitucionais Transitórias, constante do art. 1º do texto aprovado em primeiro turno da PEC 10/2020, para sua supressão. (161, I). | Sim 390 Não 58 | resultado: ?
+C:2242583-66 | 2020-04-03 | Votação do DTQ 2: NOVO: destaque para a votação em separado do trecho de direito creditório e títulos privados de crédito em mercados secundários, no âmbito de mercados financeiros, de capitais e de pagamentos", constante do § 9º do Art. 115 do ADCT, incluído pelo artigo 1º do Substitutivo apresentado à PEC 10/2020, com vista à sua supressão. | Sim 395 Não 54 | resultado: ?
+
+## C:2242618 | MPV 936/2020 | ementa: Institui o Programa Emergencial de Manutenção do Emprego e da Renda e dispõe sobre medidas trabalhistas complementares para enfrentamento do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, e da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19), de que trata a Lei nº 13.979, de 6 de fever
+C:2242618-52 | 2020-05-28 | Votação do DTQ 12: Bloco PP: Destaque do art. 6º da Medida Provisória nº 936/2020, a fim de substituição de dispositivo corresponde no PLV. (161, IV) | Sim 315 Não 155 | resultado: approved
+C:2242618-79 | 2020-05-28 | Votação do DTQ 15: Bloco PP: Destaque para votação da Emenda de Plenário nº 30, apresentada à MPV 936/2020. (161,II) | Sim 306 Não 172 | resultado: approved
+
+## C:2242684 | PL 1411/2020 | ementa: Autoriza os profissionais de saúde a deduzirem da base de cálculo do Imposto de Renda de Pessoa Física, de que trata a Lei n 9.250 de 26 de dezembro de 1995, a aquisição de equipamentos de proteção individual – EPI, adquiridos entre o período de 26 de fevereiro de 2020 e enquanto durar à emergência de saúde pública de importância internacional em decorrência da Infecção Humana 
+   voto principal do projeto: C:2247459-6 (2020-06-09): "" — Sim 219, Não 209
+C:2247459-6 | 2020-06-09 |  | Sim 219 Não 209 | resultado: rejected
+
+## C:2242821 | PL 1485/2020 | ementa: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 para duplicar as penas de crimes contra a administração pública quando estes forem praticados por ocasião de calamidade pública. NOVA EMENTA: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e as Leis nºs 8.666, de 21 de junho de 1993, e 12.850, de 2 de agosto de 2013, para combater condutas que tenh
+   voto principal do projeto: C:2242821-110 (2020-09-01): "" — Sim 217, Não 230
+C:2242821-110 | 2020-09-01 |  | Sim 217 Não 230 | resultado: rejected
+C:2242821-129 | 2020-09-01 | Votação em turno único. | Sim 421 Não 64 | resultado: approved
+
+## C:2242868 | PL 873/2020 | ementa: Promove mudanças no auxílio emergencial instituído pela Lei no 13.982, de 2 de abril de 2020; e dá outras providências. NOVA EMENTA: Altera a Lei nº 13.982, de 2 de abril de 2020, para promover modificações nas regras do auxílio emergencial; veda a suspensão de benefícios previdenciários e assistenciais para idosos, pessoas com deficiência ou pessoas com enfermidade grave, enqu
+C:2242868-76 | 2020-04-16 | Votação do DTQ 15: PT: destaque da Emenda n. 64, apresentada ao PL 873/2020. art. 2-A. | Sim 191 Não 291 | resultado: rejected

@@ -1,0 +1,89 @@
+## C:2279513 | MPV 1045/2021 | ementa: Institui o Novo Programa Emergencial de Manutenção do Emprego e da Renda e dispõe sobre medidas complementares para o enfrentamento das consequências da emergência de saúde pública de importância internacional decorrente do coronavírus ( covid-19 ) no âmbito das relações de trabalho. NOVA EMENTA: Institui o Novo Programa Emergencial de Manutenção do Emprego e da Renda; dispõe s
+   voto principal do projeto: C:2279513-37 (2021-08-10): "" — Sim 117, Não 296
+C:2279513-37 | 2021-08-10 |  | Sim 117 Não 296 | resultado: rejected
+C:2279513-42 | 2021-08-10 |  | Sim 124 Não 308 | resultado: rejected
+C:2279513-56 | 2021-08-10 |  | Sim 125 Não 315 | resultado: rejected
+C:2279513-64 | 2021-08-10 | Votação, quanto ao mérito, em turno único. | Sim 304 Não 133 | resultado: approved
+C:2279513-75 | 2021-08-11 | Continuação da votação em turno único. | Sim 125 Não 322 | resultado: rejected
+C:2279513-90 | 2021-08-11 | Votação do DTQ 6: PT: destaque do Capítulo III do PLV apresentado à MP 1.045 (arts. 24 a 42) (art. 161, I) | Sim 278 Não 136 | resultado: ?
+C:2279513-93 | 2021-08-11 | Votação do DTQ 8: PSOL: destaque para votação em separado do Capítulo IV do Projeto de Lei de Conversão apresentado à Medida Provisória n. 1045, de 2021, para sua supressão. (art. 161, I) § 3º do art. 24. | Sim 269 Não 128 | resultado: ?
+C:2279513-96 | 2021-08-11 | Votação do DTQ 12: PSD: destaque do art. 52 do PLV, apresentado à Medida Provisória nº 1045/21. (art. 161, I). | Sim 284 Não 145 | resultado: ?
+C:2279513-102 | 2021-08-12 | Continuação da votação em turno único. | Sim 119 Não 302 | resultado: rejected
+C:2279513-106 | 2021-08-12 | Votação do DTQ 26: PSDB: Destaque para votação em separado da palavra “subsidiariamente” do inciso V, do art. 60, do PLV apresentado a MP 1045/2021. (art. 161, I). | Sim 2 Não 329 | resultado: ?
+C:2279513-109 | 2021-08-12 | Votação do DTQ 27: PT: destaque, com vistas à rejeição, do Capítulo V constante da Subemenda Substitutiva oferecida à MPV 1.045/2021. (art. 161, I). | Sim 296 Não 122 | resultado: ?
+C:2279513-112 | 2021-08-12 | Votação do DTQ 14: PSB: destaque do Art. 88 do PLV apresentado à MP 1045/21. (art. 161, I). | Sim 279 Não 130 | resultado: ?
+C:2279513-115 | 2021-08-12 | Votação do DTQ 24: PCdoB: Destaque do Art. 90 do PLV apresentado apresentado à MP 1045/2021. (com vistas a sua supressão) (art. 161, I). | Sim 275 Não 131 | resultado: ?
+C:2279513-118 | 2021-08-12 | Votação do DTQ 17: SOLIDARIEDADE: Emenda de Plenário nº 44 (art. 161, II). | Sim 134 Não 288 | resultado: rejected
+C:2279513-122 | 2021-08-12 | Votação do DTQ 16: PSB: Destaque para votação em separado do art. 627-A constante do art. 90 do PLV apresentado à Medida Provisória n. 1045/2021. (art. 161, I). | Sim 282 Não 124 | resultado: ?
+C:2279513-126 | 2021-08-12 | Votação do DTQ 20: PT: Emenda de Plenário nº 46 (art. 161, II). | Sim 136 Não 296 | resultado: rejected
+C:2279513-129 | 2021-08-12 | Votação do DTQ 1: Bloco PROS: Emenda de Comissão nº 4 (art. 161, II). | Sim 39 Não 405 | resultado: rejected
+
+## C:2279744 | PL 1613/2021 | ementa: Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para dispor sobre os processos de incorporação de tecnologias ao Sistema Único de Saúde (SUS) e sobre a utilização, pelo SUS, de medicamentos cuja indicação de uso seja distinta daquela aprovada no registro da Agência Nacional de Vigilância Sanitária (Anvisa).
+   voto principal do projeto: C:2279938-9 (2021-06-16): "" — Sim 310, Não 113
+C:2279938-9 | 2021-06-16 |  | Sim 310 Não 113 | resultado: approved
+C:2279744-42 | 2021-07-15 |  | Sim 120 Não 269 | resultado: rejected
+C:2279744-49 | 2021-07-15 |  | Sim 122 Não 249 | resultado: rejected
+C:2279744-54 | 2021-07-15 |  | Sim 138 Não 237 | resultado: rejected
+C:2279744-57 | 2021-07-15 | Votação em turno único. | Sim 277 Não 117 | resultado: approved
+C:2279744-84 | 2022-02-23 | Continuação da votação em turno único. | Sim 127 Não 301 | resultado: rejected
+C:2279744-86 | 2022-02-23 | Votação do DTQ 6: PODE: destaque para votação em separado do §3º do art. 19-Q inserido na Lei nº Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde) pelo art. 1º do Projeto de Lei nº 1613, de 2021 (art. 161, I). | Sim 417 Não 12 | resultado: ?
+C:2279744-89 | 2022-02-23 | Votação do DTQ 3: PT: destaque, com vistas à rejeição, do parágrafo único do artigo 19-T da Lei 8.080/1990, na redação dada pelo artigo 1º do PL 1.613/2021. (art. 161, I). | Sim 274 Não 174 | resultado: ?
+C:2279744-92 | 2022-02-23 | Votação do DTQ 1: PT: destaque, com vistas à rejeição, do inciso I do parágrafo único do artigo 19-T da Lei 8.080/1990, na redação dada pelo artigo 1º do PL 1.613/2021. (art. 161, I). | Sim 264 Não 174 | resultado: ?
+C:2279744-97 | 2022-02-23 | Votação do DTQ 2: PT: destaque, com vistas à rejeição, do inciso II do parágrafo único do artigo 19-T da Lei 8.080/1990, na redação dada pelo artigo 1º do PL 1.613/2021. (art. 161, I). | Sim 270 Não 173 | resultado: ?
+
+## C:2279750 | PL 1343/2021 | ementa: Dispõe sobre a autorização para que estruturas industriais destinadas à fabricação de produtos de uso veterinário sejam utilizadas na produção de vacinas contra a covid-19 no Brasil.
+   voto principal do projeto: C:2279750-39 (2021-06-15): "Votação em turno único." — Sim 450, Não 1
+C:2279750-39 | 2021-06-15 | Votação em turno único. | Sim 450 Não 1 | resultado: approved
+
+## C:2280241 | MPV 1047/2021 | ementa: Dispõe sobre as medidas excepcionais para a aquisição de bens e a contratação de serviços, inclusive de engenharia, e insumos destinados ao enfrentamento da pandemia da covid-19. NOVA EMENTA: Dispõe sobre medidas excepcionais para a aquisição de bens e de insumos e para a contratação de serviços, inclusive de engenharia, destinados ao enfrentamento da pandemia da Covid-19.
+   voto principal do projeto: C:2280241-26 (2021-08-25): "" — Sim 23, Não 319
+C:2280241-26 | 2021-08-25 |  | Sim 23 Não 319 | resultado: rejected
+C:2280241-44 | 2021-08-25 | Votação, quanto ao mérito, em turno único. | Sim 415 Não 11 | resultado: approved
+C:2280241-52 | 2021-08-25 | Votação do DTQ 7: CIDADANIA: Emenda de Comissão nº 7 (art. 161, II). | Sim 172 Não 262 | resultado: rejected
+C:2280241-57 | 2021-08-25 | Votação do DTQ 4: PT: destaque, com vistas à rejeição, do conectivo “ou” constante do inciso I do artigo 7º do PLV oferecido à MPV 1.047/2021. (art. 161, I). | Sim 306 Não 119 | resultado: ?
+C:2280241-60 | 2021-08-25 | Votação do DTQ 5: PT: Emenda de Comissão n. 43 (art. 161, II). | Sim 119 Não 297 | resultado: rejected
+C:2280241-63 | 2021-08-25 | Votação do DTQ 2: PSOL: destaque para votação em separado do art. 11 da Medida Provisória nº 1047, de 2021, para sua supressão. (art. 161, I). | Sim 275 Não 113 | resultado: ?
+C:2280241-66 | 2021-08-25 | Votação do DTQ 6: NOVO: Emenda de Comissão nº 50 (art. 161, II). | Sim 164 Não 240 | resultado: rejected
+
+## C:2280391 | PRC 35/2021 | ementa: Altera os arts. 9º, 10, 65, 66, 67, 84, 89, 117, 122, 155, 157, 161, 162, 163, 177, 178, 185, 186, 192 e 193 do Regimento Interno da Câmara dos Deputados, para reordenar o uso da palavra em sessão, dispor sobre o tempo de duração das sessões e outras providências.
+   voto principal do projeto: C:2280394-9 (2021-05-11): "" — Sim 336, Não 135
+C:2280394-9 | 2021-05-11 |  | Sim 336 Não 135 | resultado: approved
+
+## C:2280928 | PL 12/2021 | ementa: Altera a Lei nº 9.279, de 14 de maio de 1996, que regula direitos e obrigações relativos à propriedade industrial, para conceder licença compulsória para exploração de patentes de invenção ou de modelos de utilidade necessários ao enfrentamento de emergências de saúde pública. NOVA EMENTA: Altera a Lei nº 9.279, de 14 de maio de 1996, para dispor sobre a licença compulsória de 
+   voto principal do projeto: C:2287908-7 (2021-06-22): "" — Sim 441, Não 10
+C:2287908-7 | 2021-06-22 |  | Sim 441 Não 10 | resultado: approved
+C:2280928-62 | 2021-07-06 | Votação em turno único. | Sim 425 Não 15 | resultado: approved
+C:2280928-69 | 2021-07-06 | Votação do DTQ 3: PT: Emenda de Plenário n. 2 (art. 161, II). | Sim 104 Não 321 | resultado: rejected
+
+## C:2281272 | PRC 37/2021 | ementa: Institui na Câmara dos Deputados o Prêmio Paulo Gustavo de valorização do humor e da comédia.
+   voto principal do projeto: C:2301914-8 (2021-10-07): "" — Sim 303, Não 20
+C:2301914-8 | 2021-10-07 |  | Sim 303 Não 20 | resultado: approved
+
+## C:2282791 | PEC 10/2021 | ementa: Altera o inciso IV, § 2º, do art. 4º da Emenda Constitucional Nº 109, de 2021.
+   voto principal do projeto: C:2282791-60 (2021-11-30): "Votação em primeiro turno." — Sim 353, Não 9
+C:2282791-60 | 2021-11-30 | Votação em primeiro turno. | Sim 353 Não 9 | resultado: approved
+C:2282791-68 | 2021-11-30 | Votação em segundo turno. | Sim 333 Não 8 | resultado: approved
+
+## C:2283064 | MPV 1049/2021 | ementa: Cria a Autoridade Nacional de Segurança Nuclear e altera a Lei nº 4.118, de 27 de agosto de 1962, a Lei nº 6.189, de 16 de dezembro de 1974, a Lei nº 8.691, de 28 de julho de 1993, a Lei nº 9.765, de 17 de dezembro de 1998, a Lei nº 6.453, de 17 de outubro de 1977, e a Lei nº 10.308, de 20 de novembro de 2001 NOVA EMENTA: Cria a Autoridade Nacional de Segurança Nuclear (ANSN); 
+   voto principal do projeto: C:2283064-28 (2021-09-02): "" — Sim 95, Não 268
+C:2283064-28 | 2021-09-02 |  | Sim 95 Não 268 | resultado: rejected
+C:2283064-54 | 2021-09-02 | Votação do DTQ 4: PT: Emenda de Plenário 1 (art. 161, II). | Sim 110 Não 276 | resultado: rejected
+C:2283064-57 | 2021-09-02 | Votação do DTQ 6: PSOL: Destaque para votação em separado do §5º do art. 13 da Lei º 6.453, de 17 de outubro de 1977, na redação do art. 35 da Medida Provisória 1.049/2021, para sua supressão. (art. 161, I). | Sim 290 Não 116 | resultado: ?
+
+## C:2283432 | MPV 1050/2021 | ementa: Altera a Lei nº 7.408, de 25 de novembro de 1985, e a Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro. NOVA EMENTA: Altera as Leis nºs 7.408, de 25 de novembro de 1985, e 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre a fiscalização do excesso de peso dos veículos, e a Lei nº 10.209, de 23 de março de 2001; e dá outra
+   voto principal do projeto: C:2283432-38 (2021-09-01): "Votação, quanto ao mérito, em turno único." — Sim 423, Não 9
+C:2283432-38 | 2021-09-01 | Votação, quanto ao mérito, em turno único. | Sim 423 Não 9 | resultado: approved
+C:2283432-41 | 2021-09-01 | Votação do DTQ 3: PSOL: destaque para votação em separado do art. 1° do Projeto de Lei de Conversão apresentado à Medida Provisória nº 1.050, de 2021, para sua supressão. (art. 161, I). | Sim 392 Não 14 | resultado: ?
+C:2283432-45 | 2021-09-01 | Votação do DTQ 2: PCdoB: destaque para votação em separado do art. 3º da Lei nº 7.408, de 25 de novembro de 1985, com redação dada pelo art.1º do PLV e por decorrência o art. 2º-A da Lei nº 7.408, de 25 de novembro de 1985, com redação dada pelo art.1º do PLV e o art. 5º do PLV, apresentado a MP 1.050, de 2021, com vista a sua supressão. (art. 161, I). | Sim 335 Não 26 | resultado: ?
+
+## C:2283436 | MPV 1051/2021 | ementa: Institui o Documento Eletrônico de Transporte e altera a Lei nº 11.442, de 5 de janeiro de 2007, a Lei nº 13.703, de 8 de agosto de 2018, a Lei nº 10.209, de 23 de março de 2001, e a Lei nº 5.474, de 18 de julho de 1968. NOVA EMENTA: Institui o Documento Eletrônico de Transporte (DT-e); e altera as Leis nºs 11.442, de 5 de janeiro de 2007, 13.703, de 8 de agosto de 2018, 10.209
+C:2283436-57 | 2021-07-15 | Votação do DTQ 2: PT: Emenda de Plenário n. 2 (art. 161, II) | Sim 97 Não 240 | resultado: rejected
+C:2283436-58 | 2021-07-15 | Votação do DTQ 4: PT: destaque, com vistas à rejeição, do artigo 19 do PLV oferecido à MPV 1051/2021. (art. 161, I) | Sim 222 Não 86 | resultado: ?
+C:2283436-67 | 2021-07-15 | Votação do DTQ 3: PT: Emenda de Comissão n. 58 (art. 161, II) | Sim 105 Não 271 | resultado: rejected
+C:2283436-69 | 2021-07-15 | Votação do DTQ 8: REPUBLICANOS: destaque para votação em separado do art. 25, que altera o art. 42-A da Lei n.º 8.935/1994, constante do PLV apresentado à Medida Provisória 1.051, de 2021 (art. 161, I) | Sim 213 Não 179 | resultado: ?
+
+## C:2283448 | PL 1143/2021 | ementa: Altera a Lei nº 9.427, de 26 de dezembro de 1996, para criar mecanismo de redução de tarifas de energia elétrica para o consumidor.
+   voto principal do projeto: C:2325377-10 (2022-05-31): "" — Sim 371, Não 0
+C:2325377-10 | 2022-05-31 |  | Sim 371 Não 0 | resultado: approved
+C:2283448-52 | 2022-06-07 | Votação do DTQ 1: PSDB: destaque de preferência para votação PL 1280 de 2022. (art. 161, IV) | Sim 314 Não 0 | resultado: approved
+C:2283448-53 | 2022-06-07 | Votação em turno único. | Sim 303 Não 0 | resultado: approved

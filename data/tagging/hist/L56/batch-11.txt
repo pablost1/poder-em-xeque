@@ -1,0 +1,82 @@
+## C:2229308 | MPV 905/2019 | ementa: Institui o Contrato de Trabalho Verde e Amarelo, altera a legislação trabalhista, e dá outras providências.
+   voto principal do projeto: C:2229308-40 (2020-04-14): "" — Sim 35, Não 284
+C:2229308-40 | 2020-04-14 |  | Sim 35 Não 284 | resultado: rejected
+C:2229308-44 | 2020-04-14 |  | Sim 313 Não 21 | resultado: approved
+C:2229308-50 | 2020-04-14 | Votação em turno único. | Sim 15 Não 262 | resultado: rejected
+C:2229308-53 | 2020-04-14 | Votação em turno único. | Sim 13 Não 247 | resultado: rejected
+C:2229308-55 | 2020-04-14 | Votação preliminar em turno único. | Sim 337 Não 74 | resultado: approved
+C:2229308-56 | 2020-04-14 | Votação preliminar em turno único. | Sim 346 Não 23 | resultado: approved
+C:2229308-64 | 2020-04-14 | Votação da EMA 1: Bloco PP: Emenda Aglutinativa Global nº 1. | Sim 322 Não 153 | resultado: approved
+C:2229308-65 | 2020-04-14 | Votação da EMA 1: Bloco PP: Emenda Aglutinativa Global nº 1. | Sim 322 Não 153 | resultado: approved
+C:2229308-66 | 2020-04-14 | Votação do DTQ 98: PT: destaque, com vistas à rejeição, da expressão "naquilo que não for contrário ao disposto nesta Lei", do parágrafo único do art. 4º do Emenda Aglutinativa Global apresentada à MPV 905/2020. | Sim 334 Não 137 | resultado: ?
+C:2229308-70 | 2020-04-14 | Votação do DTQ 105: PSL: destaque do art. 6º do PLV apresentado à Medida Provisória n.º 905/2019, para fins de substituição ao artigo 6º da Emenda Aglutinativa Substitutiva Global aprovada na Medida Provisória n.º 905/2019. | Sim 248 Não 214 | resultado: approved
+C:2229308-71 | 2020-04-14 | Votação do DTQ 107: NOVO: destaque para a votação em separado do art. 7º da da Medida Provisória n.º 905/2019, para fins de substituição do artigo 7º da emenda aglutinativa substitutiva global aprovada na Medida Provisória n.º 905/2019. | Sim 124 Não 317 | resultado: ?
+C:2229308-75 | 2020-04-14 | Votação do DTQ 100: PDT: destaque para votação em separado do Parágrafo Único, do Art. 17 do PLV apresentado à MP 905/19, com finalidade de suprimi-lo. Art. 16 EA1. | Sim 292 Não 162 | resultado: ?
+C:2229308-77 | 2020-04-14 | Votação do DTQ 103: PCdoB: destaque do Art. 27 constante da Emenda Aglutinativa Substitutiva Global nº 1 apresentada Medida Provisória 905/2019. | Sim 304 Não 134 | resultado: ?
+C:2229308-80 | 2020-04-14 | Votação do DTQ 108: Republicanos: destaque, com vistas a sua supressão, do §4º do art. 8 do Decreto-Lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho), inserido pelo art. 27 do Emenda Aglutinativa Substitutiva Global nº 1 apresentada à Medida Provisória 905, de 2019. | Sim 275 Não 132 | resultado: ?
+C:2229308-83 | 2020-04-14 | Votação do DTQ 88: PSB: DESTAQUE PARA VOTAÇÃO EM SEPARADO artigo 224 da CLT, alterado pelo artigo 28 do projeto de lei de conversão apresentado à MP 905/19, com o objetivo de suprimi-lo. | Sim 260 Não 165 | resultado: ?
+C:2229308-89 | 2020-04-14 | Votação do DTQ 39: Bloco PP: Emenda 770. Art. 28 I , 8212 (ea 34). | Sim 291 Não 121 | resultado: approved
+C:2229308-92 | 2020-04-14 | Votação do DTQ 102: PSOL: destaque para votação em separado da alínea d, do inciso IV, do art. 21 da Lei nº 8.213 de 1991, alterado pelo art. 35 da emenda aglutinativa substitutiva global, oferecido à MPV nº 905 de 2019, para fins de supressão. | Sim 277 Não 151 | resultado: ?
+
+## C:2230815 | MPV 907/2019 | ementa: Altera a Lei nº 9.610, de 19 de fevereiro de 1998, para dispor sobre Direitos autorais, e a Lei nº 11.371, de 28 de novembro de 2006, e a Lei nº 12.249, de 11 de junho de 2010, para dispor sobre alíquotas do imposto sobre a renda incidentes sobre operações, autoriza o Poder Executivo federal a instituir a Embratur - Agência Brasileira de Promoção Internacional do Turismo e exti
+C:2230815-65 | 2020-04-27 | Votação do DTQ 11: PSL: Emenda de Plenário nº 17 (art. 161, II). art. 9º. | Sim 131 Não 277 | resultado: rejected
+C:2230815-71 | 2020-04-27 | Votação do DTQ 3: PCdoB: destaque do Art. 31, do PLV apresentado à MP 907/19. (com vistas a sua supressão) (161, I). | Sim 222 Não 232 | resultado: ?
+
+## C:2233488 | MPV 910/2019 | ementa: Altera a Lei nº 11.952, de 25 de junho de 2009, que dispõe sobre a regularização fundiária das ocupações incidentes em terras situadas em áreas da União, a Lei nº 8.666, de 21 de junho de 1993, que institui normas para licitações e contratos da administração pública, e a Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos.
+   voto principal do projeto: C:2233488-33 (2020-05-12): "" — Sim 163, Não 341
+C:2233488-33 | 2020-05-12 |  | Sim 163 Não 341 | resultado: rejected
+
+## C:2234001 | PLP 147/2019 | ementa: Altera a Lei Complementar n° 123, de 14 de dezembro de 2006 (Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte), para modificar a composição e o funcionamento do Comitê Gestor do Simples Nacional e ampliar o âmbito de aplicação de seu regime tributário, e a Lei n° 10.406, de 10 de janeiro de 2002 (Código Civil), para alterar a definição de empresário. NOVA EMENTA:
+   voto principal do projeto: C:2234001-59 (2021-11-17): "Votação em turno único." — Sim 389, Não 16
+C:2234001-59 | 2021-11-17 | Votação em turno único. | Sim 389 Não 16 | resultado: approved
+C:2234001-65 | 2021-11-17 | Votação do DTQ 2: PT: Emenda de Plenário n. 3 (art. 161, II) | Sim 118 Não 292 | resultado: rejected
+C:2234001-68 | 2021-11-17 | Votação do DTQ 1: PSD: Emenda de Plenário n. 6 (art. 161, II) | Sim 150 Não 263 | resultado: rejected
+C:2234001-69 | 2021-11-17 | Votação do DTQ 3: PSD: Emenda de Plenário n. 5 (art. 161, II) | Sim 201 Não 211 | resultado: rejected
+
+## C:2234707 | PL 6537/2019 | ementa: Dispõe sobre a criação da Procuradoria Regional da República da 6ª Região e dá outras providências.
+   voto principal do projeto: C:2260444-10 (2021-10-27): "" — Sim 339, Não 18
+C:2260444-10 | 2021-10-27 |  | Sim 339 Não 18 | resultado: approved
+C:2234707-53 | 2021-11-23 | Votação em turno único. | Sim 432 Não 5 | resultado: approved
+
+## C:2236213 | MPV 915/2019 | ementa: Aprimora os procedimentos de gestão e alienação dos imóveis da União. NOVA EMENTA: Aprimora os procedimentos de gestão e alienação dos imóveis da União; altera as Leis nºs 6.015, de 31 de dezembro de 1973, 9.636, de 15 de maio de 1998, 13.240, de 30 de dezembro de 2015, 13.259, de 16 de março de 2016, e 10.204, de 22 de fevereiro de 2001, e o Decreto-Lei nº 2.398, de 21 de deze
+   voto principal do projeto: C:2236213-24 (2020-04-29): "" — Sim 43, Não 271
+C:2236213-24 | 2020-04-29 |  | Sim 43 Não 271 | resultado: rejected
+C:2236213-50 | 2020-05-08 | Continuação da votação em turno único. | Sim 11 Não 383 | resultado: rejected
+
+## C:2236261 | MPV 919/2020 | ementa: Dispõe sobre o valor do salário mínimo a vigorar a partir de 1º de fevereiro de 2020. NOVA EMENTA: Dispõe sobre o valor do salário-mínimo a vigorar a partir de 1º de janeiro de 2020; e dá outras providências.
+C:2236261-46 | 2020-05-26 | Votação do DTQ 4: PCdoB: destaque da emenda de plenário 4 apresentada à MP 919/20. (161, II) | Sim 144 Não 285 | resultado: rejected
+C:2236261-56 | 2020-05-26 | Votação do DTQ 3: PT: Destaque para votação em separado da Emenda de Plenário n. 3, apresentada ao PLV oferecido à MPV 919. (161, II) | Sim 127 Não 307 | resultado: rejected
+
+## C:2236326 | CMC 1/2020 | ementa: Comunica os termos da decisão proferida pelo Ministro Celso de Mello nos autos da Petição n. 8.637. Suspensão cautelar do exercício do mandato do Senhor Deputado Wilson Santiago.
+   voto principal do projeto: C:2236326-12 (2020-02-05): "Votação preliminar sobre o quórum de maioria absoluta necessário à manutenção da Medida Cautelar nº 01, de 2020." — Sim 407, Não 5
+C:2236326-12 | 2020-02-05 | Votação preliminar sobre o quórum de maioria absoluta necessário à manutenção da Medida Cautelar nº 01, de 2020. | Sim 407 Não 5 | resultado: approved
+C:2236326-19 | 2020-02-05 | Votação do Parecer da Comissão de Constituição e Justiça e de Cidadania à Comunicação de Medida Cautelar nº 1/2020 - Ofício nº 7.007/2019, do Supremo Tribunal Federal. | Sim 233 Não 170 | resultado: approved
+
+## C:2236340 | PL 21/2020 | ementa: Estabelece princípios, direitos e deveres para o uso de inteligência artificial no Brasil, e dá outras providências. NOVA EMENTA: Estabelece fundamentos, princípios e diretrizes para o desenvolvimento e a aplicação da inteligência artificial no Brasil; e dá outras providências.
+   voto principal do projeto: C:2284777-7 (2021-07-06): "" — Sim 357, Não 3
+C:2284777-7 | 2021-07-06 |  | Sim 357 Não 3 | resultado: approved
+C:2236340-105 | 2021-09-29 | Votação em turno único. | Sim 413 Não 15 | resultado: approved
+C:2236340-109 | 2021-09-29 | Votação do DTQ 4: PT: Emenda de Plenário nº 2 (art. 161, II). | Sim 112 Não 268 | resultado: rejected
+C:2236340-116 | 2021-09-29 | Votação do DTQ 2: PT: Emenda de Plenário nº 3 (art. 161, II). | Sim 108 Não 276 | resultado: rejected
+C:2236340-80 | 2021-09-29 |  | Sim 59 Não 325 | resultado: rejected
+C:2236340-89 | 2021-09-29 |  | Sim 91 Não 343 | resultado: rejected
+
+## C:2236607 | PL 130/2020 | ementa: Altera a Lei n º 9.503, de 23 de setembro de 1997, para dispor sobre as sanções por divulgação, por parte do infrator, de condutas infracionais de risco praticadas por ele, nas redes sociais e outros meios de divulgação digitais, eletrônicos ou impressos. NOVA EMENTA: Veda a divulgação, a publicação ou a disseminação, em redes sociais ou em quaisquer outros meios de divulgação 
+   voto principal do projeto: C:2236607-77 (2021-09-28): "Votação em turno único." — Sim 443, Não 14
+C:2236607-77 | 2021-09-28 | Votação em turno único. | Sim 443 Não 14 | resultado: approved
+
+## C:2236765 | PL 191/2020 | ementa: Regulamenta o § 1º do art. 176 e o § 3º do art. 231 da Constituição para estabelecer as condições específicas para a realização da pesquisa e da lavra de recursos minerais e hidrocarbonetos e para o aproveitamento de recursos hídricos para geração de energia elétrica em terras indígenas e institui a indenização pela restrição do usufruto de terras indígenas.
+   voto principal do projeto: C:2317406-8 (2022-03-09): "" — Sim 279, Não 180
+C:2317406-8 | 2022-03-09 |  | Sim 279 Não 180 | resultado: approved
+
+## C:2236858 | PL 4731/2019 | ementa: Altera a Lei nº 6.088, de 16 de julho de 1974, para incluir a Bacia do Rio Araguari e demais bacias do Estado do Amapá, do Amazonas e do Pará na área de atuação da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (Codevasf). NOVA EMENTA: Altera a Lei nº 6.088, de 16 de julho de 1974, para incluir as bacias hidrográficas localizadas nos Estados de Pernambuco
+   voto principal do projeto: C:2236858-34 (2020-07-20): "" — Sim 21, Não 388
+C:2236858-34 | 2020-07-20 |  | Sim 21 Não 388 | resultado: rejected
+
+## C:2237331 | PLP 9/2020 | ementa: Possibilita aos que estão enquadrados no regime do Simples Nacional a adesão à transação tributária a ser tratada por Lei Federal. NOVA EMENTA: Autoriza celebração de transação resolutiva de litígio para os créditos da Fazenda Pública apurados na forma do Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte
+   voto principal do projeto: C:2237331-53 (2020-05-27): "Votação em turno único." — Sim 452, Não 0
+C:2237331-53 | 2020-05-27 | Votação em turno único. | Sim 452 Não 0 | resultado: approved
+
+## C:2237719 | PL 365/2020 | ementa: Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para incluir entidades filantrópicas no rol de exceções à aplicação da Lei Geral de Proteção de Dados Pessoais e estabelecer limite à aplicação de multa a essas entidades.
+   voto principal do projeto: C:2264253-10 (2021-09-21): "" — Sim 275, Não 145
+C:2264253-10 | 2021-09-21 |  | Sim 275 Não 145 | resultado: approved

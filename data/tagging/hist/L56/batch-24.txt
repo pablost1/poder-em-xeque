@@ -1,0 +1,66 @@
+## C:2270902 | MPV 1033/2021 | ementa: Altera a Lei nº 11.508, de 20 de julho de 2007, que dispõe sobre o regime tributário, cambial e administrativo das Zonas de Processamento de Exportação, para conceder tratamento à produção de oxigênio medicinal empregado em medidas de prevenção, controle e contenção de riscos, danos e agravos à saúde pública relacionados com a covid-19. NOVA EMENTA: Altera a Lei nº 11.508, de 2
+   voto principal do projeto: C:2270902-28 (2021-06-08): "" — Sim 115, Não 295
+C:2270902-28 | 2021-06-08 |  | Sim 115 Não 295 | resultado: rejected
+C:2270902-33 | 2021-06-08 |  | Sim 119 Não 310 | resultado: rejected
+C:2270902-44 | 2021-06-08 |  | Sim 103 Não 321 | resultado: rejected
+C:2270902-50 | 2021-06-08 | Votação do DTQ 1: PSOL: destaque de preferência para o texto original da Medida Provisória nº 1033 de 2021. (art. 161, IV) | Sim 106 Não 326 | resultado: rejected
+C:2270902-97 | 2021-06-23 | Votação em turno único. | Sim 116 Não 343 | resultado: rejected
+
+## C:2270971 | PL 534/2021 | ementa: Dispõe sobre a responsabilidade civil relativa a eventos adversos pós-vacinação contra a Covid-19 e sobre a aquisição e distribuição de vacinas por pessoas jurídicas de direito privado.
+C:2270971-60 | 2021-03-02 | Votação do DTQ 1: PCdoB: Destaque para votação em separado do parágrafo primeiro do art 2º do PL 534/2021. (art. 161, I) | Sim 361 Não 92 | resultado: ?
+
+## C:2271124 | MPV 1034/2021 | ementa: Altera a Lei nº 7.689, de 15 de dezembro de 1988, para majorar a alíquota da Contribuição Social sobre o Lucro Líquido devida pelas pessoas jurídicas do setor financeiro, a Lei nº 8.989, de 24 de fevereiro de 1995, para modificar a concessão da isenção relativa ao Imposto sobre Produtos Industrializados incidente na aquisição de automóveis por pessoa com deficiência, revoga a t
+   voto principal do projeto: C:2271124-27 (2021-06-02): "" — Sim 109, Não 344
+C:2271124-27 | 2021-06-02 |  | Sim 109 Não 344 | resultado: rejected
+C:2271124-34 | 2021-06-02 |  | Sim 94 Não 333 | resultado: rejected
+C:2271124-43 | 2021-06-02 |  | Sim 101 Não 349 | resultado: rejected
+C:2271124-46 | 2021-06-02 | Votação preliminar em turno único. | Sim 345 Não 97 | resultado: approved
+C:2271124-50 | 2021-06-02 | Votação preliminar em turno único. | Sim 295 Não 90 | resultado: approved
+C:2271124-59 | 2021-06-02 | Votação, quanto ao mérito, em turno único. | Sim 404 Não 13 | resultado: approved
+C:2271124-70 | 2021-06-02 | Votação do DTQ 3: PT: destaque, com vistas à rejeição, do inciso II do art. 3º da Lei nº 7.689/1988, constante do PLV à MPV 1034/2021. (art. 161, I) | Sim 122 Não 271 | resultado: ?
+C:2271124-73 | 2021-06-02 | Votação do DTQ 2: PT: destaque, com vistas à rejeição, do art. 6º do PLV à MPV 1034/2021 (art. 161, I) | Sim 291 Não 127 | resultado: ?
+C:2271124-76 | 2021-06-02 | Votação do DTQ 1: Bloco PSL (PP): Emenda de Comissão nº 28, (art. 161, II) | Sim 12 Não 404 | resultado: rejected
+C:2271124-108 | 2021-06-23 | Votação em turno único. | Sim 146 Não 304 | resultado: rejected
+C:2271124-111 | 2021-06-23 | Votação do DTQ 3: PT: Emenda do Senado Federal n. 1 (art. 161, II). | Sim 139 Não 291 | resultado: rejected
+C:2271124-117 | 2021-06-23 | Votação do DTQ 2: PT: Emenda do Senado Federal n. 2 (art. 161, II). | Sim 177 Não 293 | resultado: rejected
+C:2271124-123 | 2021-06-23 | Votação do DTQ 1: PT: Emenda do Senado Federal n. 3 (art. 161, II). | Sim 172 Não 284 | resultado: rejected
+
+## C:2272137 | PEC 186/2019 | ementa: Altera os arts. 29-A, 37, 49, 84, 163, 165, 167, 168 e 169 da Constituição Federal e os arts. 101 e 109 do Ato das Disposições Constitucionais Transitórias; acrescenta à Constituição Federal os arts. 164-A, 167-A, 167-B, 167-C, 167-D, 167-E, 167-F e 167-G; revoga dispositivos do Ato das Disposições Constitucionais Transitórias e institui regras transitórias sobre redução de ben
+   voto principal do projeto: C:2272137-28 (2021-03-09): "" — Sim 30, Não 346
+C:2272137-114 | 2021-03-09 | Votação, em primeiro turno, da PEC 186/2019, ressalvados os Destaques. | Sim 341 Não 121 | resultado: approved
+C:2272137-28 | 2021-03-09 |  | Sim 30 Não 346 | resultado: rejected
+C:2272137-36 | 2021-03-09 |  | Sim 13 Não 338 | resultado: rejected
+C:2272137-49 | 2021-03-09 |  | Sim 358 Não 76 | resultado: approved
+C:2272137-60 | 2021-03-09 | Votação, em turno único, do Parecer de admissibilidade da Proposta de Emenda à Constituição nº 186, de 2019. | Sim 366 Não 118 | resultado: approved
+C:2272137-76 | 2021-03-09 | Votação, em turno único, do Parecer de admissibilidade da Proposta de Emenda à Constituição nº 186, de 2019. | Sim 95 Não 292 | resultado: rejected
+C:2272137-99 | 2021-03-09 | Votação em primeiro turno. | Sim 123 Não 337 | resultado: rejected
+C:2272137-123 | 2021-03-10 | Continuação da votação em primeiro turno. | Sim 13 Não 307 | resultado: rejected
+C:2272137-125 | 2021-03-10 | Votação do DTQ 16: PSB: Destaque para votação em separado do art. 167 contido no art. 1º da PEC 186/2019, para sua supressão. (art. 161, I) | Sim 333 Não 135 | resultado: ?
+C:2272137-129 | 2021-03-10 | Votação do DTQ 4: PDT: Destaque para votação em separado do inciso IV do artigo 167, alterado pelo art. 1º da PEC 186, para que seja suprimido. (art. 161, I) | Sim 302 Não 178 | resultado: ?
+C:2272137-133 | 2021-03-10 | Votação do DTQ 14: PT: Destaque, com vistas à rejeição, do artigo 167-A da Constituição Federal, na redação dada pelo art. 1º da PEC 186/2019. | Sim 319 Não 181 | resultado: ?
+C:2272137-137 | 2021-03-10 | Votação do DTQ 12: PT: Destaque, com vistas à rejeição, do inciso I do artigo 167-A da CF, alterado pelo art. 1º da PEC 186/2019. (art. 161, I) | Sim 325 Não 165 | resultado: ?
+C:2272137-144 | 2021-03-10 | Continuação da votação em primeiro turno. | Sim 84 Não 260 | resultado: rejected
+C:2272137-147 | 2021-03-10 | Votação do DTQ 13: PSOL: Destaque para votação em separado da expressão “de servidores e empregados públicos e militares”, constante da alínea ‘a’ do inciso I do art. 167-A da Constituição Federal, constante do art. 1º da PEC 186 de 2019, com vistas à sua rejeição. (art. 161, I) | Sim 334 Não 162 | resultado: ?
+C:2272137-152 | 2021-03-10 | Votação do DTQ 5: Bloco NOVO (NOVO): Destaque para votação em separado da expressão “excetuadas aquelas que implicarem provimento de cargo ou emprego anteriormente ocupado por outro agente.” constante do art. 167-A, inciso II da Constituição Federal, alterada pela PEC 186/2019. (art. 161, I) | Sim 464 Não 19 | resultado: ?
+C:2272137-156 | 2021-03-10 | Votação do DTQ 9: PT: Destaque, com vistas à rejeição, do Artigo 109 do ADCT, na redação dada pelo art. 2º da PEC 186/2019. (art. 161, I) | Sim 322 Não 173 | resultado: ?
+C:2272137-159 | 2021-03-10 | Votação do DTQ 15: PSB: Destaque para votação em separado da expressão “aumento, reajuste ou adequação de remuneração” do inciso I do art. 109 do ADCT, contida no art 2º da PEC 186/2019, para sua supressão. (art. 161, I) | Sim 338 Não 153 | resultado: ?
+C:2272137-172 | 2021-03-10 | Continuação da votação em primeiro turno. | Sim 91 Não 260 | resultado: rejected
+C:2272137-174 | 2021-03-10 | Votação do DTQ 3: PDT: Destaque para votação em separado do § 1º do art. 3º, da PEC 186/19, para que seja suprimido. (art. 161, I). | Sim 345 Não 144 | resultado: ?
+C:2272137-177 | 2021-03-10 | Votação do DTQ 1: PCdoB: Destaque para votação em separado da expressão “até o limite de R$ 44.000.000.000,00 (quarenta e quatro bilhões de reais),” constante do § 1º do Art. 3º da PEC 186, de 2019, com vistas à sua supressão. (art. 161, I). | Sim 337 Não 151 | resultado: ?
+C:2272137-196 | 2021-03-11 |  | Sim 93 Não 278 | resultado: rejected
+C:2272137-215 | 2021-03-11 |  | Sim 113 Não 334 | resultado: rejected
+C:2272137-224 | 2021-03-11 | Votação em segundo turno. | Sim 366 Não 127 | resultado: approved
+C:2272137-231 | 2021-03-11 | Votação do DTQ 6: PT: Destaque, com vistas à rejeição, da alínea "e" do inciso VIII do art. 163 da CF, alterado pelo art. 1° da PEC 186/2019. (art. 161, I) | Sim 364 Não 125 | resultado: ?
+C:2272137-236 | 2021-03-11 | Votação do DTQ 12: PSB: Destaque, com vistas à rejeição, do artigo 167-A da Constituição Federal, contido no art. 1º da redação dada para o segundo turno da PEC 186/2019. (art. 161, I) | Sim 334 Não 150 | resultado: ?
+C:2272137-245 | 2021-03-11 | Votação do DTQ 4: PSOL: Destaque para votação em separado da expressão "de servidores e empregados públicos e militares", constante da alínea "a" do inciso I do art. 167-A da Constituição Federal, constante do art. 1º da PEC 186 de 2019, em segundo turno, com vistas à sua rejeição. (art. 161, I) | Sim 344 Não 150 | resultado: ?
+C:2272137-249 | 2021-03-11 | Votação do DTQ 2: Bloco PSL (PSC): Destaque para votação em separado do Inc. II do art. 167-A da Constituição Federal e, por decorrência, do § 5º do mesmo artigo, na redação dada pelo art. 1º da PEC 186/2019, para suprimi-los. (art. 161, I) | Sim 18 Não 444 | resultado: ?
+C:2272137-253 | 2021-03-11 | Votação do DTQ 7: PT: Destaque, com vistas à rejeição, do artigo 169 da CF, na redação dada pelo art. 1º da PEC 186/2019. (art. 161, I) | Sim 351 Não 132 | resultado: ?
+C:2272137-254 | 2021-03-11 | Votação do DTQ 13: PSB: Destaque, com vistas à rejeição, do art. 109 do ADCT contido no art. 2º da redação dada para o segundo turno da PEC 186/2019. (art. 161, I) | Sim 337 Não 145 | resultado: ?
+C:2272137-259 | 2021-03-11 | Votação do DTQ 3: Bloco PSL (PP): Destaque para votação em separado do § 5º e, por decorrência, do § 6º do art. 109 do Ato das Disposições Constitucionais Transitórias, constante do art. 2º da PEC nº 186 de 2019, com vistas a sua supressão em segundo turno. (art. 161, I) | Sim 24 Não 462 | resultado: ?
+C:2272137-263 | 2021-03-11 | Votação do DTQ 1: PCdoB: Destaque para votação em separado da expressão "até o limite de R$ 44.000.000.000,00 (quarenta e quatro bilhões de reais)", constante do § 1º do art. 3º da PEC 186, de 2019, ao segundo turno, com vistas à sua supressão. (art. 161, I) | Sim 338 Não 143 | resultado: ?
+C:2272137-266 | 2021-03-11 | Votação do DTQ 9: PDT: Destaque para votação em separado do artigo 4° da PEC 186/19, com fins de sua supressão. (art. 161, I) | Sim 352 Não 134 | resultado: ?
+C:2272137-269 | 2021-03-11 | Votação do DTQ 8: PT: Destaque, com vistas à rejeição, do artigo 5º da PEC 186/2019. (art. 161, I) | Sim 356 Não 131 | resultado: ?
+
+## C:2272154 | PL 741/2021 | ementa: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940, a Lei nº 8.072, de 25 de julho de 1990, e a Lei nº 11.340, de 7 de agosto de 2006, para dispor sobre medidas de combate à violência contra a mulher, e cria o Programa de Cooperação “Sinal Vermelho Contra a Violência Doméstica”. NOVA EMENTA: Define o programa de cooperação Sinal Vermelho contra a Violência Doméstica como u
+   voto principal do projeto: C:2273570-9 (2021-03-18): "" — Sim 364, Não 57
+C:2273570-9 | 2021-03-18 |  | Sim 364 Não 57 | resultado: approved

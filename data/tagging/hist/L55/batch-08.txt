@@ -1,0 +1,70 @@
+## C:2188690 | MSC 703/2018 | ementa: Submete à apreciação do Congresso Nacional o texto do decreto nº 9.602, de 8 de dezembro de 2018, publicado no Diário Oficial da União do dia 10 de dezembro de 2018, que "Decreta intervenção federal no Estado de Roraima com o objetivo de pôr termo a grave comprometimento da ordem pública".
+   voto principal do projeto: C:2188690-32 (2018-12-11): "Votação em turno único." — Sim 290, Não 69
+C:2188690-32 | 2018-12-11 | Votação em turno único. | Sim 290 Não 69 | resultado: approved
+
+## C:267841 | PL 30/2015 | ementa: Dispõe sobre o contrato de prestação de serviço a terceiros e as relações de trabalho dele decorrentes. NOVA EMENTA: Dispõe sobre os contratos de terceirização e as relações de trabalho deles decorrentes.
+   voto principal do projeto: C:590796-11 (2015-04-07): "" — Sim 316, Não 166
+C:590796-11 | 2015-04-07 |  | Sim 316 Não 166 | resultado: approved
+C:267841-185 | 2015-04-08 | Votação em turno único. DCD 09 04 15 PAG 287 COL 01. | Sim 324 Não 137 | resultado: approved
+C:267841-205 | 2015-04-14 | Votação da expressão "às empresas públicas, às sociedades de economia mista e a suas subsidiárias e controladas, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.", constante do §1º do art. 1º da Subemenda Substitutiva Global ao Projeto de Lei nº 4.330 de 2004, objeto do Destaque para votação em separado da bancada do PSDB. | Sim 47 Não 360 | resultado: rejected
+C:267841-230 | 2015-04-22 | Votação da Emenda Aglutinativa nº 15, resultante da fusão do § 2º do art. 1º do Substitutivo apresentado ao PL nº 4.330/2004, do art. 13 do Projeto de Lei nº 4.330/2004 e das Emendas de Plenário nºs 7, 55 (art. 14) e 61 com o texto da Subemenda Substitutiva Global. | Sim 230 Não 203 | resultado: approved
+C:267841-238 | 2015-04-22 | Votação da Emenda Aglutinativa nº 18, resultante da fusão da Emenda nº 22 com o texto da Subemenda Substitutiva Global. | Sim 257 Não 38 | resultado: approved
+
+## C:298878 | PEC 457/2005 | ementa: Altera o art. 40 da Constituição Federal, relativo ao limite de idade para a aposentadoria compulsória do servidor público em geral, e acrescenta dispositivo ao Ato das Disposições Constitucionais Transitórias.
+   voto principal do projeto: C:298878-276 (2015-03-04): "Votação em primeiro turno." — Sim 18, Não 319
+C:298878-276 | 2015-03-04 | Votação em primeiro turno. | Sim 18 Não 319 | resultado: rejected
+C:298878-277 | 2015-03-04 | Votação em primeiro turno. | Sim 318 Não 131 | resultado: approved
+C:298878-340 | 2015-05-05 | Votação em segundo turno. | Sim 333 Não 144 | resultado: approved
+C:298878-343 | 2015-05-05 | Votação do art. 2º da Proposta de Emenda à Constituição nº 457 de 2005, objeto do destaque da bancada do PT. | Sim 350 Não 125 | resultado: approved
+
+## C:327891 | PL 2905/2022 | ementa: Altera a Lei nº 7.210, de 11 de julho de 1984, Lei de Execução Penal, e a Lei nº 10.792, de 1º de dezembro de 2003, para criar o regime penitenciário de segurança máxima. NOVA EMENTA: Altera as Leis nºs 7.210, de 11 de julho de 1984 (Lei de Execução Penal), 9.472, de 16 de julho de 1997 (Lei Geral de Telecomunicações), 10.792, de 1º de dezembro de 2003, e 8.072, de 25 de julho 
+   voto principal do projeto: C:2160639-11 (2018-11-27): "" — Sim 291, Não 8
+C:2160639-11 | 2018-11-27 |  | Sim 291 Não 8 | resultado: approved
+
+## C:327895 | PL 7224/2006 | ementa: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para impedir a concessão de livramento condicional nos casos de reincidência em crime doloso apenado com reclusão. NOVA EMENTA: Altera o art. 83 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, de modo a tornar mais rigorosos os requisitos necessários ao deferimento do livramento condiciona
+   voto principal do projeto: C:1050840-6 (2015-03-24): "" — Sim 373, Não 20
+C:1050840-6 | 2015-03-24 |  | Sim 373 Não 20 | resultado: approved
+
+## C:33550 | PRC 190/2001 | ementa: Suprime o art. 105 do Regimento Interno, que trata do arquivamento das proposições ao final da legislatura. NOVA EMENTA: Altera os arts. 105 e 143 do Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 21 de setembro de 1989, para dispor sobre o arquivamento de proposições, a recedência na tramitação conjunta e outras providências.
+   voto principal do projeto: C:2127235-6 (2017-06-06): "" — Sim 291, Não 29
+C:2127235-6 | 2017-06-06 |  | Sim 291 Não 29 | resultado: approved
+
+## C:339287 | PEC 38/2015 | ementa: Dá nova redação ao parágrafo 1º do art. 58 da Constituição Federal. NOVA EMENTA: Dá nova redação ao § 1º do art. 58 da Constituição Federal, para garantir a representação proporcional de cada sexo na composição das Mesas e Comissões do Congresso Nacional, da Câmara dos Deputados e do Senado Federal.
+   voto principal do projeto: C:339287-77 (2015-03-10): "Votação em primeiro turno." — Sim 452, Não 2
+C:339287-77 | 2015-03-10 | Votação em primeiro turno. | Sim 452 Não 2 | resultado: approved
+C:339287-98 | 2015-03-24 | Votação em segundo turno. | Sim 441 Não 5 | resultado: approved
+
+## C:339407 | PL 7699/2006 | ementa: Institui o Estatuto do Portador de Deficiência e dá outras providências. NOVA EMENTA: Institui a Lei Brasileira da Inclusão da Pessoa com Deficiência; altera as Leis nºs 4.737, de 15 de julho de 1965, 7.853, de 24 de outubro de 1989, 8.036, de 11 de maio de 1990, 8.078, de 11 de setembro de 1990, 8.213, de 24 de julho de 1991, 8.313, de 23 de dezembro de 1991, 8.429, de 2 de ju
+C:339407-302 | 2015-03-05 | Votação do inciso VI do § 4º do art. 18 da Subemenda Substitutiva, objeto do Destaque para votação em separado da bancada do Bloco PRB, PTN, PMN, PRP, PSDC, PRTB, PTC, PSL, PTdoB. | Sim 188 Não 174 | resultado: approved
+
+## C:340812 | PRC 8/2007 | ementa: Cria, no âmbito da Câmara dos Deputados, a Comissão da Mulher, do Idoso, da Criança e do Adolescente, da Juventude e Minorias.
+   voto principal do projeto: C:340812-195 (2016-04-27): "Votação do Substitutivo adotado pela Mesa Diretora ao Projeto de Resolução nº 8 de 2007." — Sim 221, Não 167
+C:340812-186 | 2016-04-27 | Votação do Destaque de Bancada do PT, que solicita preferência para votação da Emenda de Plenário nº 3 ao Projeto de Resolução nº 8 de 2007 / DTQ 9. | Sim 73 Não 290 | resultado: rejected
+C:340812-195 | 2016-04-27 | Votação do Substitutivo adotado pela Mesa Diretora ao Projeto de Resolução nº 8 de 2007. | Sim 221 Não 167 | resultado: approved
+C:340812-203 | 2016-04-27 | Votação do artigo 3º do Substitutivo do Projeto de Resolução nº 8, de 2007, objeto do destaque da Bancada do PSOL / DTQ 3. | Sim 267 Não 119 | resultado: approved
+C:340812-205 | 2016-04-27 | Votação da alínea "t" do inciso XVII, do art. 32 do Regimento Interno da Câmara dos Deputados, alterado pelo art. 3º do Substitutivo ao PRC 8/07, objeto do destaque para votação em separado da Bancada do PT / DTQ 13 | Sim 276 Não 107 | resultado: approved
+C:340812-208 | 2016-04-27 | Votação da expressão "ao nascituro" constante da alínea "t" do inciso XVII do artigo 32 do Regimento Interno da Câmara dos Deputados, alterado pelo artigo 3º do Substitutivo ao PRC 8/07, objeto do destaque para votação em separado do Bloco Parlamentar PP, PTB, PSC – DTQ 11 | Sim 259 Não 122 | resultado: approved
+
+## C:344866 | PLP 25/2007 | ementa: Dá nova redação ao caput do art. 79 da Lei Complementar nº 123, de 14 de dezembro de 2006.
+   voto principal do projeto: C:344866-249 (2016-10-04): "Votação em turno único." — Sim 380, Não 0
+C:344866-173 | 2015-09-01 | Votação da Emenda Aglutinativa Substitutiva nº 1, ressalvados os destaques. | Sim 417 Não 2 | resultado: approved
+C:344866-190 | 2015-09-02 | Votação da expressão "com produção artesanal", constante no art. 17, inciso X, letra 'b', item 1, da Lei Complementar nº 123 de 2006, alterado pelo artigo 1º da Subemenda Substitutiva de Plenário apresentada ao PLP 25/07, com a finalidade de supressão, objeto do destaque para votação em separado da bancada do Bloco Parlamentar PMDB, PP, PTB, PSC, PHS, PEN - DTQ 6 | Sim 210 Não 171 | resultado: rejected
+C:344866-192 | 2015-09-02 | Votação da Emenda de Plenário nº 10, objeto do destaque para votação em separado da bancada do Bloco Parlamentar PMDB, PP, PTB, PSC, PHS, PEN - DTQ 7. | Sim 344 Não 73 | resultado: approved
+C:344866-198 | 2015-09-02 | Votação do art. 9º da Emenda Aglutinativa Substitutiva Global de Plenário, objeto do destaque para votação em separado da bancada do PSDB - DTQ 13. | Sim 389 Não 28 | resultado: approved
+C:344866-249 | 2016-10-04 | Votação em turno único. | Sim 380 Não 0 | resultado: approved
+C:344866-251 | 2016-10-04 | Votação dos itens com parecer pela rejeição: a) inciso XVII, constante do rol do § 5°-B da Lei Complementar 123 de 2006, elencado no inciso I, do § 5°-M do artigo 18 do Substitutivo do Senado Federal; b) inciso II, § 5°-M, do artigo 18, constante do artigo 1° do Substitutivo do Senado Federal; e c) inciso II, do §3º do artigo 9°, do Substitutivo do Senado Federal | Sim 8 Não 358 | resultado: rejected
+
+## C:351362 | PL 119/2015 | ementa: Dispõe sobre o combate a práticas tradicionais nocivas e à proteção dos direitos fundamentais de crianças indígenas, bem como pertencentes a outras sociedades ditas não tradicionais.
+C:351362-117 | 2015-08-26 | Votação da Subemenda Substitutiva Global de Plenário apresentada ao Projeto de Lei nº 1.057 de 2007, ressalvados os destaques. | Sim 361 Não 84 | resultado: approved
+
+## C:353631 | PL 2914/2022 | ementa: Disciplina a atividade de "lobby" e a atuação dos grupos de pressão ou de interesse e assemelhados no âmbito dos órgãos e entidades da Administração Pública Federal, e dá outras providências. NOVA EMENTA: Dispõe sobre a representação de interesse realizada por pessoas naturais ou jurídicas perante agentes públicos com o fim de efetivar as garantias constitucionais, a transparên
+   voto principal do projeto: C:2077691-20 (2017-12-19): "" — Sim 273, Não 9
+C:2077691-20 | 2017-12-19 |  | Sim 273 Não 9 | resultado: approved
+
+## C:356194 | PLP 76/2007 | ementa: Modifica o art. 2º da Lei Complementar nº 125, de 2007. NOVA EMENTA: Altera o art. 2º da Lei Complementar nº 125, de 3 de janeiro de 2007, para incluir os Municípios do Vale do Rio Doce, Estado de Minas Gerais, e Municípios do Estado do Espírito Santo na área de atuação da Superintendência do Desenvolvimento do Nordeste (Sudene).
+   voto principal do projeto: C:2077978-49 (2017-09-04): "" — Sim 291, Não 5
+C:2077978-49 | 2017-09-04 |  | Sim 291 Não 5 | resultado: approved
+
+## C:358034 | PL 1462/2007 | ementa: Obriga, nas hipóteses que especifica, a veiculação de mensagens de advertência sobre o risco de escassez e de incentivo ao consumo moderado de água.
+   voto principal do projeto: C:818166-6 (2015-09-09): "" — Sim 270, Não 15
+C:818166-6 | 2015-09-09 |  | Sim 270 Não 15 | resultado: approved

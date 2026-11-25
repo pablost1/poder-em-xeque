@@ -1,0 +1,24 @@
+PODER EM XEQUE
+==============
+
+Como votam deputados federais e senadores do Brasil, a partir dos dados abertos da Câmara e do Senado.
+Projeto independente, sem vínculo com o Governo Federal. O perfil de votação é uma interpretação, não uma nota oficial
+(veja a página "Metodologia" dentro do site).
+
+COMO USAR
+  1. Abra "Poder em Xeque" no Menu Iniciar (ou execute Iniciar.bat nesta pasta).
+  2. O navegador abre em http://127.0.0.1:3200. Deixe a janela preta aberta enquanto usa o site.
+  3. Para encerrar, feche a janela ou use "Parar o Poder em Xeque".
+
+O site roda só no seu computador (endereço 127.0.0.1) e não envia nada para a internet.
+Os links "oficiais" dentro das páginas abrem os sites da Câmara e do Senado.
+
+DADOS
+  Os dados ficam em data\congresso.db e foram coletados até a data mostrada no rodapé do site.
+  Esta versão não se atualiza sozinha: para dados novos, instale uma versão mais recente.
+
+PROBLEMAS
+  - "Porta em uso": outro programa usa a porta 3200. Execute Parar.bat e tente de novo.
+  - O Windows pode pedir permissão de rede na primeira vez; pode negar, o site funciona só localmente.
+
+Licença do código: MIT (arquivo LICENSE).

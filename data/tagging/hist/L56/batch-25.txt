@@ -1,0 +1,91 @@
+## C:2273453 | PL 813/2021 | ementa: Dispõe sobre a transformação de cargos de Técnico do Ministério Público da União, em cargos de Procurador de Justiça, no âmbito do Ministério Público do Distrito Federal e Territórios, sem aumento de despesas. NOVA EMENTA: Dispõe sobre a transformação de cargos de Técnico do Ministério Público da União em cargos de Procurador de Justiça e nos cargos em comissão que especifica, 
+   voto principal do projeto: C:2284912-20 (2021-08-26): "" — Sim 305, Não 122
+C:2284912-20 | 2021-08-26 |  | Sim 305 Não 122 | resultado: approved
+C:2273453-40 | 2021-09-21 |  | Sim 100 Não 257 | resultado: rejected
+C:2273453-49 | 2021-09-21 |  | Sim 90 Não 280 | resultado: rejected
+C:2273453-62 | 2021-09-21 |  | Sim 97 Não 329 | resultado: rejected
+C:2273453-64 | 2021-09-21 | Votação em turno único. | Sim 304 Não 109 | resultado: approved
+C:2273453-69 | 2021-09-21 | Votação das Emendas de Plenário, com parecer pela rejeição, ressalvados os destaques. | Sim 102 Não 322 | resultado: rejected
+C:2273453-73 | 2021-09-21 | Votação do DTQ 1: PSOL: Destaque para votação em separado da expressão “e nos cargos em comissão constantes do Anexo desta Lei”, constante do art. 1° do Projeto de Lei n. 813, de 2021, para sua supressão. (art. 161, I) | Sim 313 Não 123 | resultado: ?
+C:2273453-79 | 2021-09-21 | Votação do DTQ 2: PT: Emenda de Plenário n. 3 (art. 161, II) | Sim 108 Não 300 | resultado: rejected
+C:2273453-83 | 2021-09-21 | Votação do DTQ 3: PT: Emenda de Plenário n. 2 (art. 161, II) | Sim 107 Não 275 | resultado: rejected
+
+## C:2274204 | PL 948/2021 | ementa: Altera a redação do art. 2º da Lei nº 14.125, de 10 de março de 2021, que dispõe sobre a aquisição e distribuição de vacinas por pessoas jurídicas de direito privado. NOVA EMENTA: Altera o art. 2º da Lei nº 14.125, de 10 de março de 2021, para estabelecer regras de aquisição e doação de vacinas por pessoas jurídicas de direito privado.
+   voto principal do projeto: C:2274204-47 (2021-04-06): "" — Sim 110, Não 315
+C:2274204-101 | 2021-04-06 | Votação do DTQ 9: PSB: Emenda de Plenário n. 17 (art. 161, II) | Sim 128 Não 332 | resultado: rejected
+C:2274204-104 | 2021-04-06 | Votação do DTQ 4: PDT: destaque para votação em separado do inciso II do art. 2º da Lei no 14.125, de 10 de março de 2021, contido na redação do art. 1 do substitutivo apresentado ao PL 948/21, para que seja suprimido (art. 161, I) | Sim 296 Não 117 | resultado: ?
+C:2274204-110 | 2021-04-06 | Votação do DTQ 11: PSOL: emenda de plenário nº 19 (art. 161, II) | Sim 124 Não 319 | resultado: rejected
+C:2274204-47 | 2021-04-06 |  | Sim 110 Não 315 | resultado: rejected
+C:2274204-57 | 2021-04-06 |  | Sim 108 Não 297 | resultado: rejected
+C:2274204-67 | 2021-04-06 |  | Sim 343 Não 117 | resultado: approved
+C:2274204-81 | 2021-04-06 | Votação em turno único. | Sim 114 Não 316 | resultado: rejected
+C:2274204-85 | 2021-04-06 | Votação em turno único. | Sim 116 Não 324 | resultado: rejected
+C:2274204-88 | 2021-04-06 | Votação em turno único da Subemenda Substitutiva Global adotada pela Relatora da Comissão de Seguridade Social e Família. | Sim 317 Não 120 | resultado: approved
+C:2274204-97 | 2021-04-06 | Votação do DTQ 3: PT: Emenda de Plenário n. 5 (art. 161, II) | Sim 118 Não 295 | resultado: rejected
+C:2276120-16 | 2021-04-06 |  | Sim 316 Não 116 | resultado: approved
+C:2274204-137 | 2021-04-07 | Continuação da votação em turno único. | Sim 114 Não 306 | resultado: rejected
+C:2274204-149 | 2021-04-07 | Votação do DTQ 1: PT: Emenda de Plenário nº 2 (art. 161, II) | Sim 144 Não 285 | resultado: rejected
+C:2274204-151 | 2021-04-07 | Votação do DTQ 6: PSB: Emenda de Plenário nº 12 (art. 161, II) | Sim 124 Não 287 | resultado: rejected
+C:2274204-155 | 2021-04-07 | Votação do DTQ 8: Bloco PSL (PL): Emenda de Plenário nº 16 (art. 161, II) | Sim 133 Não 322 | resultado: rejected
+
+## C:2275102 | PL 1026/2021 | ementa: Determina que o índice de correção dos contratos de locação residencial e comercial não poderá ser superior ao índice oficial de inflação do País – IPCA.
+   voto principal do projeto: C:2275192-9 (2021-04-07): "" — Sim 402, Não 54
+C:2275192-9 | 2021-04-07 |  | Sim 402 Não 54 | resultado: approved
+
+## C:2275255 | PLP 10/2021 | ementa: Altera a Lei Complementar nº 172, de 15 de abril de 2020, e a Lei nº 14.029, de 28 de julho de 2020, para conceder prazo para que os Estados, o Distrito Federal e os Municípios executem atos de transposição e de transferência e atos de transposição e de reprogramação, respectivamente; altera a Lei Complementar nº 156, de 28 de dezembro de 2016, para conceder prazo adicional par
+C:2275255-51 | 2021-03-31 | Votação em turno único da Subemenda Substitutiva Global adotada pelo Relator da Comissão de Trabalho, de Administração e Serviço Público. | Sim 433 Não 3 | resultado: approved
+C:2275255-59 | 2021-03-31 | Votação do DTQ 1: NOVO: Destaque para votação em separado do Art. 4º do PLP 10/2021, com vistas à sua supressão. (art. 161, I) | Sim 385 Não 26 | resultado: ?
+C:2275255-63 | 2021-03-31 | Votação do DTQ 4: PT: Emenda do Plenário nº 5 (art. 161, II) | Sim 116 Não 320 | resultado: rejected
+C:2275255-67 | 2021-03-31 | Votação do DTQ 3: PT: Emenda do Plenário nº 2 (art. 161, II) | Sim 122 Não 334 | resultado: rejected
+
+## C:2275537 | PEC 5/2021 | ementa: Altera artigo 130-A da Constituição Federal no que trata da composição do Conselho Nacional do Ministério Público e dá outras providências.
+   voto principal do projeto: C:2275537-86 (2021-10-07): "" — Sim 197, Não 216
+C:2275537-86 | 2021-10-07 |  | Sim 197 Não 216 | resultado: rejected
+C:2275537-102 | 2021-10-14 |  | Sim 147 Não 279 | resultado: rejected
+C:2275537-95 | 2021-10-14 |  | Sim 145 Não 214 | resultado: rejected
+C:2275537-117 | 2021-10-20 | Votação em primeiro turno. | Sim 126 Não 316 | resultado: rejected
+C:2275537-122 | 2021-10-20 | Votação em primeiro turno. | Sim 128 Não 344 | resultado: rejected
+C:2275537-128 | 2021-10-20 | Votação em primeiro turno. | Sim 297 Não 182 | resultado: rejected
+
+## C:2275723 | PL 1100/2021 | ementa: Dispõe sobre a isenção de Imposto de Renda e dispensa de carência previdenciária para pessoas acometidas por sequelas da COVID-19, alterando a Lei nº 7.713, de 22 de dezembro de 1988 e a Lei nº 8.213, de 24 de julho de 1991. NOVA EMENTA: Altera as Leis nºs 7.713, de 22 de dezembro de 1988, e 8.213, de 24 de julho de 1991, para conceder isenção de imposto sobre a renda e dispens
+   voto principal do projeto: C:2275723-79 (2021-09-22): "Votação em turno único." — Sim 438, Não 31
+C:2275723-79 | 2021-09-22 | Votação em turno único. | Sim 438 Não 31 | resultado: approved
+
+## C:2275840 | MPV 1040/2021 | ementa: Dispõe sobre a facilitação para abertura de empresas, a proteção de acionistas minoritários, a facilitação do comércio exterior, o Sistema Integrado de Recuperação de Ativos, as cobranças realizadas pelos conselhos profissionais, a profissão de tradutor e intérprete público, a obtenção de eletricidade e a prescrição intercorrente na Lei nº 10.406, de 10 de janeiro de 2002 - Cód
+   voto principal do projeto: C:2275840-125 (2021-08-05): "" — Sim 14, Não 413
+C:2275840-89 | 2021-06-23 | Votação do DTQ 21: DEM: Emenda de Plenário nº 21 (art. 161, II) | Sim 12 Não 400 | resultado: rejected
+C:2275840-125 | 2021-08-05 |  | Sim 14 Não 413 | resultado: rejected
+
+## C:2276475 | PL 1208/2021 | ementa: Cria o Programa Pró-Pesquisa-Covid-19 enquanto durar a emergência de saúde pública decorrente da pandemia de Covid-19. NOVA EMENTA: Cria o Programa Prioritário Pró-Pesquisa Covid-19 enquanto perdurar a emergência de saúde pública decorrente da pandemia da Covid-19.
+   voto principal do projeto: C:2278599-8 (2021-05-05): "" — Sim 344, Não 78
+C:2278599-8 | 2021-05-05 |  | Sim 344 Não 78 | resultado: approved
+C:2276475-58 | 2021-06-15 | Votação em turno único. | Sim 412 Não 9 | resultado: approved
+C:2276475-67 | 2021-06-15 | Votação do DTQ 7: PT: Emenda de plenário n° 13 (art. 161, II). | Sim 119 Não 289 | resultado: rejected
+
+## C:2276547 | PDL 146/2021 | ementa: Aprova o texto do Acordo entre a República Federativa do Brasil e o Grão-Ducado de Luxemburgo sobre Serviços Aéreos, assinado em Brasília, em 22 de novembro de 2018
+   voto principal do projeto: C:2276547-54 (2021-09-30): "Votação em turno único." — Sim 381, Não 1
+C:2276547-54 | 2021-09-30 | Votação em turno único. | Sim 381 Não 1 | resultado: approved
+
+## C:2277242 | PL 1295/2021 | ementa: Autoriza a administração pública direta e indireta de todos os entes da Federação, na constância da Emergência em Saúde Pública de Importância Nacional declarada em decorrência da infecção humana pelo novo coronavírus (SARS-CoV-2), a celebrar contratos ou outros instrumentos congêneres, com dispensa de licitação, para a aquisição de insumos e medicamentos de eficácia comprovada
+C:2277242-56 | 2021-04-29 | Votação do DTQ 3: CIDADANIA: Destaque para votação em separado do § 2º do art. 5º do Substitutivo (art. 161, I) | Sim 200 Não 188 | resultado: ?
+
+## C:2277346 | PL 488/2021 | ementa: Altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), para vedar o emprego de técnicas de arquitetura hostil em espaços livres de uso público – Lei Padre Júlio Lancelotti. NOVA EMENTA: Altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), para vedar o emprego de técnicas construtivas hostis em espaços livres de uso público - Lei Padre Júlio Lancelo
+   voto principal do projeto: C:2338971-8 (2022-11-22): "" — Sim 342, Não 16
+C:2338971-8 | 2022-11-22 |  | Sim 342 Não 16 | resultado: approved
+
+## C:2278161 | MPV 1042/2021 | ementa: Simplifica a gestão de cargos em comissão e de funções de confiança, autoriza o Poder Executivo federal a transformar, sem aumento de despesa, cargos em comissão, funções de confiança e gratificações, prevê os Cargos Comissionados Executivos - CCE e as Funções Comissionadas Executivas - FCE e altera a Lei nº 13.844, de 18 de junho de 2019, para dispor sobre secretarias. NOVA EM
+   voto principal do projeto: C:2278161-34 (2021-08-17): "" — Sim 87, Não 202
+C:2278161-34 | 2021-08-17 |  | Sim 87 Não 202 | resultado: rejected
+C:2278161-51 | 2021-08-17 | Votação preliminar em turno único. | Sim 285 Não 126 | resultado: approved
+C:2278161-55 | 2021-08-17 | Votação preliminar em turno único. | Sim 302 Não 130 | resultado: approved
+C:2278161-58 | 2021-08-17 | Votação, quanto ao mérito, em turno único. | Sim 309 Não 128 | resultado: approved
+C:2278161-65 | 2021-08-17 | Votação do DTQ 2: PSOL: destaque para votação em separado do art. 3º da MPV nº 1042, com vistas a sua supressão. (art. 161, I). | Sim 298 Não 131 | resultado: ?
+
+## C:2278196 | PL 1423/2021 | ementa: Institui a Lei Henry Borel, que estabelece diretrizes para enfrentamento a violência doméstica e familiar contra a criança e o adolescente, nos termos do art. 227 da Constituição Federal, do art. 70 – A do Estatuto da Criança e do Adolescente e art. 19 da Convenção Interamericana sobre os Direitos da Criança, protegendo-a contra todas as formas de violência física ou mental e d
+   voto principal do projeto: C:2279258-8 (2021-06-08): "" — Sim 448, Não 23
+C:2279258-8 | 2021-06-08 |  | Sim 448 Não 23 | resultado: approved
+
+## C:2279127 | PL 1518/2021 | ementa: Institui a Política Nacional ALDIR BLANC de fomento ao setor cultural e dá outras providências.
+   voto principal do projeto: C:2279127-75 (2022-02-24): "" — Sim 31, Não 411
+C:2279127-75 | 2022-02-24 |  | Sim 31 Não 411 | resultado: rejected
+C:2279127-94 | 2022-02-24 | Votação em turno único. | Sim 378 Não 29 | resultado: approved

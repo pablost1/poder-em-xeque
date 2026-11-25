@@ -1,0 +1,57 @@
+## C:2260433 | PL 4199/2020 | ementa: Institui o Programa de Estímulo ao Transporte por Cabotagem - BR do Mar e altera a Lei nº 5.474, de 18 de julho de 1968, a Lei nº 9.432, de 8 de janeiro de 1997, a Lei nº 10.233, de 5 de junho de 2001, e a Lei nº 10.893, de 13 de julho de 2004. NOVA EMENTA: Institui o Programa de Estímulo ao Transporte por Cabotagem (BR do Mar); altera as Leis nºs 5.474, de 18 de julho de 1968,
+   voto principal do projeto: C:2260433-104 (2020-12-07): "Continuação da votação em turno único." — Sim 2, Não 269
+C:2260433-104 | 2020-12-07 | Continuação da votação em turno único. | Sim 2 Não 269 | resultado: rejected
+C:2260433-108 | 2020-12-07 | Votação do DTQ 28: PT: Emenda de Plenário n. 116. | Sim 114 Não 307 | resultado: rejected
+C:2260433-116 | 2020-12-07 | Votação do DTQ 26: PDT: destaque para votação em separado do Inciso III, do § 1º, do Art. 5º do Substitutivo apresentado ao PL 4199/2020. | Sim 275 Não 116 | resultado: ?
+C:2260433-124 | 2020-12-07 | Votação do DTQ 17: PT: Emenda de Plenário n. 64. | Sim 119 Não 323 | resultado: rejected
+C:2260433-129 | 2020-12-07 | Votação do DTQ 27: PCdoB: Destaque do art. 10 constante do substitutivo apresentado ao PL 4199/2020. (com vistas a sua supressão). | Sim 306 Não 124 | resultado: ?
+C:2260433-136 | 2020-12-07 | Votação do DTQ 23: PSDB: Destaque para votação em separado do parágrafo 3º do artigo 10, constante do artigo 16 do substitutivo (PRLP2). | Sim 239 Não 161 | resultado: ?
+C:2260433-145 | 2020-12-07 | Votação do DTQ 22: PSDB: Destaque para votação em separado do parágrafo 4º do artigo 10, constante do artigo 16 do substitutivo (PRLP 2). | Sim 226 Não 149 | resultado: ?
+C:2260433-156 | 2020-12-07 | Votação do DTQ 31: Bloco PL (PL): Destaque para votação em separado do art. 6° da Lei 10.893 de 2004, alterado pelo art. 18 do substitutivo apresentado pelo relator ao PL 4199/2020, com vistas a sua supressão. | Sim 192 Não 157 | resultado: ?
+C:2260433-162 | 2020-12-07 | Votação do DTQ 32: CIDADANIA: destaque para a votação em separado da alínea 'b' do inc. III constante do Art. 6º da Lei 10.893, de 2004, alterada pelo art. 18 do Substitutivo do Projeto de Lei nº 4.199, de 2020, constante da Ordem do Dia, com vistas à supressão do referido dispositivo. | Sim 244 Não 107 | resultado: ?
+C:2260433-167 | 2020-12-07 | Votação do DTQ 9: MDB: Emenda de Plenário nº 82. | Sim 30 Não 224 | resultado: rejected
+C:2260433-176 | 2020-12-07 | Votação do DTQ 10: MDB: Emenda de Plenário nº 100. | Sim 233 Não 19 | resultado: approved
+C:2260433-53 | 2020-12-07 |  | Sim 5 Não 283 | resultado: rejected
+C:2260433-58 | 2020-12-07 |  | Sim 3 Não 259 | resultado: rejected
+C:2260433-64 | 2020-12-07 |  | Sim 6 Não 266 | resultado: rejected
+C:2260433-76 | 2020-12-07 |  | Sim 5 Não 287 | resultado: rejected
+C:2260433-81 | 2020-12-07 |  | Sim 3 Não 307 | resultado: rejected
+C:2260433-83 | 2020-12-07 |  | Sim 5 Não 291 | resultado: rejected
+C:2260433-92 | 2020-12-07 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 12 Não 266 | resultado: rejected
+C:2260433-96 | 2020-12-07 | Votação, quanto ao mérito, em turno único. | Sim 324 Não 114 | resultado: approved
+C:2260433-194 | 2020-12-08 | Continuação da votação em turno único. | Sim 36 Não 309 | resultado: rejected
+C:2260433-198 | 2020-12-08 | Votação do DTQ 19: PT: Emenda de Plenário n. 114 (art. 161, II) | Sim 108 Não 295 | resultado: rejected
+C:2260433-200 | 2020-12-08 | Votação do DTQ 7: REPUBLICANOS: Votação em separado da alínea “n” do inciso I, e, por decorrência, do §2º do art. 26 da Lei 10893/2004, alterado pelo art. 21 do Substitutivo (art. 161, I) | Sim 153 Não 262 | resultado: ?
+C:2260433-204 | 2020-12-08 | Votação do DTQ 33: NOVO: destaque para votação em separado do art. 24 da Subemenda Substitutiva Global apresentada ao PL 4199/20, com vistas à sua supressão (art. 161, I) | Sim 149 Não 247 | resultado: ?
+C:2260433-210 | 2020-12-08 | Votação do DTQ 24: PSB: Destaque para a votação em separado do inc. V do art. 22 do substitutivo apresentado ao PL 4199/20, com vistas a sua supressão. (art. 161, I) | Sim 313 Não 128 | resultado: ?
+C:2260433-305 | 2021-12-15 |  | Sim 11 Não 314 | resultado: rejected
+C:2260433-312 | 2021-12-15 | Votação das Emendas do Senado Federal ao Projeto de Lei nº 4.199, de 2020, com parecer pela aprovação, ressalvados os destaques. | Sim 384 Não 19 | resultado: approved
+C:2260433-329 | 2021-12-15 | Votação do DTQ 9: PSOL: Emenda n. 8 do Senado Federal para fins de sua aprovação. (art. 161, II) Modifica a redação do caput do art. 12 do PL. No nosso entender a alteração pretendida não está adequada, pois as normas trabalhistas da Constituição Federal são inafastáveis. Ademais, a proposta vinda do Senado cria uma regra para os brasileiros, mas não possibilita a sua aplicação aos estrangeiros, contribuindo para insegurança jurídica. | Sim 82 Não 252 | resultado: rejected
+C:2260433-338 | 2021-12-15 | Votação do DTQ 20: PT: Emenda do Senado Federal nº 11 (art. 161, II) Estende o período gradual para maior abertura do mercado de afretamento de embarcação estrangeira a casco nu. Entendemos que o texto da Câmara já oferece uma graduação temporal suficiente para as atuais empresas e seus investimentos já realizados. | Sim 98 Não 228 | resultado: rejected
+
+## C:2260458 | PL 4206/2020 | ementa: Proíbe a realização de tatuagens em animais, com fins estéticos. NOVA EMENTA: Altera a Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, para proibir a realização de tatuagens e a colocação de piercings em cães e gatos, com fins estéticos.
+   voto principal do projeto: C:2260458-55 (2021-08-19): "Votação em turno único." — Sim 397, Não 0
+C:2260458-52 | 2021-08-19 | Votação do DTQ 1: PSB: Destaque de preferência para o texto original apresentado ao Projeto de Lei 4.206/2020. (art. 161, IV) | Sim 156 Não 241 | resultado: rejected
+C:2260458-55 | 2021-08-19 | Votação em turno único. | Sim 397 Não 0 | resultado: approved
+
+## C:2260971 | MPV 996/2020 | ementa: Institui o Programa Casa Verde e Amarela NOVA EMENTA: Institui o Programa Casa Verde e Amarela; altera as Leis nºs 8.036, de 11 de maio de 1990, 8.100, de 5 de dezembro de 1990, 8.677, de 13 de julho de 1993, 11.124, de 16 de junho de 2005, 11.977, de 7 de julho de 2009, 12.024, de 27 de agosto de 2009, 13.465, de 11 de julho de 2017, e 6.766, de 19 de dezembro de 1979; e revog
+   voto principal do projeto: C:2260971-30 (2020-12-03): "" — Sim 6, Não 280
+C:2260971-103 | 2020-12-03 | Votação do DTQ 1: PCdoB: Destaque da expressão "e das subvenções econômicas de que trata o art. 1º" contida no inciso I do art. 4º do PLV apresentado à MPV 996/2020. (com vistas à sua supressão) (art. 161, I) | Sim 224 Não 93 | resultado: ?
+C:2260971-110 | 2020-12-03 | Votação do DTQ 7: PT: Emenda de Comissão n. 408. (art. 161, II) | Sim 87 Não 220 | resultado: rejected
+C:2260971-117 | 2020-12-03 | Votação do DTQ 8: PDT: Emenda de Comissão nº 137. (art. 161, II) | Sim 115 Não 242 | resultado: rejected
+C:2260971-122 | 2020-12-03 | Votação do DTQ 5: PT: Destaque, com vistas à rejeição, do art. 7º do PLV oferecido à MPV 996/2020. (art. 161, I) | Sim 291 Não 111 | resultado: ?
+C:2260971-130 | 2020-12-03 | Votação do DTQ 2: CIDADANIA: Emenda de Comissão nº 50. (art. 161, II) | Sim 96 Não 222 | resultado: rejected
+C:2260971-134 | 2020-12-03 | Votação do DTQ 6: PT: Destaque, com vistas à rejeição, do parágrafo único do art. 14 da Lei 11.124/2005, com redação dada pelo art. 20 do PLV oferecido à MPV 996/2020. (art. 161, I) | Sim 280 Não 108 | resultado: ?
+C:2260971-146 | 2020-12-03 | Votação do DTQ 11: Bloco PL (PP): Destaque para votação em separado do inciso V do art. 18 da Lei nº 6766/1979, alterado pelo art. 24 do substitutivo do relator, com vistas a sua supressão. (art. 161, I) | Sim 229 Não 99 | resultado: ?
+C:2260971-149 | 2020-12-03 | Votação do DTQ 4: PSB: Emenda de Comissão 150. (art. 161, II) | Sim 118 Não 285 | resultado: rejected
+C:2260971-30 | 2020-12-03 |  | Sim 6 Não 280 | resultado: rejected
+C:2260971-38 | 2020-12-03 |  | Sim 4 Não 308 | resultado: rejected
+C:2260971-43 | 2020-12-03 |  | Sim 2 Não 255 | resultado: rejected
+C:2260971-60 | 2020-12-03 |  | Sim 3 Não 328 | resultado: rejected
+C:2260971-62 | 2020-12-03 |  | Sim 3 Não 269 | resultado: rejected
+C:2260971-64 | 2020-12-03 |  | Sim 1 Não 290 | resultado: rejected
+C:2260971-69 | 2020-12-03 |  | Sim 2 Não 269 | resultado: rejected
+C:2260971-74 | 2020-12-03 | Votação preliminar em turno único. | Sim 292 Não 4 | resultado: approved
+C:2260971-85 | 2020-12-03 | Votação, em globo, da admissibilidade dos destaques simples. | Sim 9 Não 266 | resultado: rejected
+C:2260971-89 | 2020-12-03 | Votação, quanto ao mérito, em turno único. | Sim 367 Não 7 | resultado: approved
+C:2260971-98 | 2020-12-03 | Votação do DTQ 3: PSB: Emenda de Comissão 27. (art. 161, II) | Sim 110 Não 242 | resultado: rejected

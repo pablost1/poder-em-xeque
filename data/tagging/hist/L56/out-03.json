@@ -1,0 +1,396 @@
+{
+ "votes": [
+  {
+   "sv": "C:2164132-54",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.5,
+   "why": "Convenção contra racismo; tema de direitos e internacional."
+  },
+  {
+   "sv": "C:2164132-60",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.5,
+   "why": "Convenção contra racismo; tema de direitos e internacional."
+  },
+  {
+   "sv": "C:2165194-100",
+   "e": 0,
+   "p": 0,
+   "proc": true,
+   "c": 0.5,
+   "why": "Preferência de votação entre PECs; moção processual."
+  },
+  {
+   "sv": "C:2165194-102",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2165194-103",
+   "e": -0.1,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Disciplina repasse do FPM aos municípios; efeito técnico."
+  },
+  {
+   "sv": "C:2165194-96",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2165194-130",
+   "e": -0.1,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Segundo turno da PEC do FPM; efeito técnico."
+  },
+  {
+   "sv": "C:2166595-59",
+   "e": 0,
+   "p": 0.4,
+   "proc": false,
+   "c": 0.4,
+   "why": "Convalida atos administrativos irregulares no Tocantins."
+  },
+  {
+   "sv": "C:2166595-65",
+   "e": 0,
+   "p": 0.4,
+   "proc": false,
+   "c": 0.4,
+   "why": "Segundo turno da convalidação de atos administrativos do Tocantins."
+  },
+  {
+   "sv": "C:2166600-80",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2166600-81",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Padroniza obrigação acessória do ISS; tema técnico tributário."
+  },
+  {
+   "sv": "C:2166600-89",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2166600-91",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2166600-93",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2296827-14",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.4,
+   "why": "Código Penal Militar e crimes hediondos; tema penal."
+  },
+  {
+   "sv": "C:2166877-73",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2166877-79",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2232067-10",
+   "e": -0.5,
+   "p": 0,
+   "proc": false,
+   "c": 0.6,
+   "why": "Susta resolução que limita benefícios de saúde de empregados de estatais."
+  },
+  {
+   "sv": "C:2176886-79",
+   "e": -0.5,
+   "p": 0,
+   "proc": false,
+   "c": 0.6,
+   "why": "Susta resolução que limita benefícios de saúde de empregados de estatais."
+  },
+  {
+   "sv": "C:2178170-53",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.4,
+   "why": "Pacote penal contra crime organizado; tema de segurança."
+  },
+  {
+   "sv": "C:2178170-58",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Supressão de artigos do juiz de garantias; tema penal."
+  },
+  {
+   "sv": "C:2232173-4",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Pacote penal; tema de segurança."
+  },
+  {
+   "sv": "C:2179189-45",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Sanções da ONU e terrorismo; tema internacional/segurança."
+  },
+  {
+   "sv": "C:2179189-59",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Sanções da ONU e terrorismo; tema internacional/segurança."
+  },
+  {
+   "sv": "C:2183943-68",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2306101-7",
+   "e": -0.3,
+   "p": 0,
+   "proc": false,
+   "c": 0.4,
+   "why": "Destina recursos extraordinários do Fundeb à educação."
+  },
+  {
+   "sv": "C:2184326-102",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2184326-98",
+   "e": -0.3,
+   "p": 0,
+   "proc": false,
+   "c": 0.4,
+   "why": "Destina recursos extraordinários do Fundeb à educação."
+  },
+  {
+   "sv": "C:2286932-7",
+   "e": 0,
+   "p": 0.5,
+   "proc": false,
+   "c": 0.5,
+   "why": "Reforma da lei de improbidade; afrouxa responsabilização de agentes públicos."
+  },
+  {
+   "sv": "C:2184458-106",
+   "e": 0,
+   "p": 0,
+   "proc": true,
+   "c": 0.5,
+   "why": "Preferência de votação de texto original; moção processual."
+  },
+  {
+   "sv": "C:2184458-111",
+   "e": 0,
+   "p": 0.6,
+   "proc": false,
+   "c": 0.6,
+   "why": "Aprova reforma que enfraquece a lei de improbidade administrativa."
+  },
+  {
+   "sv": "C:2184458-115",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2184458-123",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2184458-127",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2184458-131",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2184458-92",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2184458-161",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2184458-169",
+   "e": 0,
+   "p": 0.2,
+   "proc": false,
+   "c": 0.3,
+   "why": "Emendas do Senado à reforma da improbidade; conteúdo não detalhado."
+  },
+  {
+   "sv": "C:2184458-172",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2184458-184",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2184973-58",
+   "e": 0.2,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Reduz burocracia em patentes; efeito técnico, leve pró-mercado."
+  },
+  {
+   "sv": "C:2184973-62",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2184973-65",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2184973-71",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2184973-76",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2200900-17",
+   "e": 0.2,
+   "p": 0,
+   "proc": false,
+   "c": 0.3,
+   "why": "Protesto de títulos de dívida; efeito técnico."
+  },
+  {
+   "sv": "C:2186621-101",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2186621-115",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  },
+  {
+   "sv": "C:2186621-64",
+   "e": 0,
+   "p": 0,
+   "proc": false,
+   "c": 0.2,
+   "why": "Conteúdo não visível na descrição; sem direção clara."
+  }
+ ]
+}
