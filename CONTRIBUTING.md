@@ -16,6 +16,7 @@ roteiro em [`docs/rubric.md`](docs/rubric.md).
 3. Antes de abrir o *pull request*, rode:
 
 ```bash
+npm run typegen             # gera os tipos PageProps/LayoutProps do Next (necessário num clone novo)
 npx tsc --noEmit
 npx eslint .
 npx vitest run

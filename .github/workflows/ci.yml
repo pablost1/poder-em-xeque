@@ -15,6 +15,8 @@ jobs:
           node-version: 24
           cache: npm
       - run: npm ci
+      # PageProps e LayoutProps são tipos que o Next gera (ficam fora do git): sem isto o tsc não os encontra.
+      - run: npx next typegen
       - run: npx tsc --noEmit
       - run: npx eslint .
       - run: npx vitest run

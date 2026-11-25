@@ -7,6 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
+    "typegen": "next typegen",
     "derive": "tsx scripts/build-derived.ts",
     "ingest:camara": "tsx scripts/ingest-camara.ts",
     "ingest:senado": "tsx scripts/ingest-senado.ts",

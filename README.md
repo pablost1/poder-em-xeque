@@ -26,7 +26,7 @@ para a busca). Interface toda em pt-BR. Licença do código: [MIT](LICENSE).
 Requisitos: **Node 24 ou mais novo** (usa `node:sqlite`) e npm.
 
 ```bash
-git clone https://github.com/SEU-USUARIO/poder-em-xeque.git
+git clone https://github.com/pablost1/poder-em-xeque.git
 cd poder-em-xeque
 npm install
 ```
